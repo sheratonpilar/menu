@@ -1,0 +1,370 @@
+{
+ "carta": {
+  "id": "adicionales-desayuno",
+  "nombre": "Adicionales Desayuno",
+  "tema": "add",
+  "logo": "hotel.svg",
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "actualizado": "2026-08-24T21:11:55",
+  "ver_tambien": "",
+  "pie": {
+   "es": "Opciones adicionales de desayuno.",
+   "en": "Additional breakfast options.",
+   "pt": "Opções adicionais de café da manhã."
+  }
+ },
+ "tags": {
+  "SIN_TACC": {
+   "es": "Sin TACC",
+   "en": "Gluten free",
+   "pt": "Sem glúten"
+  },
+  "VEGETARIANO": {
+   "es": "Vegetariano",
+   "en": "Vegetarian",
+   "pt": "Vegetariano"
+  },
+  "VEGANO": {
+   "es": "Vegano",
+   "en": "Vegan",
+   "pt": "Vegano"
+  },
+  "NUEVO": {
+   "es": "Nuevo",
+   "en": "New",
+   "pt": "Novo"
+  },
+  "SUGERENCIA_CHEF": {
+   "es": "Sugerencia del chef",
+   "en": "Chef's suggestion",
+   "pt": "Sugestão do chef"
+  },
+  "PROMO": {
+   "es": "Promoción",
+   "en": "Special",
+   "pt": "Promoção"
+  }
+ },
+ "config": {
+  "moneda": {
+   "es": "ARS",
+   "en": "ARS",
+   "pt": "ARS"
+  },
+  "simbolo": {
+   "es": "$",
+   "en": "$",
+   "pt": "$"
+  },
+  "hotel": {
+   "es": "Sheraton Pilar Hotel & Convention Center",
+   "en": "Sheraton Pilar Hotel & Convention Center",
+   "pt": "Sheraton Pilar Hotel & Convention Center"
+  }
+ },
+ "secciones": [
+  {
+   "id": "add-desayuno",
+   "nombre": {
+    "es": "Opciones adicionales",
+    "en": "Additional options",
+    "pt": "Opções adicionais"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "add-cafe-doble",
+     "nombre": {
+      "es": "Café expreso doble",
+      "en": "Espresso (double)",
+      "pt": "Café expresso duplo"
+     },
+     "descripcion": {},
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "add-capuccino",
+     "nombre": {
+      "es": "Capuccino",
+      "en": "Cappuccino",
+      "pt": "Cappuccino"
+     },
+     "descripcion": {},
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "add-jugo",
+     "nombre": {
+      "es": "Jugo de naranja o pomelo",
+      "en": "Orange or grapefruit juice",
+      "pt": "Suco de laranja ou toranja"
+     },
+     "descripcion": {},
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "add-licuado-agua",
+     "nombre": {
+      "es": "Licuado con agua",
+      "en": "Smoothie with water",
+      "pt": "Vitamina com água"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "add-licuado-leche",
+     "nombre": {
+      "es": "Licuado con leche o jugo de frutas",
+      "en": "Smoothie with milk or fruit juice",
+      "pt": "Vitamina com leite ou suco"
+     },
+     "descripcion": {},
+     "precio": 5300,
+     "tags": []
+    },
+    {
+     "id": "add-jugo-pepino",
+     "nombre": {
+      "es": "Jugo natural: pepino y pera",
+      "en": "Natural juice: cucumber and pear",
+      "pt": "Suco natural: pepino e pera"
+     },
+     "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "add-jugo-zanahoria-manzana",
+     "nombre": {
+      "es": "Jugo natural: zanahoria y manzana",
+      "en": "Natural juice: carrot and apple",
+      "pt": "Suco natural: cenoura e maçã"
+     },
+     "descripcion": {},
+     "precio": 16000,
+     "tags": []
+    },
+    {
+     "id": "add-jugo-zanahoria-naranja",
+     "nombre": {
+      "es": "Jugo natural: zanahoria y naranja",
+      "en": "Natural juice: carrot and orange",
+      "pt": "Suco natural: cenoura e laranja"
+     },
+     "descripcion": {},
+     "precio": 18500,
+     "tags": []
+    },
+    {
+     "id": "add-huevo-pasado",
+     "nombre": {
+      "es": "Huevo pasado por agua",
+      "en": "Soft-boiled egg",
+      "pt": "Ovo mole"
+     },
+     "descripcion": {
+      "es": "Con croutons, alcaparras y escamas de bacon.",
+      "en": "With croutons, capers and bacon flakes.",
+      "pt": "Com croutons, alcaparras e flocos de bacon."
+     },
+     "precio": 13000,
+     "tags": []
+    },
+    {
+     "id": "add-huevo-frito",
+     "nombre": {
+      "es": "Huevo frito (1u)",
+      "en": "Fried egg (1)",
+      "pt": "Ovo frito (1)"
+     },
+     "descripcion": {},
+     "precio": 19000,
+     "tags": []
+    },
+    {
+     "id": "add-huevo-tostada",
+     "nombre": {
+      "es": "Huevo sobre tostada de pan de campo",
+      "en": "Egg on toast",
+      "pt": "Ovo na torrada"
+     },
+     "descripcion": {},
+     "precio": 19000,
+     "tags": []
+    },
+    {
+     "id": "add-omelette-jamon",
+     "nombre": {
+      "es": "Omelette de parmesano y jamón horneado",
+      "en": "Baked ham and parmesan omelette",
+      "pt": "Omelete de parmesão e presunto"
+     },
+     "descripcion": {},
+     "precio": 19000,
+     "tags": []
+    },
+    {
+     "id": "add-omelette-tomate",
+     "nombre": {
+      "es": "Omelette con tomates secos, albahaca y mozzarella",
+      "en": "Sun-dried tomato, basil and mozzarella omelette",
+      "pt": "Omelete de tomate seco, manjericão e mussarela"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "add-tostadas-francesas",
+     "nombre": {
+      "es": "Tostadas francesas",
+      "en": "French toast",
+      "pt": "Rabanada"
+     },
+     "descripcion": {},
+     "precio": 8500,
+     "tags": []
+    },
+    {
+     "id": "add-pancakes",
+     "nombre": {
+      "es": "Pancakes",
+      "en": "Pancakes",
+      "pt": "Panquecas"
+     },
+     "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "add-omelette-salmon",
+     "nombre": {
+      "es": "Omelette de salmón ahumado y cebollino",
+      "en": "Smoked salmon and chive omelette",
+      "pt": "Omelete de salmão defumado e cebolinha"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "add-salmon",
+     "nombre": {
+      "es": "Salmón ahumado",
+      "en": "Smoked salmon",
+      "pt": "Salmão defumado"
+     },
+     "descripcion": {},
+     "precio": 7500,
+     "tags": []
+    },
+    {
+     "id": "add-panes",
+     "nombre": {
+      "es": "Panes",
+      "en": "Breads",
+      "pt": "Pães"
+     },
+     "descripcion": {
+      "es": "Panettone blanco/multicereal, bollito blanco/negro (x3 a elección).",
+      "en": "White/multigrain panettone, white/whole-wheat rolls (3 of your choice).",
+      "pt": "Panettone branco/multigrãos, pãezinhos (3 à escolha)."
+     },
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "add-cuadrados",
+     "nombre": {
+      "es": "Cuadrados de manzana o coco (x3u)",
+      "en": "Apple or coconut squares (3)",
+      "pt": "Quadrados de maçã ou coco (3)"
+     },
+     "descripcion": {},
+     "precio": 26000,
+     "tags": []
+    },
+    {
+     "id": "add-pure",
+     "nombre": {
+      "es": "Puré de papas o de calabazas",
+      "en": "Mashed potato or pumpkin purée",
+      "pt": "Purê de batata ou abóbora"
+     },
+     "descripcion": {},
+     "precio": 22000,
+     "tags": []
+    },
+    {
+     "id": "add-cereales",
+     "nombre": {
+      "es": "Cazuela de cereales",
+      "en": "Cereal bowl",
+      "pt": "Tigela de cereais"
+     },
+     "descripcion": {
+      "es": "Granola, copos dulces/salados o avena caliente.",
+      "en": "Granola, sweet/savory flakes or hot oatmeal.",
+      "pt": "Granola, flocos doces/salgados ou aveia quente."
+     },
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "add-ensalada-frutas",
+     "nombre": {
+      "es": "Ensalada de frutas",
+      "en": "Fruit salad",
+      "pt": "Salada de frutas"
+     },
+     "descripcion": {},
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "add-jamon-panceta",
+     "nombre": {
+      "es": "Porción de jamón cocido o panceta caliente",
+      "en": "Portion of hot ham or bacon",
+      "pt": "Porção de presunto ou bacon quente"
+     },
+     "descripcion": {},
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "add-yogur",
+     "nombre": {
+      "es": "Yogourt entero de vainilla o descremado de frutilla",
+      "en": "Whole vanilla or low-fat strawberry yogurt",
+      "pt": "Iogurte de baunilha ou morango"
+     },
+     "descripcion": {},
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "add-vegetales",
+     "nombre": {
+      "es": "Vegetales salteados",
+      "en": "Sautéed vegetables",
+      "pt": "Legumes salteados"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": []
+    }
+   ]
+  }
+ ]
+}

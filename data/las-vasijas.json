@@ -1,0 +1,230 @@
+{
+ "carta": {
+  "id": "las-vasijas",
+  "nombre": "Las Vasijas Restaurante",
+  "tema": "lv",
+  "logo": "las-vasijas.svg",
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "actualizado": "2026-08-24T21:11:55",
+  "ver_tambien": "",
+  "pie": {
+   "es": "Contactanos por WhatsApp al +54 9 11 3135-3022. Valores no aplicables para fechas especiales.",
+   "en": "Contact us on WhatsApp at +54 9 11 3135-3022. Prices not valid on special dates.",
+   "pt": "Fale conosco pelo WhatsApp: +54 9 11 3135-3022. Valores não válidos em datas especiais."
+  }
+ },
+ "tags": {
+  "SIN_TACC": {
+   "es": "Sin TACC",
+   "en": "Gluten free",
+   "pt": "Sem glúten"
+  },
+  "VEGETARIANO": {
+   "es": "Vegetariano",
+   "en": "Vegetarian",
+   "pt": "Vegetariano"
+  },
+  "VEGANO": {
+   "es": "Vegano",
+   "en": "Vegan",
+   "pt": "Vegano"
+  },
+  "NUEVO": {
+   "es": "Nuevo",
+   "en": "New",
+   "pt": "Novo"
+  },
+  "SUGERENCIA_CHEF": {
+   "es": "Sugerencia del chef",
+   "en": "Chef's suggestion",
+   "pt": "Sugestão do chef"
+  },
+  "PROMO": {
+   "es": "Promoción",
+   "en": "Special",
+   "pt": "Promoção"
+  }
+ },
+ "config": {
+  "moneda": {
+   "es": "ARS",
+   "en": "ARS",
+   "pt": "ARS"
+  },
+  "simbolo": {
+   "es": "$",
+   "en": "$",
+   "pt": "$"
+  },
+  "hotel": {
+   "es": "Sheraton Pilar Hotel & Convention Center",
+   "en": "Sheraton Pilar Hotel & Convention Center",
+   "pt": "Sheraton Pilar Hotel & Convention Center"
+  }
+ },
+ "secciones": [
+  {
+   "id": "lv-buffet",
+   "nombre": {
+    "es": "Buffet",
+    "en": "Buffet",
+    "pt": "Buffet"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "lv-desayuno-adulto",
+     "nombre": {
+      "es": "Desayuno buffet — Adultos",
+      "en": "Breakfast buffet — Adults",
+      "pt": "Café da manhã buffet — Adultos"
+     },
+     "descripcion": {
+      "es": "Abierto para huéspedes y público externo, sin reserva. Opciones frías y calientes, infusiones. Días de semana 6:30 a 10:00; fines de semana 7:00 a 10:30.",
+      "en": "Open to guests and the public, no booking. Weekdays 6:30–10:00; weekends 7:00–10:30.",
+      "pt": "Aberto a hóspedes e público, sem reserva. Dias de semana 6h30–10h; fins de semana 7h–10h30."
+     },
+     "precio": 45000,
+     "tags": []
+    },
+    {
+     "id": "lv-desayuno-menor",
+     "nombre": {
+      "es": "Desayuno buffet — Menores (4 a 12 años)",
+      "en": "Breakfast buffet — Kids (4–12)",
+      "pt": "Café da manhã buffet — Crianças (4–12)"
+     },
+     "descripcion": {},
+     "precio": 27000,
+     "tags": []
+    },
+    {
+     "id": "lv-almuerzo-vino",
+     "nombre": {
+      "es": "Almuerzo/cena buffet con vino — Adultos",
+      "en": "Lunch/dinner buffet with wine — Adults",
+      "pt": "Almoço/jantar buffet com vinho — Adultos"
+     },
+     "descripcion": {
+      "es": "Entradas, principales y postres de cocina internacional. Incluye bebidas sin alcohol, café y estacionamiento. Vino Trumpeter Cabernet o Chardonnay durante el servicio. Domingo noche a viernes mediodía.",
+      "en": "International cuisine. Includes soft drinks, coffee and parking. Trumpeter Cabernet or Chardonnay during service. Sunday night to Friday midday.",
+      "pt": "Cozinha internacional. Inclui bebidas sem álcool, café e estacionamento. Vinho Trumpeter durante o serviço. Domingo à noite a sexta ao meio-dia."
+     },
+     "precio": 73000,
+     "tags": []
+    },
+    {
+     "id": "lv-almuerzo-sin-vino",
+     "nombre": {
+      "es": "Almuerzo/cena buffet sin vino — Adultos",
+      "en": "Lunch/dinner buffet without wine — Adults",
+      "pt": "Almoço/jantar buffet sem vinho — Adultos"
+     },
+     "descripcion": {
+      "es": "Domingo noche a viernes mediodía.",
+      "en": "Sunday night to Friday midday.",
+      "pt": "Domingo à noite a sexta ao meio-dia."
+     },
+     "precio": 60000,
+     "tags": []
+    },
+    {
+     "id": "lv-almuerzo-menor",
+     "nombre": {
+      "es": "Almuerzo/cena buffet — Menores (4 a 12 años)",
+      "en": "Lunch/dinner buffet — Kids (4–12)",
+      "pt": "Almoço/jantar buffet — Crianças (4–12)"
+     },
+     "descripcion": {
+      "es": "Domingo noche a viernes mediodía.",
+      "en": "Sunday night to Friday midday.",
+      "pt": "Domingo à noite a sexta ao meio-dia."
+     },
+     "precio": 35000,
+     "tags": []
+    },
+    {
+     "id": "lv-almuerzo-vino-finde",
+     "nombre": {
+      "es": "Almuerzo/cena buffet con vino — Adultos (fin de semana)",
+      "en": "Lunch/dinner buffet with wine — Adults (weekend)",
+      "pt": "Almoço/jantar buffet com vinho — Adultos (fim de semana)"
+     },
+     "descripcion": {
+      "es": "Viernes noche a domingo mediodía. Aplica a feriados y vísperas.",
+      "en": "Friday night to Sunday midday. Holidays included.",
+      "pt": "Sexta à noite a domingo ao meio-dia. Feriados incluídos."
+     },
+     "precio": 85000,
+     "tags": []
+    },
+    {
+     "id": "lv-almuerzo-sin-vino-finde",
+     "nombre": {
+      "es": "Almuerzo/cena buffet sin vino — Adultos (fin de semana)",
+      "en": "Lunch/dinner buffet without wine — Adults (weekend)",
+      "pt": "Almoço/jantar buffet sem vinho — Adultos (fim de semana)"
+     },
+     "descripcion": {
+      "es": "Viernes noche a domingo mediodía.",
+      "en": "Friday night to Sunday midday.",
+      "pt": "Sexta à noite a domingo ao meio-dia."
+     },
+     "precio": 72000,
+     "tags": []
+    },
+    {
+     "id": "lv-almuerzo-menor-finde",
+     "nombre": {
+      "es": "Almuerzo/cena buffet — Menores (fin de semana)",
+      "en": "Lunch/dinner buffet — Kids (weekend)",
+      "pt": "Almoço/jantar buffet — Crianças (fim de semana)"
+     },
+     "descripcion": {
+      "es": "Viernes noche a domingo mediodía.",
+      "en": "Friday night to Sunday midday.",
+      "pt": "Sexta à noite a domingo ao meio-dia."
+     },
+     "precio": 39000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "lv-te",
+   "nombre": {
+    "es": "Propuesta de té",
+    "en": "Afternoon tea",
+    "pt": "Chá da tarde"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Viernes, sábados, domingos y feriados de 16:30 a 18:30. Cantidad mínima de cubiertos: 20.",
+    "en": "Fridays, Saturdays, Sundays and holidays, 4:30–6:30 pm. Minimum 20 covers.",
+    "pt": "Sextas, sábados, domingos e feriados, das 16h30 às 18h30. Mínimo de 20 talheres."
+   },
+   "items": [
+    {
+     "id": "lv-te",
+     "nombre": {
+      "es": "Propuesta de té para 2 personas",
+      "en": "Afternoon tea for two",
+      "pt": "Chá da tarde para dois"
+     },
+     "descripcion": {
+      "es": "Salado: Bavaria, Sancricca, Avocado, scons de queso. Dulce: macarons, semiesfera cítrica, tarta de manzanas, húmedo de dulce de leche, rústico de chocolate, croissant flat. Bebidas: jugo de naranja e infusión a elección.",
+      "en": "Savoury and sweet selection with orange juice and a hot drink.",
+      "pt": "Seleção salgada e doce com suco de laranja e uma infusão."
+     },
+     "precio": 66000,
+     "tags": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "actualizado": "2026-08-24T21:11:55",
+ "cartas": [
+  {
+   "id": "don-giovanni",
+   "nombre": "Don Giovanni Ristorante",
+   "tema": "dg",
+   "logo": "don-giovanni.svg",
+   "orden": 1,
+   "items": 72
+  },
+  {
+   "id": "lobby-bar",
+   "nombre": "Lobby Bar",
+   "tema": "lb",
+   "logo": "lobby-bar.svg",
+   "orden": 2,
+   "items": 115
+  },
+  {
+   "id": "room-service",
+   "nombre": "Room Service",
+   "tema": "rs",
+   "logo": "hotel.svg",
+   "orden": 3,
+   "items": 121
+  },
+  {
+   "id": "pool-snack",
+   "nombre": "Pool Snack",
+   "tema": "pool",
+   "logo": "hotel.svg",
+   "orden": 4,
+   "items": 16
+  },
+  {
+   "id": "la-federala",
+   "nombre": "La Federala",
+   "tema": "lf",
+   "logo": "la-federala.svg",
+   "orden": 5,
+   "items": 7
+  },
+  {
+   "id": "carta-vinos",
+   "nombre": "Carta de Vinos",
+   "tema": "vinos",
+   "logo": "hotel.svg",
+   "orden": 6,
+   "items": 200
+  },
+  {
+   "id": "las-vasijas",
+   "nombre": "Las Vasijas Restaurante",
+   "tema": "lv",
+   "logo": "las-vasijas.svg",
+   "orden": 7,
+   "items": 9
+  },
+  {
+   "id": "adicionales-desayuno",
+   "nombre": "Adicionales Desayuno",
+   "tema": "add",
+   "logo": "hotel.svg",
+   "orden": 8,
+   "items": 25
+  }
+ ]
+}
