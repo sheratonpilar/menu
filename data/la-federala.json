@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:40:38.701Z",
+  "actualizado": "2026-08-28T18:51:36.777Z",
   "ver_tambien": "",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -89,7 +89,7 @@
       "en": "Regular or decaf.",
       "pt": "Comum ou descafeinado."
      },
-     "precio": 6000,
+     "precio": 7000,
      "tags": []
     },
     {
@@ -100,7 +100,16 @@
       "pt": "Café expresso duplo / com leite"
      },
      "descripcion": {},
-     "precio": 9500,
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-jarrito",
+     "nombre": {
+      "es": "Café expreso en jarrito"
+     },
+     "descripcion": {},
+     "precio": 9000,
      "tags": []
     },
     {
@@ -110,8 +119,12 @@
       "en": "Herbal tea selection",
       "pt": "Seleção de chás de ervas"
      },
-     "descripcion": {},
-     "precio": 5500,
+     "descripcion": {
+      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
+      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
+      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
+     },
+     "precio": 6000,
      "tags": []
     },
     {
@@ -145,20 +158,33 @@
       "pt": "Água mineral com ou sem gás"
      },
      "descripcion": {},
-     "precio": 5900,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 6500,
+     "tags": []
+    },
+    {
+     "id": "lb-agua-saborizada",
+     "nombre": {
+      "es": "Agua mineral saborizada",
+      "en": "Flavoured mineral water",
+      "pt": "Água mineral saborizada"
+     },
+     "descripcion": {},
+     "precio": 6500,
+     "tags": []
     },
     {
      "id": "lb-gaseosas",
      "nombre": {
-      "es": "Gaseosa Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Refrigerante Pepsi / 7Up / Paso de los Toros"
+      "es": "Gaseosa",
+      "en": "Soft drink",
+      "pt": "Refrigerante"
      },
-     "descripcion": {},
-     "precio": 5900,
+     "descripcion": {
+      "es": "Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Pepsi / 7Up / Paso de los Toros"
+     },
+     "precio": 6500,
      "tags": []
     },
     {
@@ -169,10 +195,8 @@
       "pt": "Limonada com hortelã e gengibre"
      },
      "descripcion": {},
-     "precio": 9900,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 11000,
+     "tags": []
     }
    ]
   }
