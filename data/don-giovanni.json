@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:15:05.625Z",
+  "actualizado": "2026-08-28T16:40:38.697Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Apto celíacos / *Sugerencia del chef / Vegetariano. Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido. Consultar por otras opciones sin TACC. En caso de compartir un plato, se adicionará un 40% al valor del mismo. Las especialidades del chef no son para compartir.",
@@ -924,7 +924,18 @@
       "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-chandon",
+     "nombre": {
+      "es": "Copa Chandon Extra Brut",
+      "en": "Chandon Extra Brut by the glass",
+      "pt": "Chandon Extra Brut em taça"
+     },
+     "descripcion": {},
+     "precio": 15000,
      "tags": []
     }
    ]
