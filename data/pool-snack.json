@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:40:38.701Z",
+  "actualizado": "2026-08-28T18:51:36.777Z",
   "ver_tambien": "",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -89,7 +89,7 @@
       "en": "Roasted and fresh tomatoes, basil and burratina.",
       "pt": "Tomates assados e frescos, manjericão e burratina."
      },
-     "precio": 29500,
+     "precio": 36000,
      "tags": [
       "SIN_TACC",
       "VEGETARIANO"
@@ -107,7 +107,7 @@
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
      },
-     "precio": 32000,
+     "precio": 29000,
      "tags": []
     },
     {
@@ -122,7 +122,7 @@
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with chicken.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
      },
-     "precio": 29000,
+     "precio": 34000,
      "tags": []
     }
    ]
@@ -151,7 +151,8 @@
      },
      "precio": 29000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "NUEVO"
      ]
     },
     {
@@ -194,7 +195,9 @@
       "pt": "Pão de batata, tomate, mix de folhas, cheddar, picles, bacon, molho ranch, nosso molho e batatas fritas."
      },
      "precio": 33000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-tostado-jq",
@@ -257,7 +260,7 @@
       "pt": "Nuggets com batatas fritas"
      },
      "descripcion": {},
-     "precio": 30000,
+     "precio": 32000,
      "tags": []
     }
    ]
@@ -290,13 +293,13 @@
    ]
   },
   {
-   "id": "pasteleria",
+   "id": "opciones-dulces",
    "nombre": {
-    "es": "Pastelería",
-    "en": "Pastry",
-    "pt": "Confeitaria"
+    "es": "Opciones dulces",
+    "en": "Sweets",
+    "pt": "Opções doces"
    },
-   "foto": "",
+   "foto": "lb-pasteleria.jpg",
    "nota": {},
    "items": [
     {
@@ -334,7 +337,7 @@
       "en": "Regular or decaf.",
       "pt": "Comum ou descafeinado."
      },
-     "precio": 5500,
+     "precio": 7000,
      "tags": []
     },
     {
@@ -344,8 +347,12 @@
       "en": "Herbal tea selection",
       "pt": "Seleção de chás de ervas"
      },
-     "descripcion": {},
-     "precio": 5000,
+     "descripcion": {
+      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
+      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
+      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
+     },
+     "precio": 6000,
      "tags": []
     }
    ]
@@ -368,20 +375,33 @@
       "pt": "Água mineral com ou sem gás"
      },
      "descripcion": {},
-     "precio": 5300,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 6500,
+     "tags": []
+    },
+    {
+     "id": "lb-agua-saborizada",
+     "nombre": {
+      "es": "Agua mineral saborizada",
+      "en": "Flavoured mineral water",
+      "pt": "Água mineral saborizada"
+     },
+     "descripcion": {},
+     "precio": 6500,
+     "tags": []
     },
     {
      "id": "lb-gaseosas",
      "nombre": {
-      "es": "Gaseosa Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Refrigerante Pepsi / 7Up / Paso de los Toros"
+      "es": "Gaseosa",
+      "en": "Soft drink",
+      "pt": "Refrigerante"
      },
-     "descripcion": {},
-     "precio": 5300,
+     "descripcion": {
+      "es": "Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Pepsi / 7Up / Paso de los Toros"
+     },
+     "precio": 6500,
      "tags": []
     }
    ]
