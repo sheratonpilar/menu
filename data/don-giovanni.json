@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:40:38.697Z",
+  "actualizado": "2026-08-28T18:51:36.774Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Apto celíacos / *Sugerencia del chef / Vegetariano. Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido. Consultar por otras opciones sin TACC. En caso de compartir un plato, se adicionará un 40% al valor del mismo. Las especialidades del chef no son para compartir.",
@@ -403,9 +403,9 @@
     {
      "id": "dg-salmon",
      "nombre": {
-      "es": "Salmón (Don Giovanni)",
-      "en": "Salmon (Don Giovanni)",
-      "pt": "Salmão (Don Giovanni)"
+      "es": "Salmón",
+      "en": "Salmon",
+      "pt": "Salmão"
      },
      "descripcion": {
       "es": "En crudo de almendra, risotto de espinaca, quínoa colorada y vegetales con aliño cítrico.",
@@ -692,9 +692,7 @@
      },
      "descripcion": {},
      "precio": 6500,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "dg-agua-saborizada",
@@ -705,6 +703,17 @@
      },
      "descripcion": {},
      "precio": 9000,
+     "tags": []
+    },
+    {
+     "id": "lb-agua-saborizada",
+     "nombre": {
+      "es": "Agua mineral saborizada",
+      "en": "Flavoured mineral water",
+      "pt": "Água mineral saborizada"
+     },
+     "descripcion": {},
+     "precio": 6500,
      "tags": []
     },
     {
@@ -723,13 +732,17 @@
      "tags": []
     },
     {
-     "id": "dg-cafe-jarrito",
+     "id": "lb-gaseosas",
      "nombre": {
-      "es": "Café en jarrito",
-      "en": "Small coffee with milk",
-      "pt": "Café em jarrinho"
+      "es": "Gaseosa",
+      "en": "Soft drink",
+      "pt": "Refrigerante"
      },
-     "descripcion": {},
+     "descripcion": {
+      "es": "Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Pepsi / 7Up / Paso de los Toros"
+     },
      "precio": 6500,
      "tags": []
     }
@@ -768,7 +781,16 @@
       "pt": "Café expresso duplo / com leite"
      },
      "descripcion": {},
-     "precio": 6500,
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-jarrito",
+     "nombre": {
+      "es": "Café expreso en jarrito"
+     },
+     "descripcion": {},
+     "precio": 9000,
      "tags": []
     },
     {
@@ -778,7 +800,11 @@
       "en": "Herbal tea selection",
       "pt": "Seleção de chás de ervas"
      },
-     "descripcion": {},
+     "descripcion": {
+      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
+      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
+      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
+     },
      "precio": 6000,
      "tags": []
     }
@@ -813,7 +839,7 @@
       "pt": "Patagonia 24.7"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 10900,
      "tags": []
     },
     {
@@ -824,7 +850,7 @@
       "pt": "Patagonia Amber Lager"
      },
      "descripcion": {},
-     "precio": 9500,
+     "precio": 10900,
      "tags": []
     },
     {
@@ -846,7 +872,7 @@
       "pt": "Heineken x 473 cc"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 9500,
      "tags": []
     },
     {
@@ -857,7 +883,7 @@
       "pt": "Quilmes Stout"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 9000,
      "tags": []
     }
    ]
@@ -981,21 +1007,6 @@
      "tags": []
     },
     {
-     "id": "rs-trago-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "ckt-lb-bellini",
      "nombre": {
       "es": "Bellini",
@@ -1011,16 +1022,16 @@
      "tags": []
     },
     {
-     "id": "rs-trago-pisco-sour",
+     "id": "rs-trago-tom-collins",
      "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
      },
      "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay gin, soda and lemon juice.",
+      "pt": "Gim Bombay, soda e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -1041,6 +1052,21 @@
      "tags": []
     },
     {
+     "id": "rs-trago-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
+      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
      "id": "ckt-lb-campari-orange",
      "nombre": {
       "es": "Campari Orange",
@@ -1051,21 +1077,6 @@
       "es": "Campari y jugo de naranja.",
       "en": "Campari y jugo de naranja.",
       "pt": "Campari y jugo de naranja."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-caipirovska",
-     "nombre": {
-      "es": "Caipirovska",
-      "en": "Caipirovska",
-      "pt": "Caipivodca"
-     },
-     "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -1086,16 +1097,16 @@
      "tags": []
     },
     {
-     "id": "rs-trago-aperol",
+     "id": "rs-trago-caipirovska",
      "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
+      "es": "Caipirovska",
+      "en": "Caipirovska",
+      "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Smirnoff y limas maceradas.",
+      "en": "Smirnoff vodka and muddled limes.",
+      "pt": "Vodca Smirnoff e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -1111,6 +1122,21 @@
       "es": "Ron Bacardi oro, cola y limón.",
       "en": "Ron Bacardi oro, cola y limón.",
       "pt": "Ron Bacardi oro, cola y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-aperol",
+     "nombre": {
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
+     },
+     "descripcion": {
+      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
+      "en": "Aperol, extra brut sparkling, soda and orange.",
+      "pt": "Aperol, espumante extra brut, soda e laranja."
      },
      "precio": 25000,
      "tags": []
