@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:40:38.699Z",
+  "actualizado": "2026-08-28T18:51:36.776Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -68,39 +68,6 @@
  },
  "secciones": [
   {
-   "id": "te",
-   "nombre": {
-    "es": "Propuesta de té",
-    "en": "Afternoon tea",
-    "pt": "Chá da tarde"
-   },
-   "foto": "lb-te.jpg",
-   "nota": {
-    "es": "Servicio para 2 personas. Disponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
-    "en": "Service for 2. Fridays, Saturdays, Sundays and holidays only, 4:00–6:30 pm.",
-    "pt": "Serviço para 2 pessoas. Sextas, sábados, domingos e feriados, das 16h às 18h30."
-   },
-   "items": [
-    {
-     "id": "lb-te-servicio",
-     "nombre": {
-      "es": "Servicio de té para 2 personas",
-      "en": "Afternoon tea for two",
-      "pt": "Chá da tarde para dois"
-     },
-     "descripcion": {
-      "es": "Salado: Bavaria (salmón ahumado, tártara y rúcula); Sancricca (jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul); Avocado (tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys); scons de queso. Dulce: macarons de frutos rojos con centro de frambuesa; semiesfera cítrica con base de granola casera; tarta de manzanas; húmedo de dulce de leche; rústico de chocolate con centro de ddl bañado de chocolate; croissant flat, untuoso de nutella y chocolate. Bebidas: jugo de naranja e infusión a elección.",
-      "en": "Savoury: Bavaria (smoked salmon, tartare and arugula); Sancricca (12-month prosciutto, pategrás, sun-dried tomato and blue cheese cream); Avocado (multigrain toast, Finlandia cheese, avocado, quail egg and cherry tomatoes); cheese scones. Sweet: red berry macarons, citrus dome on granola, apple tart, moist dulce de leche sponge, rustic chocolate with dulce de leche centre, flat croissant with nutella. Drinks: orange juice and a hot drink.",
-      "pt": "Salgado: Bavaria (salmão defumado, tártaro e rúcula); Sancricca (presunto cru 12 meses, pategrás, tomate seco e creme de queijo azul); Avocado (torrada multigrãos, queijo Finlandia, abacate, ovo de codorna e tomates cereja); scones de queijo. Doce: macarons de frutas vermelhas, semiesfera cítrica sobre granola, torta de maçã, bolo úmido de doce de leite, rústico de chocolate, croissant flat com nutella. Bebidas: suco de laranja e uma infusão."
-     },
-     "precio": 66000,
-     "tags": [
-      "NUEVO"
-     ]
-    }
-   ]
-  },
-  {
    "id": "entradas",
    "nombre": {
     "es": "Entradas",
@@ -118,7 +85,7 @@
       "pt": "Porção de batatas fritas"
      },
      "descripcion": {},
-     "precio": 14000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -134,7 +101,9 @@
       "pt": "Queijo azul, pategrás, bocconcini temperados, atuel, brie, ligne noire, sardo, nossa burrata, presunto, lombo defumado, presunto cru, salame, azeitonas pretas, nozes e tomates assados."
      },
      "precio": 45000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-tabla-quesos",
@@ -204,7 +173,7 @@
       "en": "Roasted and fresh tomatoes, basil and burratina.",
       "pt": "Tomates assados e frescos, manjericão e burratina."
      },
-     "precio": 29500,
+     "precio": 36000,
      "tags": [
       "SIN_TACC",
       "VEGETARIANO"
@@ -222,7 +191,7 @@
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
      },
-     "precio": 32000,
+     "precio": 29000,
      "tags": []
     },
     {
@@ -237,7 +206,7 @@
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with chicken.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
      },
-     "precio": 29000,
+     "precio": 34000,
      "tags": []
     },
     {
@@ -252,7 +221,7 @@
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with prawns.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com camarões."
      },
-     "precio": 29000,
+     "precio": 40000,
      "tags": []
     },
     {
@@ -267,7 +236,7 @@
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with smoked salmon.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com salmão defumado."
      },
-     "precio": 28500,
+     "precio": 43000,
      "tags": []
     },
     {
@@ -282,7 +251,7 @@
       "en": "Smoked salmon, poached egg, chickpea hummus, mixed greens, cherry tomatoes and roasted butternut, beetroot, toasted almonds, seeds and dressing.",
       "pt": "Salmão defumado, ovo poché, homus de grão-de-bico, mix de folhas, tomates cereja e abóbora assada, beterraba, amêndoas tostadas, sementes e molho."
      },
-     "precio": 29000,
+     "precio": 37000,
      "tags": []
     }
    ]
@@ -309,9 +278,10 @@
       "en": "Multigrain bread, poached egg, cherry tomatoes, Finlandia cheese, mixed seeds and avocado cream.",
       "pt": "Pão multigrãos, ovo poché, tomates cereja, queijo Finlandia, sementes e creme de abacate."
      },
-     "precio": 29000,
+     "precio": 33000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "NUEVO"
      ]
     },
     {
@@ -326,8 +296,10 @@
       "en": "Tuna paste, mayonnaise, hearts of palm, spring onion and egg, avocado, mixed greens and grilled tomato.",
       "pt": "Pasta de atum, maionese, palmito, cebolinha e ovo, abacate, mix de folhas e tomate grelhado."
      },
-     "precio": 29000,
-     "tags": []
+     "precio": 34000,
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-bavaria",
@@ -341,7 +313,7 @@
       "en": "Smoked salmon sandwich, tartare sauce, sun-dried tomato, cucumber and arugula.",
       "pt": "Sanduíche de salmão defumado, molho tártaro, tomate seco, pepino e rúcula."
      },
-     "precio": 32000,
+     "precio": 33000,
      "tags": []
     },
     {
@@ -356,7 +328,7 @@
       "en": "Brioche bun, prosciutto, burrata, herb butter, roasted tomatoes, balsamic reduction and arugula.",
       "pt": "Pão brioche, presunto cru, burrata, manteiga de ervas, tomates assados, redução de aceto e rúcula."
      },
-     "precio": 29000,
+     "precio": 34000,
      "tags": []
     },
     {
@@ -371,7 +343,7 @@
       "en": "Butternut mini baguette, blue cheese cream and walnut crunch, basil, grilled aubergine, tybo cheese and grilled tomatoes.",
       "pt": "Mini baguete de abóbora, creme de queijo azul e crocante de nozes, manjericão, berinjela grelhada, queijo tybo e tomates grelhados."
      },
-     "precio": 21500,
+     "precio": 32000,
      "tags": [
       "VEGETARIANO"
      ]
@@ -400,7 +372,7 @@
       "en": "Pulled pork with BBQ, mozzarella, fresh tomato, lettuce, caramelised onion, with fries.",
       "pt": "Bondiola desfiada com BBQ, mussarela, tomate fresco, alface, cebola caramelizada, com batatas fritas."
      },
-     "precio": 40000,
+     "precio": 37000,
      "tags": [
       "NUEVO"
      ]
@@ -417,10 +389,8 @@
       "en": "Tenderloin, ham, cheese, tomato and lettuce sandwich, with fries.",
       "pt": "Sanduíche de filé, presunto, queijo, tomate e alface, com batatas fritas."
      },
-     "precio": 43000,
-     "tags": [
-      "NUEVO"
-     ]
+     "precio": 39000,
+     "tags": []
     },
     {
      "id": "lb-hamburguesa",
@@ -434,8 +404,10 @@
       "en": "Potato bun, tomato, mixed greens, cheddar, pickles, bacon, ranch sauce, our sauce and fries.",
       "pt": "Pão de batata, tomate, mix de folhas, cheddar, picles, bacon, molho ranch, nosso molho e batatas fritas."
      },
-     "precio": 37000,
-     "tags": []
+     "precio": 39000,
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-tostado-jq",
@@ -449,7 +421,7 @@
       "en": "On pita or white bread.",
       "pt": "Em pão árabe ou de forma."
      },
-     "precio": 22000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -464,7 +436,7 @@
       "en": "On pita or white bread.",
       "pt": "Em pão árabe ou de forma."
      },
-     "precio": 22000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -474,8 +446,12 @@
       "en": "Prosciutto and cheese toastie",
       "pt": "Tostado de presunto cru e queijo"
      },
-     "descripcion": {},
-     "precio": 21500,
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
      "tags": []
     },
     {
@@ -485,8 +461,12 @@
       "en": "Cheese and tomato toastie",
       "pt": "Tostado de queijo e tomate"
      },
-     "descripcion": {},
-     "precio": 14000,
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
      "tags": [
       "VEGETARIANO"
      ]
@@ -503,7 +483,7 @@
       "en": "Ham and cheese croissant.",
       "pt": "Croissant de presunto e queijo."
      },
-     "precio": 14000,
+     "precio": 23000,
      "tags": []
     }
    ]
@@ -530,10 +510,8 @@
       "en": "Mozzarella pizza, ham, egg and roasted peppers.",
       "pt": "Pizza de mussarela, presunto, ovo e pimentões assados."
      },
-     "precio": 22000,
-     "tags": [
-      "NUEVO"
-     ]
+     "precio": 32000,
+     "tags": []
     },
     {
      "id": "lb-pizza-margarita",
@@ -547,7 +525,7 @@
       "en": "Wholemeal margherita pizza. Mozzarella, baked tomato and basil.",
       "pt": "Pizza integral margherita. Mussarela, tomate assado e manjericão."
      },
-     "precio": 22000,
+     "precio": 32000,
      "tags": [
       "NUEVO",
       "VEGETARIANO"
@@ -577,24 +555,22 @@
       "en": "Braised rib-eye, wine cream, roasted cherry tomatoes, potato and mushroom crown.",
       "pt": "Ancho braseado, creme de vinho, tomates cereja assados, coroa de batata e cogumelos."
      },
-     "precio": 51000,
-     "tags": [
-      "NUEVO"
-     ]
+     "precio": 46000,
+     "tags": []
     },
     {
      "id": "lb-salmon",
      "nombre": {
-      "es": "Salmón (Lobby Bar)",
-      "en": "Salmon (Lobby Bar)",
-      "pt": "Salmão (Lobby Bar)"
+      "es": "Salmón",
+      "en": "Salmon",
+      "pt": "Salmão"
      },
      "descripcion": {
       "es": "Salmón rosado grillado, milhojas de boniato, cabutia, castañas y vegetales de estación.",
       "en": "Grilled salmon, sweet potato mille-feuille, butternut, chestnuts and seasonal vegetables.",
       "pt": "Salmão grelhado, mil-folhas de batata-doce, abóbora, castanhas e legumes da estação."
      },
-     "precio": 43000,
+     "precio": 51000,
      "tags": [
       "NUEVO"
      ]
@@ -611,15 +587,16 @@
       "en": "Tenderloin medallions with classic mashed potato.",
       "pt": "Medalhões de filé no ponto com purê clássico."
      },
-     "precio": 39000,
+     "precio": 43000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "SIN_TACC"
      ]
     },
     {
      "id": "lb-noquis",
      "nombre": {
-      "es": "Ñoquis (Lobby Bar)",
+      "es": "Ñoquis",
       "en": "Gnocchi (Lobby Bar)",
       "pt": "Nhoque (Lobby Bar)"
      },
@@ -628,9 +605,8 @@
       "en": "Sweet potato gnocchi with spring onion cream and almond crunch.",
       "pt": "Nhoque de batata-doce com creme de cebolinha e crocante de amêndoa."
      },
-     "precio": 44000,
+     "precio": 39000,
      "tags": [
-      "NUEVO",
       "VEGETARIANO"
      ]
     },
@@ -646,7 +622,7 @@
       "en": "Spaghetti with seafood and filetto sauce.",
       "pt": "Espaguete com frutos do mar e molho filetto."
      },
-     "precio": 40000,
+     "precio": 44000,
      "tags": [
       "NUEVO"
      ]
@@ -665,8 +641,7 @@
      },
      "precio": 40000,
      "tags": [
-      "NUEVO",
-      "VEGETARIANO"
+      "NUEVO"
      ]
     }
    ]
@@ -689,7 +664,7 @@
       "pt": "Milanesa de carne com batatas fritas"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 29500,
      "tags": []
     },
     {
@@ -700,7 +675,7 @@
       "pt": "Nuggets com batatas fritas"
      },
      "descripcion": {},
-     "precio": 33000,
+     "precio": 32000,
      "tags": []
     },
     {
@@ -711,7 +686,7 @@
       "pt": "Penne ao filetto"
      },
      "descripcion": {},
-     "precio": 34000,
+     "precio": 29000,
      "tags": [
       "VEGETARIANO"
      ]
@@ -724,7 +699,7 @@
       "pt": "Talharim ao creme"
      },
      "descripcion": {},
-     "precio": 33000,
+     "precio": 29000,
      "tags": [
       "VEGETARIANO"
      ]
@@ -737,7 +712,7 @@
       "pt": "Hambúrguer com cheddar e batatas fritas"
      },
      "descripcion": {},
-     "precio": 34000,
+     "precio": 28500,
      "tags": []
     },
     {
@@ -748,7 +723,7 @@
       "pt": "Nhoque de batata ao filetto"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 29000,
      "tags": [
       "VEGETARIANO"
      ]
@@ -761,9 +736,10 @@
       "pt": "Massa ao creme"
      },
      "descripcion": {},
-     "precio": 36000,
+     "precio": 29000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "SIN_TACC"
      ]
     }
    ]
@@ -779,32 +755,6 @@
    "nota": {},
    "items": [
     {
-     "id": "lb-helado",
-     "nombre": {
-      "es": "Helado",
-      "en": "Ice cream",
-      "pt": "Sorvete"
-     },
-     "descripcion": {
-      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
-      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
-      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
-     },
-     "precio": 29000,
-     "tags": []
-    },
-    {
-     "id": "lb-flan",
-     "nombre": {
-      "es": "Flan con dulce de leche",
-      "en": "Crème caramel with dulce de leche",
-      "pt": "Pudim com doce de leite"
-     },
-     "descripcion": {},
-     "precio": 29000,
-     "tags": []
-    },
-    {
      "id": "lb-frutas",
      "nombre": {
       "es": "Frutas fileteadas",
@@ -812,10 +762,8 @@
       "pt": "Frutas fatiadas"
      },
      "descripcion": {},
-     "precio": 21500,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 22000,
+     "tags": []
     },
     {
      "id": "lb-frutos-rojos",
@@ -829,7 +777,22 @@
       "en": "With cream ice cream.",
       "pt": "Com sorvete de creme."
      },
-     "precio": 32000,
+     "precio": 22000,
+     "tags": []
+    },
+    {
+     "id": "lb-helado",
+     "nombre": {
+      "es": "Helado",
+      "en": "Ice cream",
+      "pt": "Sorvete"
+     },
+     "descripcion": {
+      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
+      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
+      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+     },
+     "precio": 21500,
      "tags": []
     },
     {
@@ -844,7 +807,7 @@
       "en": "Milk / dark / Pink chocolate.",
       "pt": "Chocolate ao leite / meio amargo / Pink."
      },
-     "precio": 16000,
+     "precio": 14000,
      "tags": [
       "SIN_TACC"
      ]
@@ -861,9 +824,8 @@
       "en": "No sugar, dairy free.",
       "pt": "Sem açúcar e sem lactose."
      },
-     "precio": 16000,
+     "precio": 14000,
      "tags": [
-      "NUEVO",
       "SIN_TACC",
       "VEGANO"
      ]
@@ -876,37 +838,21 @@
       "pt": "Tablete Freddo"
      },
      "descripcion": {},
-     "precio": 8500,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "dolce",
-   "nombre": {
-    "es": "Dolce",
-    "en": "Desserts",
-    "pt": "Sobremesas"
-   },
-   "foto": "dg-dolce.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "dg-manzana",
-     "nombre": {
-      "es": "Manzana",
-      "en": "Apple",
-      "pt": "Maçã"
-     },
-     "descripcion": {
-      "es": "Manzana de bavaroise, con centro de compota y frutos secos, virutas de chocolate blanco.",
-      "en": "Apple bavarois with compote and nut centre, white chocolate shavings.",
-      "pt": "Bavarois de maçã com centro de compota e frutas secas, raspas de chocolate branco."
-     },
-     "precio": 20000,
+     "precio": 7500,
      "tags": [
-      "SUGERENCIA_CHEF"
+      "SIN_TACC"
      ]
+    },
+    {
+     "id": "lb-flan",
+     "nombre": {
+      "es": "Flan con dulce de leche",
+      "en": "Crème caramel with dulce de leche",
+      "pt": "Pudim com doce de leite"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": []
     }
    ]
   },
@@ -932,8 +878,10 @@
       "en": "Pistachio cookies, Dubai cream and pistachio-chocolate spread.",
       "pt": "Cookies de pistache, creme Dubai e recheio de pistache e chocolate."
      },
-     "precio": 13000,
-     "tags": []
+     "precio": 20000,
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-super-chocolate",
@@ -947,8 +895,10 @@
       "en": "Chocolate sponge, chocolate ganache, dulce de leche, candied hazelnuts, nutella and coffee cream.",
       "pt": "Pão de ló de chocolate, ganache, doce de leite, avelãs caramelizadas, nutella e creme de café."
      },
-     "precio": 15000,
-     "tags": []
+     "precio": 22000,
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-key-lime",
@@ -962,7 +912,7 @@
       "en": "Sablée crust, lime curd and citrus cream.",
       "pt": "Massa sablée, curd de limão e creme cítrico."
      },
-     "precio": 14000,
+     "precio": 20000,
      "tags": []
     },
     {
@@ -977,8 +927,11 @@
       "en": "Layered moist dulce de leche sponge with dulce de leche cream.",
       "pt": "Camadas de bolo úmido de doce de leite com creme de doce de leite."
      },
-     "precio": 14000,
-     "tags": []
+     "precio": 22000,
+     "tags": [
+      "NUEVO",
+      "SIN_TACC"
+     ]
     },
     {
      "id": "lb-alfajor-argentino",
@@ -992,8 +945,27 @@
       "en": "Classic dulce de leche alfajor with sugar glaze.",
       "pt": "Alfajor clássico de doce de leite com cobertura de açúcar."
      },
-     "precio": 7500,
-     "tags": []
+     "precio": 16000,
+     "tags": [
+      "NUEVO"
+     ]
+    },
+    {
+     "id": "lb-torta-manzana",
+     "nombre": {
+      "es": "Torta de manzana",
+      "en": "Apple Cake",
+      "pt": "Bolo de maçã"
+     },
+     "descripcion": {
+      "es": "Cumbre de manzana, sablée, compota de manzana y arenado.",
+      "en": "Apple dome, sablée, apple compote and crumble.",
+      "pt": "Maçã: cúpula de maçã, sablée, compota de maçã e crumble."
+     },
+     "precio": 20000,
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-torta",
@@ -1007,8 +979,12 @@
       "en": "Chocolate sponge, dulce de leche filling, oreo and praline with vegan cream.",
       "pt": "Pão de ló de chocolate, recheio de doce de leite, oreo e praliné com creme vegano."
      },
-     "precio": 22000,
-     "tags": []
+     "precio": 23000,
+     "tags": [
+      "SIN_TACC",
+      "NUEVO",
+      "VEGANO"
+     ]
     },
     {
      "id": "lb-macarons",
@@ -1022,7 +998,7 @@
       "en": "Dubai chocolate, nutella, red berries with raspberry centre.",
       "pt": "Chocolate Dubai, nutella, frutas vermelhas com centro de framboesa."
      },
-     "precio": 20000,
+     "precio": 25000,
      "tags": []
     },
     {
@@ -1037,8 +1013,10 @@
       "en": "Homemade granola, seasonal fruit, Greek yoghurt and honey.",
       "pt": "Granola caseira, frutas da estação, iogurte grego e mel."
      },
-     "precio": 16000,
-     "tags": []
+     "precio": 30000,
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-scones",
@@ -1048,7 +1026,7 @@
       "pt": "Scones, 2 unidades"
      },
      "descripcion": {},
-     "precio": 20000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -1063,7 +1041,7 @@
       "en": "Blueberry and lemon glazed loaf cake.",
       "pt": "Bolo de mirtilo e limão glaçado."
      },
-     "precio": 23000,
+     "precio": 15000,
      "tags": []
     },
     {
@@ -1074,21 +1052,9 @@
       "pt": "Alfajor de maisena"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 14000,
      "tags": []
-    }
-   ]
-  },
-  {
-   "id": "pasteleria",
-   "nombre": {
-    "es": "Pastelería",
-    "en": "Pastry",
-    "pt": "Confeitaria"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
+    },
     {
      "id": "lb-medialunas",
      "nombre": {
@@ -1097,8 +1063,41 @@
       "pt": "Croissants argentinos"
      },
      "descripcion": {},
-     "precio": 30000,
+     "precio": 3500,
      "tags": []
+    }
+   ]
+  },
+  {
+   "id": "te",
+   "nombre": {
+    "es": "Propuesta de té",
+    "en": "Afternoon tea",
+    "pt": "Chá da tarde"
+   },
+   "foto": "lb-te.jpg",
+   "nota": {
+    "es": "Servicio para 2 personas. Disponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
+    "en": "Service for 2. Fridays, Saturdays, Sundays and holidays only, 4:00–6:30 pm.",
+    "pt": "Serviço para 2 pessoas. Sextas, sábados, domingos e feriados, das 16h às 18h30."
+   },
+   "items": [
+    {
+     "id": "lb-te-servicio",
+     "nombre": {
+      "es": "Propuesta de té para 2 personas",
+      "en": "Afternoon tea for two",
+      "pt": "Chá da tarde para dois"
+     },
+     "descripcion": {
+      "es": "Salado: Bavaria (salmón ahumado, tártara y rúcula); Sancricca (jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul); Avocado (tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys); scons de queso. Dulce: macarons de frutos rojos con centro de frambuesa; semiesfera cítrica con base de granola casera; tarta de manzanas; húmedo de dulce de leche; rústico de chocolate con centro de ddl bañado de chocolate; croissant flat, untuoso de nutella y chocolate. Bebidas: jugo de naranja e infusión a elección.",
+      "en": "Savoury: Bavaria (smoked salmon, tartare and arugula); Sancricca (12-month prosciutto, pategrás, sun-dried tomato and blue cheese cream); Avocado (multigrain toast, Finlandia cheese, avocado, quail egg and cherry tomatoes); cheese scones. Sweet: red berry macarons, citrus dome on granola, apple tart, moist dulce de leche sponge, rustic chocolate with dulce de leche centre, flat croissant with nutella. Drinks: orange juice and a hot drink.",
+      "pt": "Salgado: Bavaria (salmão defumado, tártaro e rúcula); Sancricca (presunto cru 12 meses, pategrás, tomate seco e creme de queijo azul); Avocado (torrada multigrãos, queijo Finlandia, abacate, ovo de codorna e tomates cereja); scones de queijo. Doce: macarons de frutas vermelhas, semiesfera cítrica sobre granola, torta de maçã, bolo úmido de doce de leite, rústico de chocolate, croissant flat com nutella. Bebidas: suco de laranja e uma infusão."
+     },
+     "precio": 66000,
+     "tags": [
+      "NUEVO"
+     ]
     }
    ]
   },
@@ -1128,6 +1127,26 @@
      "tags": []
     },
     {
+     "id": "dg-cafe-doble",
+     "nombre": {
+      "es": "Café expreso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café expresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-jarrito",
+     "nombre": {
+      "es": "Café expreso en jarrito"
+     },
+     "descripcion": {},
+     "precio": 9000,
+     "tags": []
+    },
+    {
      "id": "lb-cappuccino",
      "nombre": {
       "es": "Cappuccino",
@@ -1140,17 +1159,6 @@
       "pt": "Com canela, chantilly e chocolate."
      },
      "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "dg-cafe-doble",
-     "nombre": {
-      "es": "Café expreso doble / con leche",
-      "en": "Double espresso / with milk",
-      "pt": "Café expresso duplo / com leite"
-     },
-     "descripcion": {},
-     "precio": 10500,
      "tags": []
     },
     {
@@ -1180,17 +1188,6 @@
      "tags": []
     },
     {
-     "id": "dg-te",
-     "nombre": {
-      "es": "Selección de té de hierbas",
-      "en": "Herbal tea selection",
-      "pt": "Seleção de chás de ervas"
-     },
-     "descripcion": {},
-     "precio": 6000,
-     "tags": []
-    },
-    {
      "id": "lb-chocolatada",
      "nombre": {
       "es": "Chocolatada",
@@ -1216,6 +1213,21 @@
      "tags": []
     },
     {
+     "id": "dg-te",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {
+      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
+      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
+      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
+     },
+     "precio": 6000,
+     "tags": []
+    },
+    {
      "id": "lb-te-twinings",
      "nombre": {
       "es": "Selección de té Twinings",
@@ -1224,21 +1236,6 @@
      },
      "descripcion": {},
      "precio": 7500,
-     "tags": []
-    },
-    {
-     "id": "lb-te-hebras",
-     "nombre": {
-      "es": "Té en hebras",
-      "en": "Loose leaf tea",
-      "pt": "Chá em folhas"
-     },
-     "descripcion": {
-      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
-      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
-      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
-     },
-     "precio": 8000,
      "tags": []
     }
    ]
@@ -1261,10 +1258,8 @@
       "pt": "Água mineral com ou sem gás"
      },
      "descripcion": {},
-     "precio": 7000,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 6500,
+     "tags": []
     },
     {
      "id": "lb-agua-saborizada",
@@ -1274,17 +1269,21 @@
       "pt": "Água mineral saborizada"
      },
      "descripcion": {},
-     "precio": 7000,
+     "precio": 6500,
      "tags": []
     },
     {
      "id": "lb-gaseosas",
      "nombre": {
-      "es": "Gaseosa Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Refrigerante Pepsi / 7Up / Paso de los Toros"
+      "es": "Gaseosa",
+      "en": "Soft drink",
+      "pt": "Refrigerante"
      },
-     "descripcion": {},
+     "descripcion": {
+      "es": "Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Pepsi / 7Up / Paso de los Toros"
+     },
      "precio": 6500,
      "tags": []
     },
@@ -1297,9 +1296,7 @@
      },
      "descripcion": {},
      "precio": 11000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-limonada",
@@ -1310,19 +1307,6 @@
      },
      "descripcion": {},
      "precio": 11000,
-     "tags": [
-      "VEGANO"
-     ]
-    },
-    {
-     "id": "dg-cafe-jarrito",
-     "nombre": {
-      "es": "Café en jarrito",
-      "en": "Small coffee with milk",
-      "pt": "Café em jarrinho"
-     },
-     "descripcion": {},
-     "precio": 9000,
      "tags": []
     },
     {
@@ -1345,9 +1329,7 @@
      },
      "descripcion": {},
      "precio": 12000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-milkshake",
@@ -1403,7 +1385,7 @@
       "pt": "Suco natural: cenoura e maçã"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 19000,
      "tags": [
       "VEGANO"
      ]
@@ -1416,10 +1398,21 @@
       "pt": "Suco natural: cenoura e laranja"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 19000,
      "tags": [
       "VEGANO"
      ]
+    },
+    {
+     "id": "lb-red-bull",
+     "nombre": {
+      "es": "Red Bull",
+      "en": "Red Bull",
+      "pt": "Red Bull"
+     },
+     "descripcion": {},
+     "precio": 11000,
+     "tags": []
     }
    ]
   },
@@ -1452,7 +1445,7 @@
       "pt": "Patagonia 24.7"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 10900,
      "tags": []
     },
     {
@@ -1463,7 +1456,7 @@
       "pt": "Patagonia Amber Lager"
      },
      "descripcion": {},
-     "precio": 9500,
+     "precio": 10900,
      "tags": []
     },
     {
@@ -1485,7 +1478,7 @@
       "pt": "Heineken x 473 cc"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 9500,
      "tags": []
     },
     {
@@ -1496,7 +1489,259 @@
       "pt": "Quilmes Stout"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 9000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cocktails",
+   "nombre": {
+    "es": "Cocktails clásicos",
+    "en": "Classic cocktails",
+    "pt": "Coquetéis clássicos"
+   },
+   "foto": "lb-cocktails.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "rs-trago-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
+      "en": "Gin Bombay, agua tónica y limón.",
+      "pt": "Gin Bombay, agua tónica y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-bacardi",
+     "nombre": {
+      "es": "Bacardi Cocktail",
+      "en": "Bacardi Cocktail",
+      "pt": "Bacardi Cocktail"
+     },
+     "descripcion": {
+      "es": "Ron, jugo de limón y granadina.",
+      "en": "Ron, jugo de limón y granadina.",
+      "pt": "Ron, jugo de limón y granadina."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-bellini",
+     "nombre": {
+      "es": "Bellini",
+      "en": "Bellini",
+      "pt": "Bellini"
+     },
+     "descripcion": {
+      "es": "Champagne y pulpa de durazno.",
+      "en": "Champagne y pulpa de durazno.",
+      "pt": "Champagne y pulpa de durazno."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay gin, soda and lemon juice.",
+      "pt": "Gim Bombay, soda e suco de limão."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-bloody-mary",
+     "nombre": {
+      "es": "Bloody Mary",
+      "en": "Bloody Mary",
+      "pt": "Bloody Mary"
+     },
+     "descripcion": {
+      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
+      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-campari-orange",
+     "nombre": {
+      "es": "Campari Orange",
+      "en": "Campari Orange",
+      "pt": "Campari Orange"
+     },
+     "descripcion": {
+      "es": "Campari y jugo de naranja.",
+      "en": "Campari y jugo de naranja.",
+      "pt": "Campari y jugo de naranja."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-caipirinha",
+     "nombre": {
+      "es": "Caipirinha",
+      "en": "Caipirinha",
+      "pt": "Caipirinha"
+     },
+     "descripcion": {
+      "es": "Cachaça y limas maceradas.",
+      "en": "Cachaça y limas maceradas.",
+      "pt": "Cachaça y limas maceradas."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-caipirovska",
+     "nombre": {
+      "es": "Caipirovska",
+      "en": "Caipirovska",
+      "pt": "Caipivodca"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff y limas maceradas.",
+      "en": "Smirnoff vodka and muddled limes.",
+      "pt": "Vodca Smirnoff e limas maceradas."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi oro, cola y limón.",
+      "en": "Ron Bacardi oro, cola y limón.",
+      "pt": "Ron Bacardi oro, cola y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-aperol",
+     "nombre": {
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
+     },
+     "descripcion": {
+      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
+      "en": "Aperol, extra brut sparkling, soda and orange.",
+      "pt": "Aperol, espumante extra brut, soda e laranja."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-daikiri",
+     "nombre": {
+      "es": "Daikiri Frutal",
+      "en": "Daikiri Frutal",
+      "pt": "Daikiri Frutal"
+     },
+     "descripcion": {
+      "es": "Ron, jugo de limón, azúcar y fruta natural.",
+      "en": "Ron, jugo de limón, azúcar y fruta natural.",
+      "pt": "Ron, jugo de limón, azúcar y fruta natural."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-dry-martini",
+     "nombre": {
+      "es": "Dry Martini",
+      "en": "Dry Martini",
+      "pt": "Dry Martini"
+     },
+     "descripcion": {
+      "es": "Gin, Dry Martini y oliva verde.",
+      "en": "Gin, Dry Martini y oliva verde.",
+      "pt": "Gin, Dry Martini y oliva verde."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-margarita",
+     "nombre": {
+      "es": "Margarita",
+      "en": "Margarita",
+      "pt": "Margarita"
+     },
+     "descripcion": {
+      "es": "Tequila, Cointreau y jugo de limón.",
+      "en": "Tequila, Cointreau y jugo de limón.",
+      "pt": "Tequila, Cointreau y jugo de limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-negroni",
+     "nombre": {
+      "es": "Negroni",
+      "en": "Negroni",
+      "pt": "Negroni"
+     },
+     "descripcion": {
+      "es": "Campari, Gin Bombay y Martini Rosso.",
+      "en": "Campari, Gin Bombay y Martini Rosso.",
+      "pt": "Campari, Gin Bombay y Martini Rosso."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-fernet-cola",
+     "nombre": {
+      "es": "Fernet Cola",
+      "en": "Fernet Cola",
+      "pt": "Fernet Cola"
+     },
+     "descripcion": {
+      "es": "Fernet Branca y Coca Cola.",
+      "en": "Fernet Branca y Coca Cola.",
+      "pt": "Fernet Branca y Coca Cola."
+     },
+     "precio": 25000,
      "tags": []
     }
    ]
@@ -1580,258 +1825,6 @@
    ]
   },
   {
-   "id": "cocktails",
-   "nombre": {
-    "es": "Cocktails clásicos",
-    "en": "Classic cocktails",
-    "pt": "Coquetéis clássicos"
-   },
-   "foto": "lb-cocktails.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "rs-trago-gin-tonic",
-     "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
-     },
-     "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-bacardi",
-     "nombre": {
-      "es": "Bacardi Cocktail",
-      "en": "Bacardi Cocktail",
-      "pt": "Bacardi Cocktail"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-bellini",
-     "nombre": {
-      "es": "Bellini",
-      "en": "Bellini",
-      "pt": "Bellini"
-     },
-     "descripcion": {
-      "es": "Champagne y pulpa de durazno.",
-      "en": "Champagne y pulpa de durazno.",
-      "pt": "Champagne y pulpa de durazno."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-pisco-sour",
-     "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
-     },
-     "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-bloody-mary",
-     "nombre": {
-      "es": "Bloody Mary",
-      "en": "Bloody Mary",
-      "pt": "Bloody Mary"
-     },
-     "descripcion": {
-      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-campari-orange",
-     "nombre": {
-      "es": "Campari Orange",
-      "en": "Campari Orange",
-      "pt": "Campari Orange"
-     },
-     "descripcion": {
-      "es": "Campari y jugo de naranja.",
-      "en": "Campari y jugo de naranja.",
-      "pt": "Campari y jugo de naranja."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-caipirovska",
-     "nombre": {
-      "es": "Caipirovska",
-      "en": "Caipirovska",
-      "pt": "Caipivodca"
-     },
-     "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-caipirinha",
-     "nombre": {
-      "es": "Caipirinha",
-      "en": "Caipirinha",
-      "pt": "Caipirinha"
-     },
-     "descripcion": {
-      "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-aperol",
-     "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
-     },
-     "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-cuba-libre",
-     "nombre": {
-      "es": "Cuba Libre",
-      "en": "Cuba Libre",
-      "pt": "Cuba Libre"
-     },
-     "descripcion": {
-      "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-daikiri",
-     "nombre": {
-      "es": "Daikiri Frutal",
-      "en": "Daikiri Frutal",
-      "pt": "Daikiri Frutal"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón, azúcar y fruta natural.",
-      "en": "Ron, jugo de limón, azúcar y fruta natural.",
-      "pt": "Ron, jugo de limón, azúcar y fruta natural."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-dry-martini",
-     "nombre": {
-      "es": "Dry Martini",
-      "en": "Dry Martini",
-      "pt": "Dry Martini"
-     },
-     "descripcion": {
-      "es": "Gin, Dry Martini y oliva verde.",
-      "en": "Gin, Dry Martini y oliva verde.",
-      "pt": "Gin, Dry Martini y oliva verde."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-margarita",
-     "nombre": {
-      "es": "Margarita",
-      "en": "Margarita",
-      "pt": "Margarita"
-     },
-     "descripcion": {
-      "es": "Tequila, Cointreau y jugo de limón.",
-      "en": "Tequila, Cointreau y jugo de limón.",
-      "pt": "Tequila, Cointreau y jugo de limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-negroni",
-     "nombre": {
-      "es": "Negroni",
-      "en": "Negroni",
-      "pt": "Negroni"
-     },
-     "descripcion": {
-      "es": "Campari, Gin Bombay y Martini Rosso.",
-      "en": "Campari, Gin Bombay y Martini Rosso.",
-      "pt": "Campari, Gin Bombay y Martini Rosso."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-fernet-cola",
-     "nombre": {
-      "es": "Fernet Cola",
-      "en": "Fernet Cola",
-      "pt": "Fernet Cola"
-     },
-     "descripcion": {
-      "es": "Fernet Branca y Coca Cola.",
-      "en": "Fernet Branca y Coca Cola.",
-      "pt": "Fernet Branca y Coca Cola."
-     },
-     "precio": 25000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "aperitivos",
    "nombre": {
     "es": "Aperitivos",
@@ -1853,7 +1846,7 @@
       "pt": "Carpano Antica Formula"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 24000,
      "tags": []
     },
     {
@@ -1864,7 +1857,7 @@
       "pt": "Fernet Branca / Fernet Branca Menta"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -1881,7 +1874,7 @@
     {
      "id": "ape-martini-bianco-rosso-extra-dry-bitter",
      "nombre": {
-      "es": "Martini Bianco, Rosso, Extra Dry, Bitter",
+      "es": "Martini Bianco / Rosso / Extra Dry / Bitter",
       "en": "Martini Bianco, Rosso, Extra Dry, Bitter",
       "pt": "Martini Bianco, Rosso, Extra Dry, Bitter"
      },
@@ -1908,7 +1901,7 @@
       "pt": "Cinzano Bianco, Rosso"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 8000,
      "tags": []
     },
     {
@@ -1919,7 +1912,7 @@
       "pt": "Carpano Rosso / Bianco / Dry"
      },
      "descripcion": {},
-     "precio": 9200,
+     "precio": 8000,
      "tags": []
     }
    ]
@@ -1946,7 +1939,7 @@
       "pt": "Bombay"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 22000,
      "tags": []
     },
     {
@@ -1957,7 +1950,7 @@
       "pt": "Beefeater Saborizados"
      },
      "descripcion": {},
-     "precio": 7500,
+     "precio": 21000,
      "tags": []
     },
     {
@@ -1990,7 +1983,7 @@
       "pt": "Gordon's / Merle"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 7500,
      "tags": []
     }
    ]
@@ -2017,7 +2010,7 @@
       "pt": "Grey Goose"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 36000,
      "tags": []
     },
     {
@@ -2028,7 +2021,7 @@
       "pt": "Belvedere"
      },
      "descripcion": {},
-     "precio": 230000,
+     "precio": 30000,
      "tags": []
     },
     {
@@ -2039,7 +2032,7 @@
       "pt": "Absolut Flavors"
      },
      "descripcion": {},
-     "precio": 6600,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -2050,7 +2043,7 @@
       "pt": "Absolut"
      },
      "descripcion": {},
-     "precio": 10000,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -2061,7 +2054,7 @@
       "pt": "Ketel One"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 10000,
      "tags": []
     },
     {
@@ -2072,7 +2065,7 @@
       "pt": "Smirnoff"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 6600,
      "tags": []
     },
     {
@@ -2083,7 +2076,7 @@
       "pt": "Nuvo (botella)"
      },
      "descripcion": {},
-     "precio": 22000,
+     "precio": 230000,
      "tags": []
     }
    ]
@@ -2110,7 +2103,7 @@
       "pt": "Macallan Double Cask 15 años"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 120000,
      "tags": []
     },
     {
@@ -2121,7 +2114,7 @@
       "pt": "Royal Salute 21 años"
      },
      "descripcion": {},
-     "precio": 48000,
+     "precio": 90000,
      "tags": []
     },
     {
@@ -2132,18 +2125,7 @@
       "pt": "J.W. Blue Label"
      },
      "descripcion": {},
-     "precio": 30000,
-     "tags": []
-    },
-    {
-     "id": "rs-wh-chivas",
-     "nombre": {
-      "es": "Chivas Regal 12 años",
-      "en": "Chivas Regal 12yo",
-      "pt": "Chivas Regal 12 anos"
-     },
-     "descripcion": {},
-     "precio": 9000,
+     "precio": 92000,
      "tags": []
     },
     {
@@ -2154,7 +2136,7 @@
       "pt": "Macallan Double Cask 12 años"
      },
      "descripcion": {},
-     "precio": 23000,
+     "precio": 60000,
      "tags": []
     },
     {
@@ -2165,7 +2147,7 @@
       "pt": "Chivas Regal 18 años"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 45000,
      "tags": []
     },
     {
@@ -2176,7 +2158,7 @@
       "pt": "Glenmorangie"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 45000,
      "tags": []
     },
     {
@@ -2187,7 +2169,7 @@
       "pt": "J.W. Platinum / J.W. 18 años"
      },
      "descripcion": {},
-     "precio": 18000,
+     "precio": 60000,
      "tags": []
     },
     {
@@ -2198,7 +2180,7 @@
       "pt": "J.W. Green"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 37000,
      "tags": []
     },
     {
@@ -2209,7 +2191,7 @@
       "pt": "Caol Ila 12 años"
      },
      "descripcion": {},
-     "precio": 17000,
+     "precio": 34000,
      "tags": []
     },
     {
@@ -2220,7 +2202,7 @@
       "pt": "The Glenlivet 15 años"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 32000,
      "tags": []
     },
     {
@@ -2231,7 +2213,7 @@
       "pt": "Glenfiddich 12 años"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 32000,
      "tags": []
     },
     {
@@ -2242,7 +2224,7 @@
       "pt": "J.W. Gold"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 23000,
      "tags": []
     },
     {
@@ -2253,7 +2235,7 @@
       "pt": "Cardhu 12 años"
      },
      "descripcion": {},
-     "precio": 18000,
+     "precio": 30000,
      "tags": []
     },
     {
@@ -2264,7 +2246,7 @@
       "pt": "Highland Park 12 años"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 48000,
      "tags": []
     },
     {
@@ -2275,7 +2257,7 @@
       "pt": "J.W. Double Black"
      },
      "descripcion": {},
-     "precio": 9500,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -2286,7 +2268,7 @@
       "pt": "J.W. Black Label"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 18000,
      "tags": []
     },
     {
@@ -2297,7 +2279,7 @@
       "pt": "The Glenlivet Reserve"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 18000,
      "tags": []
     },
     {
@@ -2308,7 +2290,7 @@
       "pt": "Jameson"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -2319,7 +2301,7 @@
       "pt": "Jim Beam Black"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -2330,7 +2312,7 @@
       "pt": "Ballantine's Finest"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -2341,7 +2323,7 @@
       "pt": "The Famous Grouse"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -2352,7 +2334,18 @@
       "pt": "Jack Daniels"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 15000,
+     "tags": []
+    },
+    {
+     "id": "rs-wh-chivas",
+     "nombre": {
+      "es": "Chivas Regal 12 años",
+      "en": "Chivas Regal 12yo",
+      "pt": "Chivas Regal 12 anos"
+     },
+     "descripcion": {},
+     "precio": 15000,
      "tags": []
     },
     {
@@ -2363,7 +2356,7 @@
       "pt": "Ballantine's Blue 12 años"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -2374,7 +2367,7 @@
       "pt": "Grant's"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -2385,7 +2378,7 @@
       "pt": "Jim Beam White"
      },
      "descripcion": {},
-     "precio": 10000,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -2396,7 +2389,7 @@
       "pt": "J.W. Red Label"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -2407,7 +2400,7 @@
       "pt": "J&B"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 9500,
      "tags": []
     }
    ]
@@ -2434,7 +2427,7 @@
       "pt": "Ron Bacardi 8 años"
      },
      "descripcion": {},
-     "precio": 37000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -2445,7 +2438,7 @@
       "pt": "Havana Club 7 años"
      },
      "descripcion": {},
-     "precio": 60000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -2456,7 +2449,7 @@
       "pt": "Havana Club 3 años"
      },
      "descripcion": {},
-     "precio": 45000,
+     "precio": 10900,
      "tags": []
     },
     {
@@ -2467,7 +2460,7 @@
       "pt": "Havana Especial"
      },
      "descripcion": {},
-     "precio": 45000,
+     "precio": 10000,
      "tags": []
     },
     {
@@ -2478,7 +2471,7 @@
       "pt": "Bacardi Oro"
      },
      "descripcion": {},
-     "precio": 60000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -2489,7 +2482,7 @@
       "pt": "Bacardi Carta Blanca"
      },
      "descripcion": {},
-     "precio": 92000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -2500,7 +2493,7 @@
       "pt": "Malibú"
      },
      "descripcion": {},
-     "precio": 34000,
+     "precio": 9000,
      "tags": []
     }
    ]
@@ -2527,7 +2520,7 @@
       "pt": "Hennessy V.S.O.P."
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 25000,
      "tags": []
     },
     {
@@ -2538,7 +2531,7 @@
       "pt": "Rémy Martin V.S.O.P."
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 58000,
      "tags": []
     },
     {
@@ -2549,7 +2542,7 @@
       "pt": "Hennessy V.S."
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -2560,7 +2553,7 @@
       "pt": "Reserva San Juan"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 8000,
      "tags": []
     }
    ]
@@ -2587,7 +2580,7 @@
       "pt": "José Cuervo Oro Especial"
      },
      "descripcion": {},
-     "precio": 58000,
+     "precio": 15000,
      "tags": []
     },
     {
@@ -2598,7 +2591,7 @@
       "pt": "José Cuervo Blanco Especial"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 15000,
      "tags": []
     }
    ]
@@ -2625,7 +2618,7 @@
       "pt": "Velho Barreiro"
      },
      "descripcion": {},
-     "precio": 120000,
+     "precio": 9000,
      "tags": []
     },
     {
@@ -2636,7 +2629,7 @@
       "pt": "Velho Pitú"
      },
      "descripcion": {},
-     "precio": 90000,
+     "precio": 9000,
      "tags": []
     }
    ]
@@ -2663,7 +2656,7 @@
       "pt": "Mistral"
      },
      "descripcion": {},
-     "precio": 24000,
+     "precio": 9200,
      "tags": []
     },
     {
@@ -2674,7 +2667,7 @@
       "pt": "Sour Capel"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 10500,
      "tags": []
     }
    ]
@@ -2728,7 +2721,7 @@
       "pt": "Drambuie"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -2739,7 +2732,7 @@
       "pt": "Grand Marnier / Cointreau / Grappa Candolini"
      },
      "descripcion": {},
-     "precio": 30000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -2750,7 +2743,7 @@
       "pt": "Amaretto / Sambuca Oro"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -2761,7 +2754,7 @@
       "pt": "Jägermeister / Bailey's / Frangelico"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -2772,7 +2765,7 @@
       "pt": "Lemoncello Strega"
      },
      "descripcion": {},
-     "precio": 17000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -2783,7 +2776,7 @@
       "pt": "Amarula / Kahlúa"
      },
      "descripcion": {},
-     "precio": 17000,
+     "precio": 15000,
      "tags": []
     },
     {
@@ -2794,30 +2787,7 @@
       "pt": "Tía María"
      },
      "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "energizante",
-   "nombre": {
-    "es": "Energizante",
-    "en": "Energy drink",
-    "pt": "Energético"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "lb-red-bull",
-     "nombre": {
-      "es": "Red Bull",
-      "en": "Red Bull",
-      "pt": "Red Bull"
-     },
-     "descripcion": {},
-     "precio": 11000,
+     "precio": 8000,
      "tags": []
     }
    ]
