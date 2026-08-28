@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T18:51:36.777Z",
+  "actualizado": "2026-08-28T22:49:17.266Z",
   "ver_tambien": "",
   "pie": {
    "es": "Menú In-Room Dining · Interno 2840. Valor del servicio por persona: $ 7.000. Si tiene alguna restricción alimentaria, por favor avise a nuestro personal antes de realizar su pedido.",
@@ -138,7 +138,7 @@
      "precio": 20000,
      "tags": [
       "VEGETARIANO",
-      "VEGANO"
+      "SIN_TACC"
      ]
     },
     {
@@ -203,7 +203,9 @@
      },
      "descripcion": {},
      "precio": 15500,
-     "tags": []
+     "tags": [
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "lb-cazuela-queso",
@@ -214,7 +216,9 @@
      },
      "descripcion": {},
      "precio": 16500,
-     "tags": []
+     "tags": [
+      "VEGETARIANO"
+     ]
     }
    ]
   },
@@ -438,6 +442,118 @@
    ]
   },
   {
+   "id": "principales",
+   "nombre": {
+    "es": "Principales",
+    "en": "Main courses",
+    "pt": "Pratos principais"
+   },
+   "foto": "lb-cocina.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "rs-salmon",
+     "nombre": {
+      "es": "Salmón",
+      "en": "Salmon",
+      "pt": "Salmão"
+     },
+     "descripcion": {
+      "es": "Salmón grillado con mantecado cítrico, tropezones de parmesano y vegetales salteados.",
+      "en": "Grilled salmon with citrus butter, parmesan and sautéed vegetables.",
+      "pt": "Salmão grelhado com manteiga cítrica, parmesão e legumes salteados."
+     },
+     "precio": 53000,
+     "tags": [
+      "SIN_TACC"
+     ]
+    },
+    {
+     "id": "rs-ave",
+     "nombre": {
+      "es": "Ave",
+      "en": "Chicken",
+      "pt": "Frango"
+     },
+     "descripcion": {
+      "es": "Pollo grillado con puré de calabazas y sus vegetales de estación.",
+      "en": "Grilled chicken with pumpkin purée and seasonal vegetables.",
+      "pt": "Frango grelhado com purê de abóbora e legumes da estação."
+     },
+     "precio": 45000,
+     "tags": [
+      "SIN_TACC"
+     ]
+    },
+    {
+     "id": "rs-noquis",
+     "nombre": {
+      "es": "Ñoquis",
+      "en": "Gnocchi (Room Service)",
+      "pt": "Nhoque (Room Service)"
+     },
+     "descripcion": {
+      "es": "Ñoquis de boniato con crema de puerro y crocante de almendra.",
+      "en": "Sweet potato gnocchi with leek cream and almond crunch.",
+      "pt": "Nhoque de batata-doce com creme de alho-poró e crocante de amêndoa."
+     },
+     "precio": 43000,
+     "tags": [
+      "VEGETARIANO"
+     ]
+    },
+    {
+     "id": "rs-cuadretti",
+     "nombre": {
+      "es": "Cuadretti de espinaca",
+      "en": "Spinach cuadretti",
+      "pt": "Cuadretti de espinafre"
+     },
+     "descripcion": {
+      "es": "Cuadretti en masa verde relleno de cabutia y queso port salud con pomodoro suave.",
+      "en": "Green pasta filled with butternut and port-salut cheese, light tomato sauce.",
+      "pt": "Massa verde recheada com abóbora e queijo port salut, molho de tomate suave."
+     },
+     "precio": 39000,
+     "tags": [
+      "VEGETARIANO"
+     ]
+    },
+    {
+     "id": "rs-penne",
+     "nombre": {
+      "es": "Penne",
+      "en": "Penne",
+      "pt": "Penne"
+     },
+     "descripcion": {
+      "es": "Penne con crema a los cuatro queso.",
+      "en": "Penne with four-cheese cream.",
+      "pt": "Penne ao creme de quatro queijos."
+     },
+     "precio": 38000,
+     "tags": [
+      "VEGETARIANO"
+     ]
+    },
+    {
+     "id": "rs-espiral-lomo",
+     "nombre": {
+      "es": "Espiral de lomo",
+      "en": "Spiral tenderloin",
+      "pt": "Filé em espiral"
+     },
+     "descripcion": {
+      "es": "Espiral de lomo con vegetales y mozzarella, milhojas de papa y criolla cítrica con palta.",
+      "en": "Tenderloin spiral with vegetables and mozzarella, potato mille-feuille and citrus criolla with avocado.",
+      "pt": "Filé em espiral com legumes e mussarela, mil-folhas de batata e criolla cítrica com abacate."
+     },
+     "precio": 44000,
+     "tags": []
+    }
+   ]
+  },
+  {
    "id": "pizzas",
    "nombre": {
     "es": "Pizzas individuales",
@@ -460,101 +576,6 @@
       "pt": "Mussarela, prosciutto 12 meses, rúcula e parmesão."
      },
      "precio": 36000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "opciones-dulces",
-   "nombre": {
-    "es": "Opciones dulces",
-    "en": "Sweets",
-    "pt": "Opções doces"
-   },
-   "foto": "lb-pasteleria.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "rs-budin",
-     "nombre": {
-      "es": "Budín de arándanos y limón glaseado",
-      "en": "Blueberry and lemon glazed loaf cake",
-      "pt": "Bolo de mirtilo e limão glaçado"
-     },
-     "descripcion": {},
-     "precio": 16500,
-     "tags": []
-    },
-    {
-     "id": "rs-tarta-manzana",
-     "nombre": {
-      "es": "Tarta de manzana",
-      "en": "Apple tart",
-      "pt": "Torta de maçã"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": [
-      "NUEVO"
-     ]
-    },
-    {
-     "id": "rs-tarta-coco",
-     "nombre": {
-      "es": "Tarta de coco y ddl",
-      "en": "Coconut and dulce de leche tart",
-      "pt": "Torta de coco e doce de leite"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "rs-brownie",
-     "nombre": {
-      "es": "Brownie de chocolate",
-      "en": "Chocolate brownie",
-      "pt": "Brownie de chocolate"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "lb-macarons",
-     "nombre": {
-      "es": "Macarons x 3 u",
-      "en": "Macarons, 3 pieces",
-      "pt": "Macarons, 3 unidades"
-     },
-     "descripcion": {
-      "es": "Variedad: chocolate Dubái, nutella y frutos rojos con centro de frambuesa.",
-      "en": "Dubai chocolate, nutella, red berries with raspberry centre.",
-      "pt": "Chocolate Dubai, nutella, frutas vermelhas com centro de framboesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "lb-alfajor-maicena",
-     "nombre": {
-      "es": "Alfajor de maicena",
-      "en": "Cornstarch alfajor",
-      "pt": "Alfajor de maisena"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "lb-medialunas",
-     "nombre": {
-      "es": "Medialunas",
-      "en": "Croissants",
-      "pt": "Croissants argentinos"
-     },
-     "descripcion": {},
-     "precio": 3800,
      "tags": []
     }
    ]
@@ -668,6 +689,101 @@
    ]
   },
   {
+   "id": "opciones-dulces",
+   "nombre": {
+    "es": "Opciones dulces",
+    "en": "Sweets",
+    "pt": "Opções doces"
+   },
+   "foto": "lb-pasteleria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "rs-budin",
+     "nombre": {
+      "es": "Budín de arándanos y limón glaseado",
+      "en": "Blueberry and lemon glazed loaf cake",
+      "pt": "Bolo de mirtilo e limão glaçado"
+     },
+     "descripcion": {},
+     "precio": 16500,
+     "tags": []
+    },
+    {
+     "id": "rs-tarta-manzana",
+     "nombre": {
+      "es": "Tarta de manzana",
+      "en": "Apple tart",
+      "pt": "Torta de maçã"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": [
+      "NUEVO"
+     ]
+    },
+    {
+     "id": "rs-tarta-coco",
+     "nombre": {
+      "es": "Tarta de coco y ddl",
+      "en": "Coconut and dulce de leche tart",
+      "pt": "Torta de coco e doce de leite"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": []
+    },
+    {
+     "id": "rs-brownie",
+     "nombre": {
+      "es": "Brownie de chocolate",
+      "en": "Chocolate brownie",
+      "pt": "Brownie de chocolate"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": []
+    },
+    {
+     "id": "lb-macarons",
+     "nombre": {
+      "es": "Macarons x 3 u",
+      "en": "Macarons, 3 pieces",
+      "pt": "Macarons, 3 unidades"
+     },
+     "descripcion": {
+      "es": "Variedad: chocolate Dubái, nutella y frutos rojos con centro de frambuesa.",
+      "en": "Dubai chocolate, nutella, red berries with raspberry centre.",
+      "pt": "Chocolate Dubai, nutella, frutas vermelhas com centro de framboesa."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "lb-alfajor-maicena",
+     "nombre": {
+      "es": "Alfajor de maicena",
+      "en": "Cornstarch alfajor",
+      "pt": "Alfajor de maisena"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "lb-medialunas",
+     "nombre": {
+      "es": "Medialunas",
+      "en": "Croissants",
+      "pt": "Croissants argentinos"
+     },
+     "descripcion": {},
+     "precio": 3800,
+     "tags": []
+    }
+   ]
+  },
+  {
    "id": "menores",
    "nombre": {
     "es": "Menores",
@@ -773,21 +889,6 @@
      "descripcion": {},
      "precio": 34000,
      "tags": []
-    },
-    {
-     "id": "rs-men-helado",
-     "nombre": {
-      "es": "Helado (menores)",
-      "en": "Ice cream (kids)",
-      "pt": "Sorvete (infantil)"
-     },
-     "descripcion": {
-      "es": "2 bochas a elección según temporada.",
-      "en": "2 scoops.",
-      "pt": "2 bolas."
-     },
-     "precio": 24000,
-     "tags": []
     }
    ]
   },
@@ -818,17 +919,6 @@
       "es": "Agua mineral saborizada",
       "en": "Flavoured mineral water",
       "pt": "Água mineral saborizada"
-     },
-     "descripcion": {},
-     "precio": 7200,
-     "tags": []
-    },
-    {
-     "id": "rs-gaseosas",
-     "nombre": {
-      "es": "Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Pepsi / 7Up / Paso de los Toros"
      },
      "descripcion": {},
      "precio": 7200,
@@ -993,15 +1083,6 @@
      "tags": []
     },
     {
-     "id": "dg-cafe-jarrito",
-     "nombre": {
-      "es": "Café expreso en jarrito"
-     },
-     "descripcion": {},
-     "precio": 9000,
-     "tags": []
-    },
-    {
      "id": "lb-cappuccino",
      "nombre": {
       "es": "Cappuccino",
@@ -1154,269 +1235,6 @@
      },
      "descripcion": {},
      "precio": 10000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "whiskies",
-   "nombre": {
-    "es": "Whiskies",
-    "en": "Whisky",
-    "pt": "Uísque"
-   },
-   "foto": "",
-   "nota": {
-    "es": "Por medida.",
-    "en": "By the measure.",
-    "pt": "Por dose."
-   },
-   "items": [
-    {
-     "id": "rs-wh-jw-blue",
-     "nombre": {
-      "es": "Johnnie Walker Blue Label",
-      "en": "Johnnie Walker Blue Label",
-      "pt": "Johnnie Walker Blue Label"
-     },
-     "descripcion": {},
-     "precio": 99000,
-     "tags": []
-    },
-    {
-     "id": "rs-wh-jw-gold",
-     "nombre": {
-      "es": "Johnnie Walker Gold Label Reserve",
-      "en": "Johnnie Walker Gold Label Reserve",
-      "pt": "Johnnie Walker Gold Label Reserve"
-     },
-     "descripcion": {},
-     "precio": 27000,
-     "tags": []
-    },
-    {
-     "id": "rs-wh-jw-black",
-     "nombre": {
-      "es": "Johnnie Walker Black Label 12 años",
-      "en": "Johnnie Walker Black Label 12yo",
-      "pt": "Johnnie Walker Black Label 12 anos"
-     },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "tintos",
-   "nombre": {
-    "es": "Vinos tintos",
-    "en": "Red wines",
-    "pt": "Vinhos tintos"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "rs-vino-trumpeter-malbec",
-     "nombre": {
-      "es": "Trumpeter Malbec",
-      "en": "Trumpeter Malbec",
-      "pt": "Trumpeter Malbec"
-     },
-     "descripcion": {},
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-trumpeter-cs",
-     "nombre": {
-      "es": "Trumpeter Cabernet Sauvignon",
-      "en": "Trumpeter Cabernet Sauvignon",
-      "pt": "Trumpeter Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 22000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-trumpeter-res-malbec",
-     "nombre": {
-      "es": "Trumpeter Reserve Malbec",
-      "en": "Trumpeter Reserve Malbec",
-      "pt": "Trumpeter Reserve Malbec"
-     },
-     "descripcion": {},
-     "precio": 30000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-trumpeter-res-cs",
-     "nombre": {
-      "es": "Trumpeter Reserve Cabernet Sauvignon",
-      "en": "Trumpeter Reserve Cabernet Sauvignon",
-      "pt": "Trumpeter Reserve Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 30000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-trumpeter-viognier",
-     "nombre": {
-      "es": "Trumpeter Reserve Viognier",
-      "en": "Trumpeter Reserve Viognier",
-      "pt": "Trumpeter Reserve Viognier"
-     },
-     "descripcion": {},
-     "precio": 28000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-trumpeter-torrontes",
-     "nombre": {
-      "es": "Trumpeter Reserve Torrontés",
-      "en": "Trumpeter Reserve Torrontés",
-      "pt": "Trumpeter Reserve Torrontés"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-trumpeter-rose",
-     "nombre": {
-      "es": "Trumpeter Reserve Rosé",
-      "en": "Trumpeter Reserve Rosé",
-      "pt": "Trumpeter Reserve Rosé"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-cab-malbec",
-     "nombre": {
-      "es": "Rutini Cabernet-Malbec",
-      "en": "Rutini Cabernet-Malbec",
-      "pt": "Rutini Cabernet-Malbec"
-     },
-     "descripcion": {},
-     "precio": 43000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-merlot",
-     "nombre": {
-      "es": "Rutini Colección Merlot",
-      "en": "Rutini Colección Merlot",
-      "pt": "Rutini Colección Merlot"
-     },
-     "descripcion": {},
-     "precio": 57000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-syrah",
-     "nombre": {
-      "es": "Rutini Colección Syrah",
-      "en": "Rutini Colección Syrah",
-      "pt": "Rutini Colección Syrah"
-     },
-     "descripcion": {},
-     "precio": 57000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-cf",
-     "nombre": {
-      "es": "Rutini Colección Cabernet Franc",
-      "en": "Rutini Colección Cabernet Franc",
-      "pt": "Rutini Colección Cabernet Franc"
-     },
-     "descripcion": {},
-     "precio": 63000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-cs",
-     "nombre": {
-      "es": "Rutini Colección Cabernet Sauvignon",
-      "en": "Rutini Colección Cabernet Sauvignon",
-      "pt": "Rutini Colección Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 59000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-malbec",
-     "nombre": {
-      "es": "Rutini Colección Malbec",
-      "en": "Rutini Colección Malbec",
-      "pt": "Rutini Colección Malbec"
-     },
-     "descripcion": {},
-     "precio": 69000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-pn",
-     "nombre": {
-      "es": "Rutini Colección Pinot Noir",
-      "en": "Rutini Colección Pinot Noir",
-      "pt": "Rutini Colección Pinot Noir"
-     },
-     "descripcion": {},
-     "precio": 69000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-dominio-chard",
-     "nombre": {
-      "es": "Rutini Dominio Chardonnay",
-      "en": "Rutini Dominio Chardonnay",
-      "pt": "Rutini Dominio Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 51000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-rutini-sb",
-     "nombre": {
-      "es": "Rutini Colección Sauvignon Blanc",
-      "en": "Rutini Colección Sauvignon Blanc",
-      "pt": "Rutini Colección Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 47000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-encuentro-chard",
-     "nombre": {
-      "es": "Encuentro Chardonnay",
-      "en": "Encuentro Chardonnay",
-      "pt": "Encuentro Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 41000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-copa-trumpeter",
-     "nombre": {
-      "es": "Copa Trumpeter",
-      "en": "Trumpeter by the glass",
-      "pt": "Trumpeter em taça"
-     },
-     "descripcion": {
-      "es": "Cabernet, Malbec o Chardonnay.",
-      "en": "Cabernet, Malbec or Chardonnay.",
-      "pt": "Cabernet, Malbec ou Chardonnay."
-     },
-     "precio": 11000,
      "tags": []
     }
    ]
