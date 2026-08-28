@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:15:05.631Z",
+  "actualizado": "2026-08-28T16:40:38.700Z",
   "ver_tambien": "",
   "pie": {
    "es": "Menú In-Room Dining · Interno 2840. Valor del servicio por persona: $ 7.000. Si tiene alguna restricción alimentaria, por favor avise a nuestro personal antes de realizar su pedido.",
@@ -1542,6 +1542,29 @@
    ]
   },
   {
+   "id": "copa",
+   "nombre": {
+    "es": "Vinos y espumantes por copa",
+    "en": "Wines & sparkling by the glass",
+    "pt": "Vinhos e espumantes em taça"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "rs-esp-copa-chandon",
+     "nombre": {
+      "es": "Copa Chandon Extra Brut",
+      "en": "Chandon Extra Brut by the glass",
+      "pt": "Chandon Extra Brut em taça"
+     },
+     "descripcion": {},
+     "precio": 15000,
+     "tags": []
+    }
+   ]
+  },
+  {
    "id": "espumosos",
    "nombre": {
     "es": "Espumosos",
@@ -1640,25 +1663,14 @@
      "tags": []
     },
     {
-     "id": "rs-esp-chandon-eb",
+     "id": "esp-chandon-extra-brut-delice",
      "nombre": {
-      "es": "Chandon Extra Brut",
-      "en": "Chandon Extra Brut",
-      "pt": "Chandon Extra Brut"
+      "es": "Chandon Extra Brut / Delice",
+      "en": "Chandon Extra Brut / Delice",
+      "pt": "Chandon Extra Brut / Delice"
      },
      "descripcion": {},
      "precio": 38000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-copa-chandon",
-     "nombre": {
-      "es": "Copa Chandon Extra Brut",
-      "en": "Chandon Extra Brut by the glass",
-      "pt": "Chandon Extra Brut em taça"
-     },
-     "descripcion": {},
-     "precio": 15000,
      "tags": []
     }
    ]
