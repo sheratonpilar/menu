@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:15:05.633Z",
+  "actualizado": "2026-08-28T16:40:38.701Z",
   "ver_tambien": "",
   "pie": {}
  },
@@ -125,7 +125,18 @@
       "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-chandon",
+     "nombre": {
+      "es": "Copa Chandon Extra Brut",
+      "en": "Chandon Extra Brut by the glass",
+      "pt": "Chandon Extra Brut em taça"
+     },
+     "descripcion": {},
+     "precio": 15000,
      "tags": []
     }
    ]
@@ -894,6 +905,17 @@
    "nota": {},
    "items": [
     {
+     "id": "esp-rutini-brut-nature",
+     "nombre": {
+      "es": "Rutini Brut Nature",
+      "en": "Rutini Brut Nature",
+      "pt": "Rutini Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 73000,
+     "tags": []
+    },
+    {
      "id": "rs-esp-rutini-eb",
      "nombre": {
       "es": "Rutini Extra Brut",
@@ -905,14 +927,47 @@
      "tags": []
     },
     {
-     "id": "esp-rutini-brut-nature",
+     "id": "esp-dominio-brut-nature",
      "nombre": {
-      "es": "Rutini Brut Nature",
-      "en": "Rutini Brut Nature",
-      "pt": "Rutini Brut Nature"
+      "es": "Dominio Brut Nature",
+      "en": "Dominio Brut Nature",
+      "pt": "Dominio Brut Nature"
      },
      "descripcion": {},
-     "precio": 59000,
+     "precio": 32000,
+     "tags": []
+    },
+    {
+     "id": "esp-dominio-extra-brut",
+     "nombre": {
+      "es": "Dominio Extra Brut",
+      "en": "Dominio Extra Brut",
+      "pt": "Dominio Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 37000,
+     "tags": []
+    },
+    {
+     "id": "esp-trumpeter-brut-nature",
+     "nombre": {
+      "es": "Trumpeter Brut Nature",
+      "en": "Trumpeter Brut Nature",
+      "pt": "Trumpeter Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": []
+    },
+    {
+     "id": "esp-trumpeter-rose",
+     "nombre": {
+      "es": "Trumpeter Rosé",
+      "en": "Trumpeter Rosé",
+      "pt": "Trumpeter Rosé"
+     },
+     "descripcion": {},
+     "precio": 51000,
      "tags": []
     },
     {
@@ -938,17 +993,6 @@
      "tags": []
     },
     {
-     "id": "esp-dominio-brut-nature",
-     "nombre": {
-      "es": "Dominio Brut Nature",
-      "en": "Dominio Brut Nature",
-      "pt": "Dominio Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
-    },
-    {
      "id": "rs-esp-moet",
      "nombre": {
       "es": "Moet Ice Imperial",
@@ -957,17 +1001,6 @@
      },
      "descripcion": {},
      "precio": 54000,
-     "tags": []
-    },
-    {
-     "id": "esp-dominio-extra-brut",
-     "nombre": {
-      "es": "Dominio Extra Brut",
-      "en": "Dominio Extra Brut",
-      "pt": "Dominio Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 37000,
      "tags": []
     },
     {
@@ -982,17 +1015,6 @@
      "tags": []
     },
     {
-     "id": "esp-trumpeter-brut-nature",
-     "nombre": {
-      "es": "Trumpeter Brut Nature",
-      "en": "Trumpeter Brut Nature",
-      "pt": "Trumpeter Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
-    },
-    {
      "id": "rs-esp-veuve-rich",
      "nombre": {
       "es": "Veuve Clicquot Rich",
@@ -1004,17 +1026,6 @@
      "tags": []
     },
     {
-     "id": "esp-trumpeter-rose",
-     "nombre": {
-      "es": "Trumpeter Rosé",
-      "en": "Trumpeter Rosé",
-      "pt": "Trumpeter Rosé"
-     },
-     "descripcion": {},
-     "precio": 51000,
-     "tags": []
-    },
-    {
      "id": "rs-esp-veuve-rose",
      "nombre": {
       "es": "Veuve Clicquot Rosé",
@@ -1023,28 +1034,6 @@
      },
      "descripcion": {},
      "precio": 63000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-baron-b",
-     "nombre": {
-      "es": "Barón B Extra Brut",
-      "en": "Barón B Extra Brut",
-      "pt": "Barón B Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 420000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-chandon-eb",
-     "nombre": {
-      "es": "Chandon Extra Brut",
-      "en": "Chandon Extra Brut",
-      "pt": "Chandon Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 105000,
      "tags": []
     },
     {
@@ -1067,6 +1056,17 @@
      },
      "descripcion": {},
      "precio": 460000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-baron-b",
+     "nombre": {
+      "es": "Barón B Extra Brut",
+      "en": "Barón B Extra Brut",
+      "pt": "Barón B Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 420000,
      "tags": []
     },
     {
