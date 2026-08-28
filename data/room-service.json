@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:40:38.700Z",
+  "actualizado": "2026-08-28T18:51:36.777Z",
   "ver_tambien": "",
   "pie": {
    "es": "Menú In-Room Dining · Interno 2840. Valor del servicio por persona: $ 7.000. Si tiene alguna restricción alimentaria, por favor avise a nuestro personal antes de realizar su pedido.",
@@ -219,118 +219,6 @@
    ]
   },
   {
-   "id": "cocina",
-   "nombre": {
-    "es": "Cocina",
-    "en": "Main courses",
-    "pt": "Pratos principais"
-   },
-   "foto": "lb-cocina.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "rs-salmon",
-     "nombre": {
-      "es": "Salmón (Room Service)",
-      "en": "Salmon (Room Service)",
-      "pt": "Salmão (Room Service)"
-     },
-     "descripcion": {
-      "es": "Salmón grillado con mantecado cítrico, tropezones de parmesano y vegetales salteados.",
-      "en": "Grilled salmon with citrus butter, parmesan and sautéed vegetables.",
-      "pt": "Salmão grelhado com manteiga cítrica, parmesão e legumes salteados."
-     },
-     "precio": 53000,
-     "tags": [
-      "SIN_TACC"
-     ]
-    },
-    {
-     "id": "rs-ave",
-     "nombre": {
-      "es": "Ave",
-      "en": "Chicken",
-      "pt": "Frango"
-     },
-     "descripcion": {
-      "es": "Pollo grillado con puré de calabazas y sus vegetales de estación.",
-      "en": "Grilled chicken with pumpkin purée and seasonal vegetables.",
-      "pt": "Frango grelhado com purê de abóbora e legumes da estação."
-     },
-     "precio": 45000,
-     "tags": [
-      "SIN_TACC"
-     ]
-    },
-    {
-     "id": "rs-noquis",
-     "nombre": {
-      "es": "Ñoquis (Room Service)",
-      "en": "Gnocchi (Room Service)",
-      "pt": "Nhoque (Room Service)"
-     },
-     "descripcion": {
-      "es": "Ñoquis de boniato con crema de puerro y crocante de almendra.",
-      "en": "Sweet potato gnocchi with leek cream and almond crunch.",
-      "pt": "Nhoque de batata-doce com creme de alho-poró e crocante de amêndoa."
-     },
-     "precio": 43000,
-     "tags": [
-      "VEGETARIANO"
-     ]
-    },
-    {
-     "id": "rs-cuadretti",
-     "nombre": {
-      "es": "Cuadretti de espinaca",
-      "en": "Spinach cuadretti",
-      "pt": "Cuadretti de espinafre"
-     },
-     "descripcion": {
-      "es": "Cuadretti en masa verde relleno de cabutia y queso port salud con pomodoro suave.",
-      "en": "Green pasta filled with butternut and port-salut cheese, light tomato sauce.",
-      "pt": "Massa verde recheada com abóbora e queijo port salut, molho de tomate suave."
-     },
-     "precio": 39000,
-     "tags": [
-      "VEGETARIANO"
-     ]
-    },
-    {
-     "id": "rs-penne",
-     "nombre": {
-      "es": "Penne",
-      "en": "Penne",
-      "pt": "Penne"
-     },
-     "descripcion": {
-      "es": "Penne con crema a los cuatro queso.",
-      "en": "Penne with four-cheese cream.",
-      "pt": "Penne ao creme de quatro queijos."
-     },
-     "precio": 38000,
-     "tags": [
-      "VEGETARIANO"
-     ]
-    },
-    {
-     "id": "rs-espiral-lomo",
-     "nombre": {
-      "es": "Espiral de lomo",
-      "en": "Spiral tenderloin",
-      "pt": "Filé em espiral"
-     },
-     "descripcion": {
-      "es": "Espiral de lomo con vegetales y mozzarella, milhojas de papa y criolla cítrica con palta.",
-      "en": "Tenderloin spiral with vegetables and mozzarella, potato mille-feuille and citrus criolla with avocado.",
-      "pt": "Filé em espiral com legumes e mussarela, mil-folhas de batata e criolla cítrica com abacate."
-     },
-     "precio": 44000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "ensaladas",
    "nombre": {
     "es": "Ensaladas",
@@ -374,24 +262,32 @@
      "tags": []
     },
     {
-     "id": "rs-caesar-ave",
+     "id": "lb-caesar-ave",
      "nombre": {
-      "es": "Caesar + ave grillada",
-      "en": "Caesar + grilled chicken",
-      "pt": "Caesar + frango grelhado"
+      "es": "Caesar ave",
+      "en": "Chicken caesar",
+      "pt": "Caesar de frango"
      },
-     "descripcion": {},
+     "descripcion": {
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar, con ave.",
+      "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with chicken.",
+      "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
+     },
      "precio": 38000,
      "tags": []
     },
     {
-     "id": "rs-caesar-salmon",
+     "id": "lb-caesar-salmon",
      "nombre": {
-      "es": "Caesar + salmón ahumado",
-      "en": "Caesar + smoked salmon",
-      "pt": "Caesar + salmão defumado"
+      "es": "Caesar salmón ahumado",
+      "en": "Smoked salmon caesar",
+      "pt": "Caesar de salmão"
      },
-     "descripcion": {},
+     "descripcion": {
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar, con salmón ahumado.",
+      "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with smoked salmon.",
+      "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com salmão defumado."
+     },
      "precio": 48000,
      "tags": []
     }
@@ -467,6 +363,17 @@
    "nota": {},
    "items": [
     {
+     "id": "rs-croissant",
+     "nombre": {
+      "es": "Croissant de jamón y queso",
+      "en": "Ham and cheese croissant",
+      "pt": "Croissant de presunto e queijo"
+     },
+     "descripcion": {},
+     "precio": 27000,
+     "tags": []
+    },
+    {
      "id": "lb-hamburguesa",
      "nombre": {
       "es": "Hamburguesa",
@@ -479,18 +386,9 @@
       "pt": "Pão de batata, tomate, mix de folhas, cheddar, picles, bacon, molho ranch, nosso molho e batatas fritas."
      },
      "precio": 43000,
-     "tags": []
-    },
-    {
-     "id": "rs-croissant",
-     "nombre": {
-      "es": "Croissant de jamón y queso",
-      "en": "Ham and cheese croissant",
-      "pt": "Croissant de presunto e queijo"
-     },
-     "descripcion": {},
-     "precio": 27000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "lb-tostado-jq",
@@ -498,21 +396,6 @@
       "es": "Tostado de jamón y queso",
       "en": "Ham and cheese toastie",
       "pt": "Misto quente"
-     },
-     "descripcion": {
-      "es": "En pan árabe o inglés.",
-      "en": "On pita or white bread.",
-      "pt": "Em pão árabe ou de forma."
-     },
-     "precio": 22000,
-     "tags": []
-    },
-    {
-     "id": "lb-tostado-jqt",
-     "nombre": {
-      "es": "Tostado de jamón, queso y tomate",
-      "en": "Ham, cheese and tomato toastie",
-      "pt": "Misto quente com tomate"
      },
      "descripcion": {
       "es": "En pan árabe o inglés.",
@@ -535,6 +418,21 @@
       "pt": "Frango, ovo, bacon, tomate, presunto, queijo e alface."
      },
      "precio": 39000,
+     "tags": []
+    },
+    {
+     "id": "lb-tostado-jqt",
+     "nombre": {
+      "es": "Tostado de jamón, queso y tomate",
+      "en": "Ham, cheese and tomato toastie",
+      "pt": "Misto quente com tomate"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 22000,
      "tags": []
     }
    ]
@@ -567,13 +465,13 @@
    ]
   },
   {
-   "id": "pasteleria",
+   "id": "opciones-dulces",
    "nombre": {
-    "es": "Pastelería",
-    "en": "Pastry",
-    "pt": "Confeitaria"
+    "es": "Opciones dulces",
+    "en": "Sweets",
+    "pt": "Opções doces"
    },
-   "foto": "",
+   "foto": "lb-pasteleria.jpg",
    "nota": {},
    "items": [
     {
@@ -596,7 +494,9 @@
      },
      "descripcion": {},
      "precio": 23000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "rs-tarta-coco",
@@ -620,29 +520,6 @@
      "precio": 23000,
      "tags": []
     },
-    {
-     "id": "lb-medialunas",
-     "nombre": {
-      "es": "Medialunas",
-      "en": "Croissants",
-      "pt": "Croissants argentinos"
-     },
-     "descripcion": {},
-     "precio": 3800,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "opciones-dulces",
-   "nombre": {
-    "es": "Opciones dulces",
-    "en": "Sweets",
-    "pt": "Opções doces"
-   },
-   "foto": "lb-pasteleria.jpg",
-   "nota": {},
-   "items": [
     {
      "id": "lb-macarons",
      "nombre": {
@@ -668,6 +545,17 @@
      "descripcion": {},
      "precio": 17000,
      "tags": []
+    },
+    {
+     "id": "lb-medialunas",
+     "nombre": {
+      "es": "Medialunas",
+      "en": "Croissants",
+      "pt": "Croissants argentinos"
+     },
+     "descripcion": {},
+     "precio": 3800,
+     "tags": []
     }
    ]
   },
@@ -682,32 +570,6 @@
    "nota": {},
    "items": [
     {
-     "id": "lb-helado",
-     "nombre": {
-      "es": "Helado",
-      "en": "Ice cream",
-      "pt": "Sorvete"
-     },
-     "descripcion": {
-      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
-      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
-      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
-     },
-     "precio": 24000,
-     "tags": []
-    },
-    {
-     "id": "lb-flan",
-     "nombre": {
-      "es": "Flan con dulce de leche",
-      "en": "Crème caramel with dulce de leche",
-      "pt": "Pudim com doce de leite"
-     },
-     "descripcion": {},
-     "precio": 24000,
-     "tags": []
-    },
-    {
      "id": "lb-frutas",
      "nombre": {
       "es": "Frutas fileteadas",
@@ -716,9 +578,7 @@
      },
      "descripcion": {},
      "precio": 24000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "rs-creme-caramel",
@@ -732,13 +592,17 @@
      "tags": []
     },
     {
-     "id": "rs-tiramisu",
+     "id": "lb-helado",
      "nombre": {
-      "es": "Tiramisú",
-      "en": "Tiramisu",
-      "pt": "Tiramisu"
+      "es": "Helado",
+      "en": "Ice cream",
+      "pt": "Sorvete"
      },
-     "descripcion": {},
+     "descripcion": {
+      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
+      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
+      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+     },
      "precio": 24000,
      "tags": []
     },
@@ -760,6 +624,17 @@
      ]
     },
     {
+     "id": "rs-tiramisu",
+     "nombre": {
+      "es": "Tiramisú",
+      "en": "Tiramisu",
+      "pt": "Tiramisu"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": []
+    },
+    {
      "id": "lb-franui-free",
      "nombre": {
       "es": "Franui Free",
@@ -773,23 +648,18 @@
      },
      "precio": 15000,
      "tags": [
-      "NUEVO",
       "SIN_TACC",
       "VEGANO"
      ]
     },
     {
-     "id": "rs-tableta-freddo",
+     "id": "lb-tableta-freddo",
      "nombre": {
-      "es": "Tableta de helado Freddo",
-      "en": "Freddo ice cream bar",
-      "pt": "Tablete de sorvete Freddo"
+      "es": "Tableta Freddo",
+      "en": "Freddo chocolate bar",
+      "pt": "Tablete Freddo"
      },
-     "descripcion": {
-      "es": "Dulce de leche / crema americana / chocolate tentación.",
-      "en": "Dulce de leche / cream / chocolate.",
-      "pt": "Doce de leite / creme / chocolate."
-     },
+     "descripcion": {},
      "precio": 8500,
      "tags": [
       "SIN_TACC"
@@ -887,9 +757,10 @@
       "pt": "Massa ao creme"
      },
      "descripcion": {},
-     "precio": 34000,
+     "precio": 31000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "SIN_TACC"
      ]
     },
     {
@@ -939,9 +810,7 @@
      },
      "descripcion": {},
      "precio": 7200,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-agua-saborizada",
@@ -966,11 +835,37 @@
      "tags": []
     },
     {
+     "id": "lb-gaseosas",
+     "nombre": {
+      "es": "Gaseosa",
+      "en": "Soft drink",
+      "pt": "Refrigerante"
+     },
+     "descripcion": {
+      "es": "Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Pepsi / 7Up / Paso de los Toros"
+     },
+     "precio": 7200,
+     "tags": []
+    },
+    {
      "id": "rs-jugo",
      "nombre": {
       "es": "Jugo exprimido (naranja o pomelo)",
       "en": "Fresh juice (orange or grapefruit)",
       "pt": "Suco natural (laranja ou toranja)"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "lb-limonada",
+     "nombre": {
+      "es": "Limonada con menta y jengibre",
+      "en": "Lemonade with mint and ginger",
+      "pt": "Limonada com hortelã e gengibre"
      },
      "descripcion": {},
      "precio": 12000,
@@ -996,9 +891,7 @@
      },
      "descripcion": {},
      "precio": 13000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-milkshake",
@@ -1009,21 +902,6 @@
      },
      "descripcion": {},
      "precio": 16000,
-     "tags": []
-    },
-    {
-     "id": "rs-limonada",
-     "nombre": {
-      "es": "Limonada",
-      "en": "Lemonade",
-      "pt": "Limonada"
-     },
-     "descripcion": {
-      "es": "Menta, jengibre, azúcar y limón.",
-      "en": "Mint, ginger, sugar and lemon.",
-      "pt": "Hortelã, gengibre, açúcar e limão."
-     },
-     "precio": 12000,
      "tags": []
     },
     {
@@ -1104,6 +982,26 @@
      "tags": []
     },
     {
+     "id": "dg-cafe-doble",
+     "nombre": {
+      "es": "Café expreso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café expresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-jarrito",
+     "nombre": {
+      "es": "Café expreso en jarrito"
+     },
+     "descripcion": {},
+     "precio": 9000,
+     "tags": []
+    },
+    {
      "id": "lb-cappuccino",
      "nombre": {
       "es": "Cappuccino",
@@ -1119,28 +1017,6 @@
      "tags": []
     },
     {
-     "id": "dg-cafe-doble",
-     "nombre": {
-      "es": "Café expreso doble / con leche",
-      "en": "Double espresso / with milk",
-      "pt": "Café expresso duplo / com leite"
-     },
-     "descripcion": {},
-     "precio": 12000,
-     "tags": []
-    },
-    {
-     "id": "dg-te",
-     "nombre": {
-      "es": "Selección de té de hierbas",
-      "en": "Herbal tea selection",
-      "pt": "Seleção de chás de ervas"
-     },
-     "descripcion": {},
-     "precio": 7500,
-     "tags": []
-    },
-    {
      "id": "lb-chocolatada",
      "nombre": {
       "es": "Chocolatada",
@@ -1149,17 +1025,6 @@
      },
      "descripcion": {},
      "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "rs-termo-cafe",
-     "nombre": {
-      "es": "Termo chico café",
-      "en": "Small coffee flask",
-      "pt": "Garrafa pequena de café"
-     },
-     "descripcion": {},
-     "precio": 23000,
      "tags": []
     },
     {
@@ -1174,6 +1039,32 @@
       "pt": "Leite quente com barra de chocolate."
      },
      "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "dg-te",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {
+      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
+      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
+      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
+     },
+     "precio": 7500,
+     "tags": []
+    },
+    {
+     "id": "rs-termo-cafe",
+     "nombre": {
+      "es": "Termo chico café",
+      "en": "Small coffee flask",
+      "pt": "Garrafa pequena de café"
+     },
+     "descripcion": {},
+     "precio": 23000,
      "tags": []
     },
     {
@@ -1312,17 +1203,6 @@
      },
      "descripcion": {},
      "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "rs-wh-chivas",
-     "nombre": {
-      "es": "Chivas Regal 12 años",
-      "en": "Chivas Regal 12yo",
-      "pt": "Chivas Regal 12 anos"
-     },
-     "descripcion": {},
-     "precio": 18500,
      "tags": []
     }
    ]
@@ -1552,6 +1432,61 @@
    "nota": {},
    "items": [
     {
+     "id": "copa-rutini-malbec-lb",
+     "nombre": {
+      "es": "Rutini Malbec",
+      "en": "Rutini Malbec",
+      "pt": "Rutini Malbec"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-cab-malbec-lb",
+     "nombre": {
+      "es": "Rutini Cabernet Malbec",
+      "en": "Rutini Cabernet Malbec",
+      "pt": "Rutini Cabernet Malbec"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-sb-lb",
+     "nombre": {
+      "es": "Rutini Sauvignon Blanc",
+      "en": "Rutini Sauvignon Blanc",
+      "pt": "Rutini Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-malbec-cs-lb",
+     "nombre": {
+      "es": "Trumpeter Malbec / Cabernet Sauvignon",
+      "en": "Trumpeter Malbec / Cabernet Sauvignon",
+      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sb-chard-lb",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
      "id": "rs-esp-copa-chandon",
      "nombre": {
       "es": "Copa Chandon Extra Brut",
@@ -1560,117 +1495,6 @@
      },
      "descripcion": {},
      "precio": 15000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "espumosos",
-   "nombre": {
-    "es": "Espumosos",
-    "en": "Sparkling wines",
-    "pt": "Espumantes"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "rs-esp-rutini-eb",
-     "nombre": {
-      "es": "Rutini Extra Brut",
-      "en": "Rutini Extra Brut",
-      "pt": "Rutini Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 72000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-trumpeter-eb",
-     "nombre": {
-      "es": "Trumpeter Extra Brut",
-      "en": "Trumpeter Extra Brut",
-      "pt": "Trumpeter Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 37000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-dom-perignon",
-     "nombre": {
-      "es": "Dom Perignon",
-      "en": "Dom Perignon",
-      "pt": "Dom Perignon"
-     },
-     "descripcion": {},
-     "precio": 990000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-moet",
-     "nombre": {
-      "es": "Moet Ice Imperial",
-      "en": "Moet Ice Imperial",
-      "pt": "Moet Ice Imperial"
-     },
-     "descripcion": {},
-     "precio": 460000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-veuve-yellow",
-     "nombre": {
-      "es": "Veuve Clicquot Yellow Label",
-      "en": "Veuve Clicquot Yellow Label",
-      "pt": "Veuve Clicquot Yellow Label"
-     },
-     "descripcion": {},
-     "precio": 460000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-veuve-rich",
-     "nombre": {
-      "es": "Veuve Clicquot Rich",
-      "en": "Veuve Clicquot Rich",
-      "pt": "Veuve Clicquot Rich"
-     },
-     "descripcion": {},
-     "precio": 480000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-veuve-rose",
-     "nombre": {
-      "es": "Veuve Clicquot Rosé",
-      "en": "Veuve Clicquot Rosé",
-      "pt": "Veuve Clicquot Rosé"
-     },
-     "descripcion": {},
-     "precio": 480000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-baron-b",
-     "nombre": {
-      "es": "Barón B Extra Brut",
-      "en": "Barón B Extra Brut",
-      "pt": "Barón B Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 56000,
-     "tags": []
-    },
-    {
-     "id": "esp-chandon-extra-brut-delice",
-     "nombre": {
-      "es": "Chandon Extra Brut / Delice",
-      "en": "Chandon Extra Brut / Delice",
-      "pt": "Chandon Extra Brut / Delice"
-     },
-     "descripcion": {},
-     "precio": 38000,
      "tags": []
     }
    ]
