@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T14:59:50.309Z",
+  "actualizado": "2026-08-28T16:15:05.625Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Apto celíacos / *Sugerencia del chef / Vegetariano. Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido. Consultar por otras opciones sin TACC. En caso de compartir un plato, se adicionará un 40% al valor del mismo. Las especialidades del chef no son para compartir.",
@@ -873,25 +873,14 @@
    "nota": {},
    "items": [
     {
-     "id": "copa-trumpeter-malbec-cs-lb",
+     "id": "copa-rutini-malbec-lb",
      "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+      "es": "Rutini Malbec",
+      "en": "Rutini Malbec",
+      "pt": "Rutini Malbec"
      },
      "descripcion": {},
-     "precio": 63000,
-     "tags": []
-    },
-    {
-     "id": "copa-encuentro-malbec-lb",
-     "nombre": {
-      "es": "Encuentro Malbec",
-      "en": "Encuentro Malbec",
-      "pt": "Encuentro Malbec"
-     },
-     "descripcion": {},
-     "precio": 32000,
+     "precio": 23000,
      "tags": []
     },
     {
@@ -902,7 +891,29 @@
       "pt": "Rutini Cabernet Malbec"
      },
      "descripcion": {},
-     "precio": 63000,
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-sb-lb",
+     "nombre": {
+      "es": "Rutini Sauvignon Blanc",
+      "en": "Rutini Sauvignon Blanc",
+      "pt": "Rutini Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-malbec-cs-lb",
+     "nombre": {
+      "es": "Trumpeter Malbec / Cabernet Sauvignon",
+      "en": "Trumpeter Malbec / Cabernet Sauvignon",
+      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
      "tags": []
     },
     {
@@ -914,39 +925,6 @@
      },
      "descripcion": {},
      "precio": 21000,
-     "tags": []
-    },
-    {
-     "id": "copa-dv-catena-chard-lb",
-     "nombre": {
-      "es": "DV Catena Chardonnay",
-      "en": "DV Catena Chardonnay",
-      "pt": "DV Catena Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 24000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-sb-lb",
-     "nombre": {
-      "es": "Rutini Sauvignon Blanc",
-      "en": "Rutini Sauvignon Blanc",
-      "pt": "Rutini Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-malbec-lb",
-     "nombre": {
-      "es": "Rutini Malbec",
-      "en": "Rutini Malbec",
-      "pt": "Rutini Malbec"
-     },
-     "descripcion": {},
-     "precio": 39000,
      "tags": []
     }
    ]
