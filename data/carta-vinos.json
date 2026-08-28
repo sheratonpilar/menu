@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:40:38.701Z",
+  "actualizado": "2026-08-28T18:51:36.777Z",
   "ver_tambien": "",
   "pie": {}
  },
@@ -1159,7 +1159,7 @@
       "pt": "Carpano Antica Formula"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 24000,
      "tags": []
     },
     {
@@ -1170,7 +1170,7 @@
       "pt": "Fernet Branca / Fernet Branca Menta"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -1187,7 +1187,7 @@
     {
      "id": "ape-martini-bianco-rosso-extra-dry-bitter",
      "nombre": {
-      "es": "Martini Bianco, Rosso, Extra Dry, Bitter",
+      "es": "Martini Bianco / Rosso / Extra Dry / Bitter",
       "en": "Martini Bianco, Rosso, Extra Dry, Bitter",
       "pt": "Martini Bianco, Rosso, Extra Dry, Bitter"
      },
@@ -1214,7 +1214,7 @@
       "pt": "Cinzano Bianco, Rosso"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 8000,
      "tags": []
     },
     {
@@ -1225,7 +1225,7 @@
       "pt": "Carpano Rosso / Bianco / Dry"
      },
      "descripcion": {},
-     "precio": 9200,
+     "precio": 8000,
      "tags": []
     }
    ]
@@ -1279,7 +1279,7 @@
       "pt": "Drambuie"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -1290,7 +1290,7 @@
       "pt": "Grand Marnier / Cointreau / Grappa Candolini"
      },
      "descripcion": {},
-     "precio": 30000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -1301,7 +1301,7 @@
       "pt": "Amaretto / Sambuca Oro"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -1312,7 +1312,7 @@
       "pt": "Jägermeister / Bailey's / Frangelico"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -1323,7 +1323,7 @@
       "pt": "Lemoncello Strega"
      },
      "descripcion": {},
-     "precio": 17000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -1334,7 +1334,7 @@
       "pt": "Amarula / Kahlúa"
      },
      "descripcion": {},
-     "precio": 17000,
+     "precio": 15000,
      "tags": []
     },
     {
@@ -1345,7 +1345,7 @@
       "pt": "Tía María"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 8000,
      "tags": []
     }
    ]
@@ -1372,7 +1372,7 @@
       "pt": "Grey Goose"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 36000,
      "tags": []
     },
     {
@@ -1383,7 +1383,7 @@
       "pt": "Belvedere"
      },
      "descripcion": {},
-     "precio": 230000,
+     "precio": 30000,
      "tags": []
     },
     {
@@ -1394,7 +1394,7 @@
       "pt": "Absolut Flavors"
      },
      "descripcion": {},
-     "precio": 6600,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -1405,7 +1405,7 @@
       "pt": "Absolut"
      },
      "descripcion": {},
-     "precio": 10000,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -1416,7 +1416,7 @@
       "pt": "Ketel One"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 10000,
      "tags": []
     },
     {
@@ -1427,7 +1427,7 @@
       "pt": "Smirnoff"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 6600,
      "tags": []
     },
     {
@@ -1438,7 +1438,7 @@
       "pt": "Nuvo (botella)"
      },
      "descripcion": {},
-     "precio": 22000,
+     "precio": 230000,
      "tags": []
     }
    ]
@@ -1465,7 +1465,7 @@
       "pt": "Bombay"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 22000,
      "tags": []
     },
     {
@@ -1476,7 +1476,7 @@
       "pt": "Beefeater Saborizados"
      },
      "descripcion": {},
-     "precio": 7500,
+     "precio": 21000,
      "tags": []
     },
     {
@@ -1509,7 +1509,7 @@
       "pt": "Gordon's / Merle"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 7500,
      "tags": []
     }
    ]
@@ -1536,7 +1536,7 @@
       "pt": "José Cuervo Oro Especial"
      },
      "descripcion": {},
-     "precio": 58000,
+     "precio": 15000,
      "tags": []
     },
     {
@@ -1547,7 +1547,7 @@
       "pt": "José Cuervo Blanco Especial"
      },
      "descripcion": {},
-     "precio": 8000,
+     "precio": 15000,
      "tags": []
     }
    ]
@@ -1574,7 +1574,7 @@
       "pt": "Hennessy V.S.O.P."
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 25000,
      "tags": []
     },
     {
@@ -1585,7 +1585,7 @@
       "pt": "Rémy Martin V.S.O.P."
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 58000,
      "tags": []
     },
     {
@@ -1596,7 +1596,7 @@
       "pt": "Hennessy V.S."
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -1607,7 +1607,7 @@
       "pt": "Reserva San Juan"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 8000,
      "tags": []
     }
    ]
@@ -1634,7 +1634,7 @@
       "pt": "Velho Barreiro"
      },
      "descripcion": {},
-     "precio": 120000,
+     "precio": 9000,
      "tags": []
     },
     {
@@ -1645,7 +1645,7 @@
       "pt": "Velho Pitú"
      },
      "descripcion": {},
-     "precio": 90000,
+     "precio": 9000,
      "tags": []
     }
    ]
@@ -1672,7 +1672,7 @@
       "pt": "Ron Bacardi 8 años"
      },
      "descripcion": {},
-     "precio": 37000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -1683,7 +1683,7 @@
       "pt": "Havana Club 7 años"
      },
      "descripcion": {},
-     "precio": 60000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -1694,7 +1694,7 @@
       "pt": "Havana Club 3 años"
      },
      "descripcion": {},
-     "precio": 45000,
+     "precio": 10900,
      "tags": []
     },
     {
@@ -1705,7 +1705,7 @@
       "pt": "Havana Especial"
      },
      "descripcion": {},
-     "precio": 45000,
+     "precio": 10000,
      "tags": []
     },
     {
@@ -1716,7 +1716,7 @@
       "pt": "Bacardi Oro"
      },
      "descripcion": {},
-     "precio": 60000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -1727,7 +1727,7 @@
       "pt": "Bacardi Carta Blanca"
      },
      "descripcion": {},
-     "precio": 92000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -1738,7 +1738,7 @@
       "pt": "Malibú"
      },
      "descripcion": {},
-     "precio": 34000,
+     "precio": 9000,
      "tags": []
     }
    ]
@@ -1765,7 +1765,7 @@
       "pt": "Macallan Double Cask 15 años"
      },
      "descripcion": {},
-     "precio": 19000,
+     "precio": 120000,
      "tags": []
     },
     {
@@ -1776,7 +1776,7 @@
       "pt": "Royal Salute 21 años"
      },
      "descripcion": {},
-     "precio": 48000,
+     "precio": 90000,
      "tags": []
     },
     {
@@ -1787,18 +1787,7 @@
       "pt": "J.W. Blue Label"
      },
      "descripcion": {},
-     "precio": 30000,
-     "tags": []
-    },
-    {
-     "id": "rs-wh-chivas",
-     "nombre": {
-      "es": "Chivas Regal 12 años",
-      "en": "Chivas Regal 12yo",
-      "pt": "Chivas Regal 12 anos"
-     },
-     "descripcion": {},
-     "precio": 9000,
+     "precio": 92000,
      "tags": []
     },
     {
@@ -1809,7 +1798,7 @@
       "pt": "Macallan Double Cask 12 años"
      },
      "descripcion": {},
-     "precio": 23000,
+     "precio": 60000,
      "tags": []
     },
     {
@@ -1820,7 +1809,7 @@
       "pt": "Chivas Regal 18 años"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 45000,
      "tags": []
     },
     {
@@ -1831,7 +1820,7 @@
       "pt": "Glenmorangie"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 45000,
      "tags": []
     },
     {
@@ -1842,7 +1831,7 @@
       "pt": "J.W. Platinum / J.W. 18 años"
      },
      "descripcion": {},
-     "precio": 18000,
+     "precio": 60000,
      "tags": []
     },
     {
@@ -1853,7 +1842,7 @@
       "pt": "J.W. Green"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 37000,
      "tags": []
     },
     {
@@ -1864,7 +1853,7 @@
       "pt": "Caol Ila 12 años"
      },
      "descripcion": {},
-     "precio": 17000,
+     "precio": 34000,
      "tags": []
     },
     {
@@ -1875,7 +1864,7 @@
       "pt": "The Glenlivet 15 años"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 32000,
      "tags": []
     },
     {
@@ -1886,7 +1875,7 @@
       "pt": "Glenfiddich 12 años"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 32000,
      "tags": []
     },
     {
@@ -1897,7 +1886,7 @@
       "pt": "J.W. Gold"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 23000,
      "tags": []
     },
     {
@@ -1908,7 +1897,7 @@
       "pt": "Cardhu 12 años"
      },
      "descripcion": {},
-     "precio": 18000,
+     "precio": 30000,
      "tags": []
     },
     {
@@ -1919,7 +1908,7 @@
       "pt": "Highland Park 12 años"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 48000,
      "tags": []
     },
     {
@@ -1930,7 +1919,7 @@
       "pt": "J.W. Double Black"
      },
      "descripcion": {},
-     "precio": 9500,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -1941,7 +1930,7 @@
       "pt": "J.W. Black Label"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 18000,
      "tags": []
     },
     {
@@ -1952,7 +1941,7 @@
       "pt": "The Glenlivet Reserve"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 18000,
      "tags": []
     },
     {
@@ -1963,7 +1952,7 @@
       "pt": "Jameson"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -1974,7 +1963,7 @@
       "pt": "Jim Beam Black"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 16000,
      "tags": []
     },
     {
@@ -1985,7 +1974,7 @@
       "pt": "Ballantine's Finest"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -1996,7 +1985,7 @@
       "pt": "The Famous Grouse"
      },
      "descripcion": {},
-     "precio": 16000,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -2007,7 +1996,18 @@
       "pt": "Jack Daniels"
      },
      "descripcion": {},
-     "precio": 9000,
+     "precio": 15000,
+     "tags": []
+    },
+    {
+     "id": "rs-wh-chivas",
+     "nombre": {
+      "es": "Chivas Regal 12 años",
+      "en": "Chivas Regal 12yo",
+      "pt": "Chivas Regal 12 anos"
+     },
+     "descripcion": {},
+     "precio": 15000,
      "tags": []
     },
     {
@@ -2018,7 +2018,7 @@
       "pt": "Ballantine's Blue 12 años"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -2029,7 +2029,7 @@
       "pt": "Grant's"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -2040,7 +2040,7 @@
       "pt": "Jim Beam White"
      },
      "descripcion": {},
-     "precio": 10000,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -2051,7 +2051,7 @@
       "pt": "J.W. Red Label"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -2062,7 +2062,7 @@
       "pt": "J&B"
      },
      "descripcion": {},
-     "precio": 10900,
+     "precio": 9500,
      "tags": []
     }
    ]
@@ -2089,7 +2089,7 @@
       "pt": "Mistral"
      },
      "descripcion": {},
-     "precio": 24000,
+     "precio": 9200,
      "tags": []
     },
     {
@@ -2100,7 +2100,7 @@
       "pt": "Sour Capel"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 10500,
      "tags": []
     }
    ]
@@ -2146,21 +2146,6 @@
      "tags": []
     },
     {
-     "id": "rs-trago-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "ckt-lb-bellini",
      "nombre": {
       "es": "Bellini",
@@ -2176,16 +2161,16 @@
      "tags": []
     },
     {
-     "id": "rs-trago-pisco-sour",
+     "id": "rs-trago-tom-collins",
      "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
      },
      "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay gin, soda and lemon juice.",
+      "pt": "Gim Bombay, soda e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -2206,6 +2191,21 @@
      "tags": []
     },
     {
+     "id": "rs-trago-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
+      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
      "id": "ckt-lb-campari-orange",
      "nombre": {
       "es": "Campari Orange",
@@ -2216,21 +2216,6 @@
       "es": "Campari y jugo de naranja.",
       "en": "Campari y jugo de naranja.",
       "pt": "Campari y jugo de naranja."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-caipirovska",
-     "nombre": {
-      "es": "Caipirovska",
-      "en": "Caipirovska",
-      "pt": "Caipivodca"
-     },
-     "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -2251,16 +2236,16 @@
      "tags": []
     },
     {
-     "id": "rs-trago-aperol",
+     "id": "rs-trago-caipirovska",
      "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
+      "es": "Caipirovska",
+      "en": "Caipirovska",
+      "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Smirnoff y limas maceradas.",
+      "en": "Smirnoff vodka and muddled limes.",
+      "pt": "Vodca Smirnoff e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -2276,6 +2261,21 @@
       "es": "Ron Bacardi oro, cola y limón.",
       "en": "Ron Bacardi oro, cola y limón.",
       "pt": "Ron Bacardi oro, cola y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-aperol",
+     "nombre": {
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
+     },
+     "descripcion": {
+      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
+      "en": "Aperol, extra brut sparkling, soda and orange.",
+      "pt": "Aperol, espumante extra brut, soda e laranja."
      },
      "precio": 25000,
      "tags": []
