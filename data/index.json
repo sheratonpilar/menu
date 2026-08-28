@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T22:49:52.206Z",
+ "actualizado": "2026-08-28T23:03:07.007Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -7,7 +7,7 @@
    "tema": "dg",
    "logo": "don-giovanni.svg",
    "orden": 1,
-   "items": 73
+   "items": 71
   },
   {
    "id": "lobby-bar",
