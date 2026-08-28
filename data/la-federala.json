@@ -1,0 +1,180 @@
+{
+ "carta": {
+  "id": "la-federala",
+  "nombre": "La Federala",
+  "tema": "lf",
+  "logo": "la-federala.svg",
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "actualizado": "2026-08-28T00:26:05",
+  "ver_tambien": "",
+  "pie": {
+   "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
+   "en": "Please let our associates know if you have any allergy or intolerance.",
+   "pt": "Por favor, informe nossos associados se você tiver alguma alergia ou intolerância."
+  }
+ },
+ "tags": {
+  "SIN_TACC": {
+   "es": "Sin TACC",
+   "en": "Gluten free",
+   "pt": "Sem glúten"
+  },
+  "VEGETARIANO": {
+   "es": "Vegetariano",
+   "en": "Vegetarian",
+   "pt": "Vegetariano"
+  },
+  "VEGANO": {
+   "es": "Vegano",
+   "en": "Vegan",
+   "pt": "Vegano"
+  },
+  "NUEVO": {
+   "es": "Nuevo",
+   "en": "New",
+   "pt": "Novo"
+  },
+  "SUGERENCIA_CHEF": {
+   "es": "Sugerencia del chef",
+   "en": "Chef's suggestion",
+   "pt": "Sugestão do chef"
+  },
+  "PROMO": {
+   "es": "Promoción",
+   "en": "Special",
+   "pt": "Promoção"
+  }
+ },
+ "config": {
+  "moneda": {
+   "es": "ARS",
+   "en": "ARS",
+   "pt": "ARS"
+  },
+  "simbolo": {
+   "es": "$",
+   "en": "$",
+   "pt": "$"
+  },
+  "hotel": {
+   "es": "Sheraton Pilar Hotel & Convention Center",
+   "en": "Sheraton Pilar Hotel & Convention Center",
+   "pt": "Sheraton Pilar Hotel & Convention Center"
+  }
+ },
+ "secciones": [
+  {
+   "id": "cafeteria",
+   "nombre": {
+    "es": "Cafetería",
+    "en": "Coffee & tea",
+    "pt": "Cafeteria"
+   },
+   "foto": "lb-cafeteria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-cafe",
+     "nombre": {
+      "es": "Café expreso",
+      "en": "Espresso",
+      "pt": "Café expresso"
+     },
+     "descripcion": {
+      "es": "Regular o descafeinado.",
+      "en": "Regular or decaf.",
+      "pt": "Comum ou descafeinado."
+     },
+     "precio": 6000,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-doble",
+     "nombre": {
+      "es": "Café expreso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café expresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "dg-te",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {},
+     "precio": 5500,
+     "tags": []
+    },
+    {
+     "id": "lb-te-twinings",
+     "nombre": {
+      "es": "Selección de té Twinings",
+      "en": "Twinings tea selection",
+      "pt": "Seleção de chás Twinings"
+     },
+     "descripcion": {},
+     "precio": 6500,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "sin-alcohol",
+   "nombre": {
+    "es": "Bebidas sin alcohol",
+    "en": "Soft drinks",
+    "pt": "Bebidas sem álcool"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-agua",
+     "nombre": {
+      "es": "Agua mineral con gas / sin gas",
+      "en": "Mineral water, sparkling or still",
+      "pt": "Água mineral com ou sem gás"
+     },
+     "descripcion": {},
+     "precio": 5900,
+     "tags": [
+      "VEGANO"
+     ]
+    },
+    {
+     "id": "lb-gaseosas",
+     "nombre": {
+      "es": "Gaseosa Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Refrigerante Pepsi / 7Up / Paso de los Toros"
+     },
+     "descripcion": {},
+     "precio": 5900,
+     "tags": []
+    },
+    {
+     "id": "lb-limonada",
+     "nombre": {
+      "es": "Limonada con menta y jengibre",
+      "en": "Lemonade with mint and ginger",
+      "pt": "Limonada com hortelã e gengibre"
+     },
+     "descripcion": {},
+     "precio": 9900,
+     "tags": [
+      "VEGANO"
+     ]
+    }
+   ]
+  }
+ ]
+}

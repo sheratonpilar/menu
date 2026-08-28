@@ -1,0 +1,390 @@
+{
+ "carta": {
+  "id": "pool-snack",
+  "nombre": "Pool Snack",
+  "tema": "pool",
+  "logo": "hotel.svg",
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "actualizado": "2026-08-28T00:26:05",
+  "ver_tambien": "",
+  "pie": {
+   "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
+   "en": "Please let our associates know if you have any allergy or intolerance.",
+   "pt": "Por favor, informe nossos associados se você tiver alguma alergia ou intolerância."
+  }
+ },
+ "tags": {
+  "SIN_TACC": {
+   "es": "Sin TACC",
+   "en": "Gluten free",
+   "pt": "Sem glúten"
+  },
+  "VEGETARIANO": {
+   "es": "Vegetariano",
+   "en": "Vegetarian",
+   "pt": "Vegetariano"
+  },
+  "VEGANO": {
+   "es": "Vegano",
+   "en": "Vegan",
+   "pt": "Vegano"
+  },
+  "NUEVO": {
+   "es": "Nuevo",
+   "en": "New",
+   "pt": "Novo"
+  },
+  "SUGERENCIA_CHEF": {
+   "es": "Sugerencia del chef",
+   "en": "Chef's suggestion",
+   "pt": "Sugestão do chef"
+  },
+  "PROMO": {
+   "es": "Promoción",
+   "en": "Special",
+   "pt": "Promoção"
+  }
+ },
+ "config": {
+  "moneda": {
+   "es": "ARS",
+   "en": "ARS",
+   "pt": "ARS"
+  },
+  "simbolo": {
+   "es": "$",
+   "en": "$",
+   "pt": "$"
+  },
+  "hotel": {
+   "es": "Sheraton Pilar Hotel & Convention Center",
+   "en": "Sheraton Pilar Hotel & Convention Center",
+   "pt": "Sheraton Pilar Hotel & Convention Center"
+  }
+ },
+ "secciones": [
+  {
+   "id": "ensaladas",
+   "nombre": {
+    "es": "Ensaladas",
+    "en": "Salads",
+    "pt": "Saladas"
+   },
+   "foto": "lb-ensaladas.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "lb-capresse",
+     "nombre": {
+      "es": "Capresse",
+      "en": "Caprese",
+      "pt": "Capresse"
+     },
+     "descripcion": {
+      "es": "Tomates asados y frescos, albahaca y burratina.",
+      "en": "Roasted and fresh tomatoes, basil and burratina.",
+      "pt": "Tomates assados e frescos, manjericão e burratina."
+     },
+     "precio": 29500,
+     "tags": [
+      "SIN_TACC",
+      "VEGETARIANO"
+     ]
+    },
+    {
+     "id": "lb-caesar-tradicional",
+     "nombre": {
+      "es": "Caesar tradicional",
+      "en": "Caesar",
+      "pt": "Caesar tradicional"
+     },
+     "descripcion": {
+      "es": "Variedad de verdes, láminas de parmesano, croutons, bacon y su aderezo.",
+      "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing.",
+      "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
+     },
+     "precio": 32000,
+     "tags": []
+    },
+    {
+     "id": "lb-caesar-ave",
+     "nombre": {
+      "es": "Caesar ave",
+      "en": "Chicken caesar",
+      "pt": "Caesar de frango"
+     },
+     "descripcion": {
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar, con ave.",
+      "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with chicken.",
+      "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
+     },
+     "precio": 29000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "sand-fria",
+   "nombre": {
+    "es": "Sandwichería fría",
+    "en": "Cold sandwiches",
+    "pt": "Sanduíches frios"
+   },
+   "foto": "lb-sandwicheria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "lb-avocado-toast",
+     "nombre": {
+      "es": "Avocado toast",
+      "en": "Avocado toast",
+      "pt": "Avocado toast"
+     },
+     "descripcion": {
+      "es": "Pan multicereal, huevo poché, tomates cherry, queso Finlandia, mix de semillas y cremoso de palta.",
+      "en": "Multigrain bread, poached egg, cherry tomatoes, Finlandia cheese, mixed seeds and avocado cream.",
+      "pt": "Pão multigrãos, ovo poché, tomates cereja, queijo Finlandia, sementes e creme de abacate."
+     },
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO"
+     ]
+    },
+    {
+     "id": "lb-bavaria",
+     "nombre": {
+      "es": "Bavaria",
+      "en": "Bavaria",
+      "pt": "Bavaria"
+     },
+     "descripcion": {
+      "es": "Sándwich de salmón ahumado, crema tártara, tomates secos, pepino y rúcula.",
+      "en": "Smoked salmon sandwich, tartare sauce, sun-dried tomato, cucumber and arugula.",
+      "pt": "Sanduíche de salmão defumado, molho tártaro, tomate seco, pepino e rúcula."
+     },
+     "precio": 32000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "sand-caliente",
+   "nombre": {
+    "es": "Sandwichería caliente",
+    "en": "Hot sandwiches",
+    "pt": "Sanduíches quentes"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "lb-hamburguesa",
+     "nombre": {
+      "es": "Hamburguesa",
+      "en": "Burger",
+      "pt": "Hambúrguer"
+     },
+     "descripcion": {
+      "es": "Pan de papa, tomate, mix de verdes, cheddar, pepinillos, bacon, salsa ranchera, nuestra salsa y papas fritas.",
+      "en": "Potato bun, tomato, mixed greens, cheddar, pickles, bacon, ranch sauce, our sauce and fries.",
+      "pt": "Pão de batata, tomate, mix de folhas, cheddar, picles, bacon, molho ranch, nosso molho e batatas fritas."
+     },
+     "precio": 33000,
+     "tags": []
+    },
+    {
+     "id": "lb-tostado-jq",
+     "nombre": {
+      "es": "Tostado de jamón y queso",
+      "en": "Ham and cheese toastie",
+      "pt": "Misto quente"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "lb-tostado-jqt",
+     "nombre": {
+      "es": "Tostado de jamón, queso y tomate",
+      "en": "Ham, cheese and tomato toastie",
+      "pt": "Misto quente com tomate"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 17000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "menores",
+   "nombre": {
+    "es": "Menores",
+    "en": "Kids",
+    "pt": "Infantil"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "ps-men-milanesa",
+     "nombre": {
+      "es": "Milanesa con papas fritas",
+      "en": "Breaded cutlet with fries",
+      "pt": "Milanesa com batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 27500,
+     "tags": []
+    },
+    {
+     "id": "lb-men-nuggets",
+     "nombre": {
+      "es": "Nuggets con papas fritas",
+      "en": "Chicken nuggets with fries",
+      "pt": "Nuggets com batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 30000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "postres",
+   "nombre": {
+    "es": "Postres",
+    "en": "Desserts",
+    "pt": "Sobremesas"
+   },
+   "foto": "lb-postres.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "lb-helado",
+     "nombre": {
+      "es": "Helado",
+      "en": "Ice cream",
+      "pt": "Sorvete"
+     },
+     "descripcion": {
+      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
+      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
+      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+     },
+     "precio": 19500,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "pasteleria",
+   "nombre": {
+    "es": "Pastelería",
+    "en": "Pastry",
+    "pt": "Confeitaria"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "lb-medialunas",
+     "nombre": {
+      "es": "Medialunas",
+      "en": "Croissants",
+      "pt": "Croissants argentinos"
+     },
+     "descripcion": {},
+     "precio": 3000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "nombre": {
+    "es": "Cafetería",
+    "en": "Coffee & tea",
+    "pt": "Cafeteria"
+   },
+   "foto": "lb-cafeteria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-cafe",
+     "nombre": {
+      "es": "Café expreso",
+      "en": "Espresso",
+      "pt": "Café expresso"
+     },
+     "descripcion": {
+      "es": "Regular o descafeinado.",
+      "en": "Regular or decaf.",
+      "pt": "Comum ou descafeinado."
+     },
+     "precio": 5500,
+     "tags": []
+    },
+    {
+     "id": "dg-te",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {},
+     "precio": 5000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "sin-alcohol",
+   "nombre": {
+    "es": "Bebidas sin alcohol",
+    "en": "Soft drinks",
+    "pt": "Bebidas sem álcool"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-agua",
+     "nombre": {
+      "es": "Agua mineral con gas / sin gas",
+      "en": "Mineral water, sparkling or still",
+      "pt": "Água mineral com ou sem gás"
+     },
+     "descripcion": {},
+     "precio": 5300,
+     "tags": [
+      "VEGANO"
+     ]
+    },
+    {
+     "id": "lb-gaseosas",
+     "nombre": {
+      "es": "Gaseosa Pepsi / 7Up / Paso de los Toros",
+      "en": "Pepsi / 7Up / Paso de los Toros",
+      "pt": "Refrigerante Pepsi / 7Up / Paso de los Toros"
+     },
+     "descripcion": {},
+     "precio": 5300,
+     "tags": []
+    }
+   ]
+  }
+ ]
+}
