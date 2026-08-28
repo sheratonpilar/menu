@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T22:49:17.263Z",
+  "actualizado": "2026-08-28T23:02:44.157Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Apto celíacos / *Sugerencia del chef / Vegetariano. Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido. Consultar por otras opciones sin TACC. En caso de compartir un plato, se adicionará un 40% al valor del mismo. Las especialidades del chef no son para compartir.",
@@ -201,7 +201,7 @@
     {
      "id": "dg-mar-y-tierra",
      "nombre": {
-      "es": "Mar y tierra (entrada)",
+      "es": "Mar y tierra",
       "en": "Surf and turf (entrada)",
       "pt": "Mar e terra (entrada)"
      },
@@ -240,7 +240,10 @@
       "pt": "Risoto cremoso de tomate seco, bocconcini, tomates defumados a vácuo, lascas de pepato e manjericão."
      },
      "precio": 33000,
-     "tags": []
+     "tags": [
+      "SIN_TACC",
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "dg-risotto-alimonado",
@@ -255,7 +258,9 @@
       "pt": "Emulsionado com azeite, limão e queijo ligne noire, lulinhas douradas e provençal."
      },
      "precio": 35000,
-     "tags": []
+     "tags": [
+      "SIN_TACC"
+     ]
     }
    ]
   },
@@ -281,8 +286,10 @@
       "en": "Our fonduta, cream and ricotta.",
       "pt": "Nossa fonduta, creme e ricota."
      },
-     "precio": 38000,
-     "tags": []
+     "precio": 33000,
+     "tags": [
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "dg-caserecce",
@@ -296,7 +303,7 @@
       "en": "With beef goulash, portobello mushrooms and sage cream.",
       "pt": "Com goulash de filé, cogumelos portobello e creme de sálvia."
      },
-     "precio": 35000,
+     "precio": 34000,
      "tags": []
     }
    ]
@@ -323,8 +330,10 @@
       "en": "Ember-roasted butternut sorrentinos with atuel cheese, its flakes and black pepper, light filetto and mixed sprouts.",
       "pt": "Sorrentinos de abóbora assada com queijo atuel, suas lascas e pimenta, filetto suave e microbrotos."
      },
-     "precio": 37000,
-     "tags": []
+     "precio": 35000,
+     "tags": [
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "dg-cuadretti",
@@ -338,7 +347,7 @@
       "en": "Rib-eye cuadretti with olive oil and truffle oil.",
       "pt": "Cuadretti de ancho com azeite e óleo de trufa."
      },
-     "precio": 43000,
+     "precio": 38000,
      "tags": []
     },
     {
@@ -353,7 +362,7 @@
       "en": "Pasta filled with citrus ricotta, light prawn cream and smoked salmon.",
       "pt": "Massa recheada com ricota cítrica, creme suave de camarão e salmão defumado."
      },
-     "precio": 33000,
+     "precio": 37000,
      "tags": []
     },
     {
@@ -368,7 +377,7 @@
       "en": "Our potato and salmon lasagna, saffron cream, caramelised onion and grilled prawns.",
       "pt": "Nossa lasanha de batata e salmão, creme de açafrão, cebola caramelizada e camarões grelhados."
      },
-     "precio": 34000,
+     "precio": 43000,
      "tags": [
       "SUGERENCIA_CHEF"
      ]
@@ -397,8 +406,10 @@
       "en": "Pea and mint purée, cauliflower rösti, broccoli and asparagus, roasted cherry tomatoes.",
       "pt": "Purê de ervilha e hortelã, rösti de couve-flor, brócolis e aspargos, tomates cereja assados."
      },
-     "precio": 51000,
-     "tags": []
+     "precio": 46000,
+     "tags": [
+      "SIN_TACC"
+     ]
     },
     {
      "id": "dg-salmon",
@@ -412,7 +423,7 @@
       "en": "In almond crust, spinach risotto, red quinoa and vegetables with citrus dressing.",
       "pt": "Em crosta de amêndoa, risoto de espinafre, quinoa vermelha e legumes com molho cítrico."
      },
-     "precio": 44000,
+     "precio": 51000,
      "tags": []
     },
     {
@@ -427,7 +438,7 @@
       "en": "Breaded rib-eye filled with alliums, mozzarella and tomato, spaghetti with broccoli pesto and mixed sprouts.",
       "pt": "Milanesa de ancho recheada com liliáceas, mussarela e tomate, espaguete com pesto de brócolis."
      },
-     "precio": 46000,
+     "precio": 44000,
      "tags": [
       "SUGERENCIA_CHEF"
      ]
@@ -461,7 +472,8 @@
      },
      "precio": 125000,
      "tags": [
-      "SUGERENCIA_CHEF"
+      "SUGERENCIA_CHEF",
+      "SIN_TACC"
      ]
     }
    ]
@@ -544,7 +556,7 @@
       "en": "Belgian chocolate, 100% chocolate cream, white chocolate cream, dulce de leche, milk chocolate mousse, nutella mousse and raspberry coulis.",
       "pt": "Chocolate belga, creme de chocolate 100%, creme de chocolate branco, doce de leite, mousse de chocolate ao leite, mousse de nutella e coulis de framboesa."
      },
-     "precio": 23000,
+     "precio": 22000,
      "tags": [
       "SUGERENCIA_CHEF"
      ]
@@ -561,8 +573,10 @@
       "en": "Passion fruit cream, seasonal fruit, coconut, mango and green apple dome, fruit sorbet.",
       "pt": "Creme de maracujá, frutas da estação, semiesfera de coco, manga e maçã verde, sorbet de frutas."
      },
-     "precio": 23000,
-     "tags": []
+     "precio": 22000,
+     "tags": [
+      "SIN_TACC"
+     ]
     },
     {
      "id": "dg-citrico",
@@ -638,7 +652,7 @@
       "en": "Vanilla cheesecake with dulce de leche bavarois and a quenelle of cream.",
       "pt": "Cheesecake de baunilha com bavarois de doce de leite e quenelle de creme."
      },
-     "precio": 22000,
+     "precio": 23000,
      "tags": []
     },
     {
@@ -653,8 +667,10 @@
       "en": "Red berries and white chocolate with a raspberry centre.",
       "pt": "De frutas vermelhas e chocolate branco com centro de framboesa."
      },
-     "precio": 22000,
-     "tags": []
+     "precio": 23000,
+     "tags": [
+      "SIN_TACC"
+     ]
     },
     {
      "id": "dg-helados",
@@ -695,17 +711,6 @@
      "tags": []
     },
     {
-     "id": "dg-agua-saborizada",
-     "nombre": {
-      "es": "Agua saborizada",
-      "en": "Flavoured water",
-      "pt": "Água saborizada"
-     },
-     "descripcion": {},
-     "precio": 9000,
-     "tags": []
-    },
-    {
      "id": "lb-agua-saborizada",
      "nombre": {
       "es": "Agua mineral saborizada",
@@ -714,21 +719,6 @@
      },
      "descripcion": {},
      "precio": 6500,
-     "tags": []
-    },
-    {
-     "id": "dg-gaseosas",
-     "nombre": {
-      "es": "Gaseosas línea Pepsi",
-      "en": "Pepsi soft drinks",
-      "pt": "Refrigerantes Pepsi"
-     },
-     "descripcion": {
-      "es": "Regular, Black, Mirinda, Paso de los Toros pomelo, Light, 7Up Regular, Zero.",
-      "en": "Regular, Black, Mirinda, grapefruit, Light, 7Up, Zero.",
-      "pt": "Regular, Black, Mirinda, toranja, Light, 7Up, Zero."
-     },
-     "precio": 10500,
      "tags": []
     },
     {
@@ -1241,9 +1231,7 @@
       "pt": "Entrada, prato principal e sobremesa, com vinhos."
      },
      "precio": 195000,
-     "tags": [
-      "PROMO"
-     ]
+     "tags": []
     },
     {
      "id": "dg-cubierto",
