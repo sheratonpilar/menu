@@ -9,8 +9,8 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T16:15:05.630Z",
-  "ver_tambien": "",
+  "actualizado": "2026-08-28T16:40:38.699Z",
+  "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
    "en": "Please let our associates know if you have any allergy or intolerance.",
@@ -1563,7 +1563,18 @@
       "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-chandon",
+     "nombre": {
+      "es": "Copa Chandon Extra Brut",
+      "en": "Chandon Extra Brut by the glass",
+      "pt": "Chandon Extra Brut em taça"
+     },
+     "descripcion": {},
+     "precio": 15000,
      "tags": []
     }
    ]
