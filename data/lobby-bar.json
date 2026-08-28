@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T18:51:36.776Z",
+  "actualizado": "2026-08-28T22:49:17.266Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -136,7 +136,9 @@
      },
      "descripcion": {},
      "precio": 14000,
-     "tags": []
+     "tags": [
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "lb-cazuela-queso",
@@ -147,7 +149,9 @@
      },
      "descripcion": {},
      "precio": 15000,
-     "tags": []
+     "tags": [
+      "VEGETARIANO"
+     ]
     }
    ]
   },
