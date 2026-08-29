@@ -9,8 +9,8 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T23:02:44.160Z",
-  "ver_tambien": "",
+  "actualizado": "2026-08-29T14:43:21.127Z",
+  "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Menú In-Room Dining · Interno 2840. Valor del servicio por persona: $ 7.000. Si tiene alguna restricción alimentaria, por favor avise a nuestro personal antes de realizar su pedido.",
    "en": "In-Room Dining Menu · Ext. 2840. Room service charge per person: $ 7,000. If you have any dietary restriction, please let our staff know before ordering.",
@@ -1216,11 +1216,11 @@
      "tags": []
     },
     {
-     "id": "rs-cerveza-heineken",
+     "id": "cerv-heineken-x-473-cc",
      "nombre": {
       "es": "Heineken lata x 473 cc / Heineken 0.0",
-      "en": "Heineken / Heineken 0.0",
-      "pt": "Heineken / Heineken 0.0"
+      "en": "Heineken lata x 473 cc / Heineken 0.0",
+      "pt": "Heineken lata x 473 cc / Heineken 0.0"
      },
      "descripcion": {},
      "precio": 11000,
@@ -1250,39 +1250,6 @@
    "nota": {},
    "items": [
     {
-     "id": "copa-rutini-malbec-lb",
-     "nombre": {
-      "es": "Rutini Malbec",
-      "en": "Rutini Malbec",
-      "pt": "Rutini Malbec"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-cab-malbec-lb",
-     "nombre": {
-      "es": "Rutini Cabernet Malbec",
-      "en": "Rutini Cabernet Malbec",
-      "pt": "Rutini Cabernet Malbec"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-sb-lb",
-     "nombre": {
-      "es": "Rutini Sauvignon Blanc",
-      "en": "Rutini Sauvignon Blanc",
-      "pt": "Rutini Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
      "id": "copa-trumpeter-malbec-cs-lb",
      "nombre": {
       "es": "Trumpeter Malbec / Cabernet Sauvignon",
@@ -1305,11 +1272,9 @@
      "tags": []
     },
     {
-     "id": "rs-esp-copa-chandon",
+     "id": "rs-esp-copa-trumpeter",
      "nombre": {
-      "es": "Copa Chandon Extra Brut",
-      "en": "Chandon Extra Brut by the glass",
-      "pt": "Chandon Extra Brut em taça"
+      "es": "Trumpeter Extra Brut"
      },
      "descripcion": {},
      "precio": 15000,
