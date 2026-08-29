@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T23:03:07.007Z",
+ "actualizado": "2026-08-29T14:43:50.439Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -7,7 +7,7 @@
    "tema": "dg",
    "logo": "don-giovanni.svg",
    "orden": 1,
-   "items": 71
+   "items": 74
   },
   {
    "id": "lobby-bar",
@@ -15,7 +15,7 @@
    "tema": "lb",
    "logo": "lobby-bar.svg",
    "orden": 2,
-   "items": 185
+   "items": 113
   },
   {
    "id": "room-service",
@@ -23,7 +23,7 @@
    "tema": "rs",
    "logo": "hotel.svg",
    "orden": 3,
-   "items": 93
+   "items": 90
   },
   {
    "id": "pool-snack",
@@ -47,7 +47,7 @@
    "tema": "vinos",
    "logo": "hotel.svg",
    "orden": 6,
-   "items": 170
+   "items": 182
   },
   {
    "id": "las-vasijas",
