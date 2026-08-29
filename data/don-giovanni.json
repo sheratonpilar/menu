@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T23:02:44.157Z",
+  "actualizado": "2026-08-29T14:43:21.124Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Apto celíacos / *Sugerencia del chef / Vegetariano. Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido. Consultar por otras opciones sin TACC. En caso de compartir un plato, se adicionará un 40% al valor del mismo. Las especialidades del chef no son para compartir.",
@@ -857,9 +857,9 @@
     {
      "id": "cerv-heineken-x-473-cc",
      "nombre": {
-      "es": "Heineken x 473 cc",
-      "en": "Heineken x 473 cc",
-      "pt": "Heineken x 473 cc"
+      "es": "Heineken lata x 473 cc / Heineken 0.0",
+      "en": "Heineken lata x 473 cc / Heineken 0.0",
+      "pt": "Heineken lata x 473 cc / Heineken 0.0"
      },
      "descripcion": {},
      "precio": 9500,
@@ -944,14 +944,45 @@
      "tags": []
     },
     {
+     "id": "copa-dv-catena-chard-lb",
+     "nombre": {
+      "es": "DV Catena Chardonnay",
+      "en": "DV Catena Chardonnay",
+      "pt": "DV Catena Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-encuentro-malbec-lb",
+     "nombre": {
+      "es": "Encuentro Malbec",
+      "en": "Encuentro Malbec",
+      "pt": "Encuentro Malbec"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
      "id": "rs-esp-copa-chandon",
      "nombre": {
-      "es": "Copa Chandon Extra Brut",
+      "es": "Chandon Extra Brut",
       "en": "Chandon Extra Brut by the glass",
       "pt": "Chandon Extra Brut em taça"
      },
      "descripcion": {},
      "precio": 15000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-trumpeter",
+     "nombre": {
+      "es": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 11000,
      "tags": []
     }
    ]
@@ -967,21 +998,6 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-trago-gin-tonic",
-     "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
-     },
-     "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "ckt-lb-bacardi",
      "nombre": {
       "es": "Bacardi Cocktail",
@@ -992,6 +1008,21 @@
       "es": "Ron, jugo de limón y granadina.",
       "en": "Ron, jugo de limón y granadina.",
       "pt": "Ron, jugo de limón y granadina."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
+      "en": "Gin Bombay, agua tónica y limón.",
+      "pt": "Gin Bombay, agua tónica y limón."
      },
      "precio": 25000,
      "tags": []
@@ -1102,21 +1133,6 @@
      "tags": []
     },
     {
-     "id": "ckt-lb-cuba-libre",
-     "nombre": {
-      "es": "Cuba Libre",
-      "en": "Cuba Libre",
-      "pt": "Cuba Libre"
-     },
-     "descripcion": {
-      "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-aperol",
      "nombre": {
       "es": "Aperol Spritz",
@@ -1127,6 +1143,21 @@
       "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
       "en": "Aperol, extra brut sparkling, soda and orange.",
       "pt": "Aperol, espumante extra brut, soda e laranja."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi oro, cola y limón.",
+      "en": "Ron Bacardi oro, cola y limón.",
+      "pt": "Ron Bacardi oro, cola y limón."
      },
      "precio": 25000,
      "tags": []
