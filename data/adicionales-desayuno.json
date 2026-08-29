@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-29T14:43:21.129Z",
+  "actualizado": "2026-08-29T15:00:53.359Z",
   "ver_tambien": "",
   "pie": {
    "es": "Opciones adicionales de desayuno.",
@@ -68,6 +68,44 @@
  },
  "secciones": [
   {
+   "id": "cafeteria",
+   "nombre": {
+    "es": "Cafetería",
+    "en": "Coffee & tea",
+    "pt": "Cafeteria"
+   },
+   "foto": "lb-cafeteria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-cafe-doble",
+     "nombre": {
+      "es": "Café expreso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café expresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "lb-cappuccino",
+     "nombre": {
+      "es": "Cappuccino",
+      "en": "Cappuccino",
+      "pt": "Cappuccino"
+     },
+     "descripcion": {
+      "es": "Con canela, crema y chocolate.",
+      "en": "With cinnamon, cream and chocolate.",
+      "pt": "Com canela, chantilly e chocolate."
+     },
+     "precio": 11000,
+     "tags": []
+    }
+   ]
+  },
+  {
    "id": "sin-alcohol",
    "nombre": {
     "es": "Bebidas sin alcohol",
@@ -77,6 +115,39 @@
    "foto": "",
    "nota": {},
    "items": [
+    {
+     "id": "rs-jugo",
+     "nombre": {
+      "es": "Jugo exprimido (naranja o pomelo)",
+      "en": "Fresh juice (orange or grapefruit)",
+      "pt": "Suco natural (laranja ou toranja)"
+     },
+     "descripcion": {},
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "lb-licuado-leche",
+     "nombre": {
+      "es": "Licuado de frutas con leche o jugo",
+      "en": "Fruit smoothie with milk or juice",
+      "pt": "Vitamina de frutas com leite ou suco"
+     },
+     "descripcion": {},
+     "precio": 13000,
+     "tags": []
+    },
+    {
+     "id": "lb-licuado-agua",
+     "nombre": {
+      "es": "Licuado de frutas con agua",
+      "en": "Fruit smoothie with water",
+      "pt": "Vitamina de frutas com água"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
     {
      "id": "lb-jugo-pepino",
      "nombre": {
@@ -129,120 +200,6 @@
    "nota": {},
    "items": [
     {
-     "id": "add-cafe-doble",
-     "nombre": {
-      "es": "Café expreso doble",
-      "en": "Espresso (double)",
-      "pt": "Café expresso duplo"
-     },
-     "descripcion": {},
-     "precio": 10500,
-     "tags": []
-    },
-    {
-     "id": "add-capuccino",
-     "nombre": {
-      "es": "Capuccino",
-      "en": "Cappuccino",
-      "pt": "Cappuccino"
-     },
-     "descripcion": {},
-     "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "add-jugo",
-     "nombre": {
-      "es": "Jugo de naranja o pomelo",
-      "en": "Orange or grapefruit juice",
-      "pt": "Suco de laranja ou toranja"
-     },
-     "descripcion": {},
-     "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "add-licuado-agua",
-     "nombre": {
-      "es": "Licuado con agua",
-      "en": "Smoothie with water",
-      "pt": "Vitamina com água"
-     },
-     "descripcion": {},
-     "precio": 12000,
-     "tags": []
-    },
-    {
-     "id": "add-licuado-leche",
-     "nombre": {
-      "es": "Licuado con leche o jugo de frutas",
-      "en": "Smoothie with milk or fruit juice",
-      "pt": "Vitamina com leite ou suco"
-     },
-     "descripcion": {},
-     "precio": 5300,
-     "tags": []
-    },
-    {
-     "id": "add-huevo-pasado",
-     "nombre": {
-      "es": "Huevo pasado por agua",
-      "en": "Soft-boiled egg",
-      "pt": "Ovo mole"
-     },
-     "descripcion": {
-      "es": "Con croutons, alcaparras y escamas de bacon.",
-      "en": "With croutons, capers and bacon flakes.",
-      "pt": "Com croutons, alcaparras e flocos de bacon."
-     },
-     "precio": 13000,
-     "tags": []
-    },
-    {
-     "id": "add-huevo-frito",
-     "nombre": {
-      "es": "Huevo frito (1u)",
-      "en": "Fried egg (1)",
-      "pt": "Ovo frito (1)"
-     },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "add-huevo-tostada",
-     "nombre": {
-      "es": "Huevo sobre tostada de pan de campo",
-      "en": "Egg on toast",
-      "pt": "Ovo na torrada"
-     },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "add-omelette-jamon",
-     "nombre": {
-      "es": "Omelette de parmesano y jamón horneado",
-      "en": "Baked ham and parmesan omelette",
-      "pt": "Omelete de parmesão e presunto"
-     },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "add-omelette-tomate",
-     "nombre": {
-      "es": "Omelette con tomates secos, albahaca y mozzarella",
-      "en": "Sun-dried tomato, basil and mozzarella omelette",
-      "pt": "Omelete de tomate seco, manjericão e mussarela"
-     },
-     "descripcion": {},
-     "precio": 12000,
-     "tags": []
-    },
-    {
      "id": "add-tostadas-francesas",
      "nombre": {
       "es": "Tostadas francesas",
@@ -250,7 +207,7 @@
       "pt": "Rabanada"
      },
      "descripcion": {},
-     "precio": 8500,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -261,44 +218,7 @@
       "pt": "Panquecas"
      },
      "descripcion": {},
-     "precio": 9500,
-     "tags": []
-    },
-    {
-     "id": "add-omelette-salmon",
-     "nombre": {
-      "es": "Omelette de salmón ahumado y cebollino",
-      "en": "Smoked salmon and chive omelette",
-      "pt": "Omelete de salmão defumado e cebolinha"
-     },
-     "descripcion": {},
-     "precio": 12000,
-     "tags": []
-    },
-    {
-     "id": "add-salmon",
-     "nombre": {
-      "es": "Salmón ahumado",
-      "en": "Smoked salmon",
-      "pt": "Salmão defumado"
-     },
-     "descripcion": {},
-     "precio": 7500,
-     "tags": []
-    },
-    {
-     "id": "add-panes",
-     "nombre": {
-      "es": "Panes",
-      "en": "Breads",
-      "pt": "Pães"
-     },
-     "descripcion": {
-      "es": "Panettone blanco/multicereal, bollito blanco/negro (x3 a elección).",
-      "en": "White/multigrain panettone, white/whole-wheat rolls (3 of your choice).",
-      "pt": "Panettone branco/multigrãos, pãezinhos (3 à escolha)."
-     },
-     "precio": 9500,
+     "precio": 11000,
      "tags": []
     },
     {
@@ -309,18 +229,7 @@
       "pt": "Quadrados de maçã ou coco (3)"
      },
      "descripcion": {},
-     "precio": 26000,
-     "tags": []
-    },
-    {
-     "id": "add-pure",
-     "nombre": {
-      "es": "Puré de papas o de calabazas",
-      "en": "Mashed potato or pumpkin purée",
-      "pt": "Purê de batata ou abóbora"
-     },
-     "descripcion": {},
-     "precio": 22000,
+     "precio": 9500,
      "tags": []
     },
     {
@@ -335,7 +244,7 @@
       "en": "Granola, sweet/savory flakes or hot oatmeal.",
       "pt": "Granola, flocos doces/salgados ou aveia quente."
      },
-     "precio": 10000,
+     "precio": 7500,
      "tags": []
     },
     {
@@ -346,18 +255,7 @@
       "pt": "Salada de frutas"
      },
      "descripcion": {},
-     "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "add-jamon-panceta",
-     "nombre": {
-      "es": "Porción de jamón cocido o panceta caliente",
-      "en": "Portion of hot ham or bacon",
-      "pt": "Porção de presunto ou bacon quente"
-     },
-     "descripcion": {},
-     "precio": 11000,
+     "precio": 22000,
      "tags": []
     },
     {
@@ -368,7 +266,125 @@
       "pt": "Iogurte de baunilha ou morango"
      },
      "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "add-huevo-pasado",
+     "nombre": {
+      "es": "Huevo pasado por agua",
+      "en": "Soft-boiled egg",
+      "pt": "Ovo mole"
+     },
+     "descripcion": {
+      "es": "Con croutons, alcaparras y escamas de bacon.",
+      "en": "With croutons, capers and bacon flakes.",
+      "pt": "Com croutons, alcaparras e flocos de bacon."
+     },
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "add-huevo-frito",
+     "nombre": {
+      "es": "Huevo frito (1u)",
+      "en": "Fried egg (1)",
+      "pt": "Ovo frito (1)"
+     },
+     "descripcion": {},
+     "precio": 5300,
+     "tags": []
+    },
+    {
+     "id": "add-huevo-tostada",
+     "nombre": {
+      "es": "Huevo sobre tostada de pan de campo",
+      "en": "Egg on toast",
+      "pt": "Ovo na torrada"
+     },
+     "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "add-omelette-jamon",
+     "nombre": {
+      "es": "Omelette de parmesano y jamón horneado",
+      "en": "Baked ham and parmesan omelette",
+      "pt": "Omelete de parmesão e presunto"
+     },
+     "descripcion": {},
+     "precio": 16000,
+     "tags": []
+    },
+    {
+     "id": "add-omelette-tomate",
+     "nombre": {
+      "es": "Omelette con tomates secos, albahaca y mozzarella",
+      "en": "Sun-dried tomato, basil and mozzarella omelette",
+      "pt": "Omelete de tomate seco, manjericão e mussarela"
+     },
+     "descripcion": {},
+     "precio": 18500,
+     "tags": []
+    },
+    {
+     "id": "add-omelette-salmon",
+     "nombre": {
+      "es": "Omelette de salmón ahumado y cebollino",
+      "en": "Smoked salmon and chive omelette",
+      "pt": "Omelete de salmão defumado e cebolinha"
+     },
+     "descripcion": {},
      "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "add-salmon",
+     "nombre": {
+      "es": "Salmón ahumado",
+      "en": "Smoked salmon",
+      "pt": "Salmão defumado"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": []
+    },
+    {
+     "id": "add-panes",
+     "nombre": {
+      "es": "Panes",
+      "en": "Breads",
+      "pt": "Pães"
+     },
+     "descripcion": {
+      "es": "Panettone blanco/multicereal, bollito blanco/negro (x3 a elección).",
+      "en": "White/multigrain panettone, white/whole-wheat rolls (3 of your choice).",
+      "pt": "Panettone branco/multigrãos, pãezinhos (3 à escolha)."
+     },
+     "precio": 8500,
+     "tags": []
+    },
+    {
+     "id": "add-pure",
+     "nombre": {
+      "es": "Puré de papas o de calabazas",
+      "en": "Mashed potato or pumpkin purée",
+      "pt": "Purê de batata ou abóbora"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "add-jamon-panceta",
+     "nombre": {
+      "es": "Porción de jamón cocido o panceta caliente",
+      "en": "Portion of hot ham or bacon",
+      "pt": "Porção de presunto ou bacon quente"
+     },
+     "descripcion": {},
+     "precio": 10000,
      "tags": []
     },
     {
@@ -379,7 +395,7 @@
       "pt": "Legumes salteados"
      },
      "descripcion": {},
-     "precio": 31000,
+     "precio": 26000,
      "tags": []
     }
    ]
