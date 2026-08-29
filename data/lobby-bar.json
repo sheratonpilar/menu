@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-29T14:43:21.127Z",
+  "actualizado": "2026-08-29T15:00:53.357Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -1292,11 +1292,11 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-naranja",
+     "id": "rs-jugo",
      "nombre": {
-      "es": "Jugo exprimido de naranja",
-      "en": "Freshly squeezed orange juice",
-      "pt": "Suco de laranja natural"
+      "es": "Jugo exprimido (naranja o pomelo)",
+      "en": "Fresh juice (orange or grapefruit)",
+      "pt": "Suco natural (laranja ou toranja)"
      },
      "descripcion": {},
      "precio": 11000,
