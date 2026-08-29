@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-28T23:02:44.162Z",
+  "actualizado": "2026-08-29T14:43:21.129Z",
   "ver_tambien": "",
   "pie": {}
  },
@@ -64,217 +64,6 @@
  },
  "secciones": [
   {
-   "id": "copa",
-   "nombre": {
-    "es": "Vinos y espumantes por copa",
-    "en": "Wines & sparkling by the glass",
-    "pt": "Vinhos e espumantes em taça"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "copa-rutini-malbec-lb",
-     "nombre": {
-      "es": "Rutini Malbec",
-      "en": "Rutini Malbec",
-      "pt": "Rutini Malbec"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-cab-malbec-lb",
-     "nombre": {
-      "es": "Rutini Cabernet Malbec",
-      "en": "Rutini Cabernet Malbec",
-      "pt": "Rutini Cabernet Malbec"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-sb-lb",
-     "nombre": {
-      "es": "Rutini Sauvignon Blanc",
-      "en": "Rutini Sauvignon Blanc",
-      "pt": "Rutini Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-malbec-cs-lb",
-     "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-sb-chard-lb",
-     "nombre": {
-      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-copa-chandon",
-     "nombre": {
-      "es": "Copa Chandon Extra Brut",
-      "en": "Chandon Extra Brut by the glass",
-      "pt": "Chandon Extra Brut em taça"
-     },
-     "descripcion": {},
-     "precio": 15000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "cv-sugerencias",
-   "nombre": {
-    "es": "Sugerencias",
-    "en": "Suggestions",
-    "pt": "Sugestões"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "sug-apartado-gran-chard",
-     "nombre": {
-      "es": "Apartado Gran Chardonnay Rutini",
-      "en": "Apartado Gran Chardonnay Rutini",
-      "pt": "Apartado Gran Chardonnay Rutini"
-     },
-     "descripcion": {},
-     "precio": 71000,
-     "tags": []
-    },
-    {
-     "id": "sug-antologia-pn",
-     "nombre": {
-      "es": "Antología LXI 61 Pinot Noir Rutini",
-      "en": "Antología LXI 61 Pinot Noir Rutini",
-      "pt": "Antología LXI 61 Pinot Noir Rutini"
-     },
-     "descripcion": {},
-     "precio": 82000,
-     "tags": []
-    },
-    {
-     "id": "sug-antologia-generico",
-     "nombre": {
-      "es": "Antología XXXVIII 38 Genérico Rutini",
-      "en": "Antología XXXVIII 38 Genérico Rutini",
-      "pt": "Antología XXXVIII 38 Genérico Rutini"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "sug-malbec-rutini-col",
-     "nombre": {
-      "es": "Malbec Rutini Colección",
-      "en": "Malbec Rutini Colección",
-      "pt": "Malbec Rutini Colección"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "sug-sb-rutini-col",
-     "nombre": {
-      "es": "Sauvignon Blanc Rutini Colección",
-      "en": "Sauvignon Blanc Rutini Colección",
-      "pt": "Sauvignon Blanc Rutini Colección"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "sug-cab-malbec-rutini",
-     "nombre": {
-      "es": "Cabernet Malbec Rutini",
-      "en": "Cabernet Malbec Rutini",
-      "pt": "Cabernet Malbec Rutini"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "sug-cs-trumpeter-res",
-     "nombre": {
-      "es": "Cabernet Sauvignon Trumpeter Reserve",
-      "en": "Cabernet Sauvignon Trumpeter Reserve",
-      "pt": "Cabernet Sauvignon Trumpeter Reserve"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "sug-malbec-trumpeter-res",
-     "nombre": {
-      "es": "Malbec Trumpeter Reserve",
-      "en": "Malbec Trumpeter Reserve",
-      "pt": "Malbec Trumpeter Reserve"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "sug-malbec-trumpeter",
-     "nombre": {
-      "es": "Malbec Trumpeter",
-      "en": "Malbec Trumpeter",
-      "pt": "Malbec Trumpeter"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "sug-esp-eb-rutini",
-     "nombre": {
-      "es": "Espumante Extra Brut Rutini",
-      "en": "Espumante Extra Brut Rutini",
-      "pt": "Espumante Extra Brut Rutini"
-     },
-     "descripcion": {},
-     "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "sug-esp-eb-trumpeter",
-     "nombre": {
-      "es": "Espumante Extra Brut Trumpeter",
-      "en": "Espumante Extra Brut Trumpeter",
-      "pt": "Espumante Extra Brut Trumpeter"
-     },
-     "descripcion": {},
-     "precio": 12000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "cv-cabernet-sauvignon",
    "nombre": {
     "es": "Cabernet Sauvignon",
@@ -296,7 +85,7 @@
       "pt": "Rutini Colección (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 105000,
+     "precio": 54000,
      "tags": []
     },
     {
@@ -307,7 +96,7 @@
       "pt": "D.V. Catena (Catena Zapata - Mendoza)"
      },
      "descripcion": {},
-     "precio": 20000,
+     "precio": 67000,
      "tags": []
     },
     {
@@ -318,7 +107,7 @@
       "pt": "Angélica Zapata (Esmeralda - Mendoza)"
      },
      "descripcion": {},
-     "precio": 42000,
+     "precio": 63000,
      "tags": []
     },
     {
@@ -329,7 +118,7 @@
       "pt": "Encuentro (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 47000,
      "tags": []
     },
     {
@@ -340,7 +129,7 @@
       "pt": "Saint Felicien (Nieto Senetiner - Mendoza)"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 34000,
      "tags": []
     },
     {
@@ -351,8 +140,10 @@
       "pt": "Trumpeter Reserve (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 56000,
-     "tags": []
+     "precio": 25000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
     },
     {
      "id": "cabernet-sauvignon-trumpeter-rutini-mendoza",
@@ -362,7 +153,7 @@
       "pt": "Trumpeter (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 38000,
+     "precio": 19000,
      "tags": []
     },
     {
@@ -373,7 +164,7 @@
       "pt": "Nieto Senetiner (Nieto Senetiner - Mendoza)"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 20000,
      "tags": []
     },
     {
@@ -384,7 +175,43 @@
       "pt": "La Mascota (La Mascota - Mendoza)"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 30000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-merlot",
+   "nombre": {
+    "es": "Merlot",
+    "en": "Merlot",
+    "pt": "Merlot"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Su origen está en Burdeos, Francia. Brilla en Pomerol, es apreciada en Napa Valley y se destaca en Chile.",
+    "en": "From Bordeaux, France. Shines in Pomerol, prized in Napa Valley, stands out in Chile.",
+    "pt": "De Bordeaux, França. Brilha em Pomerol, apreciada no Napa Valley, destaca-se no Chile."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-merlot",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Merlot",
+      "pt": "Rutini Colección Merlot"
+     },
+     "descripcion": {},
+     "precio": 51000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-trumpeter-merlot",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 20000,
      "tags": []
     }
    ]
@@ -404,6 +231,17 @@
    },
    "items": [
     {
+     "id": "rs-vino-rutini-syrah",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Syrah",
+      "pt": "Rutini Colección Syrah"
+     },
+     "descripcion": {},
+     "precio": 51000,
+     "tags": []
+    },
+    {
      "id": "syrah-saint-felicien-catena-zapata-mendoza",
      "nombre": {
       "es": "Saint Felicien (Catena Zapata - Mendoza)",
@@ -411,7 +249,18 @@
       "pt": "Saint Felicien (Catena Zapata - Mendoza)"
      },
      "descripcion": {},
-     "precio": 51000,
+     "precio": 31000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-trumpeter-syrah",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Trumpeter Reserve Viognier",
+      "pt": "Trumpeter Reserve Viognier"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     }
    ]
@@ -431,6 +280,39 @@
    },
    "items": [
     {
+     "id": "rs-vino-rutini-cf",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Cabernet Franc",
+      "pt": "Rutini Colección Cabernet Franc"
+     },
+     "descripcion": {},
+     "precio": 57000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-agelica-cf",
+     "nombre": {
+      "es": "Angélica Zapata (Bga. Esmeralda - Mendoza)",
+      "en": "Trumpeter Malbec",
+      "pt": "Trumpeter Malbec"
+     },
+     "descripcion": {},
+     "precio": 61000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-sf-cf",
+     "nombre": {
+      "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
+      "en": "Trumpeter Reserve Cabernet Sauvignon",
+      "pt": "Trumpeter Reserve Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 34000,
+     "tags": []
+    },
+    {
      "id": "cabernet-franc-nicasia-catena-zapata-mendoza",
      "nombre": {
       "es": "Nicasia (Catena Zapata - Mendoza)",
@@ -438,7 +320,7 @@
       "pt": "Nicasia (Catena Zapata - Mendoza)"
      },
      "descripcion": {},
-     "precio": 51000,
+     "precio": 23000,
      "tags": []
     },
     {
@@ -449,7 +331,7 @@
       "pt": "Gran Medalla (Trapiche - Mendoza)"
      },
      "descripcion": {},
-     "precio": 20000,
+     "precio": 63000,
      "tags": []
     }
    ]
@@ -476,7 +358,20 @@
       "pt": "Antología LXI 61 (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 39000,
+     "precio": 82000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "rs-vino-rutini-pn",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Pinot Noir",
+      "pt": "Rutini Colección Pinot Noir"
+     },
+     "descripcion": {},
+     "precio": 63000,
      "tags": []
     },
     {
@@ -487,7 +382,7 @@
       "pt": "DV Catena (Catena Zapata - Mendoza)"
      },
      "descripcion": {},
-     "precio": 37000,
+     "precio": 47000,
      "tags": []
     },
     {
@@ -498,7 +393,7 @@
       "pt": "Costa y Pampa (Trapiche - Mendoza)"
      },
      "descripcion": {},
-     "precio": 24000,
+     "precio": 38000,
      "tags": []
     }
    ]
@@ -518,6 +413,28 @@
    },
    "items": [
     {
+     "id": "malbec-angelica",
+     "nombre": {
+      "es": "Angelica Zapata (Bga. Esmeralda - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 77000,
+     "tags": []
+    },
+    {
+     "id": "sug-malbec-rutini-col",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Malbec Rutini Colección",
+      "pt": "Malbec Rutini Colección"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
      "id": "malbec-dv-catena-malbec-malbec-catena-zapata-m",
      "nombre": {
       "es": "DV Catena Malbec-Malbec (Catena Zapata - Mendoza)",
@@ -525,7 +442,7 @@
       "pt": "DV Catena Malbec-Malbec (Catena Zapata - Mendoza)"
      },
      "descripcion": {},
-     "precio": 49000,
+     "precio": 65000,
      "tags": []
     },
     {
@@ -536,7 +453,7 @@
       "pt": "Rutini Dominio (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 24000,
+     "precio": 49000,
      "tags": []
     },
     {
@@ -547,7 +464,25 @@
       "pt": "Trapiche Gran Medalla (Trapiche - Mendoza)"
      },
      "descripcion": {},
-     "precio": 63000,
+     "precio": 68000,
+     "tags": []
+    },
+    {
+     "id": "malbec-encuentro",
+     "nombre": {
+      "es": "Encuentro (Bga. Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 42000,
+     "tags": []
+    },
+    {
+     "id": "malbec-saint-felicien",
+     "nombre": {
+      "es": "Saint Felicien (Bga. Catena Zapata – Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 31000,
      "tags": []
     },
     {
@@ -558,7 +493,42 @@
       "pt": "Don Nicanor Barrel Select (Nieto Senetiner - Mendoza)"
      },
      "descripcion": {},
-     "precio": 33000,
+     "precio": 32000,
+     "tags": []
+    },
+    {
+     "id": "sug-malbec-trumpeter-res",
+     "nombre": {
+      "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
+      "en": "Malbec Trumpeter Reserve",
+      "pt": "Malbec Trumpeter Reserve"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "sug-malbec-trumpeter",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Malbec Trumpeter",
+      "pt": "Malbec Trumpeter"
+     },
+     "descripcion": {},
+     "precio": 21000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "malbec-nieto",
+     "nombre": {
+      "es": "Nieto Senetiner (Bga. Nieto Senetiner– Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     },
     {
@@ -569,7 +539,7 @@
       "pt": "Trumpeter 375 cc (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 13500,
      "tags": []
     },
     {
@@ -580,7 +550,7 @@
       "pt": "La Mascota Malbec (Trapiche - Mendoza)"
      },
      "descripcion": {},
-     "precio": 460000,
+     "precio": 32000,
      "tags": []
     },
     {
@@ -591,7 +561,7 @@
       "pt": "Blend de Extremos Malbec (El Esteco - Cafayate)"
      },
      "descripcion": {},
-     "precio": 24000,
+     "precio": 33000,
      "tags": []
     },
     {
@@ -602,7 +572,7 @@
       "pt": "Finca Los Notables Malbec (El Esteco - Cafayate)"
      },
      "descripcion": {},
-     "precio": 47000,
+     "precio": 49000,
      "tags": []
     },
     {
@@ -613,7 +583,7 @@
       "pt": "Trumpeter Low (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 24000,
      "tags": []
     }
    ]
@@ -633,6 +603,19 @@
    },
    "items": [
     {
+     "id": "sug-antologia-generico",
+     "nombre": {
+      "es": "Antología XXXVIII 38 Genérico Rutini",
+      "en": "Antología XXXVIII 38 Genérico Rutini",
+      "pt": "Antología XXXVIII 38 Genérico Rutini"
+     },
+     "descripcion": {},
+     "precio": 71000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
      "id": "genericos-felipe-rutini-rutini-mendoza",
      "nombre": {
       "es": "Felipe Rutini (Rutini - Mendoza)",
@@ -640,7 +623,7 @@
       "pt": "Felipe Rutini (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 40000,
+     "precio": 460000,
      "tags": []
     },
     {
@@ -651,7 +634,7 @@
       "pt": "Dominio Grand Blend (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 39000,
+     "precio": 85000,
      "tags": []
     },
     {
@@ -673,8 +656,10 @@
       "pt": "Rutini Cabernet Malbec (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 85000,
-     "tags": []
+     "precio": 39000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
     },
     {
      "id": "genericos-rutini-cabernet-sauvignon-syrah-ruti",
@@ -684,7 +669,7 @@
       "pt": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 71000,
+     "precio": 40000,
      "tags": []
     },
     {
@@ -695,7 +680,7 @@
       "pt": "Rutini Cabernet Merlot (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 30000,
+     "precio": 39000,
      "tags": []
     },
     {
@@ -706,7 +691,7 @@
       "pt": "DV Catena Cabernet-Malbec (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 33000,
+     "precio": 47000,
      "tags": []
     },
     {
@@ -717,7 +702,7 @@
       "pt": "Trumpeter Reserve Blend (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 63000,
+     "precio": 24000,
      "tags": []
     },
     {
@@ -728,7 +713,7 @@
       "pt": "Trumpeter Cabernet Franc (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 38000,
+     "precio": 21000,
      "tags": []
     },
     {
@@ -739,7 +724,7 @@
       "pt": "Medalla Blend (Trapiche - Mendoza)"
      },
      "descripcion": {},
-     "precio": 47000,
+     "precio": 33000,
      "tags": []
     },
     {
@@ -750,7 +735,85 @@
       "pt": "Blend de Extremos Blend (El Esteco - Cafayate)"
      },
      "descripcion": {},
-     "precio": 82000,
+     "precio": 30000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-sauvignon-blanc",
+   "nombre": {
+    "es": "Sauvignon Blanc",
+    "en": "Sauvignon Blanc",
+    "pt": "Sauvignon Blanc"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Originaria de Francia, cultivada en el Loira y Bordeaux, da excelentes vinos frutados.",
+    "en": "French in origin, from the Loire and Bordeaux, giving fruity wines.",
+    "pt": "De origem francesa, do Loire e Bordeaux, dando vinhos frutados."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-sb",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Sauvignon Blanc",
+      "pt": "Rutini Colección Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 43000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "rs-vino-trumpeter-sb",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Trumpeter Cabernet Sauvignon",
+      "pt": "Trumpeter Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 21000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-trumpeter-low-sb",
+     "nombre": {
+      "es": "Trumpeter Low (Bga. Rutini - Mendoza)",
+      "en": "Trumpeter Reserve Torrontés",
+      "pt": "Trumpeter Reserve Torrontés"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-viognier",
+   "nombre": {
+    "es": "Viognier",
+    "en": "Viognier",
+    "pt": "Viognier"
+   },
+   "foto": "",
+   "nota": {
+    "es": "De la zona septentrional del Ródano, da blancos prestigiosos y escasos.",
+    "en": "From the northern Rhône, giving prestigious and scarce whites.",
+    "pt": "Do norte do Ródano, dando brancos prestigiados e escassos."
+   },
+   "items": [
+    {
+     "id": "rs-vino-trumpeter-viognier",
+     "nombre": {
+      "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Cabernet Sauvignon",
+      "pt": "Rutini Colección Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 25000,
      "tags": []
     }
    ]
@@ -777,7 +840,20 @@
       "pt": "Apartado Gran Chardonnay (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 105000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "rs-vino-rutini-dominio-chard",
+     "nombre": {
+      "es": "Rutini Dominio (Bga. Rutini - Mendoza)",
+      "en": "Rutini Dominio Chardonnay",
+      "pt": "Rutini Dominio Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 47000,
      "tags": []
     },
     {
@@ -788,7 +864,114 @@
       "pt": "Angélica Zapata (Catena Zapata - Mendoza)"
      },
      "descripcion": {},
-     "precio": 47000,
+     "precio": 56000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-rutini-coleccion-chard",
+     "nombre": {
+      "es": "Rutini Colección (Bga Rutini - Mendoza)",
+      "en": "Rutini Cabernet-Malbec",
+      "pt": "Rutini Cabernet-Malbec"
+     },
+     "descripcion": {},
+     "precio": 51000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-encuentro-chard",
+     "nombre": {
+      "es": "Encuentro (Bga Rutini - Mendoza)",
+      "en": "Encuentro Chardonnay",
+      "pt": "Encuentro Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 38000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-dv-chard",
+     "nombre": {
+      "es": "DV Catena (Bodega Zapata - Mendoza)",
+      "en": "Rutini Colección Malbec",
+      "pt": "Rutini Colección Malbec"
+     },
+     "descripcion": {},
+     "precio": 37000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-trumpeter-chard",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Trumpeter Reserve Malbec",
+      "pt": "Trumpeter Reserve Malbec"
+     },
+     "descripcion": {},
+     "precio": 21000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-sant-chard",
+     "nombre": {
+      "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
+      "en": "Trumpeter Reserve Rosé",
+      "pt": "Trumpeter Reserve Rosé"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-torrontes",
+   "nombre": {
+    "es": "Torrontés",
+    "en": "Torrontés",
+    "pt": "Torrontés"
+   },
+   "foto": "",
+   "nota": {
+    "es": "De origen desconocido. En Argentina el Riojano expresa mejor sus cualidades.",
+    "en": "Of unknown origin. In Argentina the Riojano type best expresses its quality.",
+    "pt": "De origem desconhecida. Na Argentina, o riojano expressa melhor."
+   },
+   "items": [
+    {
+     "id": "cv-torrontes-trumpeter",
+     "nombre": {
+      "es": "Trumpter Reserve (Bga. Rutini - Mendoza)",
+      "en": "Sauvignon Blanc Rutini Colección",
+      "pt": "Sauvignon Blanc Rutini Colección"
+     },
+     "descripcion": {},
+     "precio": 25000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-gewurztraminer",
+   "nombre": {
+    "es": "Gewürztraminer",
+    "en": "Gewürztraminer",
+    "pt": "Gewürztraminer"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Originaria de Alsacia. Muy característico su perfume exuberante.",
+    "en": "From Alsace. Its exuberant perfume is unmistakable.",
+    "pt": "Da Alsácia. Seu perfume exuberante é inconfundível."
+   },
+   "items": [
+    {
+     "id": "cv-rutini-gewurztraminer",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 58000,
      "tags": []
     }
    ]
@@ -811,7 +994,7 @@
       "pt": "Rutini Encabezado Malbec (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 73000,
+     "precio": 51000,
      "tags": []
     },
     {
@@ -822,7 +1005,7 @@
       "pt": "Rutini Vin Doux Naturel (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 51000,
      "tags": []
     },
     {
@@ -833,7 +1016,7 @@
       "pt": "Saint Felicien Semillón Doux (Catena Zapata)"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 51000,
      "tags": []
     },
     {
@@ -844,7 +1027,7 @@
       "pt": "San Felipe Roble Tardío (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 36000,
+     "precio": 21000,
      "tags": []
     },
     {
@@ -855,7 +1038,7 @@
       "pt": "Benjamín Blanco (Nieto Senetiner - Mendoza)"
      },
      "descripcion": {},
-     "precio": 51000,
+     "precio": 25000,
      "tags": []
     }
    ]
@@ -889,7 +1072,16 @@
       "pt": "San Felipe Rosé Malbec x 700 cc (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 19000,
+     "tags": []
+    },
+    {
+     "id": "ros-la-mascota",
+     "nombre": {
+      "es": "La Mascota (Bga. La Mascota - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 32000,
      "tags": []
     }
    ]
@@ -2116,21 +2308,6 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-trago-gin-tonic",
-     "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
-     },
-     "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "ckt-lb-bacardi",
      "nombre": {
       "es": "Bacardi Cocktail",
@@ -2141,6 +2318,21 @@
       "es": "Ron, jugo de limón y granadina.",
       "en": "Ron, jugo de limón y granadina.",
       "pt": "Ron, jugo de limón y granadina."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
+      "en": "Gin Bombay, agua tónica y limón.",
+      "pt": "Gin Bombay, agua tónica y limón."
      },
      "precio": 25000,
      "tags": []
@@ -2251,21 +2443,6 @@
      "tags": []
     },
     {
-     "id": "ckt-lb-cuba-libre",
-     "nombre": {
-      "es": "Cuba Libre",
-      "en": "Cuba Libre",
-      "pt": "Cuba Libre"
-     },
-     "descripcion": {
-      "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-aperol",
      "nombre": {
       "es": "Aperol Spritz",
@@ -2276,6 +2453,21 @@
       "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
       "en": "Aperol, extra brut sparkling, soda and orange.",
       "pt": "Aperol, espumante extra brut, soda e laranja."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi oro, cola y limón.",
+      "en": "Ron Bacardi oro, cola y limón.",
+      "pt": "Ron Bacardi oro, cola y limón."
      },
      "precio": 25000,
      "tags": []
