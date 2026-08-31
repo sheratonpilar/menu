@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:57:40.725Z",
+  "actualizado": "2026-08-31T22:02:01.296Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -807,6 +807,19 @@
      "tags": []
     },
     {
+     "id": "dg-men-noquis",
+     "nombre": {
+      "es": "Ñoquis de papa filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": [
+      "VEGETARIANO"
+     ]
+    },
+    {
      "id": "lb-men-nuggets",
      "nombre": {
       "es": "Nuggets con papas fritas",
@@ -818,9 +831,9 @@
      "tags": []
     },
     {
-     "id": "rs-men-penne",
+     "id": "lb-men-penne",
      "nombre": {
-      "es": "Penne fileto",
+      "es": "Penne con salsa fileto",
       "en": "Penne with tomato sauce",
       "pt": "Penne ao filetto"
      },
@@ -850,19 +863,6 @@
      },
      "descripcion": {},
      "precio": 33000,
-     "tags": [
-      "VEGETARIANO"
-     ]
-    },
-    {
-     "id": "lb-men-noquis",
-     "nombre": {
-      "es": "Ñoquis de papa con fileto",
-      "en": "Potato gnocchi with tomato sauce",
-      "pt": "Nhoque de batata ao filetto"
-     },
-     "descripcion": {},
-     "precio": 31000,
      "tags": [
       "VEGETARIANO"
      ]
