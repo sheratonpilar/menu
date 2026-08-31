@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-29T15:00:53.357Z",
+  "actualizado": "2026-08-31T15:14:02.790Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -1081,9 +1081,9 @@
    },
    "foto": "lb-te.jpg",
    "nota": {
-    "es": "Servicio para 2 personas. Disponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
-    "en": "Service for 2. Fridays, Saturdays, Sundays and holidays only, 4:00–6:30 pm.",
-    "pt": "Serviço para 2 pessoas. Sextas, sábados, domingos e feriados, das 16h às 18h30."
+    "es": "Te ofrecemos una riquísima propuesta de té para disfrutar con la vista de los jardines del Hotel y pasar una tarde diferente.\n\nSALADO\n• Bavaria, salmón ahumado, tártara y rúcula.\n• Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul.\n• Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys.\n• Scons de queso.\nDULCE\n• Macarons de frutos rojos con centro de frambuesa.\n• Semi esfera cítrica con base de granola casera.\n• Tarta de manzanas.\n• Húmedo de dulce de leche.\n• Rústico de chocolate con centro de ddl bañado de chocolate.\n• Croissant flat, untuoso de nutella y chocolate.\nBEBIDAS\n• Jugo de naranja e infusión a elección.\n\nDisponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
+    "en": "We offer you a delicious tea selection to enjoy while taking in the view of the hotel’s gardens and spending a unique afternoon.\n\nSAVORY\n• Bavaria, smoked salmon, tartare, and arugula.\n• Sancricca, 12-month-aged prosciutto, pategrás, sun-dried tomatoes, and creamy blue cheese.\n• Avocado, multigrain toast, Finlandia bread, avocado, quail egg, and cherry tomatoes.\n• Cheese scones.\nSWEET\n• Red berry macarons with a raspberry center.\n• Citrus half-sphere on a homemade granola base.\n• Apple tart.\n• Dulce de leche cake.\n• Chocolate rustic cake with a dulce de leche center, coated in chocolate.\n• Flat croissant, spread with Nutella and chocolate.\nDRINKS\n• Orange juice and your choice of herbal tea.\n\nAvailable only on Fridays, Saturdays, Sundays, and holidays from 4:00 PM to 6:30 PM.",
+    "pt": "Oferecemos a você uma deliciosa seleção de chás para saborear com vista para os jardins do hotel e passar uma tarde diferente.\n\nSALGADOS\n• Bavaria, salmão defumado, tártara e rúcula.\n• Sancricca, presunto cru de 12 meses, pategrás, tomates secos e creme de queijo azul.\n• Abacate, torrada multigrãos, Finlandia, abacate, ovo de codorna e tomates cereja.\n• Scones de queijo.\nDOCE\n• Macarons de frutas vermelhas com recheio de framboesa.\n• Semiesfera cítrica com base de granola caseira.\n• Torta de maçã.\n• Bolo úmido de doce de leite.\n• Bolinho rústico de chocolate com recheio de doce de leite e cobertura de chocolate.\n• Croissant achatado, recheado com Nutella e chocolate.\nBEBIDAS\n• Suco de laranja e chá à escolha.\n\nDisponível apenas às sextas-feiras, sábados, domingos e feriados, das 16h às 18h30."
    },
    "items": [
     {
@@ -1093,15 +1093,9 @@
       "en": "Afternoon tea for two",
       "pt": "Chá da tarde para dois"
      },
-     "descripcion": {
-      "es": "Salado: Bavaria (salmón ahumado, tártara y rúcula); Sancricca (jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul); Avocado (tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys); scons de queso. Dulce: macarons de frutos rojos con centro de frambuesa; semiesfera cítrica con base de granola casera; tarta de manzanas; húmedo de dulce de leche; rústico de chocolate con centro de ddl bañado de chocolate; croissant flat, untuoso de nutella y chocolate. Bebidas: jugo de naranja e infusión a elección.",
-      "en": "Savoury: Bavaria (smoked salmon, tartare and arugula); Sancricca (12-month prosciutto, pategrás, sun-dried tomato and blue cheese cream); Avocado (multigrain toast, Finlandia cheese, avocado, quail egg and cherry tomatoes); cheese scones. Sweet: red berry macarons, citrus dome on granola, apple tart, moist dulce de leche sponge, rustic chocolate with dulce de leche centre, flat croissant with nutella. Drinks: orange juice and a hot drink.",
-      "pt": "Salgado: Bavaria (salmão defumado, tártaro e rúcula); Sancricca (presunto cru 12 meses, pategrás, tomate seco e creme de queijo azul); Avocado (torrada multigrãos, queijo Finlandia, abacate, ovo de codorna e tomates cereja); scones de queijo. Doce: macarons de frutas vermelhas, semiesfera cítrica sobre granola, torta de maçã, bolo úmido de doce de leite, rústico de chocolate, croissant flat com nutella. Bebidas: suco de laranja e uma infusão."
-     },
+     "descripcion": {},
      "precio": 66000,
-     "tags": [
-      "NUEVO"
-     ]
+     "tags": []
     }
    ]
   },
