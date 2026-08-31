@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T20:04:48.558Z",
+  "actualizado": "2026-08-31T20:40:53.861Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general."
@@ -79,7 +79,7 @@
    },
    "foto": "",
    "nota": {
-    "es": "| Opciones frías: medialunas de manteca y grasa, cuadraditos dulces, pastelería, variedad de\npanes y tostadas, espejo de quesos y fiambres, cereales, frutos secos, frutas, compotas,\nyogourts, mermeladas, manteca y queso crema.\n| Opciones calientes: salchichas, huevos revueltos, panceta, jamón y avena.\n| Infusiones: café, leche, té, chocolatada, jugos y aguas.\n*Días de Semana 6:30 a 10:00 hs | Fines de Semana 7:00 a 10:30 hs.*",
+    "es": "| Opciones frías: medialunas de manteca y grasa, cuadraditos dulces, pastelería, variedad de\npanes y tostadas, espejo de quesos y fiambres, cereales, frutos secos, frutas, compotas,\nyogourts, mermeladas, dispenser de Nutella, manteca y queso crema.\n| Opciones calientes: salchichas, huevos revueltos, panceta, jamón y avena.\n| Infusiones: café, leche, té, chocolatada, jugos y aguas.\n*Horarios: Días de Semana 6:30 a 10:00 hs | Fines de Semana 7:00 a 10:30 hs.*",
     "en": "Open to guests and the general public, no reservation required.\nIncludes:\n• Cold options: butter and lard croissants, sweet pastries, a variety of\nbreads and toast, a selection of cheeses and cold cuts, cereal, nuts, fruit, compotes,\nyogurts, jams, butter, and cream cheese.\n• Hot options: sausages, scrambled eggs, bacon, ham, and oatmeal.\n• Beverages: coffee, milk, tea, hot chocolate, juices, and water.\nWeekdays 6:30 a.m. to 10:00 a.m. | Weekends 7:00 a.m. to 10:30 a.m.",
     "pt": "Aberto para hóspedes e público em geral, sem necessidade de reserva.\nInclui:\n• Opções frias: croissants de manteiga e gordura, bolinhos doces, doces, variedade de\npães e torradas, prato de queijos e frios, cereais, nozes, frutas, compotas,\niogurtes, geleias, manteiga e cream cheese.\n• Opções quentes: salsichas, ovos mexidos, bacon, presunto e mingau de aveia.\n• Bebidas: café, leite, chá, chocolate quente, sucos e água.\nDias da semana, das 6h30 às 10h | Fins de semana, das 7h às 10h30."
    },
@@ -109,105 +109,123 @@
    ]
   },
   {
-   "id": "alm-cen-buffet-lv",
+   "id": "buffet-finde-lv",
    "nombre": {
-    "es": "Almuerzos y Cenas Buffet",
-    "en": "Buffet Lunches and Dinners",
-    "pt": "Almoços e jantares em estilo buffet"
+    "es": "Almuerzos y cenas buffet | Fines de semana",
+    "en": "Buffet lunch and dinner | Weekend",
+    "pt": "Almoço e jantar buffet | Fim de semana"
    },
    "foto": "",
    "nota": {
-    "es": "Exquisita variedad de entradas, platos principales y postres de la cocina internacional.\n\nTodos los viernes por la noche, sábados, domingos, feriados y visperas de feriados. Durante la semana, sujeto a disponibilidad (consultar previamente por WhatsApp si el restaurant se encuentra abierto.)\n\nAlmuerzos: 13:00 a 15:0 hs. | Cenas: 20:00 a 00:00 hs.\nIncluye bebidas sin alcohol, café y estacionamiento.\nVino incluido: Trumpeter Cabernet o Chardonnay durante el servicio.\n* Valores no aplicables para fechas especiales *"
+    "es": "Cenas todos los viernes, sábados y vísperas de feriados: 20:00 a 00:00 hs. | Almuerzos todos los sábados, domingos y feriados: 13:00 a 15:00 hs. \n\nEstos valores no aplican para fechas especiales (Día de la Madre, Día del Padre, Día del Niño, Navidad, Año Nuevo, etc.)",
+    "en": "Dinner every Friday, Saturday and on the eve of public holidays: 8:00 pm to 12:00 am. | Lunch every Saturday, Sunday and public holiday: 1:00 pm to 3:00 pm.\n\nThese rates do not apply to special dates (Mother's Day, Father's Day, Children's Day, Christmas, New Year's Eve, etc.).",
+    "pt": "Jantar todas as sextas-feiras, sábados e vésperas de feriados: das 20h às 00h. | Almoço todos os sábados, domingos e feriados: das 13h às 15h.\n\nEstes valores não se aplicam a datas especiais (Dia das Mães, Dia dos Pais, Dia das Crianças, Natal, Ano-Novo etc.)."
    },
    "items": [
     {
-     "id": "lv-almuerzo-vino",
+     "id": "lv-buffet-finde-adulto-vino",
      "nombre": {
-      "es": "Almuerzo/cena buffet con vino — Adultos",
-      "en": "Lunch/dinner buffet with wine — Adults",
-      "pt": "Almoço/jantar buffet com vinho — Adultos"
+      "es": "Adultos con vino",
+      "en": "Adults with wine",
+      "pt": "Adultos com vinho"
      },
      "descripcion": {
-      "es": "Entradas, principales y postres de cocina internacional. Incluye bebidas sin alcohol, café y estacionamiento. Vino Trumpeter Cabernet o Chardonnay durante el servicio. Domingo noche a viernes mediodía.",
-      "en": "International cuisine. Includes soft drinks, coffee and parking. Trumpeter Cabernet or Chardonnay during service. Sunday night to Friday midday.",
-      "pt": "Cozinha internacional. Inclui bebidas sem álcool, café e estacionamento. Vinho Trumpeter durante o serviço. Domingo à noite a sexta ao meio-dia."
-     },
-     "precio": 73000,
-     "tags": []
-    },
-    {
-     "id": "lv-almuerzo-sin-vino",
-     "nombre": {
-      "es": "Almuerzo/cena buffet sin vino — Adultos",
-      "en": "Lunch/dinner buffet without wine — Adults",
-      "pt": "Almoço/jantar buffet sem vinho — Adultos"
-     },
-     "descripcion": {
-      "es": "Domingo noche a viernes mediodía.",
-      "en": "Sunday night to Friday midday.",
-      "pt": "Domingo à noite a sexta ao meio-dia."
-     },
-     "precio": 60000,
-     "tags": []
-    },
-    {
-     "id": "lv-almuerzo-menor",
-     "nombre": {
-      "es": "Almuerzo/cena buffet — Menores (4 a 12 años)",
-      "en": "Lunch/dinner buffet — Kids (4–12)",
-      "pt": "Almoço/jantar buffet — Crianças (4–12)"
-     },
-     "descripcion": {
-      "es": "Domingo noche a viernes mediodía.",
-      "en": "Sunday night to Friday midday.",
-      "pt": "Domingo à noite a sexta ao meio-dia."
-     },
-     "precio": 35000,
-     "tags": []
-    },
-    {
-     "id": "lv-almuerzo-vino-finde",
-     "nombre": {
-      "es": "Almuerzo/cena buffet con vino — Adultos (fin de semana)",
-      "en": "Lunch/dinner buffet with wine — Adults (weekend)",
-      "pt": "Almoço/jantar buffet com vinho — Adultos (fim de semana)"
-     },
-     "descripcion": {
-      "es": "Viernes noche a domingo mediodía. Aplica a feriados y vísperas.",
-      "en": "Friday night to Sunday midday. Holidays included.",
-      "pt": "Sexta à noite a domingo ao meio-dia. Feriados incluídos."
+      "es": "Incluye todo lo detallado anteriormente, más vino Trumpeter Cabernet Sauvignon o Chardonnay libre durante todo el servicio.",
+      "en": "Includes everything detailed above, plus unlimited Trumpeter Cabernet Sauvignon or Chardonnay wine throughout the service.",
+      "pt": "Inclui tudo o que foi detalhado anteriormente, além de vinho Trumpeter Cabernet Sauvignon ou Chardonnay à vontade durante todo o serviço."
      },
      "precio": 85000,
      "tags": []
     },
     {
-     "id": "lv-almuerzo-sin-vino-finde",
+     "id": "lv-buffet-finde-adulto",
      "nombre": {
-      "es": "Almuerzo/cena buffet sin vino — Adultos (fin de semana)",
-      "en": "Lunch/dinner buffet without wine — Adults (weekend)",
-      "pt": "Almoço/jantar buffet sem vinho — Adultos (fim de semana)"
+      "es": "Adultos sin vino",
+      "en": "Adults without wine",
+      "pt": "Adultos sem vinho"
      },
      "descripcion": {
-      "es": "Viernes noche a domingo mediodía.",
-      "en": "Friday night to Sunday midday.",
-      "pt": "Sexta à noite a domingo ao meio-dia."
+      "es": "Incluye exquisita variedad de entradas, platos principales y postres de la cocina internacional, bebidas sin alcohol y café durante el servicio. Estacionamiento bonificado por 2 horas y media.",
+      "en": "Includes an exquisite variety of international cuisine appetizers, main courses and desserts, as well as non-alcoholic beverages and coffee during the service. Complimentary parking for two and a half hours.",
+      "pt": "Inclui uma requintada variedade de entradas, pratos principais e sobremesas da culinária internacional, além de bebidas não alcoólicas e café durante o serviço. Estacionamento gratuito por duas horas e meia."
      },
      "precio": 72000,
      "tags": []
     },
     {
-     "id": "lv-almuerzo-menor-finde",
+     "id": "lv-buffet-finde-menor",
      "nombre": {
-      "es": "Almuerzo/cena buffet — Menores (fin de semana)",
-      "en": "Lunch/dinner buffet — Kids (weekend)",
-      "pt": "Almoço/jantar buffet — Crianças (fim de semana)"
+      "es": "Menores (4 a 12 años)",
+      "en": "Children (4 to 12 years)",
+      "pt": "Crianças (4 a 12 anos)"
      },
      "descripcion": {
-      "es": "Viernes noche a domingo mediodía.",
-      "en": "Friday night to Sunday midday.",
-      "pt": "Sexta à noite a domingo ao meio-dia."
+      "es": "Incluye extensa variedad de opciones dulces, saladas y bebidas sin alcohol durante el servicio. Contamos con silla alta para niños en caso de ser necesario. Menores de 3 años no abonan.",
+      "en": "Includes an extensive variety of sweet and savory options, as well as non-alcoholic beverages throughout the service. High chairs for children are available upon request. Children under 3 years old eat free of charge.",
+      "pt": "Inclui uma ampla variedade de opções doces e salgadas, além de bebidas não alcoólicas durante o serviço. Temos cadeiras altas para crianças, caso seja necessário. Crianças menores de 3 anos não pagam."
      },
      "precio": 39000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "buffet-semana-lv",
+   "nombre": {
+    "es": "Almuerzos y cenas buffet | Días de semana",
+    "en": "Buffet Lunch and Dinner | Weekdays",
+    "pt": "Almoço e Jantar Buffet | Dias de semana"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Sujeto a disponibilidad (consultar previamente por WhatsApp si el restaurant se encuentra abierto). Almuerzos lunes, martes, miércoles, jueves y viernes: 13:00 a 15:00 hs. | Cenas domingos, lunes, martes, miércoles y jueves: 20:00 a 00:00 hs.",
+    "en": "Subject to availability (please check in advance via WhatsApp whether the restaurant is open). Lunch from Monday to Friday: 1:00 pm to 3:00 pm. | Dinner from Sunday to Thursday: 8:00 pm to 12:00 am.",
+    "pt": "Sujeito à disponibilidade (consulte previamente pelo WhatsApp se o restaurante está aberto). Almoço de segunda a sexta-feira: das 13h às 15h. | Jantar de domingo a quinta-feira: das 20h às 00h."
+   },
+   "items": [
+    {
+     "id": "lv-buffet-semana-adulto-vino",
+     "nombre": {
+      "es": "Adultos con vino",
+      "en": "Adults with wine",
+      "pt": "Adultos com vinho"
+     },
+     "descripcion": {
+      "es": "Incluye todo lo detallado anteriormente, más vino Trumpeter Cabernet Sauvignon o Chardonnay libre durante todo el servicio.",
+      "en": "Includes everything detailed above, plus unlimited Trumpeter Cabernet Sauvignon or Chardonnay wine throughout the service.",
+      "pt": "Inclui tudo o que foi detalhado anteriormente, além de vinho Trumpeter Cabernet Sauvignon ou Chardonnay à vontade durante todo o serviço."
+     },
+     "precio": 73000,
+     "tags": []
+    },
+    {
+     "id": "lv-buffet-semana-adulto",
+     "nombre": {
+      "es": "Adultos sin vino",
+      "en": "Adults without wine",
+      "pt": "Adultos sem vinho"
+     },
+     "descripcion": {
+      "es": "Incluye exquisita variedad de entradas, platos principales y postres de la cocina internacional, bebidas sin alcohol y café durante el servicio. Estacionamiento bonificado por 2 horas y media.",
+      "en": "Includes an exquisite variety of international cuisine appetizers, main courses and desserts, as well as non-alcoholic beverages and coffee during the service. Complimentary parking for two and a half hours.",
+      "pt": "Inclui uma requintada variedade de entradas, pratos principais e sobremesas da culinária internacional, além de bebidas não alcoólicas e café durante o serviço. Estacionamento gratuito por duas horas e meia."
+     },
+     "precio": 60000,
+     "tags": []
+    },
+    {
+     "id": "lv-buffet-semana-menor",
+     "nombre": {
+      "es": "Menores (4 a 12 años)",
+      "en": "Children (4 to 12 years)",
+      "pt": "Crianças (4 a 12 anos)"
+     },
+     "descripcion": {
+      "es": "Incluye extensa variedad de opciones dulces, saladas y bebidas sin alcohol durante el servicio. Contamos con silla alta para niños en caso de ser necesario. Menores de 3 años no abonan.",
+      "en": "Includes an extensive variety of sweet and savory options, as well as non-alcoholic beverages throughout the service. High chairs for children are available upon request. Children under 3 years old eat free of charge.",
+      "pt": "Inclui uma ampla variedade de opções doces e salgadas, além de bebidas não alcoólicas durante o serviço. Temos cadeiras altas para crianças, caso seja necessário. Crianças menores de 3 anos não pagam."
+     },
+     "precio": 35000,
      "tags": []
     }
    ]
