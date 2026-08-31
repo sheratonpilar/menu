@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T15:14:02.790Z",
+  "actualizado": "2026-08-31T17:30:53.584Z",
   "ver_tambien": "carta-vinos",
   "pie": {
    "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
@@ -1371,9 +1371,7 @@
      },
      "descripcion": {},
      "precio": 19000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-jugo-zanahoria-manzana",
@@ -1384,9 +1382,7 @@
      },
      "descripcion": {},
      "precio": 19000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-jugo-zanahoria-naranja",
@@ -1397,9 +1393,7 @@
      },
      "descripcion": {},
      "precio": 19000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-red-bull",
@@ -1503,21 +1497,6 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-lb-bacardi",
-     "nombre": {
-      "es": "Bacardi Cocktail",
-      "en": "Bacardi Cocktail",
-      "pt": "Bacardi Cocktail"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-gin-tonic",
      "nombre": {
       "es": "Gin Tonic",
@@ -1528,6 +1507,21 @@
       "es": "Gin Beefeater, agua tónica, rodajas de limón.",
       "en": "Gin Bombay, agua tónica y limón.",
       "pt": "Gin Bombay, agua tónica y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-bacardi",
+     "nombre": {
+      "es": "Bacardi Cocktail",
+      "en": "Bacardi Cocktail",
+      "pt": "Bacardi Cocktail"
+     },
+     "descripcion": {
+      "es": "Ron, jugo de limón y granadina.",
+      "en": "Ron, jugo de limón y granadina.",
+      "pt": "Ron, jugo de limón y granadina."
      },
      "precio": 25000,
      "tags": []
@@ -1608,21 +1602,6 @@
      "tags": []
     },
     {
-     "id": "ckt-lb-caipirinha",
-     "nombre": {
-      "es": "Caipirinha",
-      "en": "Caipirinha",
-      "pt": "Caipirinha"
-     },
-     "descripcion": {
-      "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-caipirovska",
      "nombre": {
       "es": "Caipirovska",
@@ -1633,6 +1612,21 @@
       "es": "Vodka Smirnoff y limas maceradas.",
       "en": "Smirnoff vodka and muddled limes.",
       "pt": "Vodca Smirnoff e limas maceradas."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-caipirinha",
+     "nombre": {
+      "es": "Caipirinha",
+      "en": "Caipirinha",
+      "pt": "Caipirinha"
+     },
+     "descripcion": {
+      "es": "Cachaça y limas maceradas.",
+      "en": "Cachaça y limas maceradas.",
+      "pt": "Cachaça y limas maceradas."
      },
      "precio": 25000,
      "tags": []
