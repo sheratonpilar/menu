@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-29T15:00:53.359Z",
+  "actualizado": "2026-08-31T15:14:02.792Z",
   "ver_tambien": "",
   "pie": {
    "es": "Contactanos por WhatsApp al +54 9 11 3135-3022. Valores no aplicables para fechas especiales.",
@@ -68,41 +68,55 @@
  },
  "secciones": [
   {
-   "id": "buffet",
+   "id": "desayuno-lv",
    "nombre": {
-    "es": "Buffet",
-    "en": "Buffet",
-    "pt": "Buffet"
+    "es": "Desayuno Buffet",
+    "en": "Buffet Breakfast",
+    "pt": "Café da manhã tipo bufê"
    },
    "foto": "",
-   "nota": {},
+   "nota": {
+    "es": "Abierto para huéspedes y público externo, sin reserva.\nIncluye:\n• Opciones frías: medialunas de manteca y grasa, cuadraditos dulces, pastelería, variedad de\npanes y tostadas, espejo de quesos y fiambres, cereales, frutos secos, frutas, compotas,\nyogourts, mermeladas, manteca y queso crema.\n• Opciones calientes: salchichas, huevos revueltos, panceta, jamón y avena.\n• Infusiones: café, leche, té, chocolatada, jugos y aguas.\nDías de Semana 6:30 a 10:00 hs | Fines de Semana 7:00 a 10:30 hs.",
+    "en": "Open to guests and the general public, no reservation required.\nIncludes:\n• Cold options: butter and lard croissants, sweet pastries, a variety of\nbreads and toast, a selection of cheeses and cold cuts, cereal, nuts, fruit, compotes,\nyogurts, jams, butter, and cream cheese.\n• Hot options: sausages, scrambled eggs, bacon, ham, and oatmeal.\n• Beverages: coffee, milk, tea, hot chocolate, juices, and water.\nWeekdays 6:30 a.m. to 10:00 a.m. | Weekends 7:00 a.m. to 10:30 a.m.",
+    "pt": "Aberto para hóspedes e público em geral, sem necessidade de reserva.\nInclui:\n• Opções frias: croissants de manteiga e gordura, bolinhos doces, doces, variedade de\npães e torradas, prato de queijos e frios, cereais, nozes, frutas, compotas,\niogurtes, geleias, manteiga e cream cheese.\n• Opções quentes: salsichas, ovos mexidos, bacon, presunto e mingau de aveia.\n• Bebidas: café, leite, chá, chocolate quente, sucos e água.\nDias da semana, das 6h30 às 10h | Fins de semana, das 7h às 10h30."
+   },
    "items": [
     {
      "id": "lv-desayuno-adulto",
      "nombre": {
-      "es": "Desayuno buffet — Adultos",
-      "en": "Breakfast buffet — Adults",
-      "pt": "Café da manhã buffet — Adultos"
+      "es": "Adultos",
+      "en": "Adults",
+      "pt": "Adultos"
      },
-     "descripcion": {
-      "es": "Abierto para huéspedes y público externo, sin reserva. Opciones frías y calientes, infusiones. Días de semana 6:30 a 10:00; fines de semana 7:00 a 10:30.",
-      "en": "Open to guests and the public, no booking. Weekdays 6:30–10:00; weekends 7:00–10:30.",
-      "pt": "Aberto a hóspedes e público, sem reserva. Dias de semana 6h30–10h; fins de semana 7h–10h30."
-     },
+     "descripcion": {},
      "precio": 45000,
      "tags": []
     },
     {
      "id": "lv-desayuno-menor",
      "nombre": {
-      "es": "Desayuno buffet — Menores (4 a 12 años)",
-      "en": "Breakfast buffet — Kids (4–12)",
-      "pt": "Café da manhã buffet — Crianças (4–12)"
+      "es": "Menores (4 a 12 años)",
+      "en": "Kids (4–12)",
+      "pt": "Crianças (4–12)"
      },
      "descripcion": {},
      "precio": 27000,
      "tags": []
-    },
+    }
+   ]
+  },
+  {
+   "id": "alm-cen-buffet-lv",
+   "nombre": {
+    "es": "Almuerzos y Cenas Buffet",
+    "en": "Buffet Lunches and Dinners",
+    "pt": "Almoços e jantares em estilo buffet"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Exquisita variedad de entradas, platos principales y postres de la cocina internacional.\n\nTodos los viernes por la noche, sábados, domingos, feriados y visperas de feriados. Durante la semana, sujeto a disponibilidad (consultar previamente por WhatsApp si el restaurant se encuentra abierto.)\n\nAlmuerzos: 13:00 a 15:0 hs. | Cenas: 20:00 a 00:00 hs.\nIncluye bebidas sin alcohol, café y estacionamiento.\nVino incluido: Trumpeter Cabernet o Chardonnay durante el servicio.\n* Valores no aplicables para fechas especiales *"
+   },
+   "items": [
     {
      "id": "lv-almuerzo-vino",
      "nombre": {
@@ -204,9 +218,9 @@
    },
    "foto": "lb-te.jpg",
    "nota": {
-    "es": "Servicio para 2 personas. Disponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
-    "en": "Service for 2. Fridays, Saturdays, Sundays and holidays only, 4:00–6:30 pm.",
-    "pt": "Serviço para 2 pessoas. Sextas, sábados, domingos e feriados, das 16h às 18h30."
+    "es": "Te ofrecemos una riquísima propuesta de té para disfrutar con la vista de los jardines del Hotel y pasar una tarde diferente.\n\nSALADO\n• Bavaria, salmón ahumado, tártara y rúcula.\n• Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul.\n• Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys.\n• Scons de queso.\nDULCE\n• Macarons de frutos rojos con centro de frambuesa.\n• Semi esfera cítrica con base de granola casera.\n• Tarta de manzanas.\n• Húmedo de dulce de leche.\n• Rústico de chocolate con centro de ddl bañado de chocolate.\n• Croissant flat, untuoso de nutella y chocolate.\nBEBIDAS\n• Jugo de naranja e infusión a elección.\n\nDisponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
+    "en": "We offer you a delicious tea selection to enjoy while taking in the view of the hotel’s gardens and spending a unique afternoon.\n\nSAVORY\n• Bavaria, smoked salmon, tartare, and arugula.\n• Sancricca, 12-month-aged prosciutto, pategrás, sun-dried tomatoes, and creamy blue cheese.\n• Avocado, multigrain toast, Finlandia bread, avocado, quail egg, and cherry tomatoes.\n• Cheese scones.\nSWEET\n• Red berry macarons with a raspberry center.\n• Citrus half-sphere on a homemade granola base.\n• Apple tart.\n• Dulce de leche cake.\n• Chocolate rustic cake with a dulce de leche center, coated in chocolate.\n• Flat croissant, spread with Nutella and chocolate.\nDRINKS\n• Orange juice and your choice of herbal tea.\n\nAvailable only on Fridays, Saturdays, Sundays, and holidays from 4:00 PM to 6:30 PM.",
+    "pt": "Oferecemos a você uma deliciosa seleção de chás para saborear com vista para os jardins do hotel e passar uma tarde diferente.\n\nSALGADOS\n• Bavaria, salmão defumado, tártara e rúcula.\n• Sancricca, presunto cru de 12 meses, pategrás, tomates secos e creme de queijo azul.\n• Abacate, torrada multigrãos, Finlandia, abacate, ovo de codorna e tomates cereja.\n• Scones de queijo.\nDOCE\n• Macarons de frutas vermelhas com recheio de framboesa.\n• Semiesfera cítrica com base de granola caseira.\n• Torta de maçã.\n• Bolo úmido de doce de leite.\n• Bolinho rústico de chocolate com recheio de doce de leite e cobertura de chocolate.\n• Croissant achatado, recheado com Nutella e chocolate.\nBEBIDAS\n• Suco de laranja e chá à escolha.\n\nDisponível apenas às sextas-feiras, sábados, domingos e feriados, das 16h às 18h30."
    },
    "items": [
     {
@@ -217,9 +231,9 @@
       "pt": "Chá da tarde para dois"
      },
      "descripcion": {
-      "es": "Salado: Bavaria, Sancricca, Avocado, scons de queso. Dulce: macarons, semiesfera cítrica, tarta de manzanas, húmedo de dulce de leche, rústico de chocolate, croissant flat. Bebidas: jugo de naranja e infusión a elección.",
-      "en": "Savoury and sweet selection with orange juice and a hot drink.",
-      "pt": "Seleção salgada e doce com suco de laranja e uma infusão."
+      "es": "Cantidad mínima de cubiertos: 20.\nEn el caso de ser menos de 15, podrán tomar el mismo servicio pero en nuestro Lobby Bar.",
+      "en": "Minimum number of guests: 20.\nIf there are fewer than 15 guests, they may enjoy the same service in our Lobby Bar.",
+      "pt": "Número mínimo de convidados: 20.\nCaso o número seja inferior a 15, vocês poderão desfrutar do mesmo serviço, mas no nosso Lobby Bar."
      },
      "precio": 66000,
      "tags": []
