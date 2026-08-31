@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T20:40:53.861Z",
+  "actualizado": "2026-08-31T21:04:42.469Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general."
@@ -130,9 +130,9 @@
       "pt": "Adultos com vinho"
      },
      "descripcion": {
-      "es": "Incluye todo lo detallado anteriormente, más vino Trumpeter Cabernet Sauvignon o Chardonnay libre durante todo el servicio.",
-      "en": "Includes everything detailed above, plus unlimited Trumpeter Cabernet Sauvignon or Chardonnay wine throughout the service.",
-      "pt": "Inclui tudo o que foi detalhado anteriormente, além de vinho Trumpeter Cabernet Sauvignon ou Chardonnay à vontade durante todo o serviço."
+      "es": "Incluye exquisita variedad de entradas, platos principales y postres de la cocina internacional, vino Trumpeter Cabernet Sauvignon o Chardonnay, bebidas sin alcohol y café durante el servicio. Estacionamiento bonificado por 2 horas y media.",
+      "en": "Includes an exquisite variety of international cuisine appetizers, main courses and desserts, Trumpeter Cabernet Sauvignon or Chardonnay wine, non-alcoholic beverages and coffee throughout the service. Complimentary parking for two and a half hours.",
+      "pt": "Inclui uma requintada variedade de entradas, pratos principais e sobremesas da culinária internacional, vinho Trumpeter Cabernet Sauvignon ou Chardonnay, bebidas não alcoólicas e café durante o serviço. Estacionamento gratuito por duas horas e meia."
      },
      "precio": 85000,
      "tags": []
@@ -191,9 +191,9 @@
       "pt": "Adultos com vinho"
      },
      "descripcion": {
-      "es": "Incluye todo lo detallado anteriormente, más vino Trumpeter Cabernet Sauvignon o Chardonnay libre durante todo el servicio.",
-      "en": "Includes everything detailed above, plus unlimited Trumpeter Cabernet Sauvignon or Chardonnay wine throughout the service.",
-      "pt": "Inclui tudo o que foi detalhado anteriormente, além de vinho Trumpeter Cabernet Sauvignon ou Chardonnay à vontade durante todo o serviço."
+      "es": "Incluye exquisita variedad de entradas, platos principales y postres de la cocina internacional, vino Trumpeter Cabernet Sauvignon o Chardonnay, bebidas sin alcohol y café durante el servicio. Estacionamiento bonificado por 2 horas y media.",
+      "en": "Includes an exquisite variety of international cuisine appetizers, main courses and desserts, Trumpeter Cabernet Sauvignon or Chardonnay wine, non-alcoholic beverages and coffee throughout the service. Complimentary parking for two and a half hours.",
+      "pt": "Inclui uma requintada variedade de entradas, pratos principais e sobremesas da culinária internacional, vinho Trumpeter Cabernet Sauvignon ou Chardonnay, bebidas não alcoólicas e café durante o serviço. Estacionamento gratuito por duas horas e meia."
      },
      "precio": 73000,
      "tags": []
@@ -231,7 +231,7 @@
    ]
   },
   {
-   "id": "te",
+   "id": "propuesta-te",
    "nombre": {
     "es": "Propuesta de té",
     "en": "Afternoon tea",
@@ -239,22 +239,22 @@
    },
    "foto": "lb-te.jpg",
    "nota": {
-    "es": "Te ofrecemos una riquísima propuesta de té para disfrutar con la vista de los jardines del Hotel y pasar una tarde diferente.\n\nSALADO\n• Bavaria, salmón ahumado, tártara y rúcula.\n• Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul.\n• Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys.\n• Scons de queso.\nDULCE\n• Macarons de frutos rojos con centro de frambuesa.\n• Semi esfera cítrica con base de granola casera.\n• Tarta de manzanas.\n• Húmedo de dulce de leche.\n• Rústico de chocolate con centro de ddl bañado de chocolate.\n• Croissant flat, untuoso de nutella y chocolate.\nBEBIDAS\n• Jugo de naranja e infusión a elección.\n\nDisponible solo viernes, sábados, domingos y feriados de 16:00 a 18:30.",
-    "en": "We offer you a delicious tea selection to enjoy while taking in the view of the hotel’s gardens and spending a unique afternoon.\n\nSAVORY\n• Bavaria, smoked salmon, tartare, and arugula.\n• Sancricca, 12-month-aged prosciutto, pategrás, sun-dried tomatoes, and creamy blue cheese.\n• Avocado, multigrain toast, Finlandia bread, avocado, quail egg, and cherry tomatoes.\n• Cheese scones.\nSWEET\n• Red berry macarons with a raspberry center.\n• Citrus half-sphere on a homemade granola base.\n• Apple tart.\n• Dulce de leche cake.\n• Chocolate rustic cake with a dulce de leche center, coated in chocolate.\n• Flat croissant, spread with Nutella and chocolate.\nDRINKS\n• Orange juice and your choice of herbal tea.\n\nAvailable only on Fridays, Saturdays, Sundays, and holidays from 4:00 PM to 6:30 PM.",
-    "pt": "Oferecemos a você uma deliciosa seleção de chás para saborear com vista para os jardins do hotel e passar uma tarde diferente.\n\nSALGADOS\n• Bavaria, salmão defumado, tártara e rúcula.\n• Sancricca, presunto cru de 12 meses, pategrás, tomates secos e creme de queijo azul.\n• Abacate, torrada multigrãos, Finlandia, abacate, ovo de codorna e tomates cereja.\n• Scones de queijo.\nDOCE\n• Macarons de frutas vermelhas com recheio de framboesa.\n• Semiesfera cítrica com base de granola caseira.\n• Torta de maçã.\n• Bolo úmido de doce de leite.\n• Bolinho rústico de chocolate com recheio de doce de leite e cobertura de chocolate.\n• Croissant achatado, recheado com Nutella e chocolate.\nBEBIDAS\n• Suco de laranja e chá à escolha.\n\nDisponível apenas às sextas-feiras, sábados, domingos e feriados, das 16h às 18h30."
+    "es": "SALADO: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys |Scons de queso.\nDULCE: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate.\nBEBIDAS: Jugo de naranja e infusión a elección.",
+    "en": "**SAVORY:** Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese. | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes. | Cheese scones.\n\n**SWEET:** Red berry macarons with raspberry center. | Citrus half-sphere with homemade granola base. | Apple tart. | Moist dulce de leche cake. | Rustic chocolate cake with a dulce de leche center, coated in chocolate. | Flat croissant with a rich Nutella and chocolate filling.\n\n**BEVERAGES:** Orange juice and tea or coffee of your choice.",
+    "pt": "**SALGADO:** Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul. | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja. | Scones de queijo.\n\n**DOCE:** Macarons de frutas vermelhas com recheio de framboesa. | Semiesfera cítrica com base de granola caseira. | Torta de maçã. | Bolo úmido de doce de leite. | Rústico de chocolate com recheio de doce de leite, coberto com chocolate. | Croissant flat, com recheio cremoso de Nutella e chocolate.\n\n**BEBIDAS:** Suco de laranja e chá ou café à escolha."
    },
    "items": [
     {
-     "id": "lv-te",
+     "id": "lv-propuesta-te",
      "nombre": {
-      "es": "Propuesta de té para 2 personas",
-      "en": "Afternoon tea for two",
-      "pt": "Chá da tarde para dois"
+      "es": "Precio cada 2 personas",
+      "en": "Price per 2 people",
+      "pt": "Preço para 2 pessoas"
      },
      "descripcion": {
-      "es": "Cantidad mínima de cubiertos: 20.\nEn el caso de ser menos de 15, podrán tomar el mismo servicio pero en nuestro Lobby Bar.",
-      "en": "Minimum number of guests: 20.\nIf there are fewer than 15 guests, they may enjoy the same service in our Lobby Bar.",
-      "pt": "Número mínimo de convidados: 20.\nCaso o número seja inferior a 15, vocês poderão desfrutar do mesmo serviço, mas no nosso Lobby Bar."
+      "es": "Servicio disponible viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.\n\nEl servicio requiere reserva previa y está sujeto a una confirmación mínima de 20 personas para realizarse en Las Vasijas Restaurante. En caso de no alcanzar el mínimo requerido, el servicio podrá disfrutarse en nuestro Lobby Bar, manteniendo el mismo precio.",
+      "en": "Service available on Fridays, Saturdays, Sundays and public holidays, from 4:30 pm to 6:30 pm.\n\nAdvance reservation is required and a minimum of 20 guests must be confirmed for the service to be held at Las Vasijas Restaurant. If the minimum number is not reached, the service can be enjoyed at our Lobby Bar, at the same price.",
+      "pt": "Serviço disponível às sextas-feiras, sábados, domingos e feriados, das 16h30 às 18h30.\n\nÉ necessário fazer reserva prévia e confirmar um mínimo de 20 pessoas para que o serviço seja realizado no Restaurante Las Vasijas. Caso o número mínimo não seja atingido, o serviço poderá ser desfrutado em nosso Lobby Bar, mantendo o mesmo preço."
      },
      "precio": 66000,
      "tags": []
