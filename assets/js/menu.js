@@ -11,6 +11,14 @@ pt:{buscar:'Buscar um prato…',sin:'Nada encontrado.',act:'Atualizado',ver:'Ver
 function t(o){if(!o)return'';return o[lang]||o.es||''}
 function precio(v){if(v==='CONSULTAR')return t({es:'Consultar',en:'Ask us',pt:'Consultar'});return'$ '+Number(v).toLocaleString('es-AR',{maximumFractionDigits:0})}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+// Formato seguro: escapa primero, luego convierte **negrita**, *itálica* y saltos de línea.
+function fmt(s){
+  s=esc(String(s));
+  s=s.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');   // **negrita**
+  s=s.replace(/(^|[^*])\*([^*]+)\*/g,'$1<em>$2</em>');       // *itálica* (no toca los ** ya usados)
+  s=s.replace(/\r\n|\r|\n/g,'<br>');                        // enter -> salto de línea
+  return s;
+}
 function norm(s){return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')}
 if(window.__DATA__){data=window.__DATA__;render();}
 else{fetch(BASE+'data/'+CARTA+'.json?v='+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){data=d;render()}).catch(function(){app.innerHTML='<p class="empty">No pudimos cargar la carta.</p>'})}
@@ -37,7 +45,7 @@ function heroHTML(){
 var c=data.carta;
 return '<div class="hero2" id="hero">'+logoHTML(c,'hero2__logo')+
  '<h1 class="hero2__name">'+esc(c.nombre)+'</h1>'+
- (t(c.descripcion)?'<p class="hero2__desc">'+esc(t(c.descripcion))+'</p>':'')+
+ (t(c.descripcion)?'<p class="hero2__desc">'+fmt(t(c.descripcion))+'</p>':'')+
  '</div>';
 }
 
@@ -50,11 +58,11 @@ secciones.forEach(function(s){
 html+='<section class="sec" id="'+s.id+'">';
 if(s.foto)html+='<img class="sec__foto" src="'+BASE+'assets/img/secciones/'+esc(s.foto)+'" alt="" loading="lazy" onerror="this.remove()">';
 html+='<h2 class="sec__title">'+esc(t(s.nombre))+'</h2>';
-if(t(s.nota))html+='<p class="sec__note">'+esc(t(s.nota))+'</p>';
+if(t(s.nota))html+='<p class="sec__note">'+fmt(t(s.nota))+'</p>';
 html+='<hr class="sec__rule">';
 s.items.forEach(function(i){
 html+='<article class="item"><div class="item__head"><span class="item__name">'+esc(t(i.nombre))+'</span><span class="item__dots"></span><span class="item__price">'+esc(precio(i.precio))+'</span></div>';
-if(t(i.descripcion))html+='<p class="item__desc">'+esc(t(i.descripcion))+'</p>';
+if(t(i.descripcion))html+='<p class="item__desc">'+fmt(t(i.descripcion))+'</p>';
 if(i.tags&&i.tags.length)html+='<div class="item__tags">'+i.tags.map(function(tg){var l=data.tags[tg]?t(data.tags[tg]):tg;return'<span class="tag tag--'+tg.toLowerCase()+'">'+esc(l)+'</span>'}).join('')+'</div>';
 html+='</article>';});
 html+='</section>';});
