@@ -9,10 +9,12 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:15:32.719Z",
+  "actualizado": "2026-08-31T21:57:40.723Z",
   "ver_tambien": "",
   "descripcion": {
-   "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general."
+   "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general.",
+   "en": "International buffet for breakfast, lunch, and/or dinner with a magnificent view of the hotel gardens. Available to guests and the general public.",
+   "pt": "Buffet internacional para desfrutar do café da manhã, almoço e/ou jantar com uma vista magnífica para os jardins do hotel. Disponível para hóspedes e público em geral."
   },
   "pie": {
    "es": "Contactanos por WhatsApp al +54 9 11 3135-3022. Valores no aplicables para fechas especiales.",
@@ -79,9 +81,9 @@
    },
    "foto": "",
    "nota": {
-    "es": "OPCIONES FRÍAS: medialunas de manteca y grasa, cuadraditos dulces, pastelería, variedad de\npanes y tostadas, espejo de quesos y fiambres, cereales, frutos secos, frutas, compotas,\nyogourts, mermeladas, dispenser de Nutella, manteca y queso crema.\n| OPCIONES CALIENTES: salchichas, huevos revueltos, panceta, jamón y avena.\n| INFUSIONES: café, leche, té, chocolatada, jugos y aguas.\n* Horarios: Días de Semana 6:30 a 10:00 hs | Fines de Semana 7:00 a 10:30 hs.*",
-    "en": "COLD OPTIONS: butter and lard croissants, sweet pastries, assorted pastries, variety of breads and toast, selection of cheeses and cold cuts, cereals, nuts, fruits, compotes, yogurts, jams, Nutella dispenser, butter and cream cheese. | HOT OPTIONS: sausages, scrambled eggs, bacon, ham and oatmeal. | BEVERAGES: coffee, milk, tea, hot chocolate, juices and water.\n* Hours: Weekdays 6:30 am to 10:00 am | Weekends 7:00 am to 10:30 am.*",
-    "pt": "OPÇÕES FRIAS: medialunas de manteiga e gordura, quadradinhos doces, variedade de itens de confeitaria, variedade de pães e torradas, seleção de queijos e frios, cereais, frutos secos, frutas, compotas, iogurtes, geleias, dispenser de Nutella, manteiga e cream cheese. | OPÇÕES QUENTES: salsichas, ovos mexidos, bacon, presunto e aveia. | BEBIDAS: café, leite, chá, chocolate quente, sucos e água.\n\n* Horários: Dias de semana das 6h30 às 10h | Fins de semana das 7h às 10h30.*"
+    "es": "**Horarios: Días de Semana 6:30 a 10:00 hs | Fines de Semana 7:00 a 10:30 hs.** | OPCIONES FRÍAS: medialunas de manteca y grasa, cuadraditos dulces, pastelería, variedad de panes y tostadas, espejo de quesos y fiambres, cereales, frutos secos, frutas, compotas, yogourts, mermeladas, dispenser de Nutella, manteca y queso crema. | OPCIONES CALIENTES: salchichas, huevos revueltos, panceta, jamón y avena. | INFUSIONES: café, leche, té, chocolatada, jugos y aguas.",
+    "en": "**Hours: Weekdays 6:30 to 10:00 am | Weekends 7:00 to 10:30 am.**\n\n| COLD OPTIONS: butter and lard croissants, sweet pastries, assorted pastries, variety of\nbreads and toast, selection of cheeses and cold cuts, cereals, nuts, fruits, compotes,\nyogurts, jams, Nutella dispenser, butter and cream cheese.\n| HOT OPTIONS: sausages, scrambled eggs, bacon, ham and oatmeal.\n| BEVERAGES: coffee, milk, tea, hot chocolate, juices and water.",
+    "pt": "**Horários: Dias de semana das 6h30 às 10h | Fins de semana das 7h às 10h30.**\n\n| OPÇÕES FRIAS: medialunas de manteiga e gordura, quadradinhos doces, confeitaria, variedade de\npães e torradas, seleção de queijos e frios, cereais, frutos secos, frutas, compotas,\niogurtes, geleias, dispenser de Nutella, manteiga e cream cheese.\n| OPÇÕES QUENTES: salsichas, ovos mexidos, bacon, presunto e aveia.\n| BEBIDAS: café, leite, chá, chocolate quente, sucos e água."
    },
    "items": [
     {
@@ -117,9 +119,9 @@
    },
    "foto": "",
    "nota": {
-    "es": "Cenas todos los viernes, sábados y vísperas de feriados: 20:00 a 00:00 hs. | Almuerzos todos los sábados, domingos y feriados: 13:00 a 15:00 hs. \n\nEstos valores no aplican para fechas especiales (Día de la Madre, Día del Padre, Día del Niño, Navidad, Año Nuevo, etc.)",
-    "en": "Dinner every Friday, Saturday and on the eve of public holidays: 8:00 pm to 12:00 am. | Lunch every Saturday, Sunday and public holiday: 1:00 pm to 3:00 pm.\n\nThese rates do not apply to special dates (Mother's Day, Father's Day, Children's Day, Christmas, New Year's Eve, etc.).",
-    "pt": "Jantar todas as sextas-feiras, sábados e vésperas de feriados: das 20h às 00h. | Almoço todos os sábados, domingos e feriados: das 13h às 15h.\n\nEstes valores não se aplicam a datas especiais (Dia das Mães, Dia dos Pais, Dia das Crianças, Natal, Ano-Novo etc.)."
+    "es": "**Cenas** todos los viernes, sábados y vísperas de feriados: 20:00 a 00:00 hs.\n**Almuerzos** todos los sábados, domingos y feriados: 13:00 a 15:00 hs. \n\n*Estos valores no aplican para fechas especiales (Día de la Madre, Día del Padre, Día del Niño, Navidad, Año Nuevo, etc.)*",
+    "en": "**Dinner** every Friday, Saturday and on the eve of public holidays: 8:00 pm to 12:00 am.\n**Lunch** every Saturday, Sunday and public holiday: 1:00 pm to 3:00 pm.\n\n*These rates do not apply to special dates (Mother's Day, Father's Day, Children's Day, Christmas, New Year's Eve, etc.).*",
+    "pt": "**Jantar** todas as sextas-feiras, sábados e vésperas de feriados: das 20h às 00h.\n**Almoço** todos os sábados, domingos e feriados: das 13h às 15h.\n\n*Estes valores não se aplicam a datas especiais (Dia das Mães, Dia dos Pais, Dia das Crianças, Natal, Ano-Novo etc.).*"
    },
    "items": [
     {
@@ -178,9 +180,9 @@
    },
    "foto": "",
    "nota": {
-    "es": "Sujeto a disponibilidad (consultar previamente por WhatsApp si el restaurant se encuentra abierto). Almuerzos lunes, martes, miércoles, jueves y viernes: 13:00 a 15:00 hs. | Cenas domingos, lunes, martes, miércoles y jueves: 20:00 a 00:00 hs.",
-    "en": "Subject to availability (please check in advance via WhatsApp whether the restaurant is open). Lunch from Monday to Friday: 1:00 pm to 3:00 pm. | Dinner from Sunday to Thursday: 8:00 pm to 12:00 am.",
-    "pt": "Sujeito à disponibilidade (consulte previamente pelo WhatsApp se o restaurante está aberto). Almoço de segunda a sexta-feira: das 13h às 15h. | Jantar de domingo a quinta-feira: das 20h às 00h."
+    "es": "*Sujeto a disponibilidad (consultar previamente por WhatsApp si el restaurant se encuentra abierto).*\n\n**Almuerzos** lunes, martes, miércoles, jueves y viernes: 13:00 a 15:00 hs.\n**Cenas** domingos, lunes, martes, miércoles y jueves: 20:00 a 00:00 hs.",
+    "en": "*Subject to availability (please check in advance via WhatsApp whether the restaurant is open).*\n\n**Lunch** from Monday to Friday: 1:00 pm to 3:00 pm.\n**Dinner** from Sunday to Thursday: 8:00 pm to 12:00 am.",
+    "pt": "*Sujeito à disponibilidade (consulte previamente pelo WhatsApp se o restaurante está aberto).*\n\n**Almoço** de segunda a sexta-feira: das 13h às 15h.\n**Jantar** de domingo a quinta-feira: das 20h às 00h."
    },
    "items": [
     {
@@ -239,9 +241,9 @@
    },
    "foto": "lb-te.jpg",
    "nota": {
-    "es": "DISPONIBLE SOLO VIERNES, SÁBADOS, DOMINGOS Y FERIADOS, DE16:30 A 18:30 HS. | SALADO: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso.\nDULCE: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate.\nBEBIDAS: Jugo de naranja e infusión a elección.",
-    "en": "SERVICE AVAILABLE ON FRIDAYS, SATURDAYS, SUNDAYS AND PUBLIC HOLIDAYS, FROM 4:30 PM TO 6:30 PM. | SAVORY: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese. | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes. | Cheese scones.\n\nSWEET: Red berry macarons with raspberry center. | Citrus half-sphere with homemade granola base. | Apple tart. | Moist dulce de leche cake. | Rustic chocolate cake with a dulce de leche center, coated in chocolate. | Flat croissant with a rich Nutella and chocolate filling.\n\nBEVERAGES: Orange juice and tea or coffee of your choice.",
-    "pt": "SERVIÇO DISPONÍVEL ÀS SEXTAS-FEIRAS, SÁBADOS, DOMINGOS E FERIADOS, DAS 16H30 ÀS 18H30. | SALGADO: Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul. | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja. | Scones de queijo.\n\nDOCE: Macarons de frutas vermelhas com recheio de framboesa. | Semiesfera cítrica com base de granola caseira. | Torta de maçã. | Bolo úmido de doce de leite. | Rústico de chocolate com recheio de doce de leite, coberto com chocolate. | Croissant flat, com recheio cremoso de Nutella e chocolate.\n\nBEBIDAS: Suco de laranja e chá ou café à escolha."
+    "es": "**Disponible solo viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.** \n\n| **SALADO**: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso. \n| **DULCE**: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate. \n| **BEBIDAS**: Jugo de naranja e infusión a elección.",
+    "en": "**Available only on Fridays, Saturdays, Sundays and public holidays, from 4:30 to 6:30 pm.**\n\n| **SAVORY**: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes | Cheese scones.\n| **SWEET**: Red berry macarons with raspberry center | Citrus half-sphere with homemade granola base | Apple tart | Moist dulce de leche cake | Rustic chocolate cake with a dulce de leche center, coated in chocolate | Flat croissant, with a rich Nutella and chocolate filling.\n| **BEVERAGES**: Orange juice and tea or coffee of your choice.",
+    "pt": "**Disponível somente às sextas-feiras, sábados, domingos e feriados, das 16h30 às 18h30.**\n\n| **SALGADO**: Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja | Scones de queijo.\n| **DOCE**: Macarons de frutas vermelhas com recheio de framboesa | Semiesfera cítrica com base de granola caseira | Torta de maçã | Bolo úmido de doce de leite | Rústico de chocolate com recheio de doce de leite, coberto com chocolate | Croissant flat, com recheio cremoso de Nutella e chocolate.\n| **BEBIDAS**: Suco de laranja e chá ou café à escolha."
    },
    "items": [
     {
