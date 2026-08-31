@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:57:40.722Z",
+  "actualizado": "2026-08-31T22:02:01.294Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -505,13 +505,15 @@
     {
      "id": "dg-men-noquis",
      "nombre": {
-      "es": "Ñoquis filetto o panna",
-      "en": "Gnocchi with filetto or cream",
-      "pt": "Nhoque ao filetto ou creme"
+      "es": "Ñoquis de papa filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
      },
      "descripcion": {},
      "precio": 27000,
-     "tags": []
+     "tags": [
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "dg-men-nulis",
