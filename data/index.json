@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T21:15:53.451Z",
+ "actualizado": "2026-08-31T21:57:57.451Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -48,14 +48,6 @@
    "logo": "hotel.svg",
    "orden": 7,
    "items": 119
-  },
-  {
-   "id": "pool-snack",
-   "nombre": "Pool Snack",
-   "tema": "pool",
-   "logo": "pool-snack.svg",
-   "orden": 8,
-   "items": 17
   }
  ]
 }
