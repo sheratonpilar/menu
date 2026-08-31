@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T18:36:01.578Z",
+  "actualizado": "2026-08-31T19:59:49.334Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -1049,9 +1049,9 @@
   {
    "id": "rosados",
    "nombre": {
-    "es": "Vinos rosados",
-    "en": "Rosé wines",
-    "pt": "Vinhos rosés"
+    "es": "Rosados",
+    "en": "Rosé",
+    "pt": "Rosés"
    },
    "foto": "",
    "nota": {},
@@ -1102,7 +1102,7 @@
     {
      "id": "esp-rutini-brut-nature",
      "nombre": {
-      "es": "Rutini Brut Nature",
+      "es": "Rutini Brut Nature (Bodega La Rural)",
       "en": "Rutini Brut Nature",
       "pt": "Rutini Brut Nature"
      },
@@ -1113,7 +1113,7 @@
     {
      "id": "rs-esp-rutini-eb",
      "nombre": {
-      "es": "Rutini Extra Brut",
+      "es": "Rutini Extra Brut (Bodega La Rural)",
       "en": "Rutini Extra Brut",
       "pt": "Rutini Extra Brut"
      },
@@ -1124,62 +1124,62 @@
     {
      "id": "esp-dominio-brut-nature",
      "nombre": {
-      "es": "Dominio Brut Nature",
+      "es": "Dominio Brut Nature (Bodega La Rural)",
       "en": "Dominio Brut Nature",
       "pt": "Dominio Brut Nature"
      },
      "descripcion": {},
-     "precio": 32000,
+     "precio": 59000,
      "tags": []
     },
     {
      "id": "esp-dominio-extra-brut",
      "nombre": {
-      "es": "Dominio Extra Brut",
+      "es": "Dominio Extra Brut (Bodega La Rural)",
       "en": "Dominio Extra Brut",
       "pt": "Dominio Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 37000,
-     "tags": []
-    },
-    {
-     "id": "esp-trumpeter-brut-nature",
-     "nombre": {
-      "es": "Trumpeter Brut Nature",
-      "en": "Trumpeter Brut Nature",
-      "pt": "Trumpeter Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
-    },
-    {
-     "id": "esp-trumpeter-rose",
-     "nombre": {
-      "es": "Trumpeter Rosé",
-      "en": "Trumpeter Rosé",
-      "pt": "Trumpeter Rosé"
      },
      "descripcion": {},
      "precio": 51000,
      "tags": []
     },
     {
+     "id": "esp-trumpeter-brut-nature",
+     "nombre": {
+      "es": "Trumpeter Brut Nature (Bodega La Rural)",
+      "en": "Trumpeter Brut Nature",
+      "pt": "Trumpeter Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 36000,
+     "tags": []
+    },
+    {
+     "id": "esp-trumpeter-rose",
+     "nombre": {
+      "es": "Trumpeter Rosé (Bodega La Rural)",
+      "en": "Trumpeter Rosé",
+      "pt": "Trumpeter Rosé"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": []
+    },
+    {
      "id": "rs-esp-trumpeter-eb",
      "nombre": {
-      "es": "Trumpeter Extra Brut",
+      "es": "Trumpeter Extra Brut (Bodega La Rural)",
       "en": "Trumpeter Extra Brut",
       "pt": "Trumpeter Extra Brut"
      },
      "descripcion": {},
-     "precio": 25000,
+     "precio": 32000,
      "tags": []
     },
     {
      "id": "rs-esp-dom-perignon",
      "nombre": {
-      "es": "Dom Perignon",
+      "es": "Dom Perignon (Bodega Chandon)",
       "en": "Dom Perignon",
       "pt": "Dom Perignon"
      },
@@ -1190,95 +1190,95 @@
     {
      "id": "rs-esp-moet",
      "nombre": {
-      "es": "Moet Ice Imperial",
+      "es": "Moet Ice Imperial (Bodega Chandon)",
       "en": "Moet Ice Imperial",
       "pt": "Moet Ice Imperial"
-     },
-     "descripcion": {},
-     "precio": 54000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-veuve-yellow",
-     "nombre": {
-      "es": "Veuve Clicquot Yellow Label",
-      "en": "Veuve Clicquot Yellow Label",
-      "pt": "Veuve Clicquot Yellow Label"
-     },
-     "descripcion": {},
-     "precio": 63000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-veuve-rich",
-     "nombre": {
-      "es": "Veuve Clicquot Rich",
-      "en": "Veuve Clicquot Rich",
-      "pt": "Veuve Clicquot Rich"
-     },
-     "descripcion": {},
-     "precio": 36000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-veuve-rose",
-     "nombre": {
-      "es": "Veuve Clicquot Rosé",
-      "en": "Veuve Clicquot Rosé",
-      "pt": "Veuve Clicquot Rosé"
-     },
-     "descripcion": {},
-     "precio": 63000,
-     "tags": []
-    },
-    {
-     "id": "esp-baron-b-brut-nature",
-     "nombre": {
-      "es": "Barón B Brut Nature",
-      "en": "Barón B Brut Nature",
-      "pt": "Barón B Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "esp-baron-b-rose",
-     "nombre": {
-      "es": "Barón B Rosé",
-      "en": "Barón B Rosé",
-      "pt": "Barón B Rosé"
-     },
-     "descripcion": {},
-     "precio": 460000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-baron-b",
-     "nombre": {
-      "es": "Barón B Extra Brut",
-      "en": "Barón B Extra Brut",
-      "pt": "Barón B Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 420000,
-     "tags": []
-    },
-    {
-     "id": "esp-chandon-brut-nature",
-     "nombre": {
-      "es": "Chandon Brut Nature",
-      "en": "Chandon Brut Nature",
-      "pt": "Chandon Brut Nature"
      },
      "descripcion": {},
      "precio": 430000,
      "tags": []
     },
     {
+     "id": "rs-esp-veuve-yellow",
+     "nombre": {
+      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
+      "en": "Veuve Clicquot Yellow Label",
+      "pt": "Veuve Clicquot Yellow Label"
+     },
+     "descripcion": {},
+     "precio": 420000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-veuve-rich",
+     "nombre": {
+      "es": "Veuve Clicquot Rich (Bodega Chandon)",
+      "en": "Veuve Clicquot Rich",
+      "pt": "Veuve Clicquot Rich"
+     },
+     "descripcion": {},
+     "precio": 460000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-veuve-rose",
+     "nombre": {
+      "es": "Veuve Clicquot Rosé (Bodega Chandon)",
+      "en": "Veuve Clicquot Rosé",
+      "pt": "Veuve Clicquot Rosé"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "esp-baron-b-brut-nature",
+     "nombre": {
+      "es": "Barón B Brut Nature (Bodega Chandon)",
+      "en": "Barón B Brut Nature",
+      "pt": "Barón B Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": []
+    },
+    {
+     "id": "esp-baron-b-rose",
+     "nombre": {
+      "es": "Barón B Rosé (Bodega Chandon)",
+      "en": "Barón B Rosé",
+      "pt": "Barón B Rosé"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-baron-b",
+     "nombre": {
+      "es": "Barón B Extra Brut (Bodega Chandon)",
+      "en": "Barón B Extra Brut",
+      "pt": "Barón B Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 54000,
+     "tags": []
+    },
+    {
+     "id": "esp-chandon-brut-nature",
+     "nombre": {
+      "es": "Chandon Brut Nature (Bodega Chandon)",
+      "en": "Chandon Brut Nature",
+      "pt": "Chandon Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 36000,
+     "tags": []
+    },
+    {
      "id": "esp-chandon-brut-rose",
      "nombre": {
-      "es": "Chandon Brut Rosé",
+      "es": "Chandon Brut Rosé (Bodega Chandon)",
       "en": "Chandon Brut Rosé",
       "pt": "Chandon Brut Rosé"
      },
@@ -1289,7 +1289,7 @@
     {
      "id": "esp-chandon-extra-brut-delice",
      "nombre": {
-      "es": "Chandon Extra Brut / Delice",
+      "es": "Chandon Extra Brut / Delice (Bodega Chandon)",
       "en": "Chandon Extra Brut / Delice",
       "pt": "Chandon Extra Brut / Delice"
      },
@@ -1300,34 +1300,34 @@
     {
      "id": "esp-nieto-brut-nature",
      "nombre": {
-      "es": "Nieto Brut Nature",
+      "es": "Nieto Brut Nature (Bodega Nieto Senetiner)",
       "en": "Nieto Brut Nature",
       "pt": "Nieto Brut Nature"
      },
      "descripcion": {},
-     "precio": 21000,
+     "precio": 32000,
      "tags": []
     },
     {
      "id": "esp-nieto-extra-brut",
      "nombre": {
-      "es": "Nieto Extra Brut",
+      "es": "Nieto Extra Brut (Bodega Nieto Senetiner)",
       "en": "Nieto Extra Brut",
       "pt": "Nieto Extra Brut"
      },
      "descripcion": {},
-     "precio": 51000,
+     "precio": 32000,
      "tags": []
     },
     {
      "id": "esp-navarro-correas-extra-brut",
      "nombre": {
-      "es": "Navarro Correas Extra Brut",
+      "es": "Navarro Correas Extra Brut (Bodega Navarro Correas)",
       "en": "Navarro Correas Extra Brut",
       "pt": "Navarro Correas Extra Brut"
      },
      "descripcion": {},
-     "precio": 51000,
+     "precio": 37000,
      "tags": []
     }
    ]
