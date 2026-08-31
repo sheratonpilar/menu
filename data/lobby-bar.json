@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:15:32.716Z",
+  "actualizado": "2026-08-31T21:57:40.724Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -81,15 +81,18 @@
    "nota": {},
    "items": [
     {
-     "id": "lb-papas",
+     "id": "rs-papas",
      "nombre": {
-      "es": "Porción de papas fritas",
-      "en": "Portion of fries",
-      "pt": "Porção de batatas fritas"
+      "es": "Papas fritas",
+      "en": "Fries",
+      "pt": "Batatas fritas"
      },
      "descripcion": {},
      "precio": 17000,
-     "tags": []
+     "tags": [
+      "VEGETARIANO",
+      "SIN_TACC"
+     ]
     },
     {
      "id": "lb-picada",
@@ -249,7 +252,7 @@
     {
      "id": "lb-mar-y-tierra",
      "nombre": {
-      "es": "Mar y tierra (ensalada)",
+      "es": "Mar y tierra",
       "en": "Surf and turf salad (ensalada)",
       "pt": "Salada mar e terra (ensalada)"
      },
@@ -1084,9 +1087,9 @@
    },
    "foto": "lb-te.jpg",
    "nota": {
-    "es": "DISPONIBLE SOLO VIERNES, SÁBADOS, DOMINGOS Y FERIADOS, DE16:30 A 18:30 HS. | SALADO: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso.\nDULCE: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate.\nBEBIDAS: Jugo de naranja e infusión a elección.",
-    "en": "SERVICE AVAILABLE ON FRIDAYS, SATURDAYS, SUNDAYS AND PUBLIC HOLIDAYS, FROM 4:30 PM TO 6:30 PM. | SAVORY: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese. | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes. | Cheese scones.\n\nSWEET: Red berry macarons with raspberry center. | Citrus half-sphere with homemade granola base. | Apple tart. | Moist dulce de leche cake. | Rustic chocolate cake with a dulce de leche center, coated in chocolate. | Flat croissant with a rich Nutella and chocolate filling.\n\nBEVERAGES: Orange juice and tea or coffee of your choice.",
-    "pt": "SERVIÇO DISPONÍVEL ÀS SEXTAS-FEIRAS, SÁBADOS, DOMINGOS E FERIADOS, DAS 16H30 ÀS 18H30. | SALGADO: Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul. | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja. | Scones de queijo.\n\nDOCE: Macarons de frutas vermelhas com recheio de framboesa. | Semiesfera cítrica com base de granola caseira. | Torta de maçã. | Bolo úmido de doce de leite. | Rústico de chocolate com recheio de doce de leite, coberto com chocolate. | Croissant flat, com recheio cremoso de Nutella e chocolate.\n\nBEBIDAS: Suco de laranja e chá ou café à escolha."
+    "es": "**Disponible solo viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.** \n\n| **SALADO**: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso. \n| **DULCE**: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate. \n| **BEBIDAS**: Jugo de naranja e infusión a elección.",
+    "en": "**Available only on Fridays, Saturdays, Sundays and public holidays, from 4:30 to 6:30 pm.**\n\n| **SAVORY**: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes | Cheese scones.\n| **SWEET**: Red berry macarons with raspberry center | Citrus half-sphere with homemade granola base | Apple tart | Moist dulce de leche cake | Rustic chocolate cake with a dulce de leche center, coated in chocolate | Flat croissant, with a rich Nutella and chocolate filling.\n| **BEVERAGES**: Orange juice and tea or coffee of your choice.",
+    "pt": "**Disponível somente às sextas-feiras, sábados, domingos e feriados, das 16h30 às 18h30.**\n\n| **SALGADO**: Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja | Scones de queijo.\n| **DOCE**: Macarons de frutas vermelhas com recheio de framboesa | Semiesfera cítrica com base de granola caseira | Torta de maçã | Bolo úmido de doce de leite | Rústico de chocolate com recheio de doce de leite, coberto com chocolate | Croissant flat, com recheio cremoso de Nutella e chocolate.\n| **BEBIDAS**: Suco de laranja e chá ou café à escolha."
    },
    "items": [
     {
@@ -1500,21 +1503,6 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-lb-bacardi",
-     "nombre": {
-      "es": "Bacardi Cocktail",
-      "en": "Bacardi Cocktail",
-      "pt": "Bacardi Cocktail"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-gin-tonic",
      "nombre": {
       "es": "Gin Tonic",
@@ -1525,6 +1513,21 @@
       "es": "Gin Beefeater, agua tónica, rodajas de limón.",
       "en": "Gin Bombay, agua tónica y limón.",
       "pt": "Gin Bombay, agua tónica y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-bacardi",
+     "nombre": {
+      "es": "Bacardi Cocktail",
+      "en": "Bacardi Cocktail",
+      "pt": "Bacardi Cocktail"
+     },
+     "descripcion": {
+      "es": "Ron, jugo de limón y granadina.",
+      "en": "Ron, jugo de limón y granadina.",
+      "pt": "Ron, jugo de limón y granadina."
      },
      "precio": 25000,
      "tags": []
@@ -1635,21 +1638,6 @@
      "tags": []
     },
     {
-     "id": "ckt-lb-cuba-libre",
-     "nombre": {
-      "es": "Cuba Libre",
-      "en": "Cuba Libre",
-      "pt": "Cuba Libre"
-     },
-     "descripcion": {
-      "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-aperol",
      "nombre": {
       "es": "Aperol Spritz",
@@ -1660,6 +1648,21 @@
       "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
       "en": "Aperol, extra brut sparkling, soda and orange.",
       "pt": "Aperol, espumante extra brut, soda e laranja."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi oro, cola y limón.",
+      "en": "Ron Bacardi oro, cola y limón.",
+      "pt": "Ron Bacardi oro, cola y limón."
      },
      "precio": 25000,
      "tags": []
