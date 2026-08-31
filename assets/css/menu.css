@@ -62,7 +62,7 @@ html{scroll-behavior:smooth}
 .hero2__desc{font-size:15px;color:var(--ink-soft);line-height:1.5;margin:0 auto 4px;max-width:46ch}
 /* la barra compacta arranca oculta y aparece cuando la portada se fue */
 .bar{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--rule)}
-.bar__ident{display:flex;align-items:center;justify-content:center;gap:10px;padding:10px 20px 6px;max-width:var(--maxw);margin:0 auto;opacity:0;transition:opacity .2s}
+.bar__ident{display:flex;align-items:center;justify-content:flex-start;gap:10px;padding:10px 64px 6px 20px;max-width:var(--maxw);margin:0 auto;opacity:0;transition:opacity .2s}
 .bar.compact .bar__ident{opacity:1}
 .bar__ident .bar__logo{height:24px;width:auto}
 .bar__ident .bar__logo--txt{font-family:var(--display);font-size:15px;letter-spacing:1px}
@@ -71,9 +71,9 @@ html{scroll-behavior:smooth}
 .bar__lang{position:absolute;top:8px;right:16px}
 
 /* ===== Botón a la carta de vinos ===== */
-.vinos-btn{display:block;text-align:center;text-decoration:none;margin:28px auto 4px;max-width:420px;
-  padding:16px 22px;border-radius:12px;background:var(--accent);color:#fff;
+.foot a.vinos-btn{display:block;text-align:center;text-decoration:none;margin:28px auto 4px;max-width:420px;
+  padding:16px 22px;border-radius:12px;background:var(--accent);color:#fff !important;
   font-family:var(--display);font-size:18px;letter-spacing:.02em;
   box-shadow:0 6px 18px color-mix(in srgb,var(--accent) 35%,transparent);transition:transform .12s,box-shadow .12s}
-.vinos-btn:hover,.vinos-btn:focus-visible{transform:translateY(-2px);box-shadow:0 10px 24px color-mix(in srgb,var(--accent) 45%,transparent);outline:none}
-.vinos-btn small{display:block;font-family:var(--body);font-size:12px;opacity:.85;margin-top:3px;letter-spacing:.04em}
+.foot a.vinos-btn:hover,.foot a.vinos-btn:focus-visible{transform:translateY(-2px);box-shadow:0 10px 24px color-mix(in srgb,var(--accent) 45%,transparent);outline:none}
+.foot a.vinos-btn small{display:block;color:#fff !important;font-family:var(--body);font-size:12px;opacity:.9;margin-top:3px;letter-spacing:.04em}
