@@ -73,7 +73,7 @@ html{scroll-behavior:smooth}
 /* ===== Botón a la carta de vinos ===== */
 .foot a.vinos-btn{display:block;text-align:center;text-decoration:none;margin:28px auto 4px;max-width:420px;
   padding:16px 22px;border-radius:12px;background:var(--accent);color:#fff !important;
-  font-family:var(--display);font-size:18px;letter-spacing:.02em;
+  font-family:var(--display);font-size:18px;font-weight:700;letter-spacing:.02em;
   box-shadow:0 6px 18px color-mix(in srgb,var(--accent) 35%,transparent);transition:transform .12s,box-shadow .12s}
 .foot a.vinos-btn:hover,.foot a.vinos-btn:focus-visible{transform:translateY(-2px);box-shadow:0 10px 24px color-mix(in srgb,var(--accent) 45%,transparent);outline:none}
 .foot a.vinos-btn small{display:block;color:#fff !important;font-family:var(--body);font-size:12px;opacity:.9;margin-top:3px;letter-spacing:.04em}
