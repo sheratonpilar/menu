@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T15:14:02.792Z",
+  "actualizado": "2026-08-31T17:30:53.586Z",
   "ver_tambien": "",
   "pie": {}
  },
@@ -66,9 +66,9 @@
   {
    "id": "cv-cabernet-sauvignon",
    "nombre": {
-    "es": "Cabernet Sauvignon",
-    "en": "Cabernet Sauvignon",
-    "pt": "Cabernet Sauvignon"
+    "es": "Tintos: Cabernet Sauvignon",
+    "en": "Reds: Cabernet Sauvignon",
+    "pt": "Tintos: Cabernet Sauvignon"
    },
    "foto": "",
    "nota": {
@@ -183,9 +183,9 @@
   {
    "id": "cv-merlot",
    "nombre": {
-    "es": "Merlot",
-    "en": "Merlot",
-    "pt": "Merlot"
+    "es": "Tintos: Merlot",
+    "en": "Reds: Merlot",
+    "pt": "Tintos: Merlot"
    },
    "foto": "",
    "nota": {
@@ -219,9 +219,9 @@
   {
    "id": "cv-syrah",
    "nombre": {
-    "es": "Syrah",
-    "en": "Syrah",
-    "pt": "Syrah"
+    "es": "Tintos: Syrah",
+    "en": "Reds: Syrah",
+    "pt": "Tintos: Syrah"
    },
    "foto": "",
    "nota": {
@@ -268,9 +268,9 @@
   {
    "id": "cv-cabernet-franc",
    "nombre": {
-    "es": "Cabernet Franc",
-    "en": "Cabernet Franc",
-    "pt": "Cabernet Franc"
+    "es": "Tintos: Cabernet Franc",
+    "en": "Reds: Cabernet Franc",
+    "pt": "Tintos: Cabernet Franc"
    },
    "foto": "",
    "nota": {
@@ -339,9 +339,9 @@
   {
    "id": "cv-pinot-noir",
    "nombre": {
-    "es": "Pinot Noir",
-    "en": "Pinot Noir",
-    "pt": "Pinot Noir"
+    "es": "Tintos: Pinot Noir",
+    "en": "Reds: Pinot Noir",
+    "pt": "Tintos: Pinot Noir"
    },
    "foto": "",
    "nota": {
@@ -401,9 +401,9 @@
   {
    "id": "cv-malbec",
    "nombre": {
-    "es": "Malbec",
-    "en": "Malbec",
-    "pt": "Malbec"
+    "es": "Tintos: Malbec",
+    "en": "Reds: Malbec",
+    "pt": "Tintos: Malbec"
    },
    "foto": "",
    "nota": {
@@ -591,9 +591,9 @@
   {
    "id": "cv-genericos",
    "nombre": {
-    "es": "Genéricos / Blend",
-    "en": "Blends",
-    "pt": "Blends"
+    "es": "Tintos: Blends",
+    "en": "Reds: Blends",
+    "pt": "Tintos: Blends"
    },
    "foto": "",
    "nota": {
@@ -743,9 +743,9 @@
   {
    "id": "cv-sauvignon-blanc",
    "nombre": {
-    "es": "Sauvignon Blanc",
-    "en": "Sauvignon Blanc",
-    "pt": "Sauvignon Blanc"
+    "es": "Blancos: Sauvignon Blanc",
+    "en": "Whites: Sauvignon Blanc",
+    "pt": "Brancos: Sauvignon Blanc"
    },
    "foto": "",
    "nota": {
@@ -794,9 +794,9 @@
   {
    "id": "cv-viognier",
    "nombre": {
-    "es": "Viognier",
-    "en": "Viognier",
-    "pt": "Viognier"
+    "es": "Blancos: Viognier",
+    "en": "Whites: Viognier",
+    "pt": "Brancos: Viognier"
    },
    "foto": "",
    "nota": {
@@ -821,9 +821,9 @@
   {
    "id": "cv-chardonnay",
    "nombre": {
-    "es": "Chardonnay",
-    "en": "Chardonnay",
-    "pt": "Chardonnay"
+    "es": "Blancos: Chardonnay",
+    "en": "Whites: Chardonnay",
+    "pt": "Brancos: Chardonnay"
    },
    "foto": "",
    "nota": {
@@ -927,9 +927,9 @@
   {
    "id": "cv-torrontes",
    "nombre": {
-    "es": "Torrontés",
-    "en": "Torrontés",
-    "pt": "Torrontés"
+    "es": "Blancos: Torrontés",
+    "en": "Whites: Torrontés",
+    "pt": "Brancos: Torrontés"
    },
    "foto": "",
    "nota": {
@@ -954,9 +954,9 @@
   {
    "id": "cv-gewurztraminer",
    "nombre": {
-    "es": "Gewürztraminer",
-    "en": "Gewürztraminer",
-    "pt": "Gewürztraminer"
+    "es": "Blancos: Gewürztraminer",
+    "en": "Whites: Gewürztraminer",
+    "pt": "Brancos: Gewürztraminer"
    },
    "foto": "",
    "nota": {
@@ -979,9 +979,9 @@
   {
    "id": "cv-cosecha-tardia",
    "nombre": {
-    "es": "Vinos cosecha tardía",
-    "en": "Late harvest wines",
-    "pt": "Vinhos de colheita tardia"
+    "es": "Blancos: Cosecha tardía",
+    "en": "Whites: Late harvest",
+    "pt": "Brancos: Colheita tardia"
    },
    "foto": "",
    "nota": {},
@@ -2293,258 +2293,6 @@
      },
      "descripcion": {},
      "precio": 10500,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "cocktails",
-   "nombre": {
-    "es": "Cocktails clásicos",
-    "en": "Classic cocktails",
-    "pt": "Coquetéis clássicos"
-   },
-   "foto": "lb-cocktails.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "ckt-lb-bacardi",
-     "nombre": {
-      "es": "Bacardi Cocktail",
-      "en": "Bacardi Cocktail",
-      "pt": "Bacardi Cocktail"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-gin-tonic",
-     "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
-     },
-     "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-bellini",
-     "nombre": {
-      "es": "Bellini",
-      "en": "Bellini",
-      "pt": "Bellini"
-     },
-     "descripcion": {
-      "es": "Champagne y pulpa de durazno.",
-      "en": "Champagne y pulpa de durazno.",
-      "pt": "Champagne y pulpa de durazno."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-bloody-mary",
-     "nombre": {
-      "es": "Bloody Mary",
-      "en": "Bloody Mary",
-      "pt": "Bloody Mary"
-     },
-     "descripcion": {
-      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-pisco-sour",
-     "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
-     },
-     "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-campari-orange",
-     "nombre": {
-      "es": "Campari Orange",
-      "en": "Campari Orange",
-      "pt": "Campari Orange"
-     },
-     "descripcion": {
-      "es": "Campari y jugo de naranja.",
-      "en": "Campari y jugo de naranja.",
-      "pt": "Campari y jugo de naranja."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-caipirinha",
-     "nombre": {
-      "es": "Caipirinha",
-      "en": "Caipirinha",
-      "pt": "Caipirinha"
-     },
-     "descripcion": {
-      "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-caipirovska",
-     "nombre": {
-      "es": "Caipirovska",
-      "en": "Caipirovska",
-      "pt": "Caipivodca"
-     },
-     "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "rs-trago-aperol",
-     "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
-     },
-     "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-cuba-libre",
-     "nombre": {
-      "es": "Cuba Libre",
-      "en": "Cuba Libre",
-      "pt": "Cuba Libre"
-     },
-     "descripcion": {
-      "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-daikiri",
-     "nombre": {
-      "es": "Daikiri Frutal",
-      "en": "Daikiri Frutal",
-      "pt": "Daikiri Frutal"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón, azúcar y fruta natural.",
-      "en": "Ron, jugo de limón, azúcar y fruta natural.",
-      "pt": "Ron, jugo de limón, azúcar y fruta natural."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-dry-martini",
-     "nombre": {
-      "es": "Dry Martini",
-      "en": "Dry Martini",
-      "pt": "Dry Martini"
-     },
-     "descripcion": {
-      "es": "Gin, Dry Martini y oliva verde.",
-      "en": "Gin, Dry Martini y oliva verde.",
-      "pt": "Gin, Dry Martini y oliva verde."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-margarita",
-     "nombre": {
-      "es": "Margarita",
-      "en": "Margarita",
-      "pt": "Margarita"
-     },
-     "descripcion": {
-      "es": "Tequila, Cointreau y jugo de limón.",
-      "en": "Tequila, Cointreau y jugo de limón.",
-      "pt": "Tequila, Cointreau y jugo de limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-negroni",
-     "nombre": {
-      "es": "Negroni",
-      "en": "Negroni",
-      "pt": "Negroni"
-     },
-     "descripcion": {
-      "es": "Campari, Gin Bombay y Martini Rosso.",
-      "en": "Campari, Gin Bombay y Martini Rosso.",
-      "pt": "Campari, Gin Bombay y Martini Rosso."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-lb-fernet-cola",
-     "nombre": {
-      "es": "Fernet Cola",
-      "en": "Fernet Cola",
-      "pt": "Fernet Cola"
-     },
-     "descripcion": {
-      "es": "Fernet Branca y Coca Cola.",
-      "en": "Fernet Branca y Coca Cola.",
-      "pt": "Fernet Branca y Coca Cola."
-     },
-     "precio": 25000,
      "tags": []
     }
    ]
