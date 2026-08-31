@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:15:32.717Z",
+  "actualizado": "2026-08-31T21:57:40.725Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -117,11 +117,12 @@
     {
      "id": "rs-cuore",
      "nombre": {
-      "es": "Cuore milano salsa pomodoro basílico",
+      "es": "Cuore milano",
       "en": "Cuore Milano",
       "pt": "Cuore Milano"
      },
      "descripcion": {
+      "es": "Con salsa pomodoro basílico",
       "en": "With tomato and basil sauce.",
       "pt": "Ao molho de tomate e manjericão."
      },
@@ -370,6 +371,17 @@
    "nota": {},
    "items": [
     {
+     "id": "rs-croissant",
+     "nombre": {
+      "es": "Croissant de jamón y queso",
+      "en": "Ham and cheese croissant",
+      "pt": "Croissant de presunto e queijo"
+     },
+     "descripcion": {},
+     "precio": 27000,
+     "tags": []
+    },
+    {
      "id": "lb-hamburguesa",
      "nombre": {
       "es": "Hamburguesa",
@@ -387,37 +399,11 @@
      ]
     },
     {
-     "id": "rs-croissant",
-     "nombre": {
-      "es": "Croissant de jamón y queso",
-      "en": "Ham and cheese croissant",
-      "pt": "Croissant de presunto e queijo"
-     },
-     "descripcion": {},
-     "precio": 27000,
-     "tags": []
-    },
-    {
      "id": "lb-tostado-jq",
      "nombre": {
       "es": "Tostado de jamón y queso",
       "en": "Ham and cheese toastie",
       "pt": "Misto quente"
-     },
-     "descripcion": {
-      "es": "En pan árabe o inglés.",
-      "en": "On pita or white bread.",
-      "pt": "Em pão árabe ou de forma."
-     },
-     "precio": 22000,
-     "tags": []
-    },
-    {
-     "id": "lb-tostado-jqt",
-     "nombre": {
-      "es": "Tostado de jamón, queso y tomate",
-      "en": "Ham, cheese and tomato toastie",
-      "pt": "Misto quente com tomate"
      },
      "descripcion": {
       "es": "En pan árabe o inglés.",
@@ -440,6 +426,21 @@
       "pt": "Frango, ovo, bacon, tomate, presunto, queijo e alface."
      },
      "precio": 39000,
+     "tags": []
+    },
+    {
+     "id": "lb-tostado-jqt",
+     "nombre": {
+      "es": "Tostado de jamón, queso y tomate",
+      "en": "Ham, cheese and tomato toastie",
+      "pt": "Misto quente com tomate"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 22000,
      "tags": []
     }
    ]
@@ -605,6 +606,17 @@
      "tags": []
     },
     {
+     "id": "rs-creme-caramel",
+     "nombre": {
+      "es": "Creme caramel con DDL y crema",
+      "en": "Crème caramel with dulce de leche and cream",
+      "pt": "Pudim com doce de leite e creme"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": []
+    },
+    {
      "id": "lb-helado",
      "nombre": {
       "es": "Helado",
@@ -616,17 +628,6 @@
       "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
       "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
      },
-     "precio": 24000,
-     "tags": []
-    },
-    {
-     "id": "rs-creme-caramel",
-     "nombre": {
-      "es": "Creme caramel con DDL y crema",
-      "en": "Crème caramel with dulce de leche and cream",
-      "pt": "Pudim com doce de leite e creme"
-     },
-     "descripcion": {},
      "precio": 24000,
      "tags": []
     },
@@ -713,22 +714,22 @@
      "tags": []
     },
     {
-     "id": "rs-tarta-coco",
+     "id": "rs-tarta-manzana",
      "nombre": {
-      "es": "Tarta de coco y ddl",
-      "en": "Coconut and dulce de leche tart",
-      "pt": "Torta de coco e doce de leite"
+      "es": "Tarta de manzana",
+      "en": "Apple tart",
+      "pt": "Torta de maçã"
      },
      "descripcion": {},
      "precio": 23000,
      "tags": []
     },
     {
-     "id": "rs-tarta-manzana",
+     "id": "rs-tarta-coco",
      "nombre": {
-      "es": "Tarta de manzana",
-      "en": "Apple tart",
-      "pt": "Torta de maçã"
+      "es": "Tarta de coco y ddl",
+      "en": "Coconut and dulce de leche tart",
+      "pt": "Torta de coco e doce de leite"
      },
      "descripcion": {},
      "precio": 23000,
@@ -996,9 +997,9 @@
      "tags": []
     },
     {
-     "id": "rs-yogur",
+     "id": "lb-yogur",
      "nombre": {
-      "es": "Yogur bebible",
+      "es": "Yogourt bebible",
       "en": "Drinking yoghurt",
       "pt": "Iogurte para beber"
      },
@@ -1245,21 +1246,6 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-trago-fernet",
-     "nombre": {
-      "es": "Fernet",
-      "en": "Fernet",
-      "pt": "Fernet"
-     },
-     "descripcion": {
-      "es": "Fernet Branca con cola.",
-      "en": "Fernet Branca with cola.",
-      "pt": "Fernet Branca com cola."
-     },
-     "precio": 28000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-gin-tonic",
      "nombre": {
       "es": "Gin Tonic",
@@ -1390,6 +1376,21 @@
       "es": "Whisky Bourbon Jack Daniels, Bitter Angostura, azúcar, rodaja de naranja.",
       "en": "Jack Daniels bourbon, Angostura, sugar, orange.",
       "pt": "Bourbon Jack Daniels, Angostura, açúcar, laranja."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-fernet-cola",
+     "nombre": {
+      "es": "Fernet Cola",
+      "en": "Fernet Cola",
+      "pt": "Fernet Cola"
+     },
+     "descripcion": {
+      "es": "Fernet Branca y Coca Cola.",
+      "en": "Fernet Branca y Coca Cola.",
+      "pt": "Fernet Branca y Coca Cola."
      },
      "precio": 28000,
      "tags": []
