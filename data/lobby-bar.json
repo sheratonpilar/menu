@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T17:50:40.843Z",
+  "actualizado": "2026-08-31T18:36:01.576Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -1500,21 +1500,6 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-trago-gin-tonic",
-     "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
-     },
-     "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "ckt-lb-bacardi",
      "nombre": {
       "es": "Bacardi Cocktail",
@@ -1525,6 +1510,21 @@
       "es": "Ron, jugo de limón y granadina.",
       "en": "Ron, jugo de limón y granadina.",
       "pt": "Ron, jugo de limón y granadina."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
+      "en": "Gin Bombay, agua tónica y limón.",
+      "pt": "Gin Bombay, agua tónica y limón."
      },
      "precio": 25000,
      "tags": []
@@ -1605,21 +1605,6 @@
      "tags": []
     },
     {
-     "id": "rs-trago-caipirovska",
-     "nombre": {
-      "es": "Caipirovska",
-      "en": "Caipirovska",
-      "pt": "Caipivodca"
-     },
-     "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "ckt-lb-caipirinha",
      "nombre": {
       "es": "Caipirinha",
@@ -1635,16 +1620,16 @@
      "tags": []
     },
     {
-     "id": "rs-trago-aperol",
+     "id": "rs-trago-caipirovska",
      "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
+      "es": "Caipirovska",
+      "en": "Caipirovska",
+      "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Smirnoff y limas maceradas.",
+      "en": "Smirnoff vodka and muddled limes.",
+      "pt": "Vodca Smirnoff e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -1660,6 +1645,21 @@
       "es": "Ron Bacardi oro, cola y limón.",
       "en": "Ron Bacardi oro, cola y limón.",
       "pt": "Ron Bacardi oro, cola y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "rs-trago-aperol",
+     "nombre": {
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
+     },
+     "descripcion": {
+      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
+      "en": "Aperol, extra brut sparkling, soda and orange.",
+      "pt": "Aperol, espumante extra brut, soda e laranja."
      },
      "precio": 25000,
      "tags": []
