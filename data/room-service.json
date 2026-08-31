@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T18:36:01.577Z",
+  "actualizado": "2026-08-31T19:59:49.320Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -145,17 +145,6 @@
      ]
     },
     {
-     "id": "lb-tabla-quesos",
-     "nombre": {
-      "es": "Tabla de quesos (para 1 persona)",
-      "en": "Cheese board (for 1)",
-      "pt": "Tábua de queijos (para 1)"
-     },
-     "descripcion": {},
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-omelette",
      "nombre": {
       "es": "Omellette de tomate y queso",
@@ -168,6 +157,17 @@
       "VEGETARIANO",
       "SIN_TACC"
      ]
+    },
+    {
+     "id": "lb-tabla-quesos",
+     "nombre": {
+      "es": "Tabla de quesos (para 1 persona)",
+      "en": "Cheese board (for 1)",
+      "pt": "Tábua de queijos (para 1)"
+     },
+     "descripcion": {},
+     "precio": 25000,
+     "tags": []
     },
     {
      "id": "lb-tabla-fiambres",
@@ -631,6 +631,17 @@
      "tags": []
     },
     {
+     "id": "rs-tiramisu",
+     "nombre": {
+      "es": "Tiramisú",
+      "en": "Tiramisu",
+      "pt": "Tiramisu"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": []
+    },
+    {
      "id": "lb-franui",
      "nombre": {
       "es": "Franui",
@@ -646,17 +657,6 @@
      "tags": [
       "SIN_TACC"
      ]
-    },
-    {
-     "id": "rs-tiramisu",
-     "nombre": {
-      "es": "Tiramisú",
-      "en": "Tiramisu",
-      "pt": "Tiramisu"
-     },
-     "descripcion": {},
-     "precio": 24000,
-     "tags": []
     },
     {
      "id": "lb-franui-free",
@@ -732,9 +732,7 @@
      },
      "descripcion": {},
      "precio": 23000,
-     "tags": [
-      "NUEVO"
-     ]
+     "tags": []
     },
     {
      "id": "rs-brownie",
@@ -1878,7 +1876,7 @@
     {
      "id": "rs-esp-rutini-eb",
      "nombre": {
-      "es": "Rutini Extra Brut",
+      "es": "Rutini Extra Brut (Bodega La Rural)",
       "en": "Rutini Extra Brut",
       "pt": "Rutini Extra Brut"
      },
@@ -1889,7 +1887,7 @@
     {
      "id": "rs-esp-trumpeter-eb",
      "nombre": {
-      "es": "Trumpeter Extra Brut",
+      "es": "Trumpeter Extra Brut (Bodega La Rural)",
       "en": "Trumpeter Extra Brut",
       "pt": "Trumpeter Extra Brut"
      },
@@ -1900,7 +1898,7 @@
     {
      "id": "rs-esp-dom-perignon",
      "nombre": {
-      "es": "Dom Perignon",
+      "es": "Dom Perignon (Bodega Chandon)",
       "en": "Dom Perignon",
       "pt": "Dom Perignon"
      },
@@ -1911,7 +1909,7 @@
     {
      "id": "rs-esp-moet",
      "nombre": {
-      "es": "Moet Ice Imperial",
+      "es": "Moet Ice Imperial (Bodega Chandon)",
       "en": "Moet Ice Imperial",
       "pt": "Moet Ice Imperial"
      },
@@ -1922,7 +1920,7 @@
     {
      "id": "rs-esp-veuve-yellow",
      "nombre": {
-      "es": "Veuve Clicquot Yellow Label",
+      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
       "en": "Veuve Clicquot Yellow Label",
       "pt": "Veuve Clicquot Yellow Label"
      },
@@ -1933,7 +1931,7 @@
     {
      "id": "rs-esp-veuve-rich",
      "nombre": {
-      "es": "Veuve Clicquot Rich",
+      "es": "Veuve Clicquot Rich (Bodega Chandon)",
       "en": "Veuve Clicquot Rich",
       "pt": "Veuve Clicquot Rich"
      },
@@ -1944,7 +1942,7 @@
     {
      "id": "rs-esp-veuve-rose",
      "nombre": {
-      "es": "Veuve Clicquot Rosé",
+      "es": "Veuve Clicquot Rosé (Bodega Chandon)",
       "en": "Veuve Clicquot Rosé",
       "pt": "Veuve Clicquot Rosé"
      },
@@ -1955,7 +1953,7 @@
     {
      "id": "rs-esp-baron-b",
      "nombre": {
-      "es": "Barón B Extra Brut",
+      "es": "Barón B Extra Brut (Bodega Chandon)",
       "en": "Barón B Extra Brut",
       "pt": "Barón B Extra Brut"
      },
@@ -1966,7 +1964,7 @@
     {
      "id": "esp-chandon-extra-brut-delice",
      "nombre": {
-      "es": "Chandon Extra Brut / Delice",
+      "es": "Chandon Extra Brut / Delice (Bodega Chandon)",
       "en": "Chandon Extra Brut / Delice",
       "pt": "Chandon Extra Brut / Delice"
      },
