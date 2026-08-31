@@ -9,8 +9,8 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T15:14:02.790Z",
-  "ver_tambien": "carta-vinos",
+  "actualizado": "2026-08-31T17:30:53.585Z",
+  "ver_tambien": "",
   "pie": {
    "es": "Menú In-Room Dining · Interno 2840. Valor del servicio por persona: $ 7.000. Si tiene alguna restricción alimentaria, por favor avise a nuestro personal antes de realizar su pedido.",
    "en": "In-Room Dining Menu · Ext. 2840. Room service charge per person: $ 7,000. If you have any dietary restriction, please let our staff know before ordering.",
@@ -1014,9 +1014,7 @@
      },
      "descripcion": {},
      "precio": 21000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-jugo-zanahoria-manzana",
@@ -1027,9 +1025,7 @@
      },
      "descripcion": {},
      "precio": 21000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     },
     {
      "id": "lb-jugo-zanahoria-naranja",
@@ -1040,9 +1036,7 @@
      },
      "descripcion": {},
      "precio": 21000,
-     "tags": [
-      "VEGANO"
-     ]
+     "tags": []
     }
    ]
   },
@@ -1240,49 +1234,6 @@
    ]
   },
   {
-   "id": "copa",
-   "nombre": {
-    "es": "Vinos y espumantes por copa",
-    "en": "Wines & sparkling by the glass",
-    "pt": "Vinhos e espumantes em taça"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "copa-trumpeter-malbec-cs-lb",
-     "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-sb-chard-lb",
-     "nombre": {
-      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-copa-trumpeter",
-     "nombre": {
-      "es": "Trumpeter Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 15000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "cocktails",
    "nombre": {
     "es": "Cocktails clásicos",
@@ -1440,6 +1391,584 @@
       "pt": "Bourbon Jack Daniels, Angostura, açúcar, laranja."
      },
      "precio": 28000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "whiskies",
+   "nombre": {
+    "es": "Whiskies",
+    "en": "Whisky",
+    "pt": "Uísque"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Por medida.",
+    "en": "By the measure.",
+    "pt": "Por dose."
+   },
+   "items": [
+    {
+     "id": "wh-j-w-blue-label",
+     "nombre": {
+      "es": "J.W. Blue Label",
+      "en": "J.W. Blue Label",
+      "pt": "J.W. Blue Label"
+     },
+     "descripcion": {},
+     "precio": 99000,
+     "tags": []
+    },
+    {
+     "id": "wh-j-w-gold",
+     "nombre": {
+      "es": "J.W. Gold",
+      "en": "J.W. Gold",
+      "pt": "J.W. Gold"
+     },
+     "descripcion": {},
+     "precio": 27000,
+     "tags": []
+    },
+    {
+     "id": "wh-j-w-black-label",
+     "nombre": {
+      "es": "J.W. Black Label",
+      "en": "J.W. Black Label",
+      "pt": "J.W. Black Label"
+     },
+     "descripcion": {},
+     "precio": 19000,
+     "tags": []
+    },
+    {
+     "id": "rs-wh-chivas",
+     "nombre": {
+      "es": "Chivas Regal 12 años",
+      "en": "Chivas Regal 12yo",
+      "pt": "Chivas Regal 12 anos"
+     },
+     "descripcion": {},
+     "precio": 18500,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "copa",
+   "nombre": {
+    "es": "Vinos y espumantes por copa",
+    "en": "Wines & sparkling by the glass",
+    "pt": "Vinhos e espumantes em taça"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "copa-trumpeter-malbec-cs-lb",
+     "nombre": {
+      "es": "Trumpeter Malbec / Cabernet Sauvignon",
+      "en": "Trumpeter Malbec / Cabernet Sauvignon",
+      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sb-chard-lb",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-trumpeter",
+     "nombre": {
+      "es": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 15000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-cabernet-sauvignon",
+   "nombre": {
+    "es": "Tintos: Cabernet Sauvignon",
+    "en": "Reds: Cabernet Sauvignon",
+    "pt": "Tintos: Cabernet Sauvignon"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Tiene su origen en Burdeos, Francia, donde conforma en altos porcentajes la base de los grandes vinos de esta región.",
+    "en": "Originally from Bordeaux, France, where it forms the backbone of the region's great wines.",
+    "pt": "Originária de Bordeaux, na França, onde forma a base dos grandes vinhos da região."
+   },
+   "items": [
+    {
+     "id": "cabernet-sauvignon-rutini-coleccion-rutini-men",
+     "nombre": {
+      "es": "Rutini Colección (Rutini - Mendoza)",
+      "en": "Rutini Colección (Rutini - Mendoza)",
+      "pt": "Rutini Colección (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 59000,
+     "tags": []
+    },
+    {
+     "id": "cabernet-sauvignon-trumpeter-reserve-rutini-me",
+     "nombre": {
+      "es": "Trumpeter Reserve (Rutini - Mendoza)",
+      "en": "Trumpeter Reserve (Rutini - Mendoza)",
+      "pt": "Trumpeter Reserve (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 30000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "cabernet-sauvignon-trumpeter-rutini-mendoza",
+     "nombre": {
+      "es": "Trumpeter (Rutini - Mendoza)",
+      "en": "Trumpeter (Rutini - Mendoza)",
+      "pt": "Trumpeter (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 22000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-merlot",
+   "nombre": {
+    "es": "Tintos: Merlot",
+    "en": "Reds: Merlot",
+    "pt": "Tintos: Merlot"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Su origen está en Burdeos, Francia. Brilla en Pomerol, es apreciada en Napa Valley y se destaca en Chile.",
+    "en": "From Bordeaux, France. Shines in Pomerol, prized in Napa Valley, stands out in Chile.",
+    "pt": "De Bordeaux, França. Brilha em Pomerol, apreciada no Napa Valley, destaca-se no Chile."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-merlot",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Merlot",
+      "pt": "Rutini Colección Merlot"
+     },
+     "descripcion": {},
+     "precio": 57000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-syrah",
+   "nombre": {
+    "es": "Tintos: Syrah",
+    "en": "Reds: Syrah",
+    "pt": "Tintos: Syrah"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Conocida como Syrah o Shiraz, apreciada en el Valle del Ródano y en Australia.",
+    "en": "Known as Syrah or Shiraz, prized in the Rhône Valley and Australia.",
+    "pt": "Conhecida como Syrah ou Shiraz, apreciada no Vale do Ródano e Austrália."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-syrah",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Syrah",
+      "pt": "Rutini Colección Syrah"
+     },
+     "descripcion": {},
+     "precio": 57000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-cabernet-franc",
+   "nombre": {
+    "es": "Tintos: Cabernet Franc",
+    "en": "Reds: Cabernet Franc",
+    "pt": "Tintos: Cabernet Franc"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Del sudoeste de Francia, región de Burdeos. Gran adaptación en climas fríos.",
+    "en": "From south-western France, Bordeaux. Adapts well to cool climates.",
+    "pt": "Do sudoeste da França, Bordeaux. Adapta-se bem a climas frios."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-cf",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Cabernet Franc",
+      "pt": "Rutini Colección Cabernet Franc"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-pinot-noir",
+   "nombre": {
+    "es": "Tintos: Pinot Noir",
+    "en": "Reds: Pinot Noir",
+    "pt": "Tintos: Pinot Noir"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Cepa de Borgoña, reconocida por sus elegantes tintos y su uso en espumosos.",
+    "en": "A Burgundy grape, known for elegant reds and use in sparkling wines.",
+    "pt": "Cepa da Borgonha, conhecida por tintos elegantes e uso em espumantes."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-pn",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Pinot Noir",
+      "pt": "Rutini Colección Pinot Noir"
+     },
+     "descripcion": {},
+     "precio": 69000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-malbec",
+   "nombre": {
+    "es": "Tintos: Malbec",
+    "en": "Reds: Malbec",
+    "pt": "Tintos: Malbec"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Cepa emblemática de Argentina, de origen francés, que encontró aquí condiciones ideales.",
+    "en": "Argentina's flagship grape, French in origin, which found ideal conditions here.",
+    "pt": "Cepa emblemática da Argentina, de origem francesa, que encontrou aqui condições ideais."
+   },
+   "items": [
+    {
+     "id": "sug-malbec-rutini-col",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Malbec Rutini Colección",
+      "pt": "Malbec Rutini Colección"
+     },
+     "descripcion": {},
+     "precio": 69000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "sug-malbec-trumpeter-res",
+     "nombre": {
+      "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
+      "en": "Malbec Trumpeter Reserve",
+      "pt": "Malbec Trumpeter Reserve"
+     },
+     "descripcion": {},
+     "precio": 30000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
+     "id": "sug-malbec-trumpeter",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Malbec Trumpeter",
+      "pt": "Malbec Trumpeter"
+     },
+     "descripcion": {},
+     "precio": 25000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cv-genericos",
+   "nombre": {
+    "es": "Tintos: Blends",
+    "en": "Reds: Blends",
+    "pt": "Tintos: Blends"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Vinos elaborados con más de una cepa, también llamados de corte o assemblage.",
+    "en": "Wines made from more than one grape variety.",
+    "pt": "Vinhos com mais de uma cepa."
+   },
+   "items": [
+    {
+     "id": "genericos-rutini-cabernet-malbec-rutini-mendoz",
+     "nombre": {
+      "es": "Rutini Cabernet Malbec (Rutini - Mendoza)",
+      "en": "Rutini Cabernet Malbec (Rutini - Mendoza)",
+      "pt": "Rutini Cabernet Malbec (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 43000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cv-sauvignon-blanc",
+   "nombre": {
+    "es": "Blancos: Sauvignon Blanc",
+    "en": "Whites: Sauvignon Blanc",
+    "pt": "Brancos: Sauvignon Blanc"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Originaria de Francia, cultivada en el Loira y Bordeaux, da excelentes vinos frutados.",
+    "en": "French in origin, from the Loire and Bordeaux, giving fruity wines.",
+    "pt": "De origem francesa, do Loire e Bordeaux, dando vinhos frutados."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-sb",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Sauvignon Blanc",
+      "pt": "Rutini Colección Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 47000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cv-viognier",
+   "nombre": {
+    "es": "Blancos: Viognier",
+    "en": "Whites: Viognier",
+    "pt": "Brancos: Viognier"
+   },
+   "foto": "",
+   "nota": {
+    "es": "De la zona septentrional del Ródano, da blancos prestigiosos y escasos.",
+    "en": "From the northern Rhône, giving prestigious and scarce whites.",
+    "pt": "Do norte do Ródano, dando brancos prestigiados e escassos."
+   },
+   "items": [
+    {
+     "id": "rs-vino-trumpeter-viognier",
+     "nombre": {
+      "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
+      "en": "Rutini Colección Cabernet Sauvignon",
+      "pt": "Rutini Colección Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 28000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-chardonnay",
+   "nombre": {
+    "es": "Blancos: Chardonnay",
+    "en": "Whites: Chardonnay",
+    "pt": "Brancos: Chardonnay"
+   },
+   "foto": "",
+   "nota": {
+    "es": "La reina de las uvas blancas. Cultivada en Chablis, Borgoña y Champagne.",
+    "en": "The queen of white grapes. Grown in Chablis, Burgundy and Champagne.",
+    "pt": "A rainha das uvas brancas. Cultivada em Chablis, Borgonha e Champagne."
+   },
+   "items": [
+    {
+     "id": "rs-vino-rutini-dominio-chard",
+     "nombre": {
+      "es": "Rutini Dominio (Bga. Rutini - Mendoza)",
+      "en": "Rutini Dominio Chardonnay",
+      "pt": "Rutini Dominio Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 51000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-encuentro-chard",
+     "nombre": {
+      "es": "Encuentro (Bga Rutini - Mendoza)",
+      "en": "Encuentro Chardonnay",
+      "pt": "Encuentro Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 41000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cv-torrontes",
+   "nombre": {
+    "es": "Blancos: Torrontés",
+    "en": "Whites: Torrontés",
+    "pt": "Brancos: Torrontés"
+   },
+   "foto": "",
+   "nota": {
+    "es": "De origen desconocido. En Argentina el Riojano expresa mejor sus cualidades.",
+    "en": "Of unknown origin. In Argentina the Riojano type best expresses its quality.",
+    "pt": "De origem desconhecida. Na Argentina, o riojano expressa melhor."
+   },
+   "items": [
+    {
+     "id": "cv-torrontes-trumpeter",
+     "nombre": {
+      "es": "Trumpter Reserve (Bga. Rutini - Mendoza)",
+      "en": "Sauvignon Blanc Rutini Colección",
+      "pt": "Sauvignon Blanc Rutini Colección"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "espumosos",
+   "nombre": {
+    "es": "Espumosos",
+    "en": "Sparkling wines",
+    "pt": "Espumantes"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "rs-esp-rutini-eb",
+     "nombre": {
+      "es": "Rutini Extra Brut",
+      "en": "Rutini Extra Brut",
+      "pt": "Rutini Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 72000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-trumpeter-eb",
+     "nombre": {
+      "es": "Trumpeter Extra Brut",
+      "en": "Trumpeter Extra Brut",
+      "pt": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 37000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-dom-perignon",
+     "nombre": {
+      "es": "Dom Perignon",
+      "en": "Dom Perignon",
+      "pt": "Dom Perignon"
+     },
+     "descripcion": {},
+     "precio": 990000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-moet",
+     "nombre": {
+      "es": "Moet Ice Imperial",
+      "en": "Moet Ice Imperial",
+      "pt": "Moet Ice Imperial"
+     },
+     "descripcion": {},
+     "precio": 460000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-veuve-yellow",
+     "nombre": {
+      "es": "Veuve Clicquot Yellow Label",
+      "en": "Veuve Clicquot Yellow Label",
+      "pt": "Veuve Clicquot Yellow Label"
+     },
+     "descripcion": {},
+     "precio": 460000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-veuve-rich",
+     "nombre": {
+      "es": "Veuve Clicquot Rich",
+      "en": "Veuve Clicquot Rich",
+      "pt": "Veuve Clicquot Rich"
+     },
+     "descripcion": {},
+     "precio": 480000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-veuve-rose",
+     "nombre": {
+      "es": "Veuve Clicquot Rosé",
+      "en": "Veuve Clicquot Rosé",
+      "pt": "Veuve Clicquot Rosé"
+     },
+     "descripcion": {},
+     "precio": 480000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-baron-b",
+     "nombre": {
+      "es": "Barón B Extra Brut",
+      "en": "Barón B Extra Brut",
+      "pt": "Barón B Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 56000,
+     "tags": []
+    },
+    {
+     "id": "esp-chandon-extra-brut-delice",
+     "nombre": {
+      "es": "Chandon Extra Brut / Delice",
+      "en": "Chandon Extra Brut / Delice",
+      "pt": "Chandon Extra Brut / Delice"
+     },
+     "descripcion": {},
+     "precio": 38000,
      "tags": []
     }
    ]
