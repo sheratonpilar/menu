@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T15:14:31.204Z",
+ "actualizado": "2026-08-31T17:33:11.229Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -23,13 +23,13 @@
    "tema": "rs",
    "logo": "hotel.svg",
    "orden": 3,
-   "items": 90
+   "items": 119
   },
   {
    "id": "pool-snack",
    "nombre": "Pool Snack",
    "tema": "pool",
-   "logo": "hotel.svg",
+   "logo": "pool-snack.svg",
    "orden": 4,
    "items": 17
   },
@@ -47,7 +47,7 @@
    "tema": "vinos",
    "logo": "hotel.svg",
    "orden": 6,
-   "items": 182
+   "items": 166
   },
   {
    "id": "las-vasijas",
