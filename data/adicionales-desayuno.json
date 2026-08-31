@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T15:14:02.793Z",
+  "actualizado": "2026-08-31T17:30:53.586Z",
   "ver_tambien": "",
   "pie": {
    "es": "Opciones adicionales de desayuno.",
@@ -156,10 +156,8 @@
       "pt": "Suco natural: pepino e pera"
      },
      "descripcion": {},
-     "precio": 9500,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 19000,
+     "tags": []
     },
     {
      "id": "lb-jugo-zanahoria-manzana",
@@ -169,10 +167,8 @@
       "pt": "Suco natural: cenoura e maçã"
      },
      "descripcion": {},
-     "precio": 16000,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 19000,
+     "tags": []
     },
     {
      "id": "lb-jugo-zanahoria-naranja",
@@ -182,21 +178,19 @@
       "pt": "Suco natural: cenoura e laranja"
      },
      "descripcion": {},
-     "precio": 18500,
-     "tags": [
-      "VEGANO"
-     ]
+     "precio": 19000,
+     "tags": []
     }
    ]
   },
   {
-   "id": "adicionales",
+   "id": "opciones-dulces",
    "nombre": {
-    "es": "Opciones adicionales",
-    "en": "Additional options",
-    "pt": "Opções adicionais"
+    "es": "Opciones dulces",
+    "en": "Sweets",
+    "pt": "Opções doces"
    },
-   "foto": "",
+   "foto": "lb-pasteleria.jpg",
    "nota": {},
    "items": [
     {
@@ -268,7 +262,19 @@
      "descripcion": {},
      "precio": 9500,
      "tags": []
-    },
+    }
+   ]
+  },
+  {
+   "id": "opciones-saladas",
+   "nombre": {
+    "es": "Opciones adicionales",
+    "en": "Savory-options",
+    "pt": "Opções-salgadas"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
     {
      "id": "add-huevo-pasado",
      "nombre": {
