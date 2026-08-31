@@ -53,3 +53,27 @@ body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);f
 .card__arrow{color:var(--accent)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 html{scroll-behavior:smooth}
+
+/* ===== Portada expandida (mobile-first) + colapso al scrollear ===== */
+.hero2{text-align:center;padding:40px 20px 8px;max-width:var(--maxw);margin:0 auto}
+.hero2__logo{height:96px;width:auto;max-width:70%;margin:0 auto 16px;display:block}
+.hero2__logo--txt{font-family:var(--display);font-size:30px;letter-spacing:2px;color:var(--ink);margin:0 0 12px}
+.hero2__name{font-family:var(--display);font-weight:400;font-size:28px;line-height:1.15;margin:0 0 8px}
+.hero2__desc{font-size:15px;color:var(--ink-soft);line-height:1.5;margin:0 auto 4px;max-width:46ch}
+/* la barra compacta arranca oculta y aparece cuando la portada se fue */
+.bar{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--rule)}
+.bar__ident{display:flex;align-items:center;justify-content:center;gap:10px;padding:10px 20px 6px;max-width:var(--maxw);margin:0 auto;opacity:0;transition:opacity .2s}
+.bar.compact .bar__ident{opacity:1}
+.bar__ident .bar__logo{height:24px;width:auto}
+.bar__ident .bar__logo--txt{font-family:var(--display);font-size:15px;letter-spacing:1px}
+.bar__ident .bar__name{font-family:var(--display);font-size:16px;font-weight:400;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:0 1 auto}
+/* el idioma va arriba a la derecha, siempre visible */
+.bar__lang{position:absolute;top:8px;right:16px}
+
+/* ===== Botón a la carta de vinos ===== */
+.vinos-btn{display:block;text-align:center;text-decoration:none;margin:28px auto 4px;max-width:420px;
+  padding:16px 22px;border-radius:12px;background:var(--accent);color:#fff;
+  font-family:var(--display);font-size:18px;letter-spacing:.02em;
+  box-shadow:0 6px 18px color-mix(in srgb,var(--accent) 35%,transparent);transition:transform .12s,box-shadow .12s}
+.vinos-btn:hover,.vinos-btn:focus-visible{transform:translateY(-2px);box-shadow:0 10px 24px color-mix(in srgb,var(--accent) 45%,transparent);outline:none}
+.vinos-btn small{display:block;font-family:var(--body);font-size:12px;opacity:.85;margin-top:3px;letter-spacing:.04em}
