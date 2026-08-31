@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:15:32.714Z",
+  "actualizado": "2026-08-31T21:57:40.722Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -1001,21 +1001,6 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-lb-bacardi",
-     "nombre": {
-      "es": "Bacardi Cocktail",
-      "en": "Bacardi Cocktail",
-      "pt": "Bacardi Cocktail"
-     },
-     "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-gin-tonic",
      "nombre": {
       "es": "Gin Tonic",
@@ -1026,6 +1011,21 @@
       "es": "Gin Beefeater, agua tónica, rodajas de limón.",
       "en": "Gin Bombay, agua tónica y limón.",
       "pt": "Gin Bombay, agua tónica y limón."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-bacardi",
+     "nombre": {
+      "es": "Bacardi Cocktail",
+      "en": "Bacardi Cocktail",
+      "pt": "Bacardi Cocktail"
+     },
+     "descripcion": {
+      "es": "Ron, jugo de limón y granadina.",
+      "en": "Ron, jugo de limón y granadina.",
+      "pt": "Ron, jugo de limón y granadina."
      },
      "precio": 25000,
      "tags": []
@@ -1136,21 +1136,6 @@
      "tags": []
     },
     {
-     "id": "ckt-lb-cuba-libre",
-     "nombre": {
-      "es": "Cuba Libre",
-      "en": "Cuba Libre",
-      "pt": "Cuba Libre"
-     },
-     "descripcion": {
-      "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "rs-trago-aperol",
      "nombre": {
       "es": "Aperol Spritz",
@@ -1161,6 +1146,21 @@
       "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
       "en": "Aperol, extra brut sparkling, soda and orange.",
       "pt": "Aperol, espumante extra brut, soda e laranja."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-lb-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi oro, cola y limón.",
+      "en": "Ron Bacardi oro, cola y limón.",
+      "pt": "Ron Bacardi oro, cola y limón."
      },
      "precio": 25000,
      "tags": []
