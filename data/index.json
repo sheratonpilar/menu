@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T12:23:33.130Z",
+ "actualizado": "2026-09-01T14:26:08.064Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -47,7 +47,7 @@
    "tema": "rs",
    "logo": "hotel.svg",
    "orden": 7,
-   "items": 119
+   "items": 120
   }
  ]
 }
