@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T22:02:01.296Z",
+  "actualizado": "2026-09-01T00:35:59.116Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -77,7 +77,7 @@
     "en": "Breakfast",
     "pt": "Café da manhã"
    },
-   "foto": "rs-principales.jpg",
+   "foto": "desayunos.jpg",
    "nota": {},
    "items": [
     {
@@ -111,7 +111,7 @@
     "en": "Starters",
     "pt": "Entradas"
    },
-   "foto": "",
+   "foto": "entradas.jpg",
    "nota": {},
    "items": [
     {
@@ -233,7 +233,7 @@
     "en": "Salads",
     "pt": "Saladas"
    },
-   "foto": "lb-ensaladas.jpg",
+   "foto": "ensaladas.jpg",
    "nota": {},
    "items": [
     {
@@ -308,7 +308,7 @@
     "en": "Cold sandwiches",
     "pt": "Sanduíches frios"
    },
-   "foto": "lb-sandwicheria.jpg",
+   "foto": "sand-fria.jpg",
    "nota": {},
    "items": [
     {
@@ -367,7 +367,7 @@
     "en": "Hot sandwiches",
     "pt": "Sanduíches quentes"
    },
-   "foto": "",
+   "foto": "sand-caliente.jpg",
    "nota": {},
    "items": [
     {
@@ -452,7 +452,7 @@
     "en": "Main courses",
     "pt": "Pratos principais"
    },
-   "foto": "lb-cocina.jpg",
+   "foto": "principales.jpg",
    "nota": {},
    "items": [
     {
@@ -564,7 +564,7 @@
     "en": "Individual pizzas",
     "pt": "Pizzas individuais"
    },
-   "foto": "",
+   "foto": "pizzas.jpg",
    "nota": {},
    "items": [
     {
@@ -591,7 +591,7 @@
     "en": "Desserts",
     "pt": "Sobremesas"
    },
-   "foto": "lb-postres.jpg",
+   "foto": "postres.jpg",
    "nota": {},
    "items": [
     {
@@ -699,7 +699,7 @@
     "en": "Sweets",
     "pt": "Opções doces"
    },
-   "foto": "lb-pasteleria.jpg",
+   "foto": "opciones-dulces.jpg",
    "nota": {},
    "items": [
     {
@@ -792,7 +792,7 @@
     "en": "Kids",
     "pt": "Infantil"
    },
-   "foto": "",
+   "foto": "menores.jpg",
    "nota": {},
    "items": [
     {
@@ -901,7 +901,7 @@
     "en": "Soft drinks",
     "pt": "Bebidas sem álcool"
    },
-   "foto": "",
+   "foto": "sin-alcohol.jpg",
    "nota": {},
    "items": [
     {
@@ -1049,7 +1049,7 @@
     "en": "Coffee & tea",
     "pt": "Cafeteria"
    },
-   "foto": "lb-cafeteria.jpg",
+   "foto": "cafeteria.jpg",
    "nota": {},
    "items": [
     {
@@ -1164,7 +1164,7 @@
     "en": "Beers",
     "pt": "Cervejas"
    },
-   "foto": "",
+   "foto": "cervezas.jpg",
    "nota": {},
    "items": [
     {
@@ -1242,7 +1242,7 @@
     "en": "Classic cocktails",
     "pt": "Coquetéis clássicos"
    },
-   "foto": "lb-cocktails.jpg",
+   "foto": "cocktails.jpg",
    "nota": {},
    "items": [
     {
@@ -1464,7 +1464,7 @@
     "en": "Wines & sparkling by the glass",
     "pt": "Vinhos e espumantes em taça"
    },
-   "foto": "",
+   "foto": "copa.jpg",
    "nota": {},
    "items": [
     {
@@ -1501,13 +1501,13 @@
    ]
   },
   {
-   "id": "cv-cabernet-sauvignon",
+   "id": "tintos-cabernet-sauvignon",
    "nombre": {
     "es": "Tintos: Cabernet Sauvignon",
     "en": "Reds: Cabernet Sauvignon",
     "pt": "Tintos: Cabernet Sauvignon"
    },
-   "foto": "",
+   "foto": "tintos-cabernet-sauvignon.jpg",
    "nota": {
     "es": "Tiene su origen en Burdeos, Francia, donde conforma en altos porcentajes la base de los grandes vinos de esta región.",
     "en": "Originally from Bordeaux, France, where it forms the backbone of the region's great wines.",
@@ -1552,7 +1552,7 @@
    ]
   },
   {
-   "id": "cv-merlot",
+   "id": "tintos-merlot",
    "nombre": {
     "es": "Tintos: Merlot",
     "en": "Reds: Merlot",
@@ -1579,7 +1579,7 @@
    ]
   },
   {
-   "id": "cv-syrah",
+   "id": "tintos-syrah",
    "nombre": {
     "es": "Tintos: Syrah",
     "en": "Reds: Syrah",
@@ -1606,7 +1606,7 @@
    ]
   },
   {
-   "id": "cv-cabernet-franc",
+   "id": "tintos-cabernet-franc",
    "nombre": {
     "es": "Tintos: Cabernet Franc",
     "en": "Reds: Cabernet Franc",
@@ -1633,7 +1633,7 @@
    ]
   },
   {
-   "id": "cv-pinot-noir",
+   "id": "tintos-pinot-noir",
    "nombre": {
     "es": "Tintos: Pinot Noir",
     "en": "Reds: Pinot Noir",
@@ -1641,7 +1641,7 @@
    },
    "foto": "",
    "nota": {
-    "es": "Cepa de Borgoña, reconocida por sus elegantes tintos y su uso en espumosos.",
+    "es": "Cepa de Borgoña, reconocida por sus elegantes tintos y su uso en espumantes.",
     "en": "A Burgundy grape, known for elegant reds and use in sparkling wines.",
     "pt": "Cepa da Borgonha, conhecida por tintos elegantes e uso em espumantes."
    },
@@ -1660,7 +1660,7 @@
    ]
   },
   {
-   "id": "cv-malbec",
+   "id": "tintos-malbec",
    "nombre": {
     "es": "Tintos: Malbec",
     "en": "Reds: Malbec",
@@ -1715,7 +1715,7 @@
    ]
   },
   {
-   "id": "cv-genericos",
+   "id": "tintos-genericos",
    "nombre": {
     "es": "Tintos: Blends",
     "en": "Reds: Blends",
@@ -1744,13 +1744,13 @@
    ]
   },
   {
-   "id": "cv-sauvignon-blanc",
+   "id": "blancos-sauvignon-blanc",
    "nombre": {
     "es": "Blancos: Sauvignon Blanc",
     "en": "Whites: Sauvignon Blanc",
     "pt": "Brancos: Sauvignon Blanc"
    },
-   "foto": "",
+   "foto": "blancos-sauvignon-blanc.jpg",
    "nota": {
     "es": "Originaria de Francia, cultivada en el Loira y Bordeaux, da excelentes vinos frutados.",
     "en": "French in origin, from the Loire and Bordeaux, giving fruity wines.",
@@ -1773,7 +1773,7 @@
    ]
   },
   {
-   "id": "cv-viognier",
+   "id": "blancos-viognier",
    "nombre": {
     "es": "Blancos: Viognier",
     "en": "Whites: Viognier",
@@ -1800,7 +1800,7 @@
    ]
   },
   {
-   "id": "cv-chardonnay",
+   "id": "blancos-chardonnay",
    "nombre": {
     "es": "Blancos: Chardonnay",
     "en": "Whites: Chardonnay",
@@ -1838,7 +1838,7 @@
    ]
   },
   {
-   "id": "cv-torrontes",
+   "id": "blancos-torrontes",
    "nombre": {
     "es": "Blancos: Torrontés",
     "en": "Whites: Torrontés",
@@ -1852,7 +1852,7 @@
    },
    "items": [
     {
-     "id": "cv-torrontes-trumpeter",
+     "id": "blancos-torrontes-trumpeter",
      "nombre": {
       "es": "Trumpter Reserve (Bga. Rutini - Mendoza)",
       "en": "Sauvignon Blanc Rutini Colección",
@@ -1865,13 +1865,13 @@
    ]
   },
   {
-   "id": "espumosos",
+   "id": "espumantes",
    "nombre": {
-    "es": "Espumosos",
+    "es": "espumantes",
     "en": "Sparkling wines",
     "pt": "Espumantes"
    },
-   "foto": "",
+   "foto": "espumantes.jpg",
    "nota": {},
    "items": [
     {
