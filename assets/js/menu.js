@@ -31,7 +31,14 @@ function logoHTML(c,cls){
 function render(){
 var c=data.carta;document.body.dataset.tema=c.tema;document.title=c.nombre;
 var idiomas=c.idiomas||['es'];
-// Barra compacta (sticky): ident oculto hasta scrollear + idioma + buscador + chips
+// PORTADA (arriba, se va con el scroll): logo grande + nombre + descripción.
+// Se inserta ANTES de la barra sticky, como hermano de <header id="bar">.
+var hero=document.getElementById('hero');
+if(!hero){hero=document.createElement('div');hero.id='hero';hero.className='hero2';bar.parentNode.insertBefore(hero,bar);}
+hero.innerHTML=logoHTML(c,'hero2__logo')+
+ '<h1 class="hero2__name">'+esc(c.nombre)+'</h1>'+
+ (t(c.descripcion)?'<p class="hero2__desc">'+fmt(t(c.descripcion))+'</p>':'');
+// BARRA sticky: ident (logo chico + nombre, visible al scrollear) + idioma + buscador + chips.
 bar.innerHTML=
  (idiomas.length>1?'<div class="bar__lang">'+idiomas.map(function(l){return'<button data-lang="'+l+'" aria-pressed="'+(l===lang)+'">'+l+'</button>'}).join('')+'</div>':'')+
  '<div class="bar__ident">'+logoHTML(c,'bar__logo')+'<h1 class="bar__name">'+esc(c.nombre)+'</h1></div>'+
@@ -41,18 +48,10 @@ bar.querySelectorAll('.bar__lang button').forEach(function(b){b.addEventListener
 bar.querySelector('#q').addEventListener('input',function(e){filtrar(e.target.value)});
 paint(data.secciones);spy();watchHero();}
 
-function heroHTML(){
-var c=data.carta;
-return '<div class="hero2" id="hero">'+logoHTML(c,'hero2__logo')+
- '<h1 class="hero2__name">'+esc(c.nombre)+'</h1>'+
- (t(c.descripcion)?'<p class="hero2__desc">'+fmt(t(c.descripcion))+'</p>':'')+
- '</div>';
-}
-
 function paint(secciones){
 var c=data.carta;
 var fecha=new Date(c.actualizado).toLocaleDateString(lang==='en'?'en-GB':lang==='pt'?'pt-BR':'es-AR');
-var html=heroHTML()+'<div class="wrap">';
+var html='<div class="wrap">';
 if(!secciones.length){app.innerHTML=html+'<p class="empty">'+esc(UI[lang].sin)+'</p></div>';watchHero();return;}
 secciones.forEach(function(s){
 html+='<section class="sec" id="'+s.id+'">';
