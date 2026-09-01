@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T14:25:16.813Z",
+  "actualizado": "2026-09-01T17:23:25.727Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -644,6 +644,37 @@
    ]
   },
   {
+   "id": "pizzas",
+   "nombre": {
+    "es": "Pizzas individuales",
+    "en": "Individual pizzas",
+    "pt": "Pizzas individuais"
+   },
+   "foto": "pizzas.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "rs-pizza",
+     "nombre": {
+      "es": "Pizza individual",
+      "en": "Individual pizza",
+      "pt": "Pizza individual"
+     },
+     "descripcion": {
+      "es": "Muzzarella, prosciutto 12 meses, rúcula y parmesano.",
+      "en": "Mozzarella, 12-month prosciutto, arugula and parmesan.",
+      "pt": "Mussarela, prosciutto 12 meses, rúcula e parmesão."
+     },
+     "precio": 36000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    }
+   ]
+  },
+  {
    "id": "principales",
    "nombre": {
     "es": "Principales",
@@ -776,28 +807,132 @@
    ]
   },
   {
-   "id": "pizzas",
+   "id": "menores",
    "nombre": {
-    "es": "Pizzas individuales",
-    "en": "Individual pizzas",
-    "pt": "Pizzas individuais"
+    "es": "Menores",
+    "en": "Kids",
+    "pt": "Infantil"
    },
-   "foto": "pizzas.jpg",
+   "foto": "menores.jpg",
    "nota": {},
    "items": [
     {
-     "id": "rs-pizza",
+     "id": "rs-men-milanesa",
      "nombre": {
-      "es": "Pizza individual",
-      "en": "Individual pizza",
-      "pt": "Pizza individual"
+      "es": "Milanesa de pollo con puré de papa",
+      "en": "Breaded chicken with mashed potato",
+      "pt": "Milanesa de frango com purê"
      },
-     "descripcion": {
-      "es": "Muzzarella, prosciutto 12 meses, rúcula y parmesano.",
-      "en": "Mozzarella, 12-month prosciutto, arugula and parmesan.",
-      "pt": "Mussarela, prosciutto 12 meses, rúcula e parmesão."
+     "descripcion": {},
+     "precio": 31000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8"
+     ]
+    },
+    {
+     "id": "dg-men-noquis",
+     "nombre": {
+      "es": "Ñoquis de papa con filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
      },
-     "precio": 36000,
+     "descripcion": {},
+     "precio": 31000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "lb-men-nuggets",
+     "nombre": {
+      "es": "Nuggets con papas fritas",
+      "en": "Chicken nuggets with fries",
+      "pt": "Nuggets com batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 34000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "lb-men-penne",
+     "nombre": {
+      "es": "Penne con salsa fileto",
+      "en": "Penne with tomato sauce",
+      "pt": "Penne ao filetto"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "lb-men-hamburguesa",
+     "nombre": {
+      "es": "Hamburguesa con queso cheddar y papas fritas",
+      "en": "Burger with cheddar and fries",
+      "pt": "Hambúrguer com cheddar e batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "rs-men-tallarin",
+     "nombre": {
+      "es": "Tallarín con crema",
+      "en": "Tagliatelle with cream",
+      "pt": "Talharim ao creme"
+     },
+     "descripcion": {},
+     "precio": 33000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "lb-men-pasta-seca",
+     "nombre": {
+      "es": "Pasta seca con crema",
+      "en": "Pasta with cream",
+      "pt": "Massa ao creme"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": [
+      "VEGETARIANO",
+      "SIN_TACC",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "rs-men-sorrentinos",
+     "nombre": {
+      "es": "Sorrentinos de jamón y queso en salsa rosa",
+      "en": "Ham and cheese sorrentinos in pink sauce",
+      "pt": "Sorrentinos de presunto e queijo ao molho rosé"
+     },
+     "descripcion": {},
+     "precio": 34000,
      "tags": [
       "ALERGENO_2",
       "ALERGENO_4",
@@ -1039,141 +1174,6 @@
       "ALERGENO_9",
       "ALERGENO_10",
       "ALERGENO_11",
-      "ALERGENO_13"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "menores",
-   "nombre": {
-    "es": "Menores",
-    "en": "Kids",
-    "pt": "Infantil"
-   },
-   "foto": "menores.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "rs-men-milanesa",
-     "nombre": {
-      "es": "Milanesa de pollo con puré de papa",
-      "en": "Breaded chicken with mashed potato",
-      "pt": "Milanesa de frango com purê"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_4",
-      "ALERGENO_8"
-     ]
-    },
-    {
-     "id": "dg-men-noquis",
-     "nombre": {
-      "es": "Ñoquis de papa con filetto o panna",
-      "en": "Potato gnocchi with filetto or cream",
-      "pt": "Nhoque de batata ao filetto ou creme"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": [
-      "VEGETARIANO",
-      "ALERGENO_1",
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
-     "id": "lb-men-nuggets",
-     "nombre": {
-      "es": "Nuggets con papas fritas",
-      "en": "Chicken nuggets with fries",
-      "pt": "Nuggets com batatas fritas"
-     },
-     "descripcion": {},
-     "precio": 34000,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_4",
-      "ALERGENO_13"
-     ]
-    },
-    {
-     "id": "lb-men-penne",
-     "nombre": {
-      "es": "Penne con salsa fileto",
-      "en": "Penne with tomato sauce",
-      "pt": "Penne ao filetto"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": [
-      "VEGETARIANO",
-      "ALERGENO_1",
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
-     "id": "lb-men-hamburguesa",
-     "nombre": {
-      "es": "Hamburguesa con queso cheddar y papas fritas",
-      "en": "Burger with cheddar and fries",
-      "pt": "Hambúrguer com cheddar e batatas fritas"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_11",
-      "ALERGENO_13"
-     ]
-    },
-    {
-     "id": "rs-men-tallarin",
-     "nombre": {
-      "es": "Tallarín con crema",
-      "en": "Tagliatelle with cream",
-      "pt": "Talharim ao creme"
-     },
-     "descripcion": {},
-     "precio": 33000,
-     "tags": [
-      "VEGETARIANO",
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
-     "id": "lb-men-pasta-seca",
-     "nombre": {
-      "es": "Pasta seca con crema",
-      "en": "Pasta with cream",
-      "pt": "Massa ao creme"
-     },
-     "descripcion": {},
-     "precio": 31000,
-     "tags": [
-      "VEGETARIANO",
-      "SIN_TACC",
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
-     "id": "rs-men-sorrentinos",
-     "nombre": {
-      "es": "Sorrentinos de jamón y queso en salsa rosa",
-      "en": "Ham and cheese sorrentinos in pink sauce",
-      "pt": "Sorrentinos de presunto e queijo ao molho rosé"
-     },
-     "descripcion": {},
-     "precio": 34000,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_4",
       "ALERGENO_13"
      ]
     }
@@ -1517,6 +1517,49 @@
    ]
   },
   {
+   "id": "copa",
+   "nombre": {
+    "es": "Vinos y espumantes por copa",
+    "en": "Wines & sparkling by the glass",
+    "pt": "Vinhos e espumantes em taça"
+   },
+   "foto": "copa.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "copa-trumpeter-malbec-cs-lb",
+     "nombre": {
+      "es": "Trumpeter Malbec / Cabernet Sauvignon",
+      "en": "Trumpeter Malbec / Cabernet Sauvignon",
+      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sb-chard-lb",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-trumpeter",
+     "nombre": {
+      "es": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 15000,
+     "tags": []
+    }
+   ]
+  },
+  {
    "id": "cocktails",
    "nombre": {
     "es": "Cocktails clásicos",
@@ -1674,109 +1717,6 @@
       "pt": "Fernet Branca y Coca Cola."
      },
      "precio": 28000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "whiskies",
-   "nombre": {
-    "es": "Whiskies",
-    "en": "Whisky",
-    "pt": "Uísque"
-   },
-   "foto": "",
-   "nota": {
-    "es": "Por medida.",
-    "en": "By the measure.",
-    "pt": "Por dose."
-   },
-   "items": [
-    {
-     "id": "wh-j-w-blue-label",
-     "nombre": {
-      "es": "J.W. Blue Label",
-      "en": "J.W. Blue Label",
-      "pt": "J.W. Blue Label"
-     },
-     "descripcion": {},
-     "precio": 99000,
-     "tags": []
-    },
-    {
-     "id": "wh-j-w-gold",
-     "nombre": {
-      "es": "J.W. Gold",
-      "en": "J.W. Gold",
-      "pt": "J.W. Gold"
-     },
-     "descripcion": {},
-     "precio": 27000,
-     "tags": []
-    },
-    {
-     "id": "wh-j-w-black-label",
-     "nombre": {
-      "es": "J.W. Black Label",
-      "en": "J.W. Black Label",
-      "pt": "J.W. Black Label"
-     },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "rs-wh-chivas",
-     "nombre": {
-      "es": "Chivas Regal 12 años",
-      "en": "Chivas Regal 12yo",
-      "pt": "Chivas Regal 12 anos"
-     },
-     "descripcion": {},
-     "precio": 18500,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "copa",
-   "nombre": {
-    "es": "Vinos y espumantes por copa",
-    "en": "Wines & sparkling by the glass",
-    "pt": "Vinhos e espumantes em taça"
-   },
-   "foto": "copa.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "copa-trumpeter-malbec-cs-lb",
-     "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-sb-chard-lb",
-     "nombre": {
-      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-copa-trumpeter",
-     "nombre": {
-      "es": "Trumpeter Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 15000,
      "tags": []
     }
    ]
@@ -2252,6 +2192,66 @@
      },
      "descripcion": {},
      "precio": 38000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "whiskies",
+   "nombre": {
+    "es": "Whiskies",
+    "en": "Whisky",
+    "pt": "Uísque"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Por medida.",
+    "en": "By the measure.",
+    "pt": "Por dose."
+   },
+   "items": [
+    {
+     "id": "wh-j-w-blue-label",
+     "nombre": {
+      "es": "J.W. Blue Label",
+      "en": "J.W. Blue Label",
+      "pt": "J.W. Blue Label"
+     },
+     "descripcion": {},
+     "precio": 99000,
+     "tags": []
+    },
+    {
+     "id": "wh-j-w-gold",
+     "nombre": {
+      "es": "J.W. Gold",
+      "en": "J.W. Gold",
+      "pt": "J.W. Gold"
+     },
+     "descripcion": {},
+     "precio": 27000,
+     "tags": []
+    },
+    {
+     "id": "wh-j-w-black-label",
+     "nombre": {
+      "es": "J.W. Black Label",
+      "en": "J.W. Black Label",
+      "pt": "J.W. Black Label"
+     },
+     "descripcion": {},
+     "precio": 19000,
+     "tags": []
+    },
+    {
+     "id": "rs-wh-chivas",
+     "nombre": {
+      "es": "Chivas Regal 12 años",
+      "en": "Chivas Regal 12yo",
+      "pt": "Chivas Regal 12 anos"
+     },
+     "descripcion": {},
+     "precio": 18500,
      "tags": []
     }
    ]
