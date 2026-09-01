@@ -9,10 +9,12 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T01:00:05.650Z",
+  "actualizado": "2026-09-01T11:37:14.487Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
-   "es": "HOLA"
+   "es": "En Don Giovanni Ristorante te invitamos a una experiencia artística gourmet, donde nuestros chef demuestran toda su pasión hacia la profesión haciendo propia cada receta. Con más de 20 años de trayectoria, nos destacamos por innovar constantemente en la combinación de sabores y técnicas, transformando cada plato en una verdadera obra de arte.",
+   "en": "At Don Giovanni Ristorante, we invite you to enjoy an artistic gourmet experience, where our chefs express their passion for their profession by making every recipe their own. With more than 20 years of experience, we stand out for constantly innovating in the combination of flavors and techniques, transforming each dish into a true work of art.",
+   "pt": "No Don Giovanni Ristorante, convidamos você a desfrutar de uma experiência gourmet artística, onde nossos chefs demonstram toda a sua paixão pela profissão, tornando յուրաքանչյուր receita única e especial. Com mais de 20 anos de trajetória, destacamo-nos pela constante inovação na combinação de sabores e técnicas, transformando cada prato em uma verdadeira obra de arte."
   },
   "pie": {
    "es": "Apto celíacos / *Sugerencia del chef / Vegetariano. Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido. Consultar por otras opciones sin TACC. En caso de compartir un plato, se adicionará un 40% al valor del mismo. Las especialidades del chef no son para compartir.",
@@ -125,7 +127,9 @@
       "pt": "Salmão bicolor, tiras de cenoura, abobrinha e beterraba, tomates cereja assados, molho de abóbora e gengibre, creme azedo e azeite de primeira prensagem."
      },
      "precio": 25000,
-     "tags": []
+     "tags": [
+      "SIN_TACC"
+     ]
     },
     {
      "id": "dg-petalos",
@@ -141,7 +145,9 @@
      },
      "precio": 23000,
      "tags": [
-      "SUGERENCIA_CHEF"
+      "SUGERENCIA_CHEF",
+      "SIN_TACC",
+      "VEGETARIANO"
      ]
     },
     {
@@ -184,7 +190,10 @@
       "pt": "Malfatti grandes de espinafre, queijo atuel, avelãs tostadas e noz-moscada, pomodoro rústico e centro de manjericão."
      },
      "precio": 24000,
-     "tags": []
+     "tags": [
+      "SIN_TACC",
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "dg-arancini",
@@ -500,7 +509,9 @@
      },
      "descripcion": {},
      "precio": 23000,
-     "tags": []
+     "tags": [
+      "VEGETARIANO"
+     ]
     },
     {
      "id": "dg-men-noquis",
@@ -734,9 +745,9 @@
       "pt": "Refrigerante"
      },
      "descripcion": {
-      "es": "Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Pepsi / 7Up / Paso de los Toros"
+      "es": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Pomelo",
+      "en": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Grapefruit",
+      "pt": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Toranja"
      },
      "precio": 6500,
      "tags": []
@@ -789,17 +800,13 @@
      "tags": []
     },
     {
-     "id": "dg-te",
+     "id": "seleccion-te-hierbas",
      "nombre": {
       "es": "Selección de té de hierbas",
       "en": "Herbal tea selection",
       "pt": "Seleção de chás de ervas"
      },
-     "descripcion": {
-      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
-      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
-      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
-     },
+     "descripcion": {},
      "precio": 6000,
      "tags": []
     }
