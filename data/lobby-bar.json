@@ -9,15 +9,13 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T12:22:13.098Z",
+  "actualizado": "2026-09-01T14:25:16.812Z",
   "ver_tambien": "carta-vinos",
-  "descripcion": {
-   "es": "HOLA"
-  },
+  "descripcion": {},
   "pie": {
-   "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
-   "en": "Please let our associates know if you have any allergy or intolerance.",
-   "pt": "Por favor, informe nossos associados se você tiver alguma alergia ou intolerância."
+   "es": "Consultar por otras opciones sin TACC. \n**Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
+   "en": "Please ask about other gluten-free options.\n**If you have any dietary restrictions, please inform your waiter before placing your order.** \n\nMay contain one or more of the following allergens:\n1 | Celery\n2 | Gluten\n3 | Crustaceans\n4 | Eggs\n5 | Fish\n6 | Lupin flour\n7 | Molluscs\n8 | Mustard\n9 | Nuts\n10 | Peanuts\n11 | Sesame seeds\n12 | Soy\n13 | Sulfur dioxide",
+   "pt": "Consulte sobre outras opções sem glúten.\n**Se você tiver alguma restrição alimentar, por favor, informe ao seu garçom antes de fazer o pedido.**\n\nPode conter um ou mais dos seguintes alérgenos:\n1 | Aipo\n2 | Glúten\n3 | Crustáceos\n4 | Ovos\n5 | Peixes\n6 | Farinha de tremoço\n7 | Moluscos\n8 | Mostarda\n9 | Frutos secos\n10 | Amendoins\n11 | Sementes de gergelim\n12 | Soja\n13 | Dióxido de enxofre"
   }
  },
  "tags": {
@@ -50,6 +48,71 @@
    "es": "Promoción",
    "en": "Special",
    "pt": "Promoção"
+  },
+  "ALERGENO_1": {
+   "es": "1",
+   "en": "1",
+   "pt": "1"
+  },
+  "ALERGENO_2": {
+   "es": "2",
+   "en": "2",
+   "pt": "2"
+  },
+  "ALERGENO_3": {
+   "es": "3",
+   "en": "3",
+   "pt": "3"
+  },
+  "ALERGENO_4": {
+   "es": "4",
+   "en": "4",
+   "pt": "4"
+  },
+  "ALERGENO_5": {
+   "es": "5",
+   "en": "5",
+   "pt": "5"
+  },
+  "ALERGENO_6": {
+   "es": "6",
+   "en": "6",
+   "pt": "6"
+  },
+  "ALERGENO_7": {
+   "es": "7",
+   "en": "7",
+   "pt": "7"
+  },
+  "ALERGENO_8": {
+   "es": "8",
+   "en": "8",
+   "pt": "8"
+  },
+  "ALERGENO_9": {
+   "es": "9",
+   "en": "9",
+   "pt": "9"
+  },
+  "ALERGENO_10": {
+   "es": "10",
+   "en": "10",
+   "pt": "10"
+  },
+  "ALERGENO_11": {
+   "es": "11",
+   "en": "11",
+   "pt": "11"
+  },
+  "ALERGENO_12": {
+   "es": "12",
+   "en": "12",
+   "pt": "12"
+  },
+  "ALERGENO_13": {
+   "es": "13",
+   "en": "13",
+   "pt": "13"
   }
  },
  "config": {
@@ -91,7 +154,9 @@
      "precio": 17000,
      "tags": [
       "VEGETARIANO",
-      "SIN_TACC"
+      "SIN_TACC",
+      "ALERGENO_2",
+      "ALERGENO_13"
      ]
     },
     {
@@ -120,7 +185,13 @@
      },
      "descripcion": {},
      "precio": 22000,
-     "tags": []
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11"
+     ]
     },
     {
      "id": "lb-tabla-fiambres",
@@ -131,7 +202,14 @@
      },
      "descripcion": {},
      "precio": 18000,
-     "tags": []
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-cazuela-olivas",
@@ -186,7 +264,10 @@
      "precio": 36000,
      "tags": [
       "SIN_TACC",
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
@@ -202,7 +283,14 @@
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
      },
      "precio": 29000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-caesar-ave",
@@ -217,7 +305,14 @@
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
      },
      "precio": 34000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-caesar-langostinos",
@@ -247,7 +342,15 @@
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com salmão defumado."
      },
      "precio": 43000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_5",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-mar-y-tierra",
@@ -324,7 +427,17 @@
       "pt": "Sanduíche de salmão defumado, molho tártaro, tomate seco, pepino e rúcula."
      },
      "precio": 33000,
-     "tags": []
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-brioche",
@@ -339,7 +452,11 @@
       "pt": "Pão brioche, presunto cru, burrata, manteiga de ervas, tomates assados, redução de aceto e rúcula."
      },
      "precio": 34000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-baguette-cabutia",
@@ -355,7 +472,13 @@
      },
      "precio": 32000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11"
      ]
     }
    ]
@@ -416,7 +539,14 @@
      },
      "precio": 39000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
      ]
     },
     {
@@ -432,7 +562,10 @@
       "pt": "Em pão árabe ou de forma."
      },
      "precio": 19000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-tostado-jqt",
@@ -447,7 +580,10 @@
       "pt": "Em pão árabe ou de forma."
      },
      "precio": 19000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-tostado-crudo",
@@ -680,14 +816,17 @@
     {
      "id": "dg-men-noquis",
      "nombre": {
-      "es": "Ñoquis de papa filetto o panna",
+      "es": "Ñoquis de papa con filetto o panna",
       "en": "Potato gnocchi with filetto or cream",
       "pt": "Nhoque de batata ao filetto ou creme"
      },
      "descripcion": {},
      "precio": 29000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
      ]
     },
     {
@@ -699,7 +838,11 @@
      },
      "descripcion": {},
      "precio": 32000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-men-penne",
@@ -711,7 +854,10 @@
      "descripcion": {},
      "precio": 29000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
      ]
     },
     {
@@ -723,7 +869,11 @@
      },
      "descripcion": {},
      "precio": 28500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "rs-men-tallarin",
@@ -735,7 +885,9 @@
      "descripcion": {},
      "precio": 29000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4"
      ]
     },
     {
@@ -749,7 +901,9 @@
      "precio": 29000,
      "tags": [
       "VEGETARIANO",
-      "SIN_TACC"
+      "SIN_TACC",
+      "ALERGENO_2",
+      "ALERGENO_4"
      ]
     }
    ]
@@ -803,7 +957,11 @@
       "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
      },
      "precio": 21500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-franui",
@@ -819,7 +977,10 @@
      },
      "precio": 14000,
      "tags": [
-      "SIN_TACC"
+      "SIN_TACC",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
      ]
     },
     {
@@ -837,7 +998,10 @@
      "precio": 14000,
      "tags": [
       "SIN_TACC",
-      "VEGANO"
+      "VEGANO",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
      ]
     },
     {
@@ -850,7 +1014,12 @@
      "descripcion": {},
      "precio": 7500,
      "tags": [
-      "SIN_TACC"
+      "SIN_TACC",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12",
+      "ALERGENO_13"
      ]
     },
     {
@@ -1009,7 +1178,13 @@
       "pt": "Chocolate Dubai, nutella, frutas vermelhas com centro de framboesa."
      },
      "precio": 25000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "lb-yogur-granola",
@@ -1074,7 +1249,14 @@
      },
      "descripcion": {},
      "precio": 3500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     }
    ]
   },
