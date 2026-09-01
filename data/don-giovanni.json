@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T12:16:01.554Z",
+  "actualizado": "2026-09-01T12:22:13.096Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "En Don Giovanni Ristorante te invitamos a una experiencia artística gourmet, donde nuestros chef demuestran toda su pasión hacia la profesión haciendo propia cada receta. Con más de 20 años de trayectoria, nos destacamos por innovar constantemente en la combinación de sabores y técnicas, transformando cada plato en una verdadera obra de arte.",
@@ -1274,6 +1274,33 @@
       "pt": "Por pessoa."
      },
      "precio": 7000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "menu-romantico",
+   "nombre": {
+    "es": "Menú Romántico",
+    "en": "Romantic Menu",
+    "pt": "Menu Romântico"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-romantico",
+     "nombre": {
+      "es": "Menú romántico de 3 pasos para 2 personas",
+      "en": "Romantic 3-course menu for 2 people",
+      "pt": "Menu romântico de 3 etapas para 2 pessoas"
+     },
+     "descripcion": {
+      "es": "*ENTRADAS*\n**Piccola** (sugerencia del chef)\nPiccola en abrigo de prosciutto, cremosos de albahaca, tomates en cuartos y pesto de pistacho.\n**Pétalos** (sugerencia del chef)\nSímil pétalos rellenos de vegetales frescos y cocidos, cremoso de palta, huevo poche y focaccia.\n**Malfatti** (sin tacc / vegetariano)\nMalfattis grandes hechos en casa, de espinaca, queso atuel, avellanas tostadas y notas de nuez moscada con pomodoro rústico y centro de albahaca.\n\n*PRINCIPALES*\n**Risotto Capresse** (sin tacc / vegetariano)\nRisotto cremoso de tomate secos, boconccinos, tomates ahumados al vacío, escamas de pepato y hojas de albahaca.\n**Lasagna** (sugerencia del chef)\nNuestra lasagna de papa y salmón crema de azafrán y cebolla caramelizada.\n**Ojo de bife o lomo** (sin tacc)\nPuré de arvejas y menta, rostí de coliflor, brócoli y espárragos, cherrys asados.\n\n*POSTRES*\n**Laminado dubái**\nLaminado de húmedo de chocolate, cremoso Dubái, ganache de chocolate blanco con praliné y su helado de chocolate Dubái.\n**Panna cotta** (sin tacc)\nDe frutos rojos y chocolate blanco con centro frambuesas.\n**Helado**\n\n*BEBIDAS*\nVino Trumpeter Cabernet o Chardonnay, bebidas sin alcohol y café.",
+      "en": "*STARTERS*\n**Piccola** (chef's recommendation)\nPiccola wrapped in prosciutto, creamy basil sauce, quartered tomatoes and pistachio pesto.\n**Pétalos** (chef's recommendation)\nPetal-shaped pasta filled with fresh and cooked vegetables, creamy avocado, poached egg and focaccia.\n**Malfatti** (gluten-free / vegetarian)\nLarge homemade spinach malfatti with Atuel cheese, toasted hazelnuts and notes of nutmeg, served with rustic pomodoro sauce and a basil center.\n\n*MAIN COURSES*\n**Risotto Capresse** (gluten-free / vegetarian)\nCreamy risotto with sun-dried tomatoes, bocconcini, vacuum-smoked tomatoes, Pepato cheese flakes and fresh basil leaves.\n**Lasagna** (chef's recommendation)\nOur potato and salmon lasagna with saffron cream and caramelized onions.\n**Ribeye or tenderloin** (gluten-free)\nPea and mint purée, cauliflower, broccoli and asparagus rösti, and roasted cherry tomatoes.\n\n*DESSERTS*\n**Dubai layered dessert**\nLayered moist chocolate cake, Dubai-style creamy filling, white chocolate ganache with praline and Dubai chocolate ice cream.\n**Panna cotta** (gluten-free)\nRed berry and white chocolate panna cotta with a raspberry center.\n**Ice cream**\n\n*BEVERAGES*\nTrumpeter Cabernet Sauvignon or Chardonnay wine, non-alcoholic beverages and coffee.",
+      "pt": "*ENTRADAS*\n**Piccola** (sugestão do chef)\nPiccola envolta em presunto cru, creme de manjericão, tomates cortados em quartos e pesto de pistache.\n**Pétalos** (sugestão do chef)\nMassa em formato de pétalas recheada com vegetais frescos e cozidos, creme de abacate, ovo pochê e focaccia.\n**Malfatti** (sem glúten / vegetariano)\nGrandes malfattis caseiros de espinafre, queijo Atuel, avelãs tostadas e notas de noz-moscada, com molho pomodoro rústico e centro de manjericão.\n\n*PRATOS PRINCIPAIS*\n**Risotto Capresse** (sem glúten / vegetariano)\nRisoto cremoso de tomates secos, bocconcini, tomates defumados a vácuo, lascas de queijo Pepato e folhas de manjericão.\n**Lasagna** (sugestão do chef)\nNossa lasanha de batata e salmão com creme de açafrão e cebola caramelizada.\n**Entrecôte ou filé mignon** (sem glúten)\nPurê de ervilhas e hortelã, rösti de couve-flor, brócolis e aspargos, e tomates-cereja assados.\n\n*SOBREMESAS*\n**Laminado dubái**\nLaminado de bolo úmido de chocolate, creme Dubái, ganache de chocolate branco com praliné e sorvete de chocolate Dubái.\n**Panna cotta** (sem glúten)\nPanna cotta de frutas vermelhas e chocolate branco com centro de framboesa.\n**Sorvete**\n\n*BEBIDAS*\nVinho Trumpeter Cabernet Sauvignon ou Chardonnay, bebidas não alcoólicas e café."
+     },
+     "precio": 195000,
      "tags": []
     }
    ]
