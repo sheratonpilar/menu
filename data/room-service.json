@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T01:00:05.655Z",
+  "actualizado": "2026-09-01T11:37:14.503Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -934,9 +934,9 @@
       "pt": "Refrigerante"
      },
      "descripcion": {
-      "es": "Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Pepsi / 7Up / Paso de los Toros"
+      "es": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Pomelo",
+      "en": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Grapefruit",
+      "pt": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Toranja"
      },
      "precio": 7200,
      "tags": []
@@ -1119,17 +1119,13 @@
      "tags": []
     },
     {
-     "id": "dg-te",
+     "id": "seleccion-te-hierbas",
      "nombre": {
       "es": "Selección de té de hierbas",
       "en": "Herbal tea selection",
       "pt": "Seleção de chás de ervas"
      },
-     "descripcion": {
-      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
-      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
-      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
-     },
+     "descripcion": {},
      "precio": 7500,
      "tags": []
     },
@@ -1867,7 +1863,7 @@
   {
    "id": "espumantes",
    "nombre": {
-    "es": "espumantes",
+    "es": "Espumantes",
     "en": "Sparkling wines",
     "pt": "Espumantes"
    },
