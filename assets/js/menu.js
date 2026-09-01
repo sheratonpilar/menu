@@ -5,9 +5,9 @@ var BASE=document.body.dataset.base||'';
 var LANGS=['es','en','pt'];
 var lang=LANGS.indexOf(qs.get('lang'))>=0?qs.get('lang'):'es';
 var data=null,app=document.getElementById('app'),bar=document.getElementById('bar');
-var UI={es:{buscar:'Buscar un plato…',sin:'No encontramos nada con eso.',act:'Actualizado',ver:'Ver la carta de vinos',verSub:'Tintos, blancos, espumantes y más'},
-en:{buscar:'Search a dish…',sin:'Nothing matches that.',act:'Updated',ver:'See the wine list',verSub:'Reds, whites, sparkling and more'},
-pt:{buscar:'Buscar um prato…',sin:'Nada encontrado.',act:'Atualizado',ver:'Ver a carta de vinhos',verSub:'Tintos, brancos, espumantes e mais'}};
+var UI={es:{buscar:'Buscar un plato…',sin:'No encontramos nada con eso.',act:'Actualizado',ver:'Ver carta de vinos y bebidas'},
+en:{buscar:'Search a dish…',sin:'Nothing matches that.',act:'Updated',ver:'See wine & drinks list'},
+pt:{buscar:'Buscar um prato…',sin:'Nada encontrado.',act:'Atualizado',ver:'Ver carta de vinhos e bebidas'}};
 function t(o){if(!o)return'';return o[lang]||o.es||''}
 function precio(v){if(v==='CONSULTAR')return t({es:'Consultar',en:'Ask us',pt:'Consultar'});return'$ '+Number(v).toLocaleString('es-AR',{maximumFractionDigits:0})}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
@@ -68,8 +68,8 @@ html+='</article>';});
 html+='</section>';});
 var vt=c.ver_tambien;
 html+='<footer class="foot">'+
- (vt?'<a class="vinos-btn" href="'+BASE+'carta/'+esc(vt)+'/">'+esc(UI[lang].ver)+'<small>'+esc(UI[lang].verSub)+'</small></a>':'')+
- (t(c.pie)?'<p>'+esc(t(c.pie))+'</p>':'')+'<p>'+esc(UI[lang].act)+': '+fecha+'</p></footer></div>';
+ (vt?'<a class="vinos-btn" href="'+BASE+'carta/'+esc(vt)+'/">'+esc(UI[lang].ver)+'</a>':'')+
+ (t(c.pie)?'<p>'+fmt(t(c.pie))+'</p>':'')+'<p>'+esc(UI[lang].act)+': '+fecha+'</p></footer></div>';
 app.innerHTML=html;
 watchHero();
 }
