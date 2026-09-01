@@ -9,18 +9,14 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T12:22:13.096Z",
+  "actualizado": "2026-09-01T14:25:16.809Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general.",
    "en": "International buffet for breakfast, lunch, and/or dinner with a magnificent view of the hotel gardens. Available to guests and the general public.",
    "pt": "Buffet internacional para desfrutar do café da manhã, almoço e/ou jantar com uma vista magnífica para os jardins do hotel. Disponível para hóspedes e público em geral."
   },
-  "pie": {
-   "es": "Contactanos por WhatsApp al +54 9 11 3135-3022. Valores no aplicables para fechas especiales.",
-   "en": "Contact us on WhatsApp at +54 9 11 3135-3022. Prices not valid on special dates.",
-   "pt": "Fale conosco pelo WhatsApp: +54 9 11 3135-3022. Valores não válidos em datas especiais."
-  }
+  "pie": {}
  },
  "tags": {
   "SIN_TACC": {
@@ -52,6 +48,71 @@
    "es": "Promoción",
    "en": "Special",
    "pt": "Promoção"
+  },
+  "ALERGENO_1": {
+   "es": "1",
+   "en": "1",
+   "pt": "1"
+  },
+  "ALERGENO_2": {
+   "es": "2",
+   "en": "2",
+   "pt": "2"
+  },
+  "ALERGENO_3": {
+   "es": "3",
+   "en": "3",
+   "pt": "3"
+  },
+  "ALERGENO_4": {
+   "es": "4",
+   "en": "4",
+   "pt": "4"
+  },
+  "ALERGENO_5": {
+   "es": "5",
+   "en": "5",
+   "pt": "5"
+  },
+  "ALERGENO_6": {
+   "es": "6",
+   "en": "6",
+   "pt": "6"
+  },
+  "ALERGENO_7": {
+   "es": "7",
+   "en": "7",
+   "pt": "7"
+  },
+  "ALERGENO_8": {
+   "es": "8",
+   "en": "8",
+   "pt": "8"
+  },
+  "ALERGENO_9": {
+   "es": "9",
+   "en": "9",
+   "pt": "9"
+  },
+  "ALERGENO_10": {
+   "es": "10",
+   "en": "10",
+   "pt": "10"
+  },
+  "ALERGENO_11": {
+   "es": "11",
+   "en": "11",
+   "pt": "11"
+  },
+  "ALERGENO_12": {
+   "es": "12",
+   "en": "12",
+   "pt": "12"
+  },
+  "ALERGENO_13": {
+   "es": "13",
+   "en": "13",
+   "pt": "13"
   }
  },
  "config": {
