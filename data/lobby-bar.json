@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T14:25:16.812Z",
+  "actualizado": "2026-09-01T17:23:25.727Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {},
   "pie": {
@@ -1288,156 +1288,6 @@
    ]
   },
   {
-   "id": "cafeteria",
-   "nombre": {
-    "es": "Cafetería",
-    "en": "Coffee & tea",
-    "pt": "Cafeteria"
-   },
-   "foto": "cafeteria.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "dg-cafe",
-     "nombre": {
-      "es": "Café expreso",
-      "en": "Espresso",
-      "pt": "Café expresso"
-     },
-     "descripcion": {
-      "es": "Regular o descafeinado.",
-      "en": "Regular or decaf.",
-      "pt": "Comum ou descafeinado."
-     },
-     "precio": 7000,
-     "tags": []
-    },
-    {
-     "id": "dg-cafe-doble",
-     "nombre": {
-      "es": "Café expreso doble / con leche",
-      "en": "Double espresso / with milk",
-      "pt": "Café expresso duplo / com leite"
-     },
-     "descripcion": {},
-     "precio": 10500,
-     "tags": []
-    },
-    {
-     "id": "dg-cafe-jarrito",
-     "nombre": {
-      "es": "Café expreso en jarrito"
-     },
-     "descripcion": {},
-     "precio": 9000,
-     "tags": []
-    },
-    {
-     "id": "lb-cappuccino",
-     "nombre": {
-      "es": "Cappuccino",
-      "en": "Cappuccino",
-      "pt": "Cappuccino"
-     },
-     "descripcion": {
-      "es": "Con canela, crema y chocolate.",
-      "en": "With cinnamon, cream and chocolate.",
-      "pt": "Com canela, chantilly e chocolate."
-     },
-     "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "lb-ristretto",
-     "nombre": {
-      "es": "Café ristretto",
-      "en": "Ristretto",
-      "pt": "Ristretto"
-     },
-     "descripcion": {},
-     "precio": 7000,
-     "tags": []
-    },
-    {
-     "id": "lb-irlandes",
-     "nombre": {
-      "es": "Café irlandés",
-      "en": "Irish coffee",
-      "pt": "Café irlandês"
-     },
-     "descripcion": {
-      "es": "Whisky irlandés, azúcar y crema.",
-      "en": "Irish whiskey, sugar and cream.",
-      "pt": "Uísque irlandês, açúcar e creme."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "lb-chocolatada",
-     "nombre": {
-      "es": "Chocolatada",
-      "en": "Chocolate milk",
-      "pt": "Achocolatado"
-     },
-     "descripcion": {},
-     "precio": 9000,
-     "tags": []
-    },
-    {
-     "id": "lb-submarino",
-     "nombre": {
-      "es": "Submarino",
-      "en": "Submarino",
-      "pt": "Submarino"
-     },
-     "descripcion": {
-      "en": "Hot milk with a chocolate bar.",
-      "pt": "Leite quente com barra de chocolate."
-     },
-     "precio": 11000,
-     "tags": []
-    },
-    {
-     "id": "seleccion-te-hierbas",
-     "nombre": {
-      "es": "Selección de té de hierbas",
-      "en": "Herbal tea selection",
-      "pt": "Seleção de chás de ervas"
-     },
-     "descripcion": {},
-     "precio": 6000,
-     "tags": []
-    },
-    {
-     "id": "lb-te-twinings",
-     "nombre": {
-      "es": "Selección de té Twinings",
-      "en": "Twinings tea selection",
-      "pt": "Seleção de chás Twinings"
-     },
-     "descripcion": {},
-     "precio": 7500,
-     "tags": []
-    },
-    {
-     "id": "te-hebras",
-     "nombre": {
-      "es": "Té en hebras",
-      "en": "Loose-leaf tea",
-      "pt": "Chá em folhas"
-     },
-     "descripcion": {
-      "es": "**Té negro**: elaborado en forma artesanal, libre de agroquímicos, dulce y aromático. \n**Té verde**: elaborado en forma artesanal, libre de agroquímicos, vegetal, tostado. \n**Té blend lovely chai**: té negro, cascaritas de naranjas, cardamomo, canela, esencia de naranja, clavo de olor y pimienta rosa. \n**Té blend amelie**: té negro, trocitos de manzana, canela, y notas dulces. \n**Té blend chocolat**: té negro argentino, cascarilla de cacao, aroma de chocolate y frescura de la menta. \n**Té blend patagonia in love**: té negro argentino, trocitos de frutilla, arándanos rojos, pimienta rosa, notas a chocolate blanco y aroma de grosellas de la patagonia.",
-      "en": "**Black tea**: handcrafted, free from agrochemicals, sweet and aromatic.\n**Green tea**: handcrafted, free from agrochemicals, with vegetal and toasted notes.\n**Lovely chai tea blend**: black tea, orange peel, cardamom, cinnamon, orange essence, cloves and pink peppercorns.\n**Amelie tea blend**: black tea, apple pieces, cinnamon and sweet notes.\n**Chocolat tea blend**: Argentine black tea, cocoa husks, chocolate aroma and refreshing mint.\n**Patagonia in love tea blend**: Argentine black tea, strawberry pieces, cranberries, pink peppercorns, white chocolate notes and a Patagonian currant aroma.",
-      "pt": "**Chá preto**: elaborado artesanalmente, livre de agroquímicos, doce e aromático.\n**Chá verde**: elaborado artesanalmente, livre de agroquímicos, com notas vegetais e tostadas.\n**Blend de chá lovely chai**: chá preto, cascas de laranja, cardamomo, canela, essência de laranja, cravo-da-índia e pimenta-rosa.\n**Blend de chá amelie**: chá preto, pedaços de maçã, canela e notas doces.\n**Blend de chá chocolat**: chá preto argentino, casca de cacau, aroma de chocolate e frescor da hortelã.\n**Blend de chá patagonia in love**: chá preto argentino, pedaços de morango, cranberries, pimenta-rosa, notas de chocolate branco e aroma de groselhas da Patagônia."
-     },
-     "precio": 8000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "sin-alcohol",
    "nombre": {
     "es": "Bebidas sin alcohol",
@@ -1608,6 +1458,156 @@
    ]
   },
   {
+   "id": "cafeteria",
+   "nombre": {
+    "es": "Cafetería",
+    "en": "Coffee & tea",
+    "pt": "Cafeteria"
+   },
+   "foto": "cafeteria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "dg-cafe",
+     "nombre": {
+      "es": "Café expreso",
+      "en": "Espresso",
+      "pt": "Café expresso"
+     },
+     "descripcion": {
+      "es": "Regular o descafeinado.",
+      "en": "Regular or decaf.",
+      "pt": "Comum ou descafeinado."
+     },
+     "precio": 7000,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-doble",
+     "nombre": {
+      "es": "Café expreso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café expresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "dg-cafe-jarrito",
+     "nombre": {
+      "es": "Café expreso en jarrito"
+     },
+     "descripcion": {},
+     "precio": 9000,
+     "tags": []
+    },
+    {
+     "id": "lb-cappuccino",
+     "nombre": {
+      "es": "Cappuccino",
+      "en": "Cappuccino",
+      "pt": "Cappuccino"
+     },
+     "descripcion": {
+      "es": "Con canela, crema y chocolate.",
+      "en": "With cinnamon, cream and chocolate.",
+      "pt": "Com canela, chantilly e chocolate."
+     },
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "lb-ristretto",
+     "nombre": {
+      "es": "Café ristretto",
+      "en": "Ristretto",
+      "pt": "Ristretto"
+     },
+     "descripcion": {},
+     "precio": 7000,
+     "tags": []
+    },
+    {
+     "id": "lb-irlandes",
+     "nombre": {
+      "es": "Café irlandés",
+      "en": "Irish coffee",
+      "pt": "Café irlandês"
+     },
+     "descripcion": {
+      "es": "Whisky irlandés, azúcar y crema.",
+      "en": "Irish whiskey, sugar and cream.",
+      "pt": "Uísque irlandês, açúcar e creme."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "lb-chocolatada",
+     "nombre": {
+      "es": "Chocolatada",
+      "en": "Chocolate milk",
+      "pt": "Achocolatado"
+     },
+     "descripcion": {},
+     "precio": 9000,
+     "tags": []
+    },
+    {
+     "id": "lb-submarino",
+     "nombre": {
+      "es": "Submarino",
+      "en": "Submarino",
+      "pt": "Submarino"
+     },
+     "descripcion": {
+      "en": "Hot milk with a chocolate bar.",
+      "pt": "Leite quente com barra de chocolate."
+     },
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "seleccion-te-hierbas",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {},
+     "precio": 6000,
+     "tags": []
+    },
+    {
+     "id": "lb-te-twinings",
+     "nombre": {
+      "es": "Selección de té Twinings",
+      "en": "Twinings tea selection",
+      "pt": "Seleção de chás Twinings"
+     },
+     "descripcion": {},
+     "precio": 7500,
+     "tags": []
+    },
+    {
+     "id": "te-hebras",
+     "nombre": {
+      "es": "Té en hebras",
+      "en": "Loose-leaf tea",
+      "pt": "Chá em folhas"
+     },
+     "descripcion": {
+      "es": "**Té negro**: elaborado en forma artesanal, libre de agroquímicos, dulce y aromático. \n**Té verde**: elaborado en forma artesanal, libre de agroquímicos, vegetal, tostado. \n**Té blend lovely chai**: té negro, cascaritas de naranjas, cardamomo, canela, esencia de naranja, clavo de olor y pimienta rosa. \n**Té blend amelie**: té negro, trocitos de manzana, canela, y notas dulces. \n**Té blend chocolat**: té negro argentino, cascarilla de cacao, aroma de chocolate y frescura de la menta. \n**Té blend patagonia in love**: té negro argentino, trocitos de frutilla, arándanos rojos, pimienta rosa, notas a chocolate blanco y aroma de grosellas de la patagonia.",
+      "en": "**Black tea**: handcrafted, free from agrochemicals, sweet and aromatic.\n**Green tea**: handcrafted, free from agrochemicals, with vegetal and toasted notes.\n**Lovely chai tea blend**: black tea, orange peel, cardamom, cinnamon, orange essence, cloves and pink peppercorns.\n**Amelie tea blend**: black tea, apple pieces, cinnamon and sweet notes.\n**Chocolat tea blend**: Argentine black tea, cocoa husks, chocolate aroma and refreshing mint.\n**Patagonia in love tea blend**: Argentine black tea, strawberry pieces, cranberries, pink peppercorns, white chocolate notes and a Patagonian currant aroma.",
+      "pt": "**Chá preto**: elaborado artesanalmente, livre de agroquímicos, doce e aromático.\n**Chá verde**: elaborado artesanalmente, livre de agroquímicos, com notas vegetais e tostadas.\n**Blend de chá lovely chai**: chá preto, cascas de laranja, cardamomo, canela, essência de laranja, cravo-da-índia e pimenta-rosa.\n**Blend de chá amelie**: chá preto, pedaços de maçã, canela e notas doces.\n**Blend de chá chocolat**: chá preto argentino, casca de cacau, aroma de chocolate e frescor da hortelã.\n**Blend de chá patagonia in love**: chá preto argentino, pedaços de morango, cranberries, pimenta-rosa, notas de chocolate branco e aroma de groselhas da Patagônia."
+     },
+     "precio": 8000,
+     "tags": []
+    }
+   ]
+  },
+  {
    "id": "cervezas",
    "nombre": {
     "es": "Cervezas",
@@ -1681,6 +1681,82 @@
      },
      "descripcion": {},
      "precio": 9000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "copa",
+   "nombre": {
+    "es": "Vinos y espumantes por copa",
+    "en": "Wines & sparkling by the glass",
+    "pt": "Vinhos e espumantes em taça"
+   },
+   "foto": "copa.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "copa-rutini-malbec-lb",
+     "nombre": {
+      "es": "Rutini Malbec",
+      "en": "Rutini Malbec",
+      "pt": "Rutini Malbec"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-cab-malbec-lb",
+     "nombre": {
+      "es": "Rutini Cabernet Malbec",
+      "en": "Rutini Cabernet Malbec",
+      "pt": "Rutini Cabernet Malbec"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-sb-lb",
+     "nombre": {
+      "es": "Rutini Sauvignon Blanc",
+      "en": "Rutini Sauvignon Blanc",
+      "pt": "Rutini Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-malbec-cs-lb",
+     "nombre": {
+      "es": "Trumpeter Malbec / Cabernet Sauvignon",
+      "en": "Trumpeter Malbec / Cabernet Sauvignon",
+      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sb-chard-lb",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
+      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "rs-esp-copa-trumpeter",
+     "nombre": {
+      "es": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 11000,
      "tags": []
     }
    ]
@@ -1933,82 +2009,6 @@
       "pt": "Fernet Branca y Coca Cola."
      },
      "precio": 25000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "copa",
-   "nombre": {
-    "es": "Vinos y espumantes por copa",
-    "en": "Wines & sparkling by the glass",
-    "pt": "Vinhos e espumantes em taça"
-   },
-   "foto": "copa.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "copa-rutini-malbec-lb",
-     "nombre": {
-      "es": "Rutini Malbec",
-      "en": "Rutini Malbec",
-      "pt": "Rutini Malbec"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-cab-malbec-lb",
-     "nombre": {
-      "es": "Rutini Cabernet Malbec",
-      "en": "Rutini Cabernet Malbec",
-      "pt": "Rutini Cabernet Malbec"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-sb-lb",
-     "nombre": {
-      "es": "Rutini Sauvignon Blanc",
-      "en": "Rutini Sauvignon Blanc",
-      "pt": "Rutini Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-malbec-cs-lb",
-     "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-sb-chard-lb",
-     "nombre": {
-      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "rs-esp-copa-trumpeter",
-     "nombre": {
-      "es": "Trumpeter Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 11000,
      "tags": []
     }
    ]
