@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T22:02:01.296Z",
+  "actualizado": "2026-09-01T00:35:59.116Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -77,7 +77,7 @@
     "en": "Starters",
     "pt": "Entradas"
    },
-   "foto": "",
+   "foto": "entradas.jpg",
    "nota": {},
    "items": [
     {
@@ -168,7 +168,7 @@
     "en": "Salads",
     "pt": "Saladas"
    },
-   "foto": "lb-ensaladas.jpg",
+   "foto": "ensaladas.jpg",
    "nota": {},
    "items": [
     {
@@ -273,7 +273,7 @@
     "en": "Cold sandwiches",
     "pt": "Sanduíches frios"
    },
-   "foto": "lb-sandwicheria.jpg",
+   "foto": "sand-fria.jpg",
    "nota": {},
    "items": [
     {
@@ -367,7 +367,7 @@
     "en": "Hot sandwiches",
     "pt": "Sanduíches quentes"
    },
-   "foto": "",
+   "foto": "sand-caliente.jpg",
    "nota": {},
    "items": [
     {
@@ -505,7 +505,7 @@
     "en": "Individual pizzas",
     "pt": "Pizzas individuais"
    },
-   "foto": "",
+   "foto": "pizzas.jpg",
    "nota": {},
    "items": [
     {
@@ -550,7 +550,7 @@
     "en": "Main courses",
     "pt": "Pratos principais"
    },
-   "foto": "lb-cocina.jpg",
+   "foto": "principales.jpg",
    "nota": {},
    "items": [
     {
@@ -663,7 +663,7 @@
     "en": "Kids",
     "pt": "Infantil"
    },
-   "foto": "",
+   "foto": "menores.jpg",
    "nota": {},
    "items": [
     {
@@ -761,7 +761,7 @@
     "en": "Desserts",
     "pt": "Sobremesas"
    },
-   "foto": "lb-postres.jpg",
+   "foto": "postres.jpg",
    "nota": {},
    "items": [
     {
@@ -873,7 +873,7 @@
     "en": "Sweets",
     "pt": "Opções doces"
    },
-   "foto": "lb-pasteleria.jpg",
+   "foto": "opciones-dulces.jpg",
    "nota": {},
    "items": [
     {
@@ -1085,7 +1085,7 @@
     "en": "Afternoon tea",
     "pt": "Chá da tarde"
    },
-   "foto": "lb-te.jpg",
+   "foto": "propuesta-te.jpg",
    "nota": {
     "es": "**Disponible solo viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.** \n\n| **SALADO**: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso. \n| **DULCE**: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate. \n| **BEBIDAS**: Jugo de naranja e infusión a elección.",
     "en": "**Available only on Fridays, Saturdays, Sundays and public holidays, from 4:30 to 6:30 pm.**\n\n| **SAVORY**: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes | Cheese scones.\n| **SWEET**: Red berry macarons with raspberry center | Citrus half-sphere with homemade granola base | Apple tart | Moist dulce de leche cake | Rustic chocolate cake with a dulce de leche center, coated in chocolate | Flat croissant, with a rich Nutella and chocolate filling.\n| **BEVERAGES**: Orange juice and tea or coffee of your choice.",
@@ -1112,7 +1112,7 @@
     "en": "Coffee & tea",
     "pt": "Cafeteria"
    },
-   "foto": "lb-cafeteria.jpg",
+   "foto": "cafeteria.jpg",
    "nota": {},
    "items": [
     {
@@ -1251,7 +1251,7 @@
     "en": "Soft drinks",
     "pt": "Bebidas sem álcool"
    },
-   "foto": "",
+   "foto": "sin-alcohol.jpg",
    "nota": {},
    "items": [
     {
@@ -1421,7 +1421,7 @@
     "en": "Beers",
     "pt": "Cervejas"
    },
-   "foto": "",
+   "foto": "cervezas.jpg",
    "nota": {},
    "items": [
     {
@@ -1499,7 +1499,7 @@
     "en": "Classic cocktails",
     "pt": "Coquetéis clássicos"
    },
-   "foto": "lb-cocktails.jpg",
+   "foto": "cocktails.jpg",
    "nota": {},
    "items": [
     {
@@ -1751,7 +1751,7 @@
     "en": "Wines & sparkling by the glass",
     "pt": "Vinhos e espumantes em taça"
    },
-   "foto": "",
+   "foto": "copa.jpg",
    "nota": {},
    "items": [
     {
