@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T01:00:05.654Z",
+  "actualizado": "2026-09-01T11:37:14.502Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -1217,17 +1217,13 @@
      "tags": []
     },
     {
-     "id": "dg-te",
+     "id": "seleccion-te-hierbas",
      "nombre": {
       "es": "Selección de té de hierbas",
       "en": "Herbal tea selection",
       "pt": "Seleção de chás de ervas"
      },
-     "descripcion": {
-      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
-      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
-      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
-     },
+     "descripcion": {},
      "precio": 6000,
      "tags": []
     },
@@ -1240,6 +1236,21 @@
      },
      "descripcion": {},
      "precio": 7500,
+     "tags": []
+    },
+    {
+     "id": "te-hebras",
+     "nombre": {
+      "es": "Té en hebras",
+      "en": "Loose-leaf tea",
+      "pt": "Chá em folhas"
+     },
+     "descripcion": {
+      "es": "**Té negro**: elaborado en forma artesanal, libre de agroquímicos, dulce y aromático. \n**Té verde**: elaborado en forma artesanal, libre de agroquímicos, vegetal, tostado. \n**Té blend lovely chai**: té negro, cascaritas de naranjas, cardamomo, canela, esencia de naranja, clavo de olor y pimienta rosa. \n**Té blend amelie**: té negro, trocitos de manzana, canela, y notas dulces. \n**Té blend chocolat**: té negro argentino, cascarilla de cacao, aroma de chocolate y frescura de la menta. \n**Té blend patagonia in love**: té negro argentino, trocitos de frutilla, arándanos rojos, pimienta rosa, notas a chocolate blanco y aroma de grosellas de la patagonia.",
+      "en": "**Black tea**: handcrafted, free from agrochemicals, sweet and aromatic.\n**Green tea**: handcrafted, free from agrochemicals, with vegetal and toasted notes.\n**Lovely chai tea blend**: black tea, orange peel, cardamom, cinnamon, orange essence, cloves and pink peppercorns.\n**Amelie tea blend**: black tea, apple pieces, cinnamon and sweet notes.\n**Chocolat tea blend**: Argentine black tea, cocoa husks, chocolate aroma and refreshing mint.\n**Patagonia in love tea blend**: Argentine black tea, strawberry pieces, cranberries, pink peppercorns, white chocolate notes and a Patagonian currant aroma.",
+      "pt": "**Chá preto**: elaborado artesanalmente, livre de agroquímicos, doce e aromático.\n**Chá verde**: elaborado artesanalmente, livre de agroquímicos, com notas vegetais e tostadas.\n**Blend de chá lovely chai**: chá preto, cascas de laranja, cardamomo, canela, essência de laranja, cravo-da-índia e pimenta-rosa.\n**Blend de chá amelie**: chá preto, pedaços de maçã, canela e notas doces.\n**Blend de chá chocolat**: chá preto argentino, casca de cacau, aroma de chocolate e frescor da hortelã.\n**Blend de chá patagonia in love**: chá preto argentino, pedaços de morango, cranberries, pimenta-rosa, notas de chocolate branco e aroma de groselhas da Patagônia."
+     },
+     "precio": 8000,
      "tags": []
     }
    ]
@@ -1284,9 +1295,9 @@
       "pt": "Refrigerante"
      },
      "descripcion": {
-      "es": "Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Pepsi / 7Up / Paso de los Toros"
+      "es": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Pomelo",
+      "en": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Grapefruit",
+      "pt": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Toranja"
      },
      "precio": 6500,
      "tags": []
