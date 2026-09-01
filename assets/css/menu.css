@@ -14,10 +14,11 @@ body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);f
 .bar__top{display:flex;align-items:center;gap:12px;padding:12px 20px;max-width:var(--maxw);margin:0 auto}
 .bar__logo{height:26px;width:auto}
 .bar__name{font-family:var(--display);font-size:17px;font-weight:400;margin:0;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.bar__lang{display:flex;gap:2px}
-.bar__lang button{border:0;background:none;font:inherit;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);padding:4px 6px;cursor:pointer;border-radius:4px}
-.bar__lang button[aria-pressed="true"]{color:var(--accent);font-weight:700}
-.search{padding:0 20px 10px;max-width:var(--maxw);margin:0 auto}
+.bar__lang{display:flex;gap:6px;flex:0 0 auto}
+.bar__lang button{border:1px solid var(--rule);background:transparent;font:inherit;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);padding:6px 11px;cursor:pointer;border-radius:999px;transition:background .15s,color .15s,border-color .15s}
+.bar__lang button[aria-pressed="true"]{color:#fff;background:var(--accent);border-color:var(--accent);font-weight:700}
+.searchrow{display:flex;align-items:center;gap:10px;padding:0 20px 10px;max-width:var(--maxw);margin:0 auto}
+.search{flex:1 1 auto;min-width:0}
 .search input{width:100%;padding:9px 12px;font:inherit;font-size:15px;color:var(--ink);background:transparent;border:1px solid var(--rule);border-radius:6px}
 .search input:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
 .chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:0 20px 10px;max-width:var(--maxw);margin:0 auto;-webkit-overflow-scrolling:touch}
@@ -67,7 +68,6 @@ html{scroll-behavior:smooth}
 .bar__ident .bar__logo--txt{font-family:var(--display);font-size:15px;letter-spacing:1px}
 .bar__ident .bar__name{font-family:var(--display);font-size:16px;font-weight:400;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:0 1 auto}
 /* el idioma va arriba a la derecha, siempre visible */
-.bar__lang{position:absolute;top:8px;right:16px}
 
 /* ===== Botón a la carta de vinos ===== */
 .foot a.vinos-btn{display:block;text-align:center;text-decoration:none;margin:28px auto 4px;max-width:420px;
