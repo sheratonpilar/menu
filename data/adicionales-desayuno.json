@@ -9,15 +9,13 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T12:22:13.097Z",
+  "actualizado": "2026-09-01T14:25:16.810Z",
   "ver_tambien": "",
-  "descripcion": {
-   "es": "HOLA"
-  },
+  "descripcion": {},
   "pie": {
-   "es": "Opciones adicionales de desayuno.",
-   "en": "Additional breakfast options.",
-   "pt": "Opções adicionais de café da manhã."
+   "es": "Consultar por otras opciones sin TACC. \n**Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido.**",
+   "en": "Please ask about other gluten-free options.\n**If you have any dietary restrictions, please inform your waiter before placing your order.**",
+   "pt": "Consulte sobre outras opções sem glúten.\n**Se você tiver alguma restrição alimentar, por favor, informe ao seu garçom antes de fazer o pedido.**"
   }
  },
  "tags": {
@@ -50,6 +48,71 @@
    "es": "Promoción",
    "en": "Special",
    "pt": "Promoção"
+  },
+  "ALERGENO_1": {
+   "es": "1",
+   "en": "1",
+   "pt": "1"
+  },
+  "ALERGENO_2": {
+   "es": "2",
+   "en": "2",
+   "pt": "2"
+  },
+  "ALERGENO_3": {
+   "es": "3",
+   "en": "3",
+   "pt": "3"
+  },
+  "ALERGENO_4": {
+   "es": "4",
+   "en": "4",
+   "pt": "4"
+  },
+  "ALERGENO_5": {
+   "es": "5",
+   "en": "5",
+   "pt": "5"
+  },
+  "ALERGENO_6": {
+   "es": "6",
+   "en": "6",
+   "pt": "6"
+  },
+  "ALERGENO_7": {
+   "es": "7",
+   "en": "7",
+   "pt": "7"
+  },
+  "ALERGENO_8": {
+   "es": "8",
+   "en": "8",
+   "pt": "8"
+  },
+  "ALERGENO_9": {
+   "es": "9",
+   "en": "9",
+   "pt": "9"
+  },
+  "ALERGENO_10": {
+   "es": "10",
+   "en": "10",
+   "pt": "10"
+  },
+  "ALERGENO_11": {
+   "es": "11",
+   "en": "11",
+   "pt": "11"
+  },
+  "ALERGENO_12": {
+   "es": "12",
+   "en": "12",
+   "pt": "12"
+  },
+  "ALERGENO_13": {
+   "es": "13",
+   "en": "13",
+   "pt": "13"
   }
  },
  "config": {
