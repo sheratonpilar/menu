@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T22:02:01.294Z",
+  "actualizado": "2026-09-01T00:35:59.113Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "HOLA"
@@ -77,7 +77,7 @@
     "en": "Cold antipasti",
     "pt": "Antipasti frios"
    },
-   "foto": "dg-antipasti.jpg",
+   "foto": "antipasti-freddi.jpg",
    "nota": {},
    "items": [
     {
@@ -168,7 +168,7 @@
     "en": "Cold & hot antipasti",
     "pt": "Antipasti frios e quentes"
    },
-   "foto": "",
+   "foto": "antipasti-caldi.jpg",
    "nota": {},
    "items": [
     {
@@ -227,7 +227,7 @@
     "en": "Risotto",
     "pt": "Risoto"
    },
-   "foto": "",
+   "foto": "risotto.jpg",
    "nota": {},
    "items": [
     {
@@ -274,7 +274,7 @@
     "en": "Pastasciutta",
     "pt": "Pastasciutta"
    },
-   "foto": "dg-pastas.jpg",
+   "foto": "pastasciutta.jpg",
    "nota": {},
    "items": [
     {
@@ -318,7 +318,7 @@
     "en": "Filled pasta",
     "pt": "Massas recheadas"
    },
-   "foto": "",
+   "foto": "pastas-ripienna.jpg",
    "nota": {},
    "items": [
     {
@@ -394,7 +394,7 @@
     "en": "Chef's specialities",
     "pt": "Especialidades"
    },
-   "foto": "dg-especialidades.jpg",
+   "foto": "especialidades.jpg",
    "nota": {},
    "items": [
     {
@@ -488,7 +488,7 @@
     "en": "Kids",
     "pt": "Infantil"
    },
-   "foto": "",
+   "foto": "menores.jpg",
    "nota": {},
    "items": [
     {
@@ -546,7 +546,7 @@
     "en": "Desserts",
     "pt": "Sobremesas"
    },
-   "foto": "dg-dolce.jpg",
+   "foto": "dolce.jpg",
    "nota": {},
    "items": [
     {
@@ -701,7 +701,7 @@
     "en": "Soft drinks",
     "pt": "Bebidas sem álcool"
    },
-   "foto": "",
+   "foto": "sin-alcohol.jpg",
    "nota": {},
    "items": [
     {
@@ -750,7 +750,7 @@
     "en": "Coffee & tea",
     "pt": "Cafeteria"
    },
-   "foto": "lb-cafeteria.jpg",
+   "foto": "cafeteria.jpg",
    "nota": {},
    "items": [
     {
@@ -812,7 +812,7 @@
     "en": "Beers",
     "pt": "Cervejas"
    },
-   "foto": "",
+   "foto": "cervezas.jpg",
    "nota": {},
    "items": [
     {
@@ -890,7 +890,7 @@
     "en": "Wines & sparkling by the glass",
     "pt": "Vinhos e espumantes em taça"
    },
-   "foto": "",
+   "foto": "copa.jpg",
    "nota": {},
    "items": [
     {
@@ -999,7 +999,7 @@
     "en": "Classic cocktails",
     "pt": "Coquetéis clássicos"
    },
-   "foto": "lb-cocktails.jpg",
+   "foto": "cocktails.jpg",
    "nota": {},
    "items": [
     {
@@ -1251,7 +1251,7 @@
     "en": "Special services",
     "pt": "Serviços especiais"
    },
-   "foto": "",
+   "foto": "especialidades-serv.jpg",
    "nota": {},
    "items": [
     {
