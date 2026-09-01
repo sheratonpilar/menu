@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T22:02:01.295Z",
+  "actualizado": "2026-09-01T00:35:59.114Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -67,13 +67,13 @@
  },
  "secciones": [
   {
-   "id": "cv-cabernet-sauvignon",
+   "id": "tintos-cabernet-sauvignon",
    "nombre": {
     "es": "Tintos: Cabernet Sauvignon",
     "en": "Reds: Cabernet Sauvignon",
     "pt": "Tintos: Cabernet Sauvignon"
    },
-   "foto": "",
+   "foto": "tintos-cabernet-sauvignon.jpg",
    "nota": {
     "es": "Tiene su origen en Burdeos, Francia, donde conforma en altos porcentajes la base de los grandes vinos de esta región.",
     "en": "Originally from Bordeaux, France, where it forms the backbone of the region's great wines.",
@@ -89,6 +89,17 @@
      },
      "descripcion": {},
      "precio": 54000,
+     "tags": []
+    },
+    {
+     "id": "rs-vino-agelica-cf",
+     "nombre": {
+      "es": "Angélica Zapata (Bga. Esmeralda - Mendoza)",
+      "en": "Trumpeter Malbec",
+      "pt": "Trumpeter Malbec"
+     },
+     "descripcion": {},
+     "precio": 61000,
      "tags": []
     },
     {
@@ -184,7 +195,7 @@
    ]
   },
   {
-   "id": "cv-merlot",
+   "id": "tintos-merlot",
    "nombre": {
     "es": "Tintos: Merlot",
     "en": "Reds: Merlot",
@@ -220,7 +231,7 @@
    ]
   },
   {
-   "id": "cv-syrah",
+   "id": "tintos-syrah",
    "nombre": {
     "es": "Tintos: Syrah",
     "en": "Reds: Syrah",
@@ -269,78 +280,43 @@
    ]
   },
   {
-   "id": "cv-cabernet-franc",
+   "id": "tintos-merlot",
    "nombre": {
-    "es": "Tintos: Cabernet Franc",
-    "en": "Reds: Cabernet Franc",
-    "pt": "Tintos: Cabernet Franc"
+    "es": "Tintos: Merlot",
+    "en": "Reds: Merlot",
+    "pt": "Tintos: Merlot"
    },
    "foto": "",
    "nota": {
-    "es": "Del sudoeste de Francia, región de Burdeos. Gran adaptación en climas fríos.",
-    "en": "From south-western France, Bordeaux. Adapts well to cool climates.",
-    "pt": "Do sudoeste da França, Bordeaux. Adapta-se bem a climas frios."
+    "es": "Su origen está en Burdeos, Francia. Brilla en Pomerol, es apreciada en Napa Valley y se destaca en Chile.",
+    "en": "From Bordeaux, France. Shines in Pomerol, prized in Napa Valley, stands out in Chile.",
+    "pt": "De Bordeaux, França. Brilha em Pomerol, apreciada no Napa Valley, destaca-se no Chile."
    },
    "items": [
     {
-     "id": "rs-vino-rutini-cf",
+     "id": "rs-vino-rutini-merlot",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
-      "en": "Rutini Colección Cabernet Franc",
-      "pt": "Rutini Colección Cabernet Franc"
+      "en": "Rutini Colección Merlot",
+      "pt": "Rutini Colección Merlot"
      },
      "descripcion": {},
-     "precio": 57000,
+     "precio": 51000,
      "tags": []
     },
     {
-     "id": "rs-vino-agelica-cf",
+     "id": "rs-vino-trumpeter-merlot",
      "nombre": {
-      "es": "Angélica Zapata (Bga. Esmeralda - Mendoza)",
-      "en": "Trumpeter Malbec",
-      "pt": "Trumpeter Malbec"
+      "es": "Trumpeter (Bga. Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 61000,
-     "tags": []
-    },
-    {
-     "id": "rs-vino-sf-cf",
-     "nombre": {
-      "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
-      "en": "Trumpeter Reserve Cabernet Sauvignon",
-      "pt": "Trumpeter Reserve Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 34000,
-     "tags": []
-    },
-    {
-     "id": "cabernet-franc-nicasia-catena-zapata-mendoza",
-     "nombre": {
-      "es": "Nicasia (Catena Zapata - Mendoza)",
-      "en": "Nicasia (Catena Zapata - Mendoza)",
-      "pt": "Nicasia (Catena Zapata - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "cabernet-franc-gran-medalla-trapiche-mendoza",
-     "nombre": {
-      "es": "Gran Medalla (Trapiche - Mendoza)",
-      "en": "Gran Medalla (Trapiche - Mendoza)",
-      "pt": "Gran Medalla (Trapiche - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 63000,
+     "precio": 20000,
      "tags": []
     }
    ]
   },
   {
-   "id": "cv-pinot-noir",
+   "id": "tintos-pinot-noir",
    "nombre": {
     "es": "Tintos: Pinot Noir",
     "en": "Reds: Pinot Noir",
@@ -348,7 +324,7 @@
    },
    "foto": "",
    "nota": {
-    "es": "Cepa de Borgoña, reconocida por sus elegantes tintos y su uso en espumosos.",
+    "es": "Cepa de Borgoña, reconocida por sus elegantes tintos y su uso en espumantes.",
     "en": "A Burgundy grape, known for elegant reds and use in sparkling wines.",
     "pt": "Cepa da Borgonha, conhecida por tintos elegantes e uso em espumantes."
    },
@@ -402,7 +378,7 @@
    ]
   },
   {
-   "id": "cv-malbec",
+   "id": "tintos-malbec",
    "nombre": {
     "es": "Tintos: Malbec",
     "en": "Reds: Malbec",
@@ -592,7 +568,7 @@
    ]
   },
   {
-   "id": "cv-genericos",
+   "id": "tintos-genericos",
    "nombre": {
     "es": "Tintos: Blends",
     "en": "Reds: Blends",
@@ -744,13 +720,13 @@
    ]
   },
   {
-   "id": "cv-sauvignon-blanc",
+   "id": "blancos-sauvignon-blanc",
    "nombre": {
     "es": "Blancos: Sauvignon Blanc",
     "en": "Whites: Sauvignon Blanc",
     "pt": "Brancos: Sauvignon Blanc"
    },
-   "foto": "",
+   "foto": "blancos-sauvignon-blanc.jpg",
    "nota": {
     "es": "Originaria de Francia, cultivada en el Loira y Bordeaux, da excelentes vinos frutados.",
     "en": "French in origin, from the Loire and Bordeaux, giving fruity wines.",
@@ -795,7 +771,7 @@
    ]
   },
   {
-   "id": "cv-viognier",
+   "id": "blancos-viognier",
    "nombre": {
     "es": "Blancos: Viognier",
     "en": "Whites: Viognier",
@@ -822,7 +798,7 @@
    ]
   },
   {
-   "id": "cv-chardonnay",
+   "id": "blancos-chardonnay",
    "nombre": {
     "es": "Blancos: Chardonnay",
     "en": "Whites: Chardonnay",
@@ -928,7 +904,7 @@
    ]
   },
   {
-   "id": "cv-torrontes",
+   "id": "blancos-torrontes",
    "nombre": {
     "es": "Blancos: Torrontés",
     "en": "Whites: Torrontés",
@@ -942,7 +918,7 @@
    },
    "items": [
     {
-     "id": "cv-torrontes-trumpeter",
+     "id": "blancos-torrontes-trumpeter",
      "nombre": {
       "es": "Trumpter Reserve (Bga. Rutini - Mendoza)",
       "en": "Sauvignon Blanc Rutini Colección",
@@ -955,7 +931,7 @@
    ]
   },
   {
-   "id": "cv-gewurztraminer",
+   "id": "blancos-gewurztraminer",
    "nombre": {
     "es": "Blancos: Gewürztraminer",
     "en": "Whites: Gewürztraminer",
@@ -980,7 +956,7 @@
    ]
   },
   {
-   "id": "cv-cosecha-tardia",
+   "id": "blancos-cosecha-tardia",
    "nombre": {
     "es": "Blancos: Cosecha tardía",
     "en": "Whites: Late harvest",
@@ -1053,7 +1029,7 @@
     "en": "Rosé",
     "pt": "Rosés"
    },
-   "foto": "",
+   "foto": "rosados.jpg",
    "nota": {},
    "items": [
     {
@@ -1090,13 +1066,13 @@
    ]
   },
   {
-   "id": "espumosos",
+   "id": "espumantes",
    "nombre": {
-    "es": "Espumosos",
+    "es": "espumantes",
     "en": "Sparkling wines",
     "pt": "Espumantes"
    },
-   "foto": "",
+   "foto": "espumantes.jpg",
    "nota": {},
    "items": [
     {
@@ -1339,7 +1315,7 @@
     "en": "Aperitifs",
     "pt": "Aperitivos"
    },
-   "foto": "",
+   "foto": "aperitivos.jpg",
    "nota": {
     "es": "Por medida.",
     "en": "By the measure.",
