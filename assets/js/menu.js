@@ -39,10 +39,10 @@ hero.innerHTML=logoHTML(c,'hero2__logo')+
  '<h1 class="hero2__name">'+esc(c.nombre)+'</h1>'+
  (t(c.descripcion)?'<p class="hero2__desc">'+fmt(t(c.descripcion))+'</p>':'');
 // BARRA sticky: ident (logo chico + nombre, visible al scrollear) + idioma + buscador + chips.
+var langHTML=(idiomas.length>1?'<div class="bar__lang">'+idiomas.map(function(l){return'<button data-lang="'+l+'" aria-pressed="'+(l===lang)+'">'+l+'</button>'}).join('')+'</div>':'');
 bar.innerHTML=
- (idiomas.length>1?'<div class="bar__lang">'+idiomas.map(function(l){return'<button data-lang="'+l+'" aria-pressed="'+(l===lang)+'">'+l+'</button>'}).join('')+'</div>':'')+
  '<div class="bar__ident">'+logoHTML(c,'bar__logo')+'<h1 class="bar__name">'+esc(c.nombre)+'</h1></div>'+
- '<div class="search"><input id="q" type="search" autocomplete="off" placeholder="'+esc(UI[lang].buscar)+'"></div>'+
+ '<div class="searchrow"><div class="search"><input id="q" type="search" autocomplete="off" placeholder="'+esc(UI[lang].buscar)+'"></div>'+langHTML+'</div>'+
  '<nav class="chips" id="chips">'+data.secciones.map(function(s){return'<a href="#'+s.id+'">'+esc(t(s.nombre))+'</a>'}).join('')+'</nav>';
 bar.querySelectorAll('.bar__lang button').forEach(function(b){b.addEventListener('click',function(){lang=b.dataset.lang;qs.set('lang',lang);history.replaceState(null,'','?'+qs.toString());render()})});
 bar.querySelector('#q').addEventListener('input',function(e){filtrar(e.target.value)});
