@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T11:37:14.487Z",
+  "actualizado": "2026-09-01T12:16:01.554Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "En Don Giovanni Ristorante te invitamos a una experiencia artística gourmet, donde nuestros chef demuestran toda su pasión hacia la profesión haciendo propia cada receta. Con más de 20 años de trayectoria, nos destacamos por innovar constantemente en la combinación de sabores y técnicas, transformando cada plato en una verdadera obra de arte.",
@@ -985,7 +985,7 @@
       "pt": "Chandon Extra Brut em taça"
      },
      "descripcion": {},
-     "precio": 15000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -1252,30 +1252,15 @@
    ]
   },
   {
-   "id": "especialidades-serv",
+   "id": "cubierto",
    "nombre": {
-    "es": "Servicios especiales",
-    "en": "Special services",
-    "pt": "Serviços especiais"
+    "es": "Valor cubierto",
+    "en": "Cover charge",
+    "pt": "Couvert"
    },
    "foto": "especialidades-serv.jpg",
    "nota": {},
    "items": [
-    {
-     "id": "dg-romantico",
-     "nombre": {
-      "es": "Menú romántico para 2 personas",
-      "en": "Romantic menu for two",
-      "pt": "Menu romântico para dois"
-     },
-     "descripcion": {
-      "es": "Entrada, principal y postre, con vinos.",
-      "en": "Starter, main and dessert, with wine.",
-      "pt": "Entrada, prato principal e sobremesa, com vinhos."
-     },
-     "precio": 195000,
-     "tags": []
-    },
     {
      "id": "dg-cubierto",
      "nombre": {
