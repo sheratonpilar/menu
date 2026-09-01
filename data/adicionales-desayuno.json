@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T01:00:05.652Z",
+  "actualizado": "2026-09-01T11:37:14.494Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "HOLA"
@@ -271,7 +271,7 @@
   {
    "id": "opciones-saladas",
    "nombre": {
-    "es": "Opciones adicionales",
+    "es": "Opciones saladas",
     "en": "Savory-options",
     "pt": "Opções-salgadas"
    },
