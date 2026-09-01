@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T14:25:16.810Z",
+  "actualizado": "2026-09-01T17:23:25.726Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {}
@@ -343,37 +343,61 @@
    ]
   },
   {
-   "id": "tintos-merlot",
+   "id": "tintos-cabernet-franc",
    "nombre": {
-    "es": "Tintos: Merlot",
-    "en": "Reds: Merlot",
-    "pt": "Tintos: Merlot"
+    "es": "Tintos: Cabernet Franc",
+    "en": "Reds: Cabernet Franc",
+    "pt": "Tintos: Cabernet Franc"
    },
    "foto": "",
    "nota": {
-    "es": "Su origen está en Burdeos, Francia. Brilla en Pomerol, es apreciada en Napa Valley y se destaca en Chile.",
-    "en": "From Bordeaux, France. Shines in Pomerol, prized in Napa Valley, stands out in Chile.",
-    "pt": "De Bordeaux, França. Brilha em Pomerol, apreciada no Napa Valley, destaca-se no Chile."
+    "es": "Del sudoeste de Francia, región de Burdeos. Gran adaptación en climas fríos.",
+    "en": "From south-western France, Bordeaux. Adapts well to cool climates.",
+    "pt": "Do sudoeste da França, Bordeaux. Adapta-se bem a climas frios."
    },
    "items": [
     {
-     "id": "rs-vino-rutini-merlot",
+     "id": "rs-vino-rutini-cf",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
-      "en": "Rutini Colección Merlot",
-      "pt": "Rutini Colección Merlot"
+      "en": "Rutini Colección Cabernet Franc",
+      "pt": "Rutini Colección Cabernet Franc"
      },
      "descripcion": {},
-     "precio": 51000,
+     "precio": 57000,
      "tags": []
     },
     {
-     "id": "rs-vino-trumpeter-merlot",
+     "id": "rs-vino-sf-cf",
      "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)"
+      "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
+      "en": "Trumpeter Reserve Cabernet Sauvignon",
+      "pt": "Trumpeter Reserve Cabernet Sauvignon"
      },
      "descripcion": {},
-     "precio": 20000,
+     "precio": 34000,
+     "tags": []
+    },
+    {
+     "id": "cabernet-franc-nicasia-catena-zapata-mendoza",
+     "nombre": {
+      "es": "Nicasia (Catena Zapata - Mendoza)",
+      "en": "Nicasia (Catena Zapata - Mendoza)",
+      "pt": "Nicasia (Catena Zapata - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": []
+    },
+    {
+     "id": "cabernet-franc-gran-medalla-trapiche-mendoza",
+     "nombre": {
+      "es": "Gran Medalla (Trapiche - Mendoza)",
+      "en": "Gran Medalla (Trapiche - Mendoza)",
+      "pt": "Gran Medalla (Trapiche - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 63000,
      "tags": []
     }
    ]
