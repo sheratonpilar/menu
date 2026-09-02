@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T17:23:25.727Z",
+  "actualizado": "2026-09-02T15:50:09.589Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -148,7 +148,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-cubierto",
+     "id": "cubierto-rs",
      "nombre": {
       "es": "Valor del cubierto",
       "en": "Cover charge",
@@ -175,7 +175,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-desayuno-adulto",
+     "id": "desayuno-adulto-rs",
      "nombre": {
       "es": "Desayuno Room Service Adulto",
       "en": "Adult breakfast",
@@ -193,7 +193,7 @@
      ]
     },
     {
-     "id": "rs-desayuno-menor",
+     "id": "desayuno-menor-rs",
      "nombre": {
       "es": "Desayuno Room Service Menor",
       "en": "Kids' breakfast",
@@ -223,7 +223,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-cuore",
+     "id": "cuore",
      "nombre": {
       "es": "Cuore milano",
       "en": "Cuore Milano",
@@ -243,7 +243,7 @@
      ]
     },
     {
-     "id": "rs-papas",
+     "id": "papas",
      "nombre": {
       "es": "Papas fritas",
       "en": "Fries",
@@ -259,7 +259,7 @@
      ]
     },
     {
-     "id": "rs-omelette",
+     "id": "omelette",
      "nombre": {
       "es": "Omellette de tomate y queso",
       "en": "Tomato and cheese omelette",
@@ -275,7 +275,7 @@
      ]
     },
     {
-     "id": "lb-tabla-quesos",
+     "id": "tabla-quesos",
      "nombre": {
       "es": "Tabla de quesos (para 1 persona)",
       "en": "Cheese board (for 1)",
@@ -292,7 +292,7 @@
      ]
     },
     {
-     "id": "lb-tabla-fiambres",
+     "id": "tabla-fiambres",
      "nombre": {
       "es": "Tabla de fiambres (para 1 persona)",
       "en": "Charcuterie board (for 1)",
@@ -310,7 +310,7 @@
      ]
     },
     {
-     "id": "rs-lasagna-berenjenas",
+     "id": "lasagna-berenjenas",
      "nombre": {
       "es": "Lasagna de berenjenas",
       "en": "Aubergine lasagna",
@@ -330,7 +330,7 @@
      ]
     },
     {
-     "id": "lb-cazuela-olivas",
+     "id": "cazuela-olivas",
      "nombre": {
       "es": "Cazuela de olivas",
       "en": "Bowl of olives",
@@ -343,7 +343,7 @@
      ]
     },
     {
-     "id": "lb-cazuela-queso",
+     "id": "cazuela-queso",
      "nombre": {
       "es": "Cazuela de queso en cubos",
       "en": "Bowl of cheese cubes",
@@ -368,7 +368,7 @@
    "nota": {},
    "items": [
     {
-     "id": "lb-capresse",
+     "id": "capresse",
      "nombre": {
       "es": "Capresse",
       "en": "Caprese",
@@ -389,7 +389,7 @@
      ]
     },
     {
-     "id": "lb-caesar-tradicional",
+     "id": "caesar-tradicional",
      "nombre": {
       "es": "Caesar tradicional",
       "en": "Caesar",
@@ -411,7 +411,7 @@
      ]
     },
     {
-     "id": "lb-caesar-ave",
+     "id": "caesar-ave",
      "nombre": {
       "es": "Caesar ave",
       "en": "Chicken caesar",
@@ -433,7 +433,7 @@
      ]
     },
     {
-     "id": "lb-caesar-salmon",
+     "id": "caesar-salmon",
      "nombre": {
       "es": "Caesar salmón ahumado",
       "en": "Smoked salmon caesar",
@@ -468,7 +468,7 @@
    "nota": {},
    "items": [
     {
-     "id": "lb-bavaria",
+     "id": "bavaria",
      "nombre": {
       "es": "Bavaria",
       "en": "Bavaria",
@@ -493,7 +493,7 @@
      ]
     },
     {
-     "id": "lb-brioche",
+     "id": "brioche",
      "nombre": {
       "es": "Brioche",
       "en": "Brioche",
@@ -512,7 +512,7 @@
      ]
     },
     {
-     "id": "lb-baguette-cabutia",
+     "id": "baguette-cabutia",
      "nombre": {
       "es": "Baguette de cabutia",
       "en": "Butternut baguette",
@@ -547,7 +547,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-croissant",
+     "id": "croissant",
      "nombre": {
       "es": "Croissant de jamón y queso",
       "en": "Ham and cheese croissant",
@@ -561,7 +561,7 @@
      ]
     },
     {
-     "id": "lb-hamburguesa",
+     "id": "hamburguesa",
      "nombre": {
       "es": "Hamburguesa",
       "en": "Burger",
@@ -585,7 +585,7 @@
      ]
     },
     {
-     "id": "lb-tostado-jq",
+     "id": "tostado-jq",
      "nombre": {
       "es": "Tostado de jamón y queso",
       "en": "Ham and cheese toastie",
@@ -603,7 +603,7 @@
      ]
     },
     {
-     "id": "rs-club",
+     "id": "club-sandwich",
      "nombre": {
       "es": "Club sándwich",
       "en": "Club sandwich",
@@ -624,7 +624,7 @@
      ]
     },
     {
-     "id": "lb-tostado-jqt",
+     "id": "tostado-jqt",
      "nombre": {
       "es": "Tostado de jamón, queso y tomate",
       "en": "Ham, cheese and tomato toastie",
@@ -654,7 +654,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-pizza",
+     "id": "pizza-individual",
      "nombre": {
       "es": "Pizza individual",
       "en": "Individual pizza",
@@ -707,7 +707,7 @@
      ]
     },
     {
-     "id": "rs-ave",
+     "id": "ave",
      "nombre": {
       "es": "Ave",
       "en": "Chicken",
@@ -748,7 +748,7 @@
      ]
     },
     {
-     "id": "rs-cuadretti",
+     "id": "cuadretti-rs",
      "nombre": {
       "es": "Cuadretti de espinaca",
       "en": "Spinach cuadretti",
@@ -769,7 +769,7 @@
      ]
     },
     {
-     "id": "rs-penne",
+     "id": "penne",
      "nombre": {
       "es": "Penne",
       "en": "Penne",
@@ -788,7 +788,7 @@
      ]
     },
     {
-     "id": "rs-espiral-lomo",
+     "id": "espiral-lomo",
      "nombre": {
       "es": "Espiral de lomo",
       "en": "Spiral tenderloin",
@@ -817,7 +817,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-men-milanesa",
+     "id": "milanesa-pollo",
      "nombre": {
       "es": "Milanesa de pollo con puré de papa",
       "en": "Breaded chicken with mashed potato",
@@ -832,7 +832,7 @@
      ]
     },
     {
-     "id": "dg-men-noquis",
+     "id": "noquis-menores",
      "nombre": {
       "es": "Ñoquis de papa con filetto o panna",
       "en": "Potato gnocchi with filetto or cream",
@@ -848,7 +848,7 @@
      ]
     },
     {
-     "id": "lb-men-nuggets",
+     "id": "nuggets",
      "nombre": {
       "es": "Nuggets con papas fritas",
       "en": "Chicken nuggets with fries",
@@ -863,7 +863,7 @@
      ]
     },
     {
-     "id": "lb-men-penne",
+     "id": "penne-menores",
      "nombre": {
       "es": "Penne con salsa fileto",
       "en": "Penne with tomato sauce",
@@ -879,7 +879,7 @@
      ]
     },
     {
-     "id": "lb-men-hamburguesa",
+     "id": "hamburguesa-menores",
      "nombre": {
       "es": "Hamburguesa con queso cheddar y papas fritas",
       "en": "Burger with cheddar and fries",
@@ -894,7 +894,7 @@
      ]
     },
     {
-     "id": "rs-men-tallarin",
+     "id": "tallarin",
      "nombre": {
       "es": "Tallarín con crema",
       "en": "Tagliatelle with cream",
@@ -909,7 +909,7 @@
      ]
     },
     {
-     "id": "lb-men-pasta-seca",
+     "id": "pasta-seca",
      "nombre": {
       "es": "Pasta seca con crema",
       "en": "Pasta with cream",
@@ -925,7 +925,7 @@
      ]
     },
     {
-     "id": "rs-men-sorrentinos",
+     "id": "sorrentinos-menores",
      "nombre": {
       "es": "Sorrentinos de jamón y queso en salsa rosa",
       "en": "Ham and cheese sorrentinos in pink sauce",
@@ -952,7 +952,7 @@
    "nota": {},
    "items": [
     {
-     "id": "lb-frutas",
+     "id": "frutas",
      "nombre": {
       "es": "Frutas fileteadas",
       "en": "Sliced fruit",
@@ -963,7 +963,7 @@
      "tags": []
     },
     {
-     "id": "rs-creme-caramel",
+     "id": "creme-caramel",
      "nombre": {
       "es": "Creme caramel con DDL y crema",
       "en": "Crème caramel with dulce de leche and cream",
@@ -976,7 +976,7 @@
      ]
     },
     {
-     "id": "lb-helado",
+     "id": "helado",
      "nombre": {
       "es": "Helado",
       "en": "Ice cream",
@@ -995,7 +995,7 @@
      ]
     },
     {
-     "id": "rs-tiramisu",
+     "id": "tiramisu",
      "nombre": {
       "es": "Tiramisú",
       "en": "Tiramisu",
@@ -1010,7 +1010,7 @@
      ]
     },
     {
-     "id": "lb-franui",
+     "id": "franui",
      "nombre": {
       "es": "Franui",
       "en": "Franui",
@@ -1030,7 +1030,7 @@
      ]
     },
     {
-     "id": "lb-franui-free",
+     "id": "franui-free",
      "nombre": {
       "es": "Franui Free",
       "en": "Franui Free",
@@ -1051,7 +1051,7 @@
      ]
     },
     {
-     "id": "lb-tableta-freddo",
+     "id": "tableta-freddo",
      "nombre": {
       "es": "Tableta Freddo",
       "en": "Freddo chocolate bar",
@@ -1081,21 +1081,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-budin",
-     "nombre": {
-      "es": "Budín de arándanos y limón glaseado",
-      "en": "Blueberry and lemon glazed loaf cake",
-      "pt": "Bolo de mirtilo e limão glaçado"
-     },
-     "descripcion": {},
-     "precio": 16500,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
-     "id": "rs-tarta-manzana",
+     "id": "tarta-manzana",
      "nombre": {
       "es": "Tarta de manzana",
       "en": "Apple tart",
@@ -1106,7 +1092,7 @@
      "tags": []
     },
     {
-     "id": "rs-tarta-coco",
+     "id": "tarta-coco",
      "nombre": {
       "es": "Tarta de coco y ddl",
       "en": "Coconut and dulce de leche tart",
@@ -1117,7 +1103,7 @@
      "tags": []
     },
     {
-     "id": "rs-brownie",
+     "id": "brownie",
      "nombre": {
       "es": "Brownie de chocolate",
       "en": "Chocolate brownie",
@@ -1128,7 +1114,7 @@
      "tags": []
     },
     {
-     "id": "lb-macarons",
+     "id": "macarons",
      "nombre": {
       "es": "Macarons x 3 u",
       "en": "Macarons, 3 pieces",
@@ -1149,7 +1135,25 @@
      ]
     },
     {
-     "id": "lb-alfajor-maicena",
+     "id": "budin",
+     "nombre": {
+      "es": "Budín",
+      "en": "Loaf cake",
+      "pt": "Bolo"
+     },
+     "descripcion": {
+      "es": "Budín de arándanos y limón glaseado.",
+      "en": "Blueberry and lemon glazed loaf cake.",
+      "pt": "Bolo de mirtilo e limão glaçado."
+     },
+     "precio": 16500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "alfajor-maicena",
      "nombre": {
       "es": "Alfajor de maicena",
       "en": "Cornstarch alfajor",
@@ -1160,7 +1164,7 @@
      "tags": []
     },
     {
-     "id": "lb-medialunas",
+     "id": "medialunas",
      "nombre": {
       "es": "Medialunas",
       "en": "Croissants",
@@ -1190,7 +1194,7 @@
    "nota": {},
    "items": [
     {
-     "id": "dg-agua",
+     "id": "agua",
      "nombre": {
       "es": "Agua mineral con gas / sin gas",
       "en": "Mineral water, sparkling or still",
@@ -1201,7 +1205,7 @@
      "tags": []
     },
     {
-     "id": "lb-agua-saborizada",
+     "id": "agua-saborizada",
      "nombre": {
       "es": "Agua mineral saborizada",
       "en": "Flavoured mineral water",
@@ -1212,7 +1216,7 @@
      "tags": []
     },
     {
-     "id": "lb-gaseosas",
+     "id": "gaseosas",
      "nombre": {
       "es": "Gaseosa",
       "en": "Soft drink",
@@ -1227,7 +1231,7 @@
      "tags": []
     },
     {
-     "id": "rs-jugo",
+     "id": "jugo",
      "nombre": {
       "es": "Jugo exprimido (naranja o pomelo)",
       "en": "Fresh juice (orange or grapefruit)",
@@ -1238,7 +1242,7 @@
      "tags": []
     },
     {
-     "id": "lb-limonada",
+     "id": "limonada",
      "nombre": {
       "es": "Limonada con menta y jengibre",
       "en": "Lemonade with mint and ginger",
@@ -1249,7 +1253,7 @@
      "tags": []
     },
     {
-     "id": "lb-licuado-leche",
+     "id": "licuado-leche",
      "nombre": {
       "es": "Licuado de frutas con leche o jugo",
       "en": "Fruit smoothie with milk or juice",
@@ -1260,7 +1264,7 @@
      "tags": []
     },
     {
-     "id": "lb-licuado-agua",
+     "id": "licuado-agua",
      "nombre": {
       "es": "Licuado de frutas con agua",
       "en": "Fruit smoothie with water",
@@ -1271,7 +1275,7 @@
      "tags": []
     },
     {
-     "id": "lb-milkshake",
+     "id": "milkshake",
      "nombre": {
       "es": "Milk Shake",
       "en": "Milkshake",
@@ -1282,7 +1286,7 @@
      "tags": []
     },
     {
-     "id": "lb-yogur",
+     "id": "yogur-bebible",
      "nombre": {
       "es": "Yogourt bebible",
       "en": "Drinking yoghurt",
@@ -1293,7 +1297,7 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-pepino",
+     "id": "jugo-pepino-pera",
      "nombre": {
       "es": "Jugo natural: pepino y pera",
       "en": "Natural juice: cucumber and pear",
@@ -1304,7 +1308,7 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-zanahoria-manzana",
+     "id": "jugo-zanahoria-manzana",
      "nombre": {
       "es": "Jugo natural: zanahoria y manzana",
       "en": "Natural juice: carrot and apple",
@@ -1315,7 +1319,7 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-zanahoria-naranja",
+     "id": "jugo-zanahoria-naranja",
      "nombre": {
       "es": "Jugo natural: zanahoria y naranja",
       "en": "Natural juice: carrot and orange",
@@ -1338,7 +1342,7 @@
    "nota": {},
    "items": [
     {
-     "id": "dg-cafe",
+     "id": "cafe",
      "nombre": {
       "es": "Café expreso",
       "en": "Espresso",
@@ -1353,7 +1357,7 @@
      "tags": []
     },
     {
-     "id": "dg-cafe-doble",
+     "id": "cafe-doble",
      "nombre": {
       "es": "Café expreso doble / con leche",
       "en": "Double espresso / with milk",
@@ -1364,7 +1368,7 @@
      "tags": []
     },
     {
-     "id": "lb-cappuccino",
+     "id": "cappuccino",
      "nombre": {
       "es": "Cappuccino",
       "en": "Cappuccino",
@@ -1379,7 +1383,7 @@
      "tags": []
     },
     {
-     "id": "lb-chocolatada",
+     "id": "chocolatada",
      "nombre": {
       "es": "Chocolatada",
       "en": "Chocolate milk",
@@ -1390,7 +1394,7 @@
      "tags": []
     },
     {
-     "id": "lb-submarino",
+     "id": "submarino",
      "nombre": {
       "es": "Submarino",
       "en": "Submarino",
@@ -1404,7 +1408,7 @@
      "tags": []
     },
     {
-     "id": "seleccion-te-hierbas",
+     "id": "te-hierbas",
      "nombre": {
       "es": "Selección de té de hierbas",
       "en": "Herbal tea selection",
@@ -1415,7 +1419,7 @@
      "tags": []
     },
     {
-     "id": "rs-termo-cafe",
+     "id": "termo-cafe",
      "nombre": {
       "es": "Termo chico café",
       "en": "Small coffee flask",
@@ -1426,7 +1430,7 @@
      "tags": []
     },
     {
-     "id": "rs-termo-leche",
+     "id": "termo-leche",
      "nombre": {
       "es": "Termo chico leche",
       "en": "Small milk flask",
@@ -1449,7 +1453,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-cerveza-ipa",
+     "id": "cerveza-ipa",
      "nombre": {
       "es": "Patagonia Vera IPA lata x 410 cc",
       "en": "Patagonia Vera IPA",
@@ -1460,7 +1464,7 @@
      "tags": []
     },
     {
-     "id": "rs-cerveza-247",
+     "id": "cerveza-247",
      "nombre": {
       "es": "Patagonia 24.7 lata x 410 cc",
       "en": "Patagonia 24.7",
@@ -1471,7 +1475,7 @@
      "tags": []
     },
     {
-     "id": "rs-cerveza-amber",
+     "id": "cerveza-amber",
      "nombre": {
       "es": "Patagonia Amber Lager lata x 410 cc",
       "en": "Patagonia Amber Lager",
@@ -1482,7 +1486,7 @@
      "tags": []
     },
     {
-     "id": "rs-cerveza-stella",
+     "id": "cerveza-stella",
      "nombre": {
       "es": "Stella Artois lata x 473 cc",
       "en": "Stella Artois",
@@ -1493,7 +1497,7 @@
      "tags": []
     },
     {
-     "id": "cerv-heineken-x-473-cc",
+     "id": "cerveza-heineken",
      "nombre": {
       "es": "Heineken lata x 473 cc / Heineken 0.0",
       "en": "Heineken lata x 473 cc / Heineken 0.0",
@@ -1504,7 +1508,7 @@
      "tags": []
     },
     {
-     "id": "rs-cerveza-quilmes",
+     "id": "cerveza-quilmes",
      "nombre": {
       "es": "Quilmes Stout lata x 473 cc",
       "en": "Quilmes Stout",
@@ -1527,7 +1531,7 @@
    "nota": {},
    "items": [
     {
-     "id": "copa-trumpeter-malbec-cs-lb",
+     "id": "copa-trumpeter-malbec-cs",
      "nombre": {
       "es": "Trumpeter Malbec / Cabernet Sauvignon",
       "en": "Trumpeter Malbec / Cabernet Sauvignon",
@@ -1538,7 +1542,7 @@
      "tags": []
     },
     {
-     "id": "copa-trumpeter-sb-chard-lb",
+     "id": "copa-trumpeter-sb-chard",
      "nombre": {
       "es": "Trumpeter Sauvignon Blanc / Chardonnay",
       "en": "Trumpeter Sauvignon Blanc / Chardonnay",
@@ -1549,7 +1553,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-copa-trumpeter",
+     "id": "copa-esp-trumpeter",
      "nombre": {
       "es": "Trumpeter Extra Brut"
      },
@@ -1570,7 +1574,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-trago-gin-tonic",
+     "id": "ckt-gin-tonic",
      "nombre": {
       "es": "Gin Tonic",
       "en": "Gin and tonic",
@@ -1585,7 +1589,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-tom-collins",
+     "id": "ckt-tom-collins",
      "nombre": {
       "es": "Tom Collins",
       "en": "Tom Collins",
@@ -1600,7 +1604,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-pisco-sour",
+     "id": "ckt-pisco-sour",
      "nombre": {
       "es": "Pisco Sour",
       "en": "Pisco Sour",
@@ -1615,7 +1619,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-mojito",
+     "id": "ckt-mojito",
      "nombre": {
       "es": "Mojito",
       "en": "Mojito",
@@ -1630,7 +1634,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-caipirovska",
+     "id": "ckt-caipirovska",
      "nombre": {
       "es": "Caipirovska",
       "en": "Caipirovska",
@@ -1645,7 +1649,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-caipirovska-maracuya",
+     "id": "ckt-caipirovska-maracuya",
      "nombre": {
       "es": "Caipirovska de maracuyá",
       "en": "Passion fruit caipirovska",
@@ -1660,7 +1664,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-aperol",
+     "id": "ckt-aperol",
      "nombre": {
       "es": "Aperol Spritz",
       "en": "Aperol Spritz",
@@ -1675,7 +1679,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-manhattan",
+     "id": "ckt-manhattan",
      "nombre": {
       "es": "Manhattan",
       "en": "Manhattan",
@@ -1690,7 +1694,7 @@
      "tags": []
     },
     {
-     "id": "rs-trago-old-fashioned",
+     "id": "ckt-old-fashioned",
      "nombre": {
       "es": "Old Fashioned",
       "en": "Old Fashioned",
@@ -1705,7 +1709,7 @@
      "tags": []
     },
     {
-     "id": "ckt-lb-fernet-cola",
+     "id": "ckt-fernet-cola",
      "nombre": {
       "es": "Fernet Cola",
       "en": "Fernet Cola",
@@ -1736,7 +1740,7 @@
    },
    "items": [
     {
-     "id": "cabernet-sauvignon-rutini-coleccion-rutini-men",
+     "id": "tintos-cabernet-sauvignon-rutini",
      "nombre": {
       "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección (Rutini - Mendoza)",
@@ -1747,7 +1751,7 @@
      "tags": []
     },
     {
-     "id": "cabernet-sauvignon-trumpeter-reserve-rutini-me",
+     "id": "tintos-cabernet-sauvignon-trumpeter-reserve",
      "nombre": {
       "es": "Trumpeter Reserve (Rutini - Mendoza)",
       "en": "Trumpeter Reserve (Rutini - Mendoza)",
@@ -1760,7 +1764,7 @@
      ]
     },
     {
-     "id": "cabernet-sauvignon-trumpeter-rutini-mendoza",
+     "id": "tintos-cabernet-sauvignon-trumpeter",
      "nombre": {
       "es": "Trumpeter (Rutini - Mendoza)",
       "en": "Trumpeter (Rutini - Mendoza)",
@@ -1787,7 +1791,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-rutini-merlot",
+     "id": "tintos-merlot-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
       "en": "Rutini Colección Merlot",
@@ -1814,7 +1818,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-rutini-syrah",
+     "id": "tintos-syrah-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
       "en": "Rutini Colección Syrah",
@@ -1841,7 +1845,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-rutini-cf",
+     "id": "tintos-cabernet-franc-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
       "en": "Rutini Colección Cabernet Franc",
@@ -1868,7 +1872,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-rutini-pn",
+     "id": "tintos-pinot-noir-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
       "en": "Rutini Colección Pinot Noir",
@@ -1895,7 +1899,7 @@
    },
    "items": [
     {
-     "id": "sug-malbec-rutini-col",
+     "id": "tintos-malbec-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
       "en": "Malbec Rutini Colección",
@@ -1908,7 +1912,7 @@
      ]
     },
     {
-     "id": "sug-malbec-trumpeter-res",
+     "id": "tintos-malbec-trumpeter-reserve",
      "nombre": {
       "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
       "en": "Malbec Trumpeter Reserve",
@@ -1921,7 +1925,7 @@
      ]
     },
     {
-     "id": "sug-malbec-trumpeter",
+     "id": "tintos-malbec-trumpeter",
      "nombre": {
       "es": "Trumpeter (Bga. Rutini - Mendoza)",
       "en": "Malbec Trumpeter",
@@ -1950,7 +1954,7 @@
    },
    "items": [
     {
-     "id": "genericos-rutini-cabernet-malbec-rutini-mendoz",
+     "id": "tintos-genericos-rutini-cabernet-malbec",
      "nombre": {
       "es": "Rutini Cabernet Malbec (Rutini - Mendoza)",
       "en": "Rutini Cabernet Malbec (Rutini - Mendoza)",
@@ -1979,7 +1983,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-rutini-sb",
+     "id": "blancos-sauvignon-blanc-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
       "en": "Rutini Colección Sauvignon Blanc",
@@ -2008,7 +2012,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-trumpeter-viognier",
+     "id": "blancos-viognier-trumpeter",
      "nombre": {
       "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
       "en": "Rutini Colección Cabernet Sauvignon",
@@ -2035,7 +2039,7 @@
    },
    "items": [
     {
-     "id": "rs-vino-rutini-dominio-chard",
+     "id": "blancos-chardonnay-dominio",
      "nombre": {
       "es": "Rutini Dominio (Bga. Rutini - Mendoza)",
       "en": "Rutini Dominio Chardonnay",
@@ -2096,7 +2100,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-esp-rutini-eb",
+     "id": "esp-rutini-eb",
      "nombre": {
       "es": "Rutini Extra Brut (Bodega La Rural)",
       "en": "Rutini Extra Brut",
@@ -2107,7 +2111,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-trumpeter-eb",
+     "id": "esp-trumpeter-eb",
      "nombre": {
       "es": "Trumpeter Extra Brut (Bodega La Rural)",
       "en": "Trumpeter Extra Brut",
@@ -2118,7 +2122,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-dom-perignon",
+     "id": "esp-dom-perignon",
      "nombre": {
       "es": "Dom Perignon (Bodega Chandon)",
       "en": "Dom Perignon",
@@ -2129,7 +2133,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-moet",
+     "id": "esp-moet",
      "nombre": {
       "es": "Moet Ice Imperial (Bodega Chandon)",
       "en": "Moet Ice Imperial",
@@ -2140,7 +2144,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-veuve-yellow",
+     "id": "esp-veuve-yellow",
      "nombre": {
       "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
       "en": "Veuve Clicquot Yellow Label",
@@ -2151,7 +2155,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-veuve-rich",
+     "id": "esp-veuve-rich",
      "nombre": {
       "es": "Veuve Clicquot Rich (Bodega Chandon)",
       "en": "Veuve Clicquot Rich",
@@ -2162,7 +2166,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-veuve-rose",
+     "id": "esp-veuve-rose",
      "nombre": {
       "es": "Veuve Clicquot Rosé (Bodega Chandon)",
       "en": "Veuve Clicquot Rosé",
@@ -2173,7 +2177,7 @@
      "tags": []
     },
     {
-     "id": "rs-esp-baron-b",
+     "id": "esp-baron-b",
      "nombre": {
       "es": "Barón B Extra Brut (Bodega Chandon)",
       "en": "Barón B Extra Brut",
@@ -2211,7 +2215,7 @@
    },
    "items": [
     {
-     "id": "wh-j-w-blue-label",
+     "id": "wh-jw-blue",
      "nombre": {
       "es": "J.W. Blue Label",
       "en": "J.W. Blue Label",
@@ -2222,7 +2226,7 @@
      "tags": []
     },
     {
-     "id": "wh-j-w-gold",
+     "id": "wh-jw-gold",
      "nombre": {
       "es": "J.W. Gold",
       "en": "J.W. Gold",
@@ -2233,7 +2237,7 @@
      "tags": []
     },
     {
-     "id": "wh-j-w-black-label",
+     "id": "wh-jw-black",
      "nombre": {
       "es": "J.W. Black Label",
       "en": "J.W. Black Label",
@@ -2244,7 +2248,7 @@
      "tags": []
     },
     {
-     "id": "rs-wh-chivas",
+     "id": "wh-chivas-12",
      "nombre": {
       "es": "Chivas Regal 12 años",
       "en": "Chivas Regal 12yo",
