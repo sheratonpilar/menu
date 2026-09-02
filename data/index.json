@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T17:23:47.462Z",
+ "actualizado": "2026-09-02T15:50:30.966Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -7,7 +7,7 @@
    "tema": "dg",
    "logo": "don-giovanni.svg",
    "orden": 1,
-   "items": 74
+   "items": 256
   },
   {
    "id": "las-vasijas",
@@ -39,7 +39,7 @@
    "tema": "lb",
    "logo": "lobby-bar.svg",
    "orden": 6,
-   "items": 114
+   "items": 296
   },
   {
    "id": "room-service",
