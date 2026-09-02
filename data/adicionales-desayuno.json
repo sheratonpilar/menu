@@ -9,11 +9,11 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T15:50:09.588Z",
+  "actualizado": "2026-09-02T16:12:26.444Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
-   "es": "Consultar por otras opciones sin TACC. \n**Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido.**",
+   "es": "Consultar por otras opciones sin TACC. \n**Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
    "en": "Please ask about other gluten-free options.\n**If you have any dietary restrictions, please inform your waiter before placing your order.**",
    "pt": "Consulte sobre outras opções sem glúten.\n**Se você tiver alguma restrição alimentar, por favor, informe ao seu garçom antes de fazer o pedido.**"
   }
@@ -268,7 +268,10 @@
      },
      "descripcion": {},
      "precio": 11000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "pancakes",
@@ -279,7 +282,10 @@
      },
      "descripcion": {},
      "precio": 11000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "cuadrados",
@@ -290,7 +296,13 @@
      },
      "descripcion": {},
      "precio": 9500,
-     "tags": []
+     "tags": [
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "cereales",
@@ -305,7 +317,12 @@
       "pt": "Granola, flocos doces/salgados ou aveia quente."
      },
      "precio": 7500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "ensalada-frutas",
@@ -354,7 +371,9 @@
       "pt": "Com croutons, alcaparras e flocos de bacon."
      },
      "precio": 12000,
-     "tags": []
+     "tags": [
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "huevo-frito",
@@ -365,7 +384,9 @@
      },
      "descripcion": {},
      "precio": 5300,
-     "tags": []
+     "tags": [
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "huevo-tostada",
@@ -376,7 +397,10 @@
      },
      "descripcion": {},
      "precio": 9500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "omelette-jamon",
@@ -387,7 +411,11 @@
      },
      "descripcion": {},
      "precio": 16000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "omelette-tomate",
@@ -398,7 +426,11 @@
      },
      "descripcion": {},
      "precio": 18500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "omelette-salmon",
@@ -409,7 +441,12 @@
      },
      "descripcion": {},
      "precio": 25000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7"
+     ]
     },
     {
      "id": "salmon-ahumado",
@@ -420,7 +457,11 @@
      },
      "descripcion": {},
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "ALERGENO_3",
+      "ALERGENO_5",
+      "ALERGENO_7"
+     ]
     },
     {
      "id": "panes",
@@ -435,7 +476,10 @@
       "pt": "Panettone branco/multigrãos, pãezinhos (3 à escolha)."
      },
      "precio": 8500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "pure",
@@ -446,7 +490,9 @@
      },
      "descripcion": {},
      "precio": 12000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2"
+     ]
     },
     {
      "id": "jamon-panceta",
@@ -457,7 +503,10 @@
      },
      "descripcion": {},
      "precio": 10000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "vegetales",
