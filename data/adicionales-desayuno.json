@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T17:23:25.726Z",
+  "actualizado": "2026-09-02T15:50:09.588Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -144,7 +144,7 @@
    "nota": {},
    "items": [
     {
-     "id": "dg-cafe-doble",
+     "id": "cafe-doble",
      "nombre": {
       "es": "Café expreso doble / con leche",
       "en": "Double espresso / with milk",
@@ -155,7 +155,7 @@
      "tags": []
     },
     {
-     "id": "lb-cappuccino",
+     "id": "cappuccino",
      "nombre": {
       "es": "Cappuccino",
       "en": "Cappuccino",
@@ -182,7 +182,7 @@
    "nota": {},
    "items": [
     {
-     "id": "rs-jugo",
+     "id": "jugo",
      "nombre": {
       "es": "Jugo exprimido (naranja o pomelo)",
       "en": "Fresh juice (orange or grapefruit)",
@@ -193,7 +193,7 @@
      "tags": []
     },
     {
-     "id": "lb-licuado-leche",
+     "id": "licuado-leche",
      "nombre": {
       "es": "Licuado de frutas con leche o jugo",
       "en": "Fruit smoothie with milk or juice",
@@ -204,7 +204,7 @@
      "tags": []
     },
     {
-     "id": "lb-licuado-agua",
+     "id": "licuado-agua",
      "nombre": {
       "es": "Licuado de frutas con agua",
       "en": "Fruit smoothie with water",
@@ -215,7 +215,7 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-pepino",
+     "id": "jugo-pepino-pera",
      "nombre": {
       "es": "Jugo natural: pepino y pera",
       "en": "Natural juice: cucumber and pear",
@@ -226,7 +226,7 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-zanahoria-manzana",
+     "id": "jugo-zanahoria-manzana",
      "nombre": {
       "es": "Jugo natural: zanahoria y manzana",
       "en": "Natural juice: carrot and apple",
@@ -237,7 +237,7 @@
      "tags": []
     },
     {
-     "id": "lb-jugo-zanahoria-naranja",
+     "id": "jugo-zanahoria-naranja",
      "nombre": {
       "es": "Jugo natural: zanahoria y naranja",
       "en": "Natural juice: carrot and orange",
@@ -260,7 +260,7 @@
    "nota": {},
    "items": [
     {
-     "id": "add-tostadas-francesas",
+     "id": "tostadas-francesas",
      "nombre": {
       "es": "Tostadas francesas",
       "en": "French toast",
@@ -271,7 +271,7 @@
      "tags": []
     },
     {
-     "id": "add-pancakes",
+     "id": "pancakes",
      "nombre": {
       "es": "Pancakes",
       "en": "Pancakes",
@@ -282,7 +282,7 @@
      "tags": []
     },
     {
-     "id": "add-cuadrados",
+     "id": "cuadrados",
      "nombre": {
       "es": "Cuadrados de manzana o coco (x3u)",
       "en": "Apple or coconut squares (3)",
@@ -293,7 +293,7 @@
      "tags": []
     },
     {
-     "id": "add-cereales",
+     "id": "cereales",
      "nombre": {
       "es": "Cazuela de cereales",
       "en": "Cereal bowl",
@@ -308,7 +308,7 @@
      "tags": []
     },
     {
-     "id": "add-ensalada-frutas",
+     "id": "ensalada-frutas",
      "nombre": {
       "es": "Ensalada de frutas",
       "en": "Fruit salad",
@@ -319,7 +319,7 @@
      "tags": []
     },
     {
-     "id": "add-yogur",
+     "id": "yogur",
      "nombre": {
       "es": "Yogourt entero de vainilla o descremado de frutilla",
       "en": "Whole vanilla or low-fat strawberry yogurt",
@@ -342,7 +342,7 @@
    "nota": {},
    "items": [
     {
-     "id": "add-huevo-pasado",
+     "id": "huevo-pasado",
      "nombre": {
       "es": "Huevo pasado por agua",
       "en": "Soft-boiled egg",
@@ -357,7 +357,7 @@
      "tags": []
     },
     {
-     "id": "add-huevo-frito",
+     "id": "huevo-frito",
      "nombre": {
       "es": "Huevo frito (1u)",
       "en": "Fried egg (1)",
@@ -368,7 +368,7 @@
      "tags": []
     },
     {
-     "id": "add-huevo-tostada",
+     "id": "huevo-tostada",
      "nombre": {
       "es": "Huevo sobre tostada de pan de campo",
       "en": "Egg on toast",
@@ -379,7 +379,7 @@
      "tags": []
     },
     {
-     "id": "add-omelette-jamon",
+     "id": "omelette-jamon",
      "nombre": {
       "es": "Omelette de parmesano y jamón horneado",
       "en": "Baked ham and parmesan omelette",
@@ -390,7 +390,7 @@
      "tags": []
     },
     {
-     "id": "add-omelette-tomate",
+     "id": "omelette-tomate",
      "nombre": {
       "es": "Omelette con tomates secos, albahaca y mozzarella",
       "en": "Sun-dried tomato, basil and mozzarella omelette",
@@ -401,7 +401,7 @@
      "tags": []
     },
     {
-     "id": "add-omelette-salmon",
+     "id": "omelette-salmon",
      "nombre": {
       "es": "Omelette de salmón ahumado y cebollino",
       "en": "Smoked salmon and chive omelette",
@@ -412,7 +412,7 @@
      "tags": []
     },
     {
-     "id": "add-salmon",
+     "id": "salmon-ahumado",
      "nombre": {
       "es": "Salmón ahumado",
       "en": "Smoked salmon",
@@ -423,7 +423,7 @@
      "tags": []
     },
     {
-     "id": "add-panes",
+     "id": "panes",
      "nombre": {
       "es": "Panes",
       "en": "Breads",
@@ -438,7 +438,7 @@
      "tags": []
     },
     {
-     "id": "add-pure",
+     "id": "pure",
      "nombre": {
       "es": "Puré de papas o de calabazas",
       "en": "Mashed potato or pumpkin purée",
@@ -449,7 +449,7 @@
      "tags": []
     },
     {
-     "id": "add-jamon-panceta",
+     "id": "jamon-panceta",
      "nombre": {
       "es": "Porción de jamón cocido o panceta caliente",
       "en": "Portion of hot ham or bacon",
@@ -460,7 +460,7 @@
      "tags": []
     },
     {
-     "id": "add-vegetales",
+     "id": "vegetales",
      "nombre": {
       "es": "Vegetales salteados",
       "en": "Sautéed vegetables",
