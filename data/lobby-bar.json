@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T15:50:09.589Z",
+  "actualizado": "2026-09-02T16:12:26.447Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -173,7 +173,13 @@
      },
      "precio": 45000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_12",
+      "ALERGENO_13"
      ]
     },
     {
@@ -327,7 +333,14 @@
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com camarões."
      },
      "precio": 40000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7",
+      "ALERGENO_8"
+     ]
     },
     {
      "id": "caesar-salmon",
@@ -365,7 +378,14 @@
       "pt": "Salmão defumado, ovo poché, homus de grão-de-bico, mix de folhas, tomates cereja e abóbora assada, beterraba, amêndoas tostadas, sementes e molho."
      },
      "precio": 37000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_8",
+      "ALERGENO_11"
+     ]
     }
    ]
   },
@@ -394,7 +414,9 @@
      "precio": 33000,
      "tags": [
       "VEGETARIANO",
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_13"
      ]
     },
     {
@@ -411,7 +433,13 @@
      },
      "precio": 34000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7",
+      "ALERGENO_11"
      ]
     },
     {
@@ -507,7 +535,12 @@
      },
      "precio": 37000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_11"
      ]
     },
     {
@@ -523,7 +556,12 @@
       "pt": "Sanduíche de filé, presunto, queijo, tomate e alface, com batatas fritas."
      },
      "precio": 39000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "croissant",
@@ -612,7 +650,10 @@
       "pt": "Em pão árabe ou de forma."
      },
      "precio": 19000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "tostado-qt",
@@ -628,7 +669,8 @@
      },
      "precio": 19000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_2"
      ]
     }
    ]
@@ -656,7 +698,11 @@
       "pt": "Pizza de mussarela, presunto, ovo e pimentões assados."
      },
      "precio": 32000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
     },
     {
      "id": "pizza-margarita",
@@ -673,7 +719,10 @@
      "precio": 32000,
      "tags": [
       "NUEVO",
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
      ]
     }
    ]
@@ -701,7 +750,10 @@
       "pt": "Ancho braseado, creme de vinho, tomates cereja assados, coroa de batata e cogumelos."
      },
      "precio": 46000,
-     "tags": []
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2"
+     ]
     },
     {
      "id": "lb-salmon",
@@ -717,7 +769,13 @@
      },
      "precio": 51000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7",
+      "ALERGENO_8"
      ]
     },
     {
@@ -752,7 +810,9 @@
      },
      "precio": 39000,
      "tags": [
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4"
      ]
     },
     {
@@ -769,7 +829,13 @@
      },
      "precio": 44000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7"
      ]
     },
     {
@@ -786,7 +852,8 @@
      },
      "precio": 40000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2"
      ]
     }
    ]
@@ -810,7 +877,11 @@
      },
      "descripcion": {},
      "precio": 29500,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8"
+     ]
     },
     {
      "id": "noquis-menores",
@@ -941,7 +1012,10 @@
       "pt": "Com sorvete de creme."
      },
      "precio": 22000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     },
     {
      "id": "helado",
@@ -1030,7 +1104,9 @@
      },
      "descripcion": {},
      "precio": 29000,
-     "tags": []
+     "tags": [
+      "ALERGENO_4"
+     ]
     }
    ]
   },
@@ -1058,7 +1134,12 @@
      },
      "precio": 20000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
      ]
     },
     {
@@ -1075,7 +1156,11 @@
      },
      "precio": 22000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
@@ -1091,7 +1176,12 @@
       "pt": "Massa sablée, curd de limão e creme cítrico."
      },
      "precio": 20000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
     },
     {
      "id": "ddl-100",
@@ -1108,7 +1198,10 @@
      "precio": 22000,
      "tags": [
       "NUEVO",
-      "SIN_TACC"
+      "SIN_TACC",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
@@ -1125,7 +1218,11 @@
      },
      "precio": 16000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
@@ -1142,7 +1239,12 @@
      },
      "precio": 20000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
      ]
     },
     {
@@ -1161,7 +1263,10 @@
      "tags": [
       "SIN_TACC",
       "NUEVO",
-      "VEGANO"
+      "VEGANO",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
@@ -1211,7 +1316,13 @@
      },
      "descripcion": {},
      "precio": 13000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11"
+     ]
     },
     {
      "id": "budin",
@@ -1228,7 +1339,9 @@
      "precio": 15000,
      "tags": [
       "ALERGENO_2",
-      "ALERGENO_4"
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
@@ -1285,7 +1398,18 @@
      },
      "descripcion": {},
      "precio": 66000,
-     "tags": []
+     "tags": [
+      "PROMO",
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     }
    ]
   },
