@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T15:50:09.589Z",
+  "actualizado": "2026-09-02T16:12:26.449Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -1149,7 +1149,9 @@
      "precio": 16500,
      "tags": [
       "ALERGENO_2",
-      "ALERGENO_4"
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
