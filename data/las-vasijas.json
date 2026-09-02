@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T16:12:26.442Z",
+  "actualizado": "2026-09-02T17:38:41.163Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general.",
@@ -294,32 +294,58 @@
    ]
   },
   {
-   "id": "propuesta-te",
+   "id": "propuesta-te-lv",
    "nombre": {
-    "es": "Propuesta de té",
-    "en": "Afternoon tea",
-    "pt": "Chá da tarde"
+    "es": "Servicio de Té en Las Vasijas",
+    "en": "Tea Service at Las Vasijas",
+    "pt": "Serviço de chá em Las Vasijas"
    },
    "foto": "propuesta-te.jpg",
    "nota": {
-    "es": "**Disponible solo viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.** \n\n| **SALADO**: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso. \n| **DULCE**: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate. \n| **BEBIDAS**: Jugo de naranja e infusión a elección.",
-    "en": "**Available only on Fridays, Saturdays, Sundays and public holidays, from 4:30 to 6:30 pm.**\n\n| **SAVORY**: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes | Cheese scones.\n| **SWEET**: Red berry macarons with raspberry center | Citrus half-sphere with homemade granola base | Apple tart | Moist dulce de leche cake | Rustic chocolate cake with a dulce de leche center, coated in chocolate | Flat croissant, with a rich Nutella and chocolate filling.\n| **BEVERAGES**: Orange juice and tea or coffee of your choice.",
-    "pt": "**Disponível somente às sextas-feiras, sábados, domingos e feriados, das 16h30 às 18h30.**\n\n| **SALGADO**: Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja | Scones de queijo.\n| **DOCE**: Macarons de frutas vermelhas com recheio de framboesa | Semiesfera cítrica com base de granola caseira | Torta de maçã | Bolo úmido de doce de leite | Rústico de chocolate com recheio de doce de leite, coberto com chocolate | Croissant flat, com recheio cremoso de Nutella e chocolate.\n| **BEBIDAS**: Suco de laranja e chá ou café à escolha."
+    "es": "**Comienzo del servicio a las 16:30hs con finalización 18:30hs. Cantidad mínima de cubiertos: 20. En caso de no alcanzar el mínimo de comensales requerido, el servicio podrá disfrutarse en nuestro Lobby Bar, manteniendo el mismo precio.** \n\n| **Opciones Saladas**: Tostados de jamón y queso | Fingers sandwiches (salmón ahumado, tártara y rucula selvática; prosciutto 12 meses, tomates secos y golf) | Medialunas de manteca rellenas | Tostadas de pan lactal. \n| **Opciones Dulce**: Scons | Brownies con dulce de leche | Apple crumble | Cookies con chispas de chocolate | Macarrones. \n| **Selección de tortas y tartas**(1 torta a elección cada 10 comensales): Rogel, Lemon Pie, Tarta frutal y diplomata, Clásica tres leches y/o Chocotorta. \n| **Bebidas & Infusiones**:  Café | Té | Leche | Jugos.\n\nPara realizar efectiva la reserva se deberá abonar el 30% de la misma en concepto de seña con un plazo no mayor a 30 días de realización del evento. El restante 70% debe ser cancelado 72hs antes del mismo al valor en dicho momento. En caso de utilizar un DJ se deben abonar los impuestos correspondientes a SADAIC y AADICAPIF.",
+    "en": "**Service begins at 4:30 p.m. and ends at 6:30 p.m. Minimum number of guests: 20. If the required minimum number of guests is not reached, the service will be served in our Lobby Bar at the same price.**\n\n| **Savory Options**: Ham and cheese toast | Finger sandwiches (smoked salmon, tartare, and wild arugula; 12-month-aged prosciutto, sun-dried tomatoes, and golf) | Butter-filled croissants | Toast made with white bread.\n| **Sweet Options**: Scones | Brownies with dulce de leche | Apple crumble | Chocolate chip cookies | Macarons.\n| **Selection of Cakes and Tarts** (1 cake of your choice for every 10 guests): Rogel, Lemon Pie, Fruit and Diplomat Tart, Classic Tres Leches, and/or Chocotorta.\n| **Beverages & Infusions**:  Coffee | Tea | Milk | Juices.\n\nTo confirm the reservation, a 30% deposit must be paid no later than 30 days before the event. The remaining 70% must be paid 72 hours before the event at the rate in effect at that time. If a DJ is hired, the corresponding taxes to SADAIC and AADICAPIF must be paid.",
+    "pt": "**O serviço começa às 16h30 e termina às 18h30. Número mínimo de convidados: 20. Caso não seja atingido o número mínimo de convidados exigido, o serviço poderá ser desfrutado em nosso Lobby Bar, mantendo o mesmo preço.**\n\n| **Opções salgadas**: Torradas com presunto e queijo | Sanduíches finos (salmão defumado, tártara e rúcula silvestre; prosciutto de 12 meses, tomates secos e golf) | Croissants recheados com manteiga | Torradas de pão de forma.\n| **Opções doces**: Scones | Brownies com doce de leite | Crumble de maçã | Biscoitos com gotas de chocolate | Macarons.\n| **Seleção de bolos e tortas** (1 bolo à escolha a cada 10 convidados): Rogel, torta de limão, torta de frutas e diplomata, clássico de três leites e/ou torta de chocolate.\n| **Bebidas e infusões**: Café | Chá | Leite | Sucos.\n\nPara que a reserva seja efetivada, deverá ser pago 30% do valor total a título de sinal, em um prazo não superior a 30 dias antes da realização do evento. Os 70% restantes devem ser pagos 72 horas antes do evento, pelo valor vigente naquele momento. Caso seja contratado um DJ, deverão ser pagos os impostos correspondentes à SADAIC e à AADICAPIF."
    },
    "items": [
     {
      "id": "propuesta-te-lv",
      "nombre": {
-      "es": "Precio cada 2 personas",
-      "en": "Price per 2 people",
-      "pt": "Preço para 2 pessoas"
+      "es": "Servicio por persona",
+      "en": "Service per person",
+      "pt": "Serviço por pessoa"
+     },
+     "descripcion": {},
+     "precio": 74000,
+     "tags": []
+    },
+    {
+     "id": "brindis-propuesta-te-lv",
+     "nombre": {
+      "es": "Brindis con champagne Trumpeter Extra Brut",
+      "en": "Toast with Trumpeter Extra Brut champagne",
+      "pt": "Brinde com champanhe Trumpeter Extra Brut"
      },
      "descripcion": {
-      "es": "Reserva previa y mínimo de 20 comensales. En caso de no alcanzar el mínimo de comensales requerido, el servicio podrá disfrutarse en nuestro Lobby Bar, manteniendo el mismo precio.",
-      "en": "Advance reservation and a minimum of 20 guests required. If the required minimum number of guests is not reached, the service can be enjoyed at our Lobby Bar, at the same price.",
-      "pt": "Reserva prévia e mínimo de 20 pessoas. Caso o número mínimo de pessoas exigido não seja atingido, o serviço poderá ser desfrutado em nosso Lobby Bar, mantendo o mesmo preço."
+      "es": "Por persona",
+      "en": "Per person",
+      "pt": "Por pessoa"
      },
-     "precio": 66000,
+     "precio": 31500,
+     "tags": []
+    },
+    {
+     "id": "torta-propuesta-te-lv",
+     "nombre": {
+      "es": "Torta alegórica con detalles a elección",
+      "en": "Thematic cake with custom details",
+      "pt": "Bolo temático com detalhes à escolha"
+     },
+     "descripcion": {
+      "es": "Precio por kilogramo (minimo 3kg)",
+      "en": "Price per kilogram (minimum 3 kg)",
+      "pt": "Preço por quilograma (mínimo de 3 kg)"
+     },
+     "precio": 49000,
      "tags": []
     }
    ]
