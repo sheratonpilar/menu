@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T16:12:49.669Z",
+ "actualizado": "2026-09-02T17:38:59.621Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -15,7 +15,7 @@
    "tema": "lv",
    "logo": "las-vasijas.svg",
    "orden": 2,
-   "items": 9
+   "items": 11
   },
   {
    "id": "carta-vinos",
