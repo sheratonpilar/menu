@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-01T17:23:25.725Z",
+  "actualizado": "2026-09-02T15:50:09.587Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general.",
@@ -148,7 +148,7 @@
    },
    "items": [
     {
-     "id": "lv-desayuno-adulto",
+     "id": "desayuno-adulto-lv",
      "nombre": {
       "es": "Adultos",
       "en": "Adults",
@@ -159,7 +159,7 @@
      "tags": []
     },
     {
-     "id": "lv-desayuno-menor",
+     "id": "desayuno-menor-lv",
      "nombre": {
       "es": "Menores (4 a 12 años)",
       "en": "Kids (4–12)",
@@ -186,7 +186,7 @@
    },
    "items": [
     {
-     "id": "lv-buffet-finde-adulto-vino",
+     "id": "buffet-finde-adulto-vino-lv",
      "nombre": {
       "es": "Adultos con vino",
       "en": "Adults with wine",
@@ -201,7 +201,7 @@
      "tags": []
     },
     {
-     "id": "lv-buffet-finde-adulto",
+     "id": "buffet-finde-adulto-lv",
      "nombre": {
       "es": "Adultos sin vino",
       "en": "Adults without wine",
@@ -216,7 +216,7 @@
      "tags": []
     },
     {
-     "id": "lv-buffet-finde-menor",
+     "id": "buffet-finde-menor-lv",
      "nombre": {
       "es": "Menores (4 a 12 años)",
       "en": "Children (4 to 12 years)",
@@ -247,7 +247,7 @@
    },
    "items": [
     {
-     "id": "lv-buffet-semana-adulto-vino",
+     "id": "buffet-semana-adulto-vino-lv",
      "nombre": {
       "es": "Adultos con vino",
       "en": "Adults with wine",
@@ -262,7 +262,7 @@
      "tags": []
     },
     {
-     "id": "lv-buffet-semana-adulto",
+     "id": "buffet-semana-adulto-lv",
      "nombre": {
       "es": "Adultos sin vino",
       "en": "Adults without wine",
@@ -277,7 +277,7 @@
      "tags": []
     },
     {
-     "id": "lv-buffet-semana-menor",
+     "id": "buffet-semana-menor-lv",
      "nombre": {
       "es": "Menores (4 a 12 años)",
       "en": "Children (4 to 12 years)",
@@ -308,7 +308,7 @@
    },
    "items": [
     {
-     "id": "lv-propuesta-te",
+     "id": "propuesta-te-lv",
      "nombre": {
       "es": "Precio cada 2 personas",
       "en": "Price per 2 people",
