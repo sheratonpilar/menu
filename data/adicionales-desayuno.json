@@ -9,11 +9,11 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T17:38:41.164Z",
+  "actualizado": "2026-09-03T21:11:18.702Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
-   "es": "Consultar por otras opciones sin TACC. \n**Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
+   "es": "Consultar por otras opciones sin TACC. \n**Si posee alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
    "en": "Please ask about other gluten-free options.\n**If you have any dietary restrictions, please inform your waiter before placing your order.**",
    "pt": "Consulte sobre outras opções sem glúten.\n**Se você tiver alguma restrição alimentar, por favor, informe ao seu garçom antes de fazer o pedido.**"
   }
@@ -215,35 +215,17 @@
      "tags": []
     },
     {
-     "id": "jugo-pepino-pera",
+     "id": "jugo-natural",
      "nombre": {
-      "es": "Jugo natural: pepino y pera",
-      "en": "Natural juice: cucumber and pear",
-      "pt": "Suco natural: pepino e pera"
+      "es": "Jugo natural",
+      "en": "Natural juice",
+      "pt": "Suco natural"
      },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "jugo-zanahoria-manzana",
-     "nombre": {
-      "es": "Jugo natural: zanahoria y manzana",
-      "en": "Natural juice: carrot and apple",
-      "pt": "Suco natural: cenoura e maçã"
+     "descripcion": {
+      "es": "Pepino y pera | zanahoria y manzana | zanahoria y naranja",
+      "en": "Cucumber and pear | carrot and apple | carrot and orange",
+      "pt": "Pepino e pera | cenoura e maçã | cenoura e laranja"
      },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "jugo-zanahoria-naranja",
-     "nombre": {
-      "es": "Jugo natural: zanahoria y naranja",
-      "en": "Natural juice: carrot and orange",
-      "pt": "Suco natural: cenoura e laranja"
-     },
-     "descripcion": {},
      "precio": 19000,
      "tags": []
     }
