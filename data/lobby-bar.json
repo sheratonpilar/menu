@@ -9,11 +9,11 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T17:38:41.167Z",
+  "actualizado": "2026-09-03T21:11:18.711Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
-   "es": "Consultar por otras opciones sin TACC. \n**Si tiene alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
+   "es": "Consultar por otras opciones sin TACC. \n**Si posee alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
    "en": "Please ask about other gluten-free options.\n**If you have any dietary restrictions, please inform your waiter before placing your order.** \n\nMay contain one or more of the following allergens:\n1 | Celery\n2 | Gluten\n3 | Crustaceans\n4 | Eggs\n5 | Fish\n6 | Lupin flour\n7 | Molluscs\n8 | Mustard\n9 | Nuts\n10 | Peanuts\n11 | Sesame seeds\n12 | Soy\n13 | Sulfur dioxide",
    "pt": "Consulte sobre outras opções sem glúten.\n**Se você tiver alguma restrição alimentar, por favor, informe ao seu garçom antes de fazer o pedido.**\n\nPode conter um ou mais dos seguintes alérgenos:\n1 | Aipo\n2 | Glúten\n3 | Crustáceos\n4 | Ovos\n5 | Peixes\n6 | Farinha de tremoço\n7 | Moluscos\n8 | Mostarda\n9 | Frutos secos\n10 | Amendoins\n11 | Sementes de gergelim\n12 | Soja\n13 | Dióxido de enxofre"
   }
@@ -154,7 +154,6 @@
      "precio": 17000,
      "tags": [
       "VEGETARIANO",
-      "SIN_TACC",
       "ALERGENO_2",
       "ALERGENO_13"
      ]
@@ -284,7 +283,7 @@
       "pt": "Caesar tradicional"
      },
      "descripcion": {
-      "es": "Variedad de verdes, láminas de parmesano, croutons, bacon y su aderezo.",
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar.",
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
      },
@@ -564,20 +563,6 @@
      ]
     },
     {
-     "id": "croissant",
-     "nombre": {
-      "es": "Croissant de jamón y queso",
-      "en": "Ham and cheese croissant",
-      "pt": "Croissant de presunto e queijo"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_13"
-     ]
-    },
-    {
      "id": "hamburguesa",
      "nombre": {
       "es": "Hamburguesa",
@@ -671,6 +656,20 @@
      "tags": [
       "VEGETARIANO",
       "ALERGENO_2"
+     ]
+    },
+    {
+     "id": "croissant",
+     "nombre": {
+      "es": "Croissant de jamón y queso",
+      "en": "Ham and cheese croissant",
+      "pt": "Croissant de presunto e queijo"
+     },
+     "descripcion": {},
+     "precio": 23000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
      ]
     }
    ]
@@ -884,22 +883,6 @@
      ]
     },
     {
-     "id": "noquis-menores",
-     "nombre": {
-      "es": "Ñoquis de papa con filetto o panna",
-      "en": "Potato gnocchi with filetto or cream",
-      "pt": "Nhoque de batata ao filetto ou creme"
-     },
-     "descripcion": {},
-     "precio": 29000,
-     "tags": [
-      "VEGETARIANO",
-      "ALERGENO_1",
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
      "id": "nuggets",
      "nombre": {
       "es": "Nuggets con papas fritas",
@@ -911,6 +894,25 @@
      "tags": [
       "ALERGENO_2",
       "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "hamburguesa-menores",
+     "nombre": {
+      "es": "Hamburguesa",
+      "en": "Burger",
+      "pt": "Hambúrguer"
+     },
+     "descripcion": {
+      "es": "Con queso cheddar y papas fritas.",
+      "en": "With cheddar and fries",
+      "pt": "Com cheddar e batatas fritas"
+     },
+     "precio": 28500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_11",
       "ALERGENO_13"
      ]
     },
@@ -931,21 +933,6 @@
      ]
     },
     {
-     "id": "hamburguesa-menores",
-     "nombre": {
-      "es": "Hamburguesa con queso cheddar y papas fritas",
-      "en": "Burger with cheddar and fries",
-      "pt": "Hambúrguer com cheddar e batatas fritas"
-     },
-     "descripcion": {},
-     "precio": 28500,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_11",
-      "ALERGENO_13"
-     ]
-    },
-    {
      "id": "tallarin",
      "nombre": {
       "es": "Tallarín con crema",
@@ -956,6 +943,22 @@
      "precio": 29000,
      "tags": [
       "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "noquis-menores",
+     "nombre": {
+      "es": "Ñoquis de papa con filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
       "ALERGENO_2",
       "ALERGENO_4"
      ]
@@ -973,138 +976,6 @@
       "VEGETARIANO",
       "SIN_TACC",
       "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "postres",
-   "nombre": {
-    "es": "Postres",
-    "en": "Desserts",
-    "pt": "Sobremesas"
-   },
-   "foto": "postres.jpg",
-   "nota": {},
-   "items": [
-    {
-     "id": "frutas",
-     "nombre": {
-      "es": "Frutas fileteadas",
-      "en": "Sliced fruit",
-      "pt": "Frutas fatiadas"
-     },
-     "descripcion": {},
-     "precio": 22000,
-     "tags": []
-    },
-    {
-     "id": "frutos-rojos",
-     "nombre": {
-      "es": "Mix de frutos rojos con helado",
-      "en": "Red berries with ice cream",
-      "pt": "Frutas vermelhas com sorvete"
-     },
-     "descripcion": {
-      "es": "Con helado de crema americana.",
-      "en": "With cream ice cream.",
-      "pt": "Com sorvete de creme."
-     },
-     "precio": 22000,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
-     "id": "helado",
-     "nombre": {
-      "es": "Helado",
-      "en": "Ice cream",
-      "pt": "Sorvete"
-     },
-     "descripcion": {
-      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
-      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
-      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
-     },
-     "precio": 21500,
-     "tags": [
-      "ALERGENO_2",
-      "ALERGENO_4",
-      "ALERGENO_13"
-     ]
-    },
-    {
-     "id": "franui",
-     "nombre": {
-      "es": "Franui",
-      "en": "Franui",
-      "pt": "Franui"
-     },
-     "descripcion": {
-      "es": "Chocolate con leche / amargo / Pink.",
-      "en": "Milk / dark / Pink chocolate.",
-      "pt": "Chocolate ao leite / meio amargo / Pink."
-     },
-     "precio": 14000,
-     "tags": [
-      "SIN_TACC",
-      "ALERGENO_9",
-      "ALERGENO_10",
-      "ALERGENO_12"
-     ]
-    },
-    {
-     "id": "franui-free",
-     "nombre": {
-      "es": "Franui Free",
-      "en": "Franui Free",
-      "pt": "Franui Free"
-     },
-     "descripcion": {
-      "es": "Sin azúcar y sin lácteos.",
-      "en": "No sugar, dairy free.",
-      "pt": "Sem açúcar e sem lactose."
-     },
-     "precio": 14000,
-     "tags": [
-      "SIN_TACC",
-      "VEGANO",
-      "ALERGENO_9",
-      "ALERGENO_10",
-      "ALERGENO_12"
-     ]
-    },
-    {
-     "id": "tableta-freddo",
-     "nombre": {
-      "es": "Tableta Freddo",
-      "en": "Freddo chocolate bar",
-      "pt": "Tablete Freddo"
-     },
-     "descripcion": {},
-     "precio": 7500,
-     "tags": [
-      "SIN_TACC",
-      "ALERGENO_4",
-      "ALERGENO_9",
-      "ALERGENO_10",
-      "ALERGENO_12",
-      "ALERGENO_13"
-     ]
-    },
-    {
-     "id": "flan",
-     "nombre": {
-      "es": "Flan con dulce de leche",
-      "en": "Crème caramel with dulce de leche",
-      "pt": "Pudim com doce de leite"
-     },
-     "descripcion": {},
-     "precio": 29000,
-     "tags": [
       "ALERGENO_4"
      ]
     }
@@ -1298,9 +1169,9 @@
       "pt": "Iogurte com granola"
      },
      "descripcion": {
-      "es": "Granola casera, frutas de estación, yogurt griego y miel.",
-      "en": "Homemade granola, seasonal fruit, Greek yoghurt and honey.",
-      "pt": "Granola caseira, frutas da estação, iogurte grego e mel."
+      "es": "Yogurt griego, granola casera, frutas de estación y miel.",
+      "en": "Greek yoghurt, homemade granola, seasonal fruit and honey.",
+      "pt": "Iogurte grego, granola caseira, frutas da estação e mel."
      },
      "precio": 30000,
      "tags": [
@@ -1338,6 +1209,7 @@
      },
      "precio": 15000,
      "tags": [
+      "NUEVO",
       "ALERGENO_2",
       "ALERGENO_4",
       "ALERGENO_9",
@@ -1371,6 +1243,126 @@
       "ALERGENO_10",
       "ALERGENO_11",
       "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "frutas",
+     "nombre": {
+      "es": "Frutas fileteadas",
+      "en": "Sliced fruit",
+      "pt": "Frutas fatiadas"
+     },
+     "descripcion": {},
+     "precio": 22000,
+     "tags": []
+    },
+    {
+     "id": "frutos-rojos",
+     "nombre": {
+      "es": "Helado con frutos rojos",
+      "en": "Ice cream with red berries",
+      "pt": "Sorvete com frutas vermelhas"
+     },
+     "descripcion": {
+      "es": "Helado de crema americana con mix de frutos rojos.",
+      "en": "Vanilla ice cream with mixed red berries.",
+      "pt": "Sorvete de creme americano com mix de frutas vermelhas."
+     },
+     "precio": 22000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "helado",
+     "nombre": {
+      "es": "Helado (2 bochas a elección)",
+      "en": "Ice cream (2 scoops)",
+      "pt": "Sorvete (2 bolas)"
+     },
+     "descripcion": {
+      "es": "americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
+      "en": "Cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
+      "pt": "Creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+     },
+     "precio": 21500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "franui",
+     "nombre": {
+      "es": "Franui",
+      "en": "Franui",
+      "pt": "Franui"
+     },
+     "descripcion": {
+      "es": "Chocolate con leche / amargo / Pink.",
+      "en": "Milk / dark / Pink chocolate.",
+      "pt": "Chocolate ao leite / meio amargo / Pink."
+     },
+     "precio": 14000,
+     "tags": [
+      "SIN_TACC",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
+     ]
+    },
+    {
+     "id": "franui-free",
+     "nombre": {
+      "es": "Franui Free",
+      "en": "Franui Free",
+      "pt": "Franui Free"
+     },
+     "descripcion": {
+      "es": "Sin azúcar y sin lácteos.",
+      "en": "No sugar, dairy free.",
+      "pt": "Sem açúcar e sem lactose."
+     },
+     "precio": 14000,
+     "tags": [
+      "SIN_TACC",
+      "VEGANO",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
+     ]
+    },
+    {
+     "id": "tableta-freddo",
+     "nombre": {
+      "es": "Tableta Freddo",
+      "en": "Freddo chocolate bar",
+      "pt": "Tablete Freddo"
+     },
+     "descripcion": {},
+     "precio": 7500,
+     "tags": [
+      "SIN_TACC",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "flan",
+     "nombre": {
+      "es": "Flan con dulce de leche",
+      "en": "Crème caramel with dulce de leche",
+      "pt": "Pudim com doce de leite"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "ALERGENO_4"
      ]
     }
    ]
@@ -1538,35 +1530,17 @@
      "tags": []
     },
     {
-     "id": "jugo-pepino-pera",
+     "id": "jugo-natural",
      "nombre": {
-      "es": "Jugo natural: pepino y pera",
-      "en": "Natural juice: cucumber and pear",
-      "pt": "Suco natural: pepino e pera"
+      "es": "Jugo natural",
+      "en": "Natural juice",
+      "pt": "Suco natural"
      },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "jugo-zanahoria-manzana",
-     "nombre": {
-      "es": "Jugo natural: zanahoria y manzana",
-      "en": "Natural juice: carrot and apple",
-      "pt": "Suco natural: cenoura e maçã"
+     "descripcion": {
+      "es": "Pepino y pera | zanahoria y manzana | zanahoria y naranja",
+      "en": "Cucumber and pear | carrot and apple | carrot and orange",
+      "pt": "Pepino e pera | cenoura e maçã | cenoura e laranja"
      },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
-     "id": "jugo-zanahoria-naranja",
-     "nombre": {
-      "es": "Jugo natural: zanahoria y naranja",
-      "en": "Natural juice: carrot and orange",
-      "pt": "Suco natural: cenoura e laranja"
-     },
-     "descripcion": {},
      "precio": 19000,
      "tags": []
     },
@@ -1719,14 +1693,14 @@
     {
      "id": "te-hebras",
      "nombre": {
-      "es": "Té en hebras",
-      "en": "Loose-leaf tea",
-      "pt": "Chá em folhas"
+      "es": "Té en hebras de elaboración artesanal",
+      "en": "Artisanal loose-leaf tea",
+      "pt": "Chá em folhas de elaboração artesanal"
      },
      "descripcion": {
-      "es": "**Té negro**: elaborado en forma artesanal, libre de agroquímicos, dulce y aromático. \n**Té verde**: elaborado en forma artesanal, libre de agroquímicos, vegetal, tostado. \n**Té blend lovely chai**: té negro, cascaritas de naranjas, cardamomo, canela, esencia de naranja, clavo de olor y pimienta rosa. \n**Té blend amelie**: té negro, trocitos de manzana, canela, y notas dulces. \n**Té blend chocolat**: té negro argentino, cascarilla de cacao, aroma de chocolate y frescura de la menta. \n**Té blend patagonia in love**: té negro argentino, trocitos de frutilla, arándanos rojos, pimienta rosa, notas a chocolate blanco y aroma de grosellas de la patagonia.",
-      "en": "**Black tea**: handcrafted, free from agrochemicals, sweet and aromatic.\n**Green tea**: handcrafted, free from agrochemicals, with vegetal and toasted notes.\n**Lovely chai tea blend**: black tea, orange peel, cardamom, cinnamon, orange essence, cloves and pink peppercorns.\n**Amelie tea blend**: black tea, apple pieces, cinnamon and sweet notes.\n**Chocolat tea blend**: Argentine black tea, cocoa husks, chocolate aroma and refreshing mint.\n**Patagonia in love tea blend**: Argentine black tea, strawberry pieces, cranberries, pink peppercorns, white chocolate notes and a Patagonian currant aroma.",
-      "pt": "**Chá preto**: elaborado artesanalmente, livre de agroquímicos, doce e aromático.\n**Chá verde**: elaborado artesanalmente, livre de agroquímicos, com notas vegetais e tostadas.\n**Blend de chá lovely chai**: chá preto, cascas de laranja, cardamomo, canela, essência de laranja, cravo-da-índia e pimenta-rosa.\n**Blend de chá amelie**: chá preto, pedaços de maçã, canela e notas doces.\n**Blend de chá chocolat**: chá preto argentino, casca de cacau, aroma de chocolate e frescor da hortelã.\n**Blend de chá patagonia in love**: chá preto argentino, pedaços de morango, cranberries, pimenta-rosa, notas de chocolate branco e aroma de groselhas da Patagônia."
+      "es": "**Té negro**: libre de agroquímicos, dulce y aromático. \n**Té verde**: libre de agroquímicos, vegetal, tostado. \n**Té blend lovely chai**: té negro, cascaritas de naranjas, cardamomo, canela, clavo de olor y pimienta rosa. \n**Té blend amelie**: té negro, trocitos de manzana, canela y notas dulces. \n**Té blend chocolat**: té negro argentino, cascarilla de cacao, aroma de chocolate y frescura de la menta. \n\n**Té blend patagonia in love**: té negro argentino, trocitos de frutilla, arándanos rojos, pimienta rosa, notas a chocolate blanco y aroma de grosellas de la patagonia.",
+      "en": "**Black tea**: free from agrochemicals, sweet and aromatic.\n**Green tea**: free from agrochemicals, with vegetal and toasted notes.\n**Lovely chai tea blend**: black tea, orange peel, cardamom, cinnamon, cloves and pink peppercorns.\n**Amelie tea blend**: black tea, apple pieces, cinnamon and sweet notes.\n**Chocolat tea blend**: Argentine black tea, cocoa husks, chocolate aroma and refreshing mint.\n**Patagonia in love tea blend**: Argentine black tea, strawberry pieces, cranberries, pink peppercorns, white chocolate notes and a Patagonian currant aroma.",
+      "pt": "**Chá preto**: livre de agroquímicos, doce e aromático.\n**Chá verde**: livre de agroquímicos, com notas vegetais e tostadas.\n**Blend de chá lovely chai**: chá preto, cascas de laranja, cardamomo, canela, cravo-da-índia e pimenta-rosa.\n**Blend de chá amelie**: chá preto, pedaços de maçã, canela e notas doces.\n**Blend de chá chocolat**: chá preto argentino, casca de cacau, aroma de chocolate e frescor da hortelã.\n**Blend de chá patagonia in love**: chá preto argentino, pedaços de morango, cranberries, pimenta-rosa, notas de chocolate branco e aroma de groselhas da Patagônia."
      },
      "precio": 8000,
      "tags": []
@@ -1790,9 +1764,20 @@
     {
      "id": "cerveza-heineken",
      "nombre": {
-      "es": "Heineken lata x 473 cc / Heineken 0.0",
-      "en": "Heineken lata x 473 cc / Heineken 0.0",
-      "pt": "Heineken lata x 473 cc / Heineken 0.0"
+      "es": "Heineken | 473 cc",
+      "en": "Heineken | 473 cc",
+      "pt": "Heineken | 473 cc"
+     },
+     "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "cerveza-heineken-cero",
+     "nombre": {
+      "es": "Heineken 0.0 | 473 cc",
+      "en": "Heineken 0.0 | 473 cc",
+      "pt": "Heineken 0.0  | 473 cc"
      },
      "descripcion": {},
      "precio": 9500,
@@ -1855,22 +1840,44 @@
      "tags": []
     },
     {
-     "id": "copa-trumpeter-malbec-cs",
+     "id": "copa-trumpeter-malbec",
      "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+      "es": "Trumpeter Malbec",
+      "en": "Trumpeter Malbec",
+      "pt": "Trumpeter Malbec"
      },
      "descripcion": {},
      "precio": 10000,
      "tags": []
     },
     {
-     "id": "copa-trumpeter-sb-chard",
+     "id": "copa-trumpeter-cabernet-sauvignon",
      "nombre": {
-      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
+      "es": "Trumpeter Cabernet Sauvignon",
+      "en": "Trumpeter Cabernet Sauvignon",
+      "pt": "Trumpeter Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sauvignon-blanc",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc",
+      "en": "Trumpeter Sauvignon Blanc",
+      "pt": "Trumpeter Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-chardonnay",
+     "nombre": {
+      "es": "Trumpeter Chardonnay",
+      "en": "Trumpeter Chardonnay",
+      "pt": "Trumpeter Chardonnay"
      },
      "descripcion": {},
      "precio": 10000,
@@ -1898,16 +1905,16 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-gin-tonic",
+     "id": "ckt-aperol",
      "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
      },
      "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
+      "es": "Aperol, espumoso y agua con gas.",
+      "en": "Aperol, sparkling wine and soda water.",
+      "pt": "Aperol, espumante e água com gás."
      },
      "precio": 25000,
      "tags": []
@@ -1920,9 +1927,9 @@
       "pt": "Bacardi Cocktail"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
+      "es": "Ron Bacardi, jugo de limón y granadina.",
+      "en": "Bacardi rum, lemon juice and grenadine.",
+      "pt": "Bacardi rum, suco de limão e grenadine."
      },
      "precio": 25000,
      "tags": []
@@ -1936,23 +1943,8 @@
      },
      "descripcion": {
       "es": "Champagne y pulpa de durazno.",
-      "en": "Champagne y pulpa de durazno.",
-      "pt": "Champagne y pulpa de durazno."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
+      "en": "Champagne and peach purée.",
+      "pt": "Champagne e polpa de pêssego."
      },
      "precio": 25000,
      "tags": []
@@ -1965,24 +1957,9 @@
       "pt": "Bloody Mary"
      },
      "descripcion": {
-      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-pisco-sour",
-     "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
-     },
-     "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+      "es": "Vodka Smirnoff, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Smirnoff vodka, lemon juice, tomato juice, salt, pepper, Tabasco and Worcestershire sauce.",
+      "pt": "Smirnoff vodka, suco de limão, suco de tomate, sal, pimenta, Tabasco e molho inglês."
      },
      "precio": 25000,
      "tags": []
@@ -1996,8 +1973,8 @@
      },
      "descripcion": {
       "es": "Campari y jugo de naranja.",
-      "en": "Campari y jugo de naranja.",
-      "pt": "Campari y jugo de naranja."
+      "en": "Campari and orange juice.",
+      "pt": "Campari e suco de laranja."
      },
      "precio": 25000,
      "tags": []
@@ -2011,8 +1988,8 @@
      },
      "descripcion": {
       "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
+      "en": "Cachaça and muddled limes.",
+      "pt": "Cachaça e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -2025,24 +2002,9 @@
       "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-aperol",
-     "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
-     },
-     "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Absolut y limas maceradas.",
+      "en": "Absolut vodka and muddled limes.",
+      "pt": "Absolut vodka e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -2056,8 +2018,8 @@
      },
      "descripcion": {
       "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
+      "en": "Bacardi Gold Rum, cola and lemon.",
+      "pt": "Rum Bacardi Ouro, cola e limão."
      },
      "precio": 25000,
      "tags": []
@@ -2070,9 +2032,9 @@
       "pt": "Daikiri Frutal"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón, azúcar y fruta natural.",
-      "en": "Ron, jugo de limón, azúcar y fruta natural.",
-      "pt": "Ron, jugo de limón, azúcar y fruta natural."
+      "es": "Ron Bacardi, jugo de limón, azúcar y fruta natural.",
+      "en": "Bacardi rum, lemon juice, sugar and fresh fruit.",
+      "pt": "Bacardi rum, suco de limão, açúcar e frutas frescas."
      },
      "precio": 25000,
      "tags": []
@@ -2085,9 +2047,24 @@
       "pt": "Dry Martini"
      },
      "descripcion": {
-      "es": "Gin, Dry Martini y oliva verde.",
-      "en": "Gin, Dry Martini y oliva verde.",
-      "pt": "Gin, Dry Martini y oliva verde."
+      "es": "Gin Beefeater, Dry Martini y oliva verde.",
+      "en": "Beefeater gin, Dry Martini and green olive.",
+      "pt": "Beefeater gin, Dry Martini e azeitona verde."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica y limón.",
+      "en": "Beefeater Gin, tonic water and lemon.",
+      "pt": "Gin Beefeater, água tônica e limão."
      },
      "precio": 25000,
      "tags": []
@@ -2101,8 +2078,8 @@
      },
      "descripcion": {
       "es": "Tequila, Cointreau y jugo de limón.",
-      "en": "Tequila, Cointreau y jugo de limón.",
-      "pt": "Tequila, Cointreau y jugo de limón."
+      "en": "Tequila, Cointreau and lemon juice.",
+      "pt": "Tequila, Cointreau e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -2116,8 +2093,38 @@
      },
      "descripcion": {
       "es": "Campari, Gin Bombay y Martini Rosso.",
-      "en": "Campari, Gin Bombay y Martini Rosso.",
-      "pt": "Campari, Gin Bombay y Martini Rosso."
+      "en": "Campari, Bombay Gin and Martini Rosso.",
+      "pt": "Campari, Gin Bombay e Martini Rosso."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, lemon juice, egg white and Angostura Bitters.",
+      "pt": "Pisco, suco de limão, clara de ovo e Bitter Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay Gin, soda water and lemon juice.",
+      "pt": "Gin Bombay, água com gás e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -2130,9 +2137,9 @@
       "pt": "Fernet Cola"
      },
      "descripcion": {
-      "es": "Fernet Branca y Coca Cola.",
-      "en": "Fernet Branca y Coca Cola.",
-      "pt": "Fernet Branca y Coca Cola."
+      "es": "Fernet Branca y cola.",
+      "en": "Fernet Branca and cola drink.",
+      "pt": "Fernet Branca e cola."
      },
      "precio": 25000,
      "tags": []
@@ -3509,16 +3516,16 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-gin-tonic",
+     "id": "ckt-aperol",
      "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
      },
      "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
+      "es": "Aperol, espumoso y agua con gas.",
+      "en": "Aperol, sparkling wine and soda water.",
+      "pt": "Aperol, espumante e água com gás."
      },
      "precio": 25000,
      "tags": []
@@ -3531,9 +3538,9 @@
       "pt": "Bacardi Cocktail"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
+      "es": "Ron Bacardi, jugo de limón y granadina.",
+      "en": "Bacardi rum, lemon juice and grenadine.",
+      "pt": "Bacardi rum, suco de limão e grenadine."
      },
      "precio": 25000,
      "tags": []
@@ -3547,23 +3554,8 @@
      },
      "descripcion": {
       "es": "Champagne y pulpa de durazno.",
-      "en": "Champagne y pulpa de durazno.",
-      "pt": "Champagne y pulpa de durazno."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
+      "en": "Champagne and peach purée.",
+      "pt": "Champagne e polpa de pêssego."
      },
      "precio": 25000,
      "tags": []
@@ -3576,24 +3568,9 @@
       "pt": "Bloody Mary"
      },
      "descripcion": {
-      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-pisco-sour",
-     "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
-     },
-     "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+      "es": "Vodka Smirnoff, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Smirnoff vodka, lemon juice, tomato juice, salt, pepper, Tabasco and Worcestershire sauce.",
+      "pt": "Smirnoff vodka, suco de limão, suco de tomate, sal, pimenta, Tabasco e molho inglês."
      },
      "precio": 25000,
      "tags": []
@@ -3607,8 +3584,8 @@
      },
      "descripcion": {
       "es": "Campari y jugo de naranja.",
-      "en": "Campari y jugo de naranja.",
-      "pt": "Campari y jugo de naranja."
+      "en": "Campari and orange juice.",
+      "pt": "Campari e suco de laranja."
      },
      "precio": 25000,
      "tags": []
@@ -3622,8 +3599,8 @@
      },
      "descripcion": {
       "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
+      "en": "Cachaça and muddled limes.",
+      "pt": "Cachaça e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -3636,24 +3613,9 @@
       "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-aperol",
-     "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
-     },
-     "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Absolut y limas maceradas.",
+      "en": "Absolut vodka and muddled limes.",
+      "pt": "Absolut vodka e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -3667,8 +3629,8 @@
      },
      "descripcion": {
       "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
+      "en": "Bacardi Gold Rum, cola and lemon.",
+      "pt": "Rum Bacardi Ouro, cola e limão."
      },
      "precio": 25000,
      "tags": []
@@ -3681,9 +3643,9 @@
       "pt": "Daikiri Frutal"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón, azúcar y fruta natural.",
-      "en": "Ron, jugo de limón, azúcar y fruta natural.",
-      "pt": "Ron, jugo de limón, azúcar y fruta natural."
+      "es": "Ron Bacardi, jugo de limón, azúcar y fruta natural.",
+      "en": "Bacardi rum, lemon juice, sugar and fresh fruit.",
+      "pt": "Bacardi rum, suco de limão, açúcar e frutas frescas."
      },
      "precio": 25000,
      "tags": []
@@ -3696,9 +3658,24 @@
       "pt": "Dry Martini"
      },
      "descripcion": {
-      "es": "Gin, Dry Martini y oliva verde.",
-      "en": "Gin, Dry Martini y oliva verde.",
-      "pt": "Gin, Dry Martini y oliva verde."
+      "es": "Gin Beefeater, Dry Martini y oliva verde.",
+      "en": "Beefeater gin, Dry Martini and green olive.",
+      "pt": "Beefeater gin, Dry Martini e azeitona verde."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica y limón.",
+      "en": "Beefeater Gin, tonic water and lemon.",
+      "pt": "Gin Beefeater, água tônica e limão."
      },
      "precio": 25000,
      "tags": []
@@ -3712,8 +3689,8 @@
      },
      "descripcion": {
       "es": "Tequila, Cointreau y jugo de limón.",
-      "en": "Tequila, Cointreau y jugo de limón.",
-      "pt": "Tequila, Cointreau y jugo de limón."
+      "en": "Tequila, Cointreau and lemon juice.",
+      "pt": "Tequila, Cointreau e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -3727,8 +3704,38 @@
      },
      "descripcion": {
       "es": "Campari, Gin Bombay y Martini Rosso.",
-      "en": "Campari, Gin Bombay y Martini Rosso.",
-      "pt": "Campari, Gin Bombay y Martini Rosso."
+      "en": "Campari, Bombay Gin and Martini Rosso.",
+      "pt": "Campari, Gin Bombay e Martini Rosso."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, lemon juice, egg white and Angostura Bitters.",
+      "pt": "Pisco, suco de limão, clara de ovo e Bitter Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay Gin, soda water and lemon juice.",
+      "pt": "Gin Bombay, água com gás e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -3741,9 +3748,9 @@
       "pt": "Fernet Cola"
      },
      "descripcion": {
-      "es": "Fernet Branca y Coca Cola.",
-      "en": "Fernet Branca y Coca Cola.",
-      "pt": "Fernet Branca y Coca Cola."
+      "es": "Fernet Branca y cola.",
+      "en": "Fernet Branca and cola drink.",
+      "pt": "Fernet Branca e cola."
      },
      "precio": 25000,
      "tags": []
