@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-02T17:38:41.161Z",
+  "actualizado": "2026-09-03T21:11:18.700Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "En Don Giovanni Ristorante te invitamos a una experiencia artística gourmet, donde nuestros chef demuestran toda su pasión hacia la profesión haciendo propia cada receta. Con más de 20 años de trayectoria, nos destacamos por innovar constantemente en la combinación de sabores y técnicas, transformando cada plato en una verdadera obra de arte.",
@@ -579,22 +579,6 @@
      ]
     },
     {
-     "id": "noquis-menores",
-     "nombre": {
-      "es": "Ñoquis de papa con filetto o panna",
-      "en": "Potato gnocchi with filetto or cream",
-      "pt": "Nhoque de batata ao filetto ou creme"
-     },
-     "descripcion": {},
-     "precio": 27000,
-     "tags": [
-      "VEGETARIANO",
-      "ALERGENO_1",
-      "ALERGENO_2",
-      "ALERGENO_4"
-     ]
-    },
-    {
      "id": "nulis-ave",
      "nombre": {
       "es": "Nulis de ave con papas fritas",
@@ -615,6 +599,22 @@
      "descripcion": {},
      "precio": 32000,
      "tags": []
+    },
+    {
+     "id": "noquis-menores",
+     "nombre": {
+      "es": "Ñoquis de papa con filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
+     },
+     "descripcion": {},
+     "precio": 27000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     }
    ]
   },
@@ -964,9 +964,20 @@
     {
      "id": "cerveza-heineken",
      "nombre": {
-      "es": "Heineken lata x 473 cc / Heineken 0.0",
-      "en": "Heineken lata x 473 cc / Heineken 0.0",
-      "pt": "Heineken lata x 473 cc / Heineken 0.0"
+      "es": "Heineken | 473 cc",
+      "en": "Heineken | 473 cc",
+      "pt": "Heineken | 473 cc"
+     },
+     "descripcion": {},
+     "precio": 9500,
+     "tags": []
+    },
+    {
+     "id": "cerveza-heineken-cero",
+     "nombre": {
+      "es": "Heineken 0.0 | 473 cc",
+      "en": "Heineken 0.0 | 473 cc",
+      "pt": "Heineken 0.0  | 473 cc"
      },
      "descripcion": {},
      "precio": 9500,
@@ -1029,22 +1040,44 @@
      "tags": []
     },
     {
-     "id": "copa-trumpeter-malbec-cs",
+     "id": "copa-trumpeter-malbec",
      "nombre": {
-      "es": "Trumpeter Malbec / Cabernet Sauvignon",
-      "en": "Trumpeter Malbec / Cabernet Sauvignon",
-      "pt": "Trumpeter Malbec / Cabernet Sauvignon"
+      "es": "Trumpeter Malbec",
+      "en": "Trumpeter Malbec",
+      "pt": "Trumpeter Malbec"
      },
      "descripcion": {},
      "precio": 10000,
      "tags": []
     },
     {
-     "id": "copa-trumpeter-sb-chard",
+     "id": "copa-trumpeter-cabernet-sauvignon",
      "nombre": {
-      "es": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "en": "Trumpeter Sauvignon Blanc / Chardonnay",
-      "pt": "Trumpeter Sauvignon Blanc / Chardonnay"
+      "es": "Trumpeter Cabernet Sauvignon",
+      "en": "Trumpeter Cabernet Sauvignon",
+      "pt": "Trumpeter Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sauvignon-blanc",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc",
+      "en": "Trumpeter Sauvignon Blanc",
+      "pt": "Trumpeter Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 10000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-chardonnay",
+     "nombre": {
+      "es": "Trumpeter Chardonnay",
+      "en": "Trumpeter Chardonnay",
+      "pt": "Trumpeter Chardonnay"
      },
      "descripcion": {},
      "precio": 10000,
@@ -1105,16 +1138,16 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-gin-tonic",
+     "id": "ckt-aperol",
      "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
      },
      "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
+      "es": "Aperol, espumoso y agua con gas.",
+      "en": "Aperol, sparkling wine and soda water.",
+      "pt": "Aperol, espumante e água com gás."
      },
      "precio": 25000,
      "tags": []
@@ -1127,9 +1160,9 @@
       "pt": "Bacardi Cocktail"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
+      "es": "Ron Bacardi, jugo de limón y granadina.",
+      "en": "Bacardi rum, lemon juice and grenadine.",
+      "pt": "Bacardi rum, suco de limão e grenadine."
      },
      "precio": 25000,
      "tags": []
@@ -1143,23 +1176,8 @@
      },
      "descripcion": {
       "es": "Champagne y pulpa de durazno.",
-      "en": "Champagne y pulpa de durazno.",
-      "pt": "Champagne y pulpa de durazno."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
+      "en": "Champagne and peach purée.",
+      "pt": "Champagne e polpa de pêssego."
      },
      "precio": 25000,
      "tags": []
@@ -1172,24 +1190,9 @@
       "pt": "Bloody Mary"
      },
      "descripcion": {
-      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-pisco-sour",
-     "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
-     },
-     "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+      "es": "Vodka Smirnoff, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Smirnoff vodka, lemon juice, tomato juice, salt, pepper, Tabasco and Worcestershire sauce.",
+      "pt": "Smirnoff vodka, suco de limão, suco de tomate, sal, pimenta, Tabasco e molho inglês."
      },
      "precio": 25000,
      "tags": []
@@ -1203,8 +1206,8 @@
      },
      "descripcion": {
       "es": "Campari y jugo de naranja.",
-      "en": "Campari y jugo de naranja.",
-      "pt": "Campari y jugo de naranja."
+      "en": "Campari and orange juice.",
+      "pt": "Campari e suco de laranja."
      },
      "precio": 25000,
      "tags": []
@@ -1218,8 +1221,8 @@
      },
      "descripcion": {
       "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
+      "en": "Cachaça and muddled limes.",
+      "pt": "Cachaça e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -1232,24 +1235,9 @@
       "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-aperol",
-     "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
-     },
-     "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Absolut y limas maceradas.",
+      "en": "Absolut vodka and muddled limes.",
+      "pt": "Absolut vodka e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -1263,8 +1251,8 @@
      },
      "descripcion": {
       "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
+      "en": "Bacardi Gold Rum, cola and lemon.",
+      "pt": "Rum Bacardi Ouro, cola e limão."
      },
      "precio": 25000,
      "tags": []
@@ -1277,9 +1265,9 @@
       "pt": "Daikiri Frutal"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón, azúcar y fruta natural.",
-      "en": "Ron, jugo de limón, azúcar y fruta natural.",
-      "pt": "Ron, jugo de limón, azúcar y fruta natural."
+      "es": "Ron Bacardi, jugo de limón, azúcar y fruta natural.",
+      "en": "Bacardi rum, lemon juice, sugar and fresh fruit.",
+      "pt": "Bacardi rum, suco de limão, açúcar e frutas frescas."
      },
      "precio": 25000,
      "tags": []
@@ -1292,9 +1280,24 @@
       "pt": "Dry Martini"
      },
      "descripcion": {
-      "es": "Gin, Dry Martini y oliva verde.",
-      "en": "Gin, Dry Martini y oliva verde.",
-      "pt": "Gin, Dry Martini y oliva verde."
+      "es": "Gin Beefeater, Dry Martini y oliva verde.",
+      "en": "Beefeater gin, Dry Martini and green olive.",
+      "pt": "Beefeater gin, Dry Martini e azeitona verde."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica y limón.",
+      "en": "Beefeater Gin, tonic water and lemon.",
+      "pt": "Gin Beefeater, água tônica e limão."
      },
      "precio": 25000,
      "tags": []
@@ -1308,8 +1311,8 @@
      },
      "descripcion": {
       "es": "Tequila, Cointreau y jugo de limón.",
-      "en": "Tequila, Cointreau y jugo de limón.",
-      "pt": "Tequila, Cointreau y jugo de limón."
+      "en": "Tequila, Cointreau and lemon juice.",
+      "pt": "Tequila, Cointreau e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -1323,8 +1326,38 @@
      },
      "descripcion": {
       "es": "Campari, Gin Bombay y Martini Rosso.",
-      "en": "Campari, Gin Bombay y Martini Rosso.",
-      "pt": "Campari, Gin Bombay y Martini Rosso."
+      "en": "Campari, Bombay Gin and Martini Rosso.",
+      "pt": "Campari, Gin Bombay e Martini Rosso."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, lemon juice, egg white and Angostura Bitters.",
+      "pt": "Pisco, suco de limão, clara de ovo e Bitter Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay Gin, soda water and lemon juice.",
+      "pt": "Gin Bombay, água com gás e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -1337,9 +1370,9 @@
       "pt": "Fernet Cola"
      },
      "descripcion": {
-      "es": "Fernet Branca y Coca Cola.",
-      "en": "Fernet Branca y Coca Cola.",
-      "pt": "Fernet Branca y Coca Cola."
+      "es": "Fernet Branca y cola.",
+      "en": "Fernet Branca and cola drink.",
+      "pt": "Fernet Branca e cola."
      },
      "precio": 25000,
      "tags": []
@@ -2743,16 +2776,16 @@
    "nota": {},
    "items": [
     {
-     "id": "ckt-gin-tonic",
+     "id": "ckt-aperol",
      "nombre": {
-      "es": "Gin Tonic",
-      "en": "Gin and tonic",
-      "pt": "Gin tônica"
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
      },
      "descripcion": {
-      "es": "Gin Beefeater, agua tónica, rodajas de limón.",
-      "en": "Gin Bombay, agua tónica y limón.",
-      "pt": "Gin Bombay, agua tónica y limón."
+      "es": "Aperol, espumoso y agua con gas.",
+      "en": "Aperol, sparkling wine and soda water.",
+      "pt": "Aperol, espumante e água com gás."
      },
      "precio": 25000,
      "tags": []
@@ -2765,9 +2798,9 @@
       "pt": "Bacardi Cocktail"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón y granadina.",
-      "en": "Ron, jugo de limón y granadina.",
-      "pt": "Ron, jugo de limón y granadina."
+      "es": "Ron Bacardi, jugo de limón y granadina.",
+      "en": "Bacardi rum, lemon juice and grenadine.",
+      "pt": "Bacardi rum, suco de limão e grenadine."
      },
      "precio": 25000,
      "tags": []
@@ -2781,23 +2814,8 @@
      },
      "descripcion": {
       "es": "Champagne y pulpa de durazno.",
-      "en": "Champagne y pulpa de durazno.",
-      "pt": "Champagne y pulpa de durazno."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-tom-collins",
-     "nombre": {
-      "es": "Tom Collins",
-      "en": "Tom Collins",
-      "pt": "Tom Collins"
-     },
-     "descripcion": {
-      "es": "Gin Bombay, soda y jugo de limón.",
-      "en": "Bombay gin, soda and lemon juice.",
-      "pt": "Gim Bombay, soda e suco de limão."
+      "en": "Champagne and peach purée.",
+      "pt": "Champagne e polpa de pêssego."
      },
      "precio": 25000,
      "tags": []
@@ -2810,24 +2828,9 @@
       "pt": "Bloody Mary"
      },
      "descripcion": {
-      "es": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "en": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
-      "pt": "Vodka, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-pisco-sour",
-     "nombre": {
-      "es": "Pisco Sour",
-      "en": "Pisco Sour",
-      "pt": "Pisco Sour"
-     },
-     "descripcion": {
-      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
-      "en": "Pisco, jugo de limón, clara de huevo y Angostura.",
-      "pt": "Pisco, jugo de limón, clara de huevo y Angostura."
+      "es": "Vodka Smirnoff, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Smirnoff vodka, lemon juice, tomato juice, salt, pepper, Tabasco and Worcestershire sauce.",
+      "pt": "Smirnoff vodka, suco de limão, suco de tomate, sal, pimenta, Tabasco e molho inglês."
      },
      "precio": 25000,
      "tags": []
@@ -2841,8 +2844,8 @@
      },
      "descripcion": {
       "es": "Campari y jugo de naranja.",
-      "en": "Campari y jugo de naranja.",
-      "pt": "Campari y jugo de naranja."
+      "en": "Campari and orange juice.",
+      "pt": "Campari e suco de laranja."
      },
      "precio": 25000,
      "tags": []
@@ -2856,8 +2859,8 @@
      },
      "descripcion": {
       "es": "Cachaça y limas maceradas.",
-      "en": "Cachaça y limas maceradas.",
-      "pt": "Cachaça y limas maceradas."
+      "en": "Cachaça and muddled limes.",
+      "pt": "Cachaça e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -2870,24 +2873,9 @@
       "pt": "Caipivodca"
      },
      "descripcion": {
-      "es": "Vodka Smirnoff y limas maceradas.",
-      "en": "Smirnoff vodka and muddled limes.",
-      "pt": "Vodca Smirnoff e limas maceradas."
-     },
-     "precio": 25000,
-     "tags": []
-    },
-    {
-     "id": "ckt-aperol",
-     "nombre": {
-      "es": "Aperol Spritz",
-      "en": "Aperol Spritz",
-      "pt": "Aperol Spritz"
-     },
-     "descripcion": {
-      "es": "Aperol, espumoso extra brut, soda y rodaja de naranja.",
-      "en": "Aperol, extra brut sparkling, soda and orange.",
-      "pt": "Aperol, espumante extra brut, soda e laranja."
+      "es": "Vodka Absolut y limas maceradas.",
+      "en": "Absolut vodka and muddled limes.",
+      "pt": "Absolut vodka e limas maceradas."
      },
      "precio": 25000,
      "tags": []
@@ -2901,8 +2889,8 @@
      },
      "descripcion": {
       "es": "Ron Bacardi oro, cola y limón.",
-      "en": "Ron Bacardi oro, cola y limón.",
-      "pt": "Ron Bacardi oro, cola y limón."
+      "en": "Bacardi Gold Rum, cola and lemon.",
+      "pt": "Rum Bacardi Ouro, cola e limão."
      },
      "precio": 25000,
      "tags": []
@@ -2915,9 +2903,9 @@
       "pt": "Daikiri Frutal"
      },
      "descripcion": {
-      "es": "Ron, jugo de limón, azúcar y fruta natural.",
-      "en": "Ron, jugo de limón, azúcar y fruta natural.",
-      "pt": "Ron, jugo de limón, azúcar y fruta natural."
+      "es": "Ron Bacardi, jugo de limón, azúcar y fruta natural.",
+      "en": "Bacardi rum, lemon juice, sugar and fresh fruit.",
+      "pt": "Bacardi rum, suco de limão, açúcar e frutas frescas."
      },
      "precio": 25000,
      "tags": []
@@ -2930,9 +2918,24 @@
       "pt": "Dry Martini"
      },
      "descripcion": {
-      "es": "Gin, Dry Martini y oliva verde.",
-      "en": "Gin, Dry Martini y oliva verde.",
-      "pt": "Gin, Dry Martini y oliva verde."
+      "es": "Gin Beefeater, Dry Martini y oliva verde.",
+      "en": "Beefeater gin, Dry Martini and green olive.",
+      "pt": "Beefeater gin, Dry Martini e azeitona verde."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin and tonic",
+      "pt": "Gin tônica"
+     },
+     "descripcion": {
+      "es": "Gin Beefeater, agua tónica y limón.",
+      "en": "Beefeater Gin, tonic water and lemon.",
+      "pt": "Gin Beefeater, água tônica e limão."
      },
      "precio": 25000,
      "tags": []
@@ -2946,8 +2949,8 @@
      },
      "descripcion": {
       "es": "Tequila, Cointreau y jugo de limón.",
-      "en": "Tequila, Cointreau y jugo de limón.",
-      "pt": "Tequila, Cointreau y jugo de limón."
+      "en": "Tequila, Cointreau and lemon juice.",
+      "pt": "Tequila, Cointreau e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -2961,8 +2964,38 @@
      },
      "descripcion": {
       "es": "Campari, Gin Bombay y Martini Rosso.",
-      "en": "Campari, Gin Bombay y Martini Rosso.",
-      "pt": "Campari, Gin Bombay y Martini Rosso."
+      "en": "Campari, Bombay Gin and Martini Rosso.",
+      "pt": "Campari, Gin Bombay e Martini Rosso."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-pisco-sour",
+     "nombre": {
+      "es": "Pisco Sour",
+      "en": "Pisco Sour",
+      "pt": "Pisco Sour"
+     },
+     "descripcion": {
+      "es": "Pisco, jugo de limón, clara de huevo y Bitter Angostura.",
+      "en": "Pisco, lemon juice, egg white and Angostura Bitters.",
+      "pt": "Pisco, suco de limão, clara de ovo e Bitter Angostura."
+     },
+     "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "ckt-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, soda y jugo de limón.",
+      "en": "Bombay Gin, soda water and lemon juice.",
+      "pt": "Gin Bombay, água com gás e suco de limão."
      },
      "precio": 25000,
      "tags": []
@@ -2975,9 +3008,9 @@
       "pt": "Fernet Cola"
      },
      "descripcion": {
-      "es": "Fernet Branca y Coca Cola.",
-      "en": "Fernet Branca y Coca Cola.",
-      "pt": "Fernet Branca y Coca Cola."
+      "es": "Fernet Branca y cola.",
+      "en": "Fernet Branca and cola drink.",
+      "pt": "Fernet Branca e cola."
      },
      "precio": 25000,
      "tags": []
