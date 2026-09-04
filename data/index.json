@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T17:40:56.115Z",
+ "actualizado": "2026-09-04T18:32:31.213Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -23,7 +23,7 @@
    "tema": "vinos",
    "logo": "hotel.svg",
    "orden": 4,
-   "items": 166
+   "items": 199
   },
   {
    "id": "adicionales-desayuno",
@@ -39,7 +39,7 @@
    "tema": "lb",
    "logo": "lobby-bar.svg",
    "orden": 6,
-   "items": 297
+   "items": 300
   },
   {
    "id": "room-service",
