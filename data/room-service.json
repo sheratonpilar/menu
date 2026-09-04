@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-04T17:40:33.756Z",
+  "actualizado": "2026-09-04T18:32:08.036Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -2109,28 +2109,6 @@
    "nota": {},
    "items": [
     {
-     "id": "esp-rutini-eb",
-     "nombre": {
-      "es": "Rutini Extra Brut (Bodega La Rural)",
-      "en": "Rutini Extra Brut",
-      "pt": "Rutini Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 72000,
-     "tags": []
-    },
-    {
-     "id": "esp-trumpeter-eb",
-     "nombre": {
-      "es": "Trumpeter Extra Brut (Bodega La Rural)",
-      "en": "Trumpeter Extra Brut",
-      "pt": "Trumpeter Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 37000,
-     "tags": []
-    },
-    {
      "id": "esp-dom-perignon",
      "nombre": {
       "es": "Dom Perignon (Bodega Chandon)",
@@ -2139,28 +2117,6 @@
      },
      "descripcion": {},
      "precio": 990000,
-     "tags": []
-    },
-    {
-     "id": "esp-moet",
-     "nombre": {
-      "es": "Moet Ice Imperial (Bodega Chandon)",
-      "en": "Moet Ice Imperial",
-      "pt": "Moet Ice Imperial"
-     },
-     "descripcion": {},
-     "precio": 460000,
-     "tags": []
-    },
-    {
-     "id": "esp-veuve-yellow",
-     "nombre": {
-      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
-      "en": "Veuve Clicquot Yellow Label",
-      "pt": "Veuve Clicquot Yellow Label"
-     },
-     "descripcion": {},
-     "precio": 460000,
      "tags": []
     },
     {
@@ -2186,6 +2142,39 @@
      "tags": []
     },
     {
+     "id": "esp-moet",
+     "nombre": {
+      "es": "Moet Ice Imperial (Bodega Chandon)",
+      "en": "Moet Ice Imperial",
+      "pt": "Moet Ice Imperial"
+     },
+     "descripcion": {},
+     "precio": 460000,
+     "tags": []
+    },
+    {
+     "id": "esp-veuve-yellow",
+     "nombre": {
+      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
+      "en": "Veuve Clicquot Yellow Label",
+      "pt": "Veuve Clicquot Yellow Label"
+     },
+     "descripcion": {},
+     "precio": 460000,
+     "tags": []
+    },
+    {
+     "id": "esp-rutini-eb",
+     "nombre": {
+      "es": "Rutini Extra Brut (Bodega La Rural)",
+      "en": "Rutini Extra Brut",
+      "pt": "Rutini Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 72000,
+     "tags": []
+    },
+    {
      "id": "esp-baron-b",
      "nombre": {
       "es": "Barón B Extra Brut (Bodega Chandon)",
@@ -2205,6 +2194,17 @@
      },
      "descripcion": {},
      "precio": 38000,
+     "tags": []
+    },
+    {
+     "id": "esp-trumpeter-eb",
+     "nombre": {
+      "es": "Trumpeter Extra Brut (Bodega La Rural)",
+      "en": "Trumpeter Extra Brut",
+      "pt": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 37000,
      "tags": []
     }
    ]
