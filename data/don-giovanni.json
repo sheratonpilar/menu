@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-04T17:40:33.752Z",
+  "actualizado": "2026-09-04T18:32:08.032Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "En Don Giovanni Ristorante te invitamos a una experiencia artística gourmet, donde nuestros chef demuestran toda su pasión hacia la profesión haciendo propia cada receta. Con más de 20 años de trayectoria, nos destacamos por innovar constantemente en la combinación de sabores y técnicas, transformando cada plato en una verdadera obra de arte.",
@@ -1421,28 +1421,6 @@
    },
    "items": [
     {
-     "id": "tintos-cabernet-sauvignon-rutini",
-     "nombre": {
-      "es": "Rutini Colección (Rutini - Mendoza)",
-      "en": "Rutini Colección (Rutini - Mendoza)",
-      "pt": "Rutini Colección (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 54000,
-     "tags": []
-    },
-    {
-     "id": "tintos-cabernet-sauvignon-agelica",
-     "nombre": {
-      "es": "Angélica Zapata (Bga. Esmeralda - Mendoza)",
-      "en": "Trumpeter Malbec",
-      "pt": "Trumpeter Malbec"
-     },
-     "descripcion": {},
-     "precio": 61000,
-     "tags": []
-    },
-    {
      "id": "tintos-cabernet-sauvignon-dv-catena",
      "nombre": {
       "es": "D.V. Catena (Catena Zapata - Mendoza)",
@@ -1462,6 +1440,28 @@
      },
      "descripcion": {},
      "precio": 63000,
+     "tags": []
+    },
+    {
+     "id": "tintos-cabernet-sauvignon-agelica",
+     "nombre": {
+      "es": "Angélica Zapata (Bga. Esmeralda - Mendoza)",
+      "en": "Trumpeter Malbec",
+      "pt": "Trumpeter Malbec"
+     },
+     "descripcion": {},
+     "precio": 61000,
+     "tags": []
+    },
+    {
+     "id": "tintos-cabernet-sauvignon-rutini",
+     "nombre": {
+      "es": "Rutini Colección (Rutini - Mendoza)",
+      "en": "Rutini Colección (Rutini - Mendoza)",
+      "pt": "Rutini Colección (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 54000,
      "tags": []
     },
     {
@@ -1487,6 +1487,17 @@
      "tags": []
     },
     {
+     "id": "tintos-cabernet-sauvignon-mascota",
+     "nombre": {
+      "es": "La Mascota (La Mascota - Mendoza)",
+      "en": "La Mascota (La Mascota - Mendoza)",
+      "pt": "La Mascota (La Mascota - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 30000,
+     "tags": []
+    },
+    {
      "id": "tintos-cabernet-sauvignon-trumpeter-reserve",
      "nombre": {
       "es": "Trumpeter Reserve (Rutini - Mendoza)",
@@ -1500,17 +1511,6 @@
      ]
     },
     {
-     "id": "tintos-cabernet-sauvignon-trumpeter",
-     "nombre": {
-      "es": "Trumpeter (Rutini - Mendoza)",
-      "en": "Trumpeter (Rutini - Mendoza)",
-      "pt": "Trumpeter (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 19000,
-     "tags": []
-    },
-    {
      "id": "tintos-cabernet-sauvignon-nieto",
      "nombre": {
       "es": "Nieto Senetiner (Nieto Senetiner - Mendoza)",
@@ -1522,14 +1522,14 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-mascota",
+     "id": "tintos-cabernet-sauvignon-trumpeter",
      "nombre": {
-      "es": "La Mascota (La Mascota - Mendoza)",
-      "en": "La Mascota (La Mascota - Mendoza)",
-      "pt": "La Mascota (La Mascota - Mendoza)"
+      "es": "Trumpeter (Rutini - Mendoza)",
+      "en": "Trumpeter (Rutini - Mendoza)",
+      "pt": "Trumpeter (Rutini - Mendoza)"
      },
      "descripcion": {},
-     "precio": 30000,
+     "precio": 19000,
      "tags": []
     }
    ]
@@ -1634,6 +1634,17 @@
    },
    "items": [
     {
+     "id": "tintos-cabernet-franc-gran-medalla",
+     "nombre": {
+      "es": "Gran Medalla (Trapiche - Mendoza)",
+      "en": "Gran Medalla (Trapiche - Mendoza)",
+      "pt": "Gran Medalla (Trapiche - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": []
+    },
+    {
      "id": "tintos-cabernet-franc-rutini",
      "nombre": {
       "es": "Rutini Colección (Bga. Rutini - Mendoza)",
@@ -1664,17 +1675,6 @@
      },
      "descripcion": {},
      "precio": 23000,
-     "tags": []
-    },
-    {
-     "id": "tintos-cabernet-franc-gran-medalla",
-     "nombre": {
-      "es": "Gran Medalla (Trapiche - Mendoza)",
-      "en": "Gran Medalla (Trapiche - Mendoza)",
-      "pt": "Gran Medalla (Trapiche - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 63000,
      "tags": []
     }
    ]
@@ -1765,17 +1765,15 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-rutini",
+     "id": "tintos-malbec-trapiche-gran-medalla",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
-      "en": "Malbec Rutini Colección",
-      "pt": "Malbec Rutini Colección"
+      "es": "Trapiche Gran Medalla (Trapiche - Mendoza)",
+      "en": "Trapiche Gran Medalla (Trapiche - Mendoza)",
+      "pt": "Trapiche Gran Medalla (Trapiche - Mendoza)"
      },
      "descripcion": {},
-     "precio": 63000,
-     "tags": [
-      "SUGERENCIA_CHEF"
-     ]
+     "precio": 68000,
+     "tags": []
     },
     {
      "id": "tintos-malbec-dv-catena",
@@ -1789,6 +1787,19 @@
      "tags": []
     },
     {
+     "id": "tintos-malbec-rutini",
+     "nombre": {
+      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "en": "Malbec Rutini Colección",
+      "pt": "Malbec Rutini Colección"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
      "id": "tintos-malbec-rutini-dominio",
      "nombre": {
       "es": "Rutini Dominio (Rutini - Mendoza)",
@@ -1800,14 +1811,14 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-trapiche-gran-medalla",
+     "id": "tintos-malbec-finca-los-notables",
      "nombre": {
-      "es": "Trapiche Gran Medalla (Trapiche - Mendoza)",
-      "en": "Trapiche Gran Medalla (Trapiche - Mendoza)",
-      "pt": "Trapiche Gran Medalla (Trapiche - Mendoza)"
+      "es": "Finca Los Notables Malbec (El Esteco - Cafayate)",
+      "en": "Finca Los Notables Malbec (El Esteco - Cafayate)",
+      "pt": "Finca Los Notables Malbec (El Esteco - Cafayate)"
      },
      "descripcion": {},
-     "precio": 68000,
+     "precio": 49000,
      "tags": []
     },
     {
@@ -1820,12 +1831,14 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-saint",
+     "id": "tintos-malbec-blend-de-extremos",
      "nombre": {
-      "es": "Saint Felicien (Bga. Catena Zapata – Mendoza)"
+      "es": "Blend de Extremos Malbec (El Esteco - Cafayate)",
+      "en": "Blend de Extremos Malbec (El Esteco - Cafayate)",
+      "pt": "Blend de Extremos Malbec (El Esteco - Cafayate)"
      },
      "descripcion": {},
-     "precio": 31000,
+     "precio": 33000,
      "tags": []
     },
     {
@@ -1840,6 +1853,26 @@
      "tags": []
     },
     {
+     "id": "tintos-malbec-mascota",
+     "nombre": {
+      "es": "La Mascota Malbec (Trapiche - Mendoza)",
+      "en": "La Mascota Malbec (Trapiche - Mendoza)",
+      "pt": "La Mascota Malbec (Trapiche - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": []
+    },
+    {
+     "id": "tintos-malbec-saint",
+     "nombre": {
+      "es": "Saint Felicien (Bga. Catena Zapata – Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 31000,
+     "tags": []
+    },
+    {
      "id": "tintos-malbec-trumpeter-reserve",
      "nombre": {
       "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
@@ -1851,6 +1884,17 @@
      "tags": [
       "SUGERENCIA_CHEF"
      ]
+    },
+    {
+     "id": "tintos-malbec-trumpeter-low",
+     "nombre": {
+      "es": "Trumpeter Low (Rutini - Mendoza)",
+      "en": "Trumpeter Low (Rutini - Mendoza)",
+      "pt": "Trumpeter Low (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": []
     },
     {
      "id": "tintos-malbec-trumpeter",
@@ -1884,50 +1928,6 @@
      "descripcion": {},
      "precio": 13500,
      "tags": []
-    },
-    {
-     "id": "tintos-malbec-mascota",
-     "nombre": {
-      "es": "La Mascota Malbec (Trapiche - Mendoza)",
-      "en": "La Mascota Malbec (Trapiche - Mendoza)",
-      "pt": "La Mascota Malbec (Trapiche - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
-    },
-    {
-     "id": "tintos-malbec-blend-de-extremos",
-     "nombre": {
-      "es": "Blend de Extremos Malbec (El Esteco - Cafayate)",
-      "en": "Blend de Extremos Malbec (El Esteco - Cafayate)",
-      "pt": "Blend de Extremos Malbec (El Esteco - Cafayate)"
-     },
-     "descripcion": {},
-     "precio": 33000,
-     "tags": []
-    },
-    {
-     "id": "tintos-malbec-finca-los-notables",
-     "nombre": {
-      "es": "Finca Los Notables Malbec (El Esteco - Cafayate)",
-      "en": "Finca Los Notables Malbec (El Esteco - Cafayate)",
-      "pt": "Finca Los Notables Malbec (El Esteco - Cafayate)"
-     },
-     "descripcion": {},
-     "precio": 49000,
-     "tags": []
-    },
-    {
-     "id": "tintos-malbec-trumpeter-low",
-     "nombre": {
-      "es": "Trumpeter Low (Rutini - Mendoza)",
-      "en": "Trumpeter Low (Rutini - Mendoza)",
-      "pt": "Trumpeter Low (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 24000,
-     "tags": []
     }
    ]
   },
@@ -1945,19 +1945,6 @@
     "pt": "Vinhos com mais de uma cepa."
    },
    "items": [
-    {
-     "id": "tintos-genericos-antologia",
-     "nombre": {
-      "es": "Antología XXXVIII 38 Genérico Rutini",
-      "en": "Antología XXXVIII 38 Genérico Rutini",
-      "pt": "Antología XXXVIII 38 Genérico Rutini"
-     },
-     "descripcion": {},
-     "precio": 71000,
-     "tags": [
-      "SUGERENCIA_CHEF"
-     ]
-    },
     {
      "id": "tintos-genericos-felipe-rutini-rutini",
      "nombre": {
@@ -1981,6 +1968,19 @@
      "tags": []
     },
     {
+     "id": "tintos-genericos-antologia",
+     "nombre": {
+      "es": "Antología XXXVIII 38 Genérico Rutini",
+      "en": "Antología XXXVIII 38 Genérico Rutini",
+      "pt": "Antología XXXVIII 38 Genérico Rutini"
+     },
+     "descripcion": {},
+     "precio": 71000,
+     "tags": [
+      "SUGERENCIA_CHEF"
+     ]
+    },
+    {
      "id": "tintos-genericos-dominio-malbec-cabernet-franci",
      "nombre": {
       "es": "Dominio Malbec-Cabernet Franc (Rutini - Mendoza)",
@@ -1989,6 +1989,28 @@
      },
      "descripcion": {},
      "precio": 49000,
+     "tags": []
+    },
+    {
+     "id": "tintos-genericos-dv-catena-cabernet-malbec",
+     "nombre": {
+      "es": "DV Catena Cabernet-Malbec (Rutini - Mendoza)",
+      "en": "DV Catena Cabernet-Malbec (Rutini - Mendoza)",
+      "pt": "DV Catena Cabernet-Malbec (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 47000,
+     "tags": []
+    },
+    {
+     "id": "tintos-genericos-rutini-cabernet-sauvignon-syrah",
+     "nombre": {
+      "es": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)",
+      "en": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)",
+      "pt": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 40000,
      "tags": []
     },
     {
@@ -2005,17 +2027,6 @@
      ]
     },
     {
-     "id": "tintos-genericos-rutini-cabernet-sauvignon-syrah",
-     "nombre": {
-      "es": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)",
-      "en": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)",
-      "pt": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 40000,
-     "tags": []
-    },
-    {
      "id": "tintos-genericos-rutini-cabernet-merlot",
      "nombre": {
       "es": "Rutini Cabernet Merlot (Rutini - Mendoza)",
@@ -2024,39 +2035,6 @@
      },
      "descripcion": {},
      "precio": 39000,
-     "tags": []
-    },
-    {
-     "id": "tintos-genericos-dv-catena-cabernet-malbec",
-     "nombre": {
-      "es": "DV Catena Cabernet-Malbec (Rutini - Mendoza)",
-      "en": "DV Catena Cabernet-Malbec (Rutini - Mendoza)",
-      "pt": "DV Catena Cabernet-Malbec (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 47000,
-     "tags": []
-    },
-    {
-     "id": "tintos-genericos-trumpeter-reserve-blend",
-     "nombre": {
-      "es": "Trumpeter Reserve Blend (Rutini - Mendoza)",
-      "en": "Trumpeter Reserve Blend (Rutini - Mendoza)",
-      "pt": "Trumpeter Reserve Blend (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 24000,
-     "tags": []
-    },
-    {
-     "id": "tintos-genericos-trumpeter-cabernet-franc",
-     "nombre": {
-      "es": "Trumpeter Cabernet Franc (Rutini - Mendoza)",
-      "en": "Trumpeter Cabernet Franc (Rutini - Mendoza)",
-      "pt": "Trumpeter Cabernet Franc (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 21000,
      "tags": []
     },
     {
@@ -2079,6 +2057,28 @@
      },
      "descripcion": {},
      "precio": 30000,
+     "tags": []
+    },
+    {
+     "id": "tintos-genericos-trumpeter-reserve-blend",
+     "nombre": {
+      "es": "Trumpeter Reserve Blend (Rutini - Mendoza)",
+      "en": "Trumpeter Reserve Blend (Rutini - Mendoza)",
+      "pt": "Trumpeter Reserve Blend (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": []
+    },
+    {
+     "id": "tintos-genericos-trumpeter-cabernet-franc",
+     "nombre": {
+      "es": "Trumpeter Cabernet Franc (Rutini - Mendoza)",
+      "en": "Trumpeter Cabernet Franc (Rutini - Mendoza)",
+      "pt": "Trumpeter Cabernet Franc (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     }
    ]
@@ -2111,17 +2111,6 @@
      ]
     },
     {
-     "id": "blancos-sauvignon-blanc-trumpeter",
-     "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)",
-      "en": "Trumpeter Cabernet Sauvignon",
-      "pt": "Trumpeter Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 21000,
-     "tags": []
-    },
-    {
      "id": "blancos-sauvignon-blanc-trumpeter-low",
      "nombre": {
       "es": "Trumpeter Low (Bga. Rutini - Mendoza)",
@@ -2130,6 +2119,17 @@
      },
      "descripcion": {},
      "precio": 24000,
+     "tags": []
+    },
+    {
+     "id": "blancos-sauvignon-blanc-trumpeter",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Trumpeter Cabernet Sauvignon",
+      "pt": "Trumpeter Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     }
    ]
@@ -2189,17 +2189,6 @@
      ]
     },
     {
-     "id": "blancos-chardonnay-dominio",
-     "nombre": {
-      "es": "Rutini Dominio (Bga. Rutini - Mendoza)",
-      "en": "Rutini Dominio Chardonnay",
-      "pt": "Rutini Dominio Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 47000,
-     "tags": []
-    },
-    {
      "id": "blancos-chardonnay-angelica-zapata",
      "nombre": {
       "es": "Angélica Zapata (Catena Zapata - Mendoza)",
@@ -2219,6 +2208,17 @@
      },
      "descripcion": {},
      "precio": 51000,
+     "tags": []
+    },
+    {
+     "id": "blancos-chardonnay-dominio",
+     "nombre": {
+      "es": "Rutini Dominio (Bga. Rutini - Mendoza)",
+      "en": "Rutini Dominio Chardonnay",
+      "pt": "Rutini Dominio Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 47000,
      "tags": []
     },
     {
@@ -2244,17 +2244,6 @@
      "tags": []
     },
     {
-     "id": "blancos-chardonnay-trumpeter",
-     "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)",
-      "en": "Trumpeter Reserve Malbec",
-      "pt": "Trumpeter Reserve Malbec"
-     },
-     "descripcion": {},
-     "precio": 21000,
-     "tags": []
-    },
-    {
      "id": "blancos-chardonnay-sant",
      "nombre": {
       "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
@@ -2263,6 +2252,17 @@
      },
      "descripcion": {},
      "precio": 29000,
+     "tags": []
+    },
+    {
+     "id": "blancos-chardonnay-trumpeter",
+     "nombre": {
+      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "en": "Trumpeter Reserve Malbec",
+      "pt": "Trumpeter Reserve Malbec"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     }
    ]
@@ -2320,17 +2320,17 @@
    ]
   },
   {
-   "id": "blancos-cosecha-tardia",
+   "id": "cosecha-tardia",
    "nombre": {
-    "es": "Blancos: Cosecha tardía",
-    "en": "Whites: Late harvest",
-    "pt": "Brancos: Colheita tardia"
+    "es": "Cosecha tardía",
+    "en": "Late harvest",
+    "pt": "Colheita tardia"
    },
    "foto": "",
    "nota": {},
    "items": [
     {
-     "id": "blancos-cosecha-tardia-encabezado",
+     "id": "cosecha-tardia-encabezado",
      "nombre": {
       "es": "Rutini Encabezado Malbec (Rutini - Mendoza)",
       "en": "Rutini Encabezado Malbec (Rutini - Mendoza)",
@@ -2341,7 +2341,7 @@
      "tags": []
     },
     {
-     "id": "blancos-cosecha-tardia-vin-doux",
+     "id": "cosecha-tardia-vin-doux",
      "nombre": {
       "es": "Rutini Vin Doux Naturel (Rutini - Mendoza)",
       "en": "Rutini Vin Doux Naturel (Rutini - Mendoza)",
@@ -2352,7 +2352,7 @@
      "tags": []
     },
     {
-     "id": "blancos-cosecha-tardia-saint-felicien",
+     "id": "cosecha-tardia-saint-felicien",
      "nombre": {
       "es": "Saint Felicien Semillón Doux (Catena Zapata)",
       "en": "Saint Felicien Semillón Doux (Catena Zapata)",
@@ -2363,18 +2363,7 @@
      "tags": []
     },
     {
-     "id": "blancos-cosecha-tardia-san-felipe",
-     "nombre": {
-      "es": "San Felipe Roble Tardío (Rutini - Mendoza)",
-      "en": "San Felipe Roble Tardío (Rutini - Mendoza)",
-      "pt": "San Felipe Roble Tardío (Rutini - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 21000,
-     "tags": []
-    },
-    {
-     "id": "blancos-cosecha-tardia-benjamin",
+     "id": "cosecha-tardia-benjamin",
      "nombre": {
       "es": "Benjamín Blanco (Nieto Senetiner - Mendoza)",
       "en": "Benjamín Blanco (Nieto Senetiner - Mendoza)",
@@ -2382,6 +2371,17 @@
      },
      "descripcion": {},
      "precio": 25000,
+     "tags": []
+    },
+    {
+     "id": "cosecha-tardia-san-felipe",
+     "nombre": {
+      "es": "San Felipe Roble Tardío (Rutini - Mendoza)",
+      "en": "San Felipe Roble Tardío (Rutini - Mendoza)",
+      "pt": "San Felipe Roble Tardío (Rutini - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     }
    ]
@@ -2396,6 +2396,15 @@
    "foto": "rosados.jpg",
    "nota": {},
    "items": [
+    {
+     "id": "ros-mascota",
+     "nombre": {
+      "es": "La Mascota (Bga. La Mascota - Mendoza)"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": []
+    },
     {
      "id": "ros-trumpeter-reserve",
      "nombre": {
@@ -2417,15 +2426,6 @@
      "descripcion": {},
      "precio": 19000,
      "tags": []
-    },
-    {
-     "id": "ros-mascota",
-     "nombre": {
-      "es": "La Mascota (Bga. La Mascota - Mendoza)"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
     }
    ]
   },
@@ -2440,83 +2440,6 @@
    "nota": {},
    "items": [
     {
-     "id": "esp-rutini-brut-nature",
-     "nombre": {
-      "es": "Rutini Brut Nature (Bodega La Rural)",
-      "en": "Rutini Brut Nature",
-      "pt": "Rutini Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 73000,
-     "tags": []
-    },
-    {
-     "id": "esp-rutini-eb",
-     "nombre": {
-      "es": "Rutini Extra Brut (Bodega La Rural)",
-      "en": "Rutini Extra Brut",
-      "pt": "Rutini Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 63000,
-     "tags": []
-    },
-    {
-     "id": "esp-dominio-brut-nature",
-     "nombre": {
-      "es": "Dominio Brut Nature (Bodega La Rural)",
-      "en": "Dominio Brut Nature",
-      "pt": "Dominio Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 59000,
-     "tags": []
-    },
-    {
-     "id": "esp-dominio-extra-brut",
-     "nombre": {
-      "es": "Dominio Extra Brut (Bodega La Rural)",
-      "en": "Dominio Extra Brut",
-      "pt": "Dominio Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 51000,
-     "tags": []
-    },
-    {
-     "id": "esp-trumpeter-brut-nature",
-     "nombre": {
-      "es": "Trumpeter Brut Nature (Bodega La Rural)",
-      "en": "Trumpeter Brut Nature",
-      "pt": "Trumpeter Brut Nature"
-     },
-     "descripcion": {},
-     "precio": 36000,
-     "tags": []
-    },
-    {
-     "id": "esp-trumpeter-rose",
-     "nombre": {
-      "es": "Trumpeter Rosé (Bodega La Rural)",
-      "en": "Trumpeter Rosé",
-      "pt": "Trumpeter Rosé"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
-    },
-    {
-     "id": "esp-trumpeter-eb",
-     "nombre": {
-      "es": "Trumpeter Extra Brut (Bodega La Rural)",
-      "en": "Trumpeter Extra Brut",
-      "pt": "Trumpeter Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 32000,
-     "tags": []
-    },
-    {
      "id": "esp-dom-perignon",
      "nombre": {
       "es": "Dom Perignon (Bodega Chandon)",
@@ -2525,28 +2448,6 @@
      },
      "descripcion": {},
      "precio": 970000,
-     "tags": []
-    },
-    {
-     "id": "esp-moet",
-     "nombre": {
-      "es": "Moet Ice Imperial (Bodega Chandon)",
-      "en": "Moet Ice Imperial",
-      "pt": "Moet Ice Imperial"
-     },
-     "descripcion": {},
-     "precio": 430000,
-     "tags": []
-    },
-    {
-     "id": "esp-veuve-yellow",
-     "nombre": {
-      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
-      "en": "Veuve Clicquot Yellow Label",
-      "pt": "Veuve Clicquot Yellow Label"
-     },
-     "descripcion": {},
-     "precio": 420000,
      "tags": []
     },
     {
@@ -2572,6 +2473,50 @@
      "tags": []
     },
     {
+     "id": "esp-moet",
+     "nombre": {
+      "es": "Moet Ice Imperial (Bodega Chandon)",
+      "en": "Moet Ice Imperial",
+      "pt": "Moet Ice Imperial"
+     },
+     "descripcion": {},
+     "precio": 430000,
+     "tags": []
+    },
+    {
+     "id": "esp-veuve-yellow",
+     "nombre": {
+      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
+      "en": "Veuve Clicquot Yellow Label",
+      "pt": "Veuve Clicquot Yellow Label"
+     },
+     "descripcion": {},
+     "precio": 420000,
+     "tags": []
+    },
+    {
+     "id": "esp-rutini-brut-nature",
+     "nombre": {
+      "es": "Rutini Brut Nature (Bodega La Rural)",
+      "en": "Rutini Brut Nature",
+      "pt": "Rutini Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 73000,
+     "tags": []
+    },
+    {
+     "id": "esp-rutini-eb",
+     "nombre": {
+      "es": "Rutini Extra Brut (Bodega La Rural)",
+      "en": "Rutini Extra Brut",
+      "pt": "Rutini Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 63000,
+     "tags": []
+    },
+    {
      "id": "esp-baron-b-brut-nature",
      "nombre": {
       "es": "Barón B Brut Nature (Bodega Chandon)",
@@ -2594,6 +2539,17 @@
      "tags": []
     },
     {
+     "id": "esp-dominio-brut-nature",
+     "nombre": {
+      "es": "Dominio Brut Nature (Bodega La Rural)",
+      "en": "Dominio Brut Nature",
+      "pt": "Dominio Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 59000,
+     "tags": []
+    },
+    {
      "id": "esp-baron-b",
      "nombre": {
       "es": "Barón B Extra Brut (Bodega Chandon)",
@@ -2602,6 +2558,39 @@
      },
      "descripcion": {},
      "precio": 54000,
+     "tags": []
+    },
+    {
+     "id": "esp-dominio-extra-brut",
+     "nombre": {
+      "es": "Dominio Extra Brut (Bodega La Rural)",
+      "en": "Dominio Extra Brut",
+      "pt": "Dominio Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 51000,
+     "tags": []
+    },
+    {
+     "id": "esp-navarro-correas-extra-brut",
+     "nombre": {
+      "es": "Navarro Correas Extra Brut (Bodega Navarro Correas)",
+      "en": "Navarro Correas Extra Brut",
+      "pt": "Navarro Correas Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 37000,
+     "tags": []
+    },
+    {
+     "id": "esp-trumpeter-brut-nature",
+     "nombre": {
+      "es": "Trumpeter Brut Nature (Bodega La Rural)",
+      "en": "Trumpeter Brut Nature",
+      "pt": "Trumpeter Brut Nature"
+     },
+     "descripcion": {},
+     "precio": 36000,
      "tags": []
     },
     {
@@ -2638,6 +2627,28 @@
      "tags": []
     },
     {
+     "id": "esp-trumpeter-rose",
+     "nombre": {
+      "es": "Trumpeter Rosé (Bodega La Rural)",
+      "en": "Trumpeter Rosé",
+      "pt": "Trumpeter Rosé"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": []
+    },
+    {
+     "id": "esp-trumpeter-eb",
+     "nombre": {
+      "es": "Trumpeter Extra Brut (Bodega La Rural)",
+      "en": "Trumpeter Extra Brut",
+      "pt": "Trumpeter Extra Brut"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": []
+    },
+    {
      "id": "esp-nieto-brut-nature",
      "nombre": {
       "es": "Nieto Brut Nature (Bodega Nieto Senetiner)",
@@ -2657,17 +2668,6 @@
      },
      "descripcion": {},
      "precio": 32000,
-     "tags": []
-    },
-    {
-     "id": "esp-navarro-correas-extra-brut",
-     "nombre": {
-      "es": "Navarro Correas Extra Brut (Bodega Navarro Correas)",
-      "en": "Navarro Correas Extra Brut",
-      "pt": "Navarro Correas Extra Brut"
-     },
-     "descripcion": {},
-     "precio": 37000,
      "tags": []
     }
    ]
@@ -3152,6 +3152,17 @@
    },
    "items": [
     {
+     "id": "vod-nuvo-botella",
+     "nombre": {
+      "es": "Nuvo (botella)",
+      "en": "Nuvo (botella)",
+      "pt": "Nuvo (botella)"
+     },
+     "descripcion": {},
+     "precio": 230000,
+     "tags": []
+    },
+    {
      "id": "vod-grey-goose",
      "nombre": {
       "es": "Grey Goose",
@@ -3215,17 +3226,6 @@
      },
      "descripcion": {},
      "precio": 6600,
-     "tags": []
-    },
-    {
-     "id": "vod-nuvo-botella",
-     "nombre": {
-      "es": "Nuvo (botella)",
-      "en": "Nuvo (botella)",
-      "pt": "Nuvo (botella)"
-     },
-     "descripcion": {},
-     "precio": 230000,
      "tags": []
     }
    ]
@@ -3354,17 +3354,6 @@
    },
    "items": [
     {
-     "id": "cog-hennessy-vsop",
-     "nombre": {
-      "es": "Hennessy V.S.O.P.",
-      "en": "Hennessy V.S.O.P.",
-      "pt": "Hennessy V.S.O.P."
-     },
-     "descripcion": {},
-     "precio": 25000,
-     "tags": []
-    },
-    {
      "id": "cog-remy-martin-vsop",
      "nombre": {
       "es": "Rémy Martin V.S.O.P.",
@@ -3373,6 +3362,17 @@
      },
      "descripcion": {},
      "precio": 58000,
+     "tags": []
+    },
+    {
+     "id": "cog-hennessy-vsop",
+     "nombre": {
+      "es": "Hennessy V.S.O.P.",
+      "en": "Hennessy V.S.O.P.",
+      "pt": "Hennessy V.S.O.P."
+     },
+     "descripcion": {},
+     "precio": 25000,
      "tags": []
     },
     {
@@ -3474,28 +3474,6 @@
      "tags": []
     },
     {
-     "id": "ron-havana-3",
-     "nombre": {
-      "es": "Havana Club 3 años",
-      "en": "Havana Club 3 años",
-      "pt": "Havana Club 3 años"
-     },
-     "descripcion": {},
-     "precio": 10900,
-     "tags": []
-    },
-    {
-     "id": "ron-havana-especial",
-     "nombre": {
-      "es": "Havana Especial",
-      "en": "Havana Especial",
-      "pt": "Havana Especial"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
      "id": "ron-bacardi-oro",
      "nombre": {
       "es": "Bacardi Oro",
@@ -3515,6 +3493,28 @@
      },
      "descripcion": {},
      "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "ron-havana-3",
+     "nombre": {
+      "es": "Havana Club 3 años",
+      "en": "Havana Club 3 años",
+      "pt": "Havana Club 3 años"
+     },
+     "descripcion": {},
+     "precio": 10900,
+     "tags": []
+    },
+    {
+     "id": "ron-havana-especial",
+     "nombre": {
+      "es": "Havana Especial",
+      "en": "Havana Especial",
+      "pt": "Havana Especial"
+     },
+     "descripcion": {},
+     "precio": 10000,
      "tags": []
     },
     {
@@ -3556,17 +3556,6 @@
      "tags": []
     },
     {
-     "id": "wh-royal-salute-21",
-     "nombre": {
-      "es": "Royal Salute 21 años",
-      "en": "Royal Salute 21 años",
-      "pt": "Royal Salute 21 años"
-     },
-     "descripcion": {},
-     "precio": 90000,
-     "tags": []
-    },
-    {
      "id": "wh-jw-blue",
      "nombre": {
       "es": "J.W. Blue Label",
@@ -3578,6 +3567,17 @@
      "tags": []
     },
     {
+     "id": "wh-royal-salute-21",
+     "nombre": {
+      "es": "Royal Salute 21 años",
+      "en": "Royal Salute 21 años",
+      "pt": "Royal Salute 21 años"
+     },
+     "descripcion": {},
+     "precio": 90000,
+     "tags": []
+    },
+    {
      "id": "wh-macallan-12",
      "nombre": {
       "es": "Macallan Double Cask 12 años",
@@ -3586,6 +3586,28 @@
      },
      "descripcion": {},
      "precio": 60000,
+     "tags": []
+    },
+    {
+     "id": "wh-jw-platinum-18",
+     "nombre": {
+      "es": "J.W. Platinum / J.W. 18 años",
+      "en": "J.W. Platinum / J.W. 18 años",
+      "pt": "J.W. Platinum / J.W. 18 años"
+     },
+     "descripcion": {},
+     "precio": 60000,
+     "tags": []
+    },
+    {
+     "id": "wh-highland-park-12",
+     "nombre": {
+      "es": "Highland Park 12 años",
+      "en": "Highland Park 12 años",
+      "pt": "Highland Park 12 años"
+     },
+     "descripcion": {},
+     "precio": 48000,
      "tags": []
     },
     {
@@ -3608,17 +3630,6 @@
      },
      "descripcion": {},
      "precio": 45000,
-     "tags": []
-    },
-    {
-     "id": "wh-jw-platinum-18",
-     "nombre": {
-      "es": "J.W. Platinum / J.W. 18 años",
-      "en": "J.W. Platinum / J.W. 18 años",
-      "pt": "J.W. Platinum / J.W. 18 años"
-     },
-     "descripcion": {},
-     "precio": 60000,
      "tags": []
     },
     {
@@ -3666,17 +3677,6 @@
      "tags": []
     },
     {
-     "id": "wh-jw-gold",
-     "nombre": {
-      "es": "J.W. Gold",
-      "en": "J.W. Gold",
-      "pt": "J.W. Gold"
-     },
-     "descripcion": {},
-     "precio": 23000,
-     "tags": []
-    },
-    {
      "id": "wh-cardu-12",
      "nombre": {
       "es": "Cardu 12 años",
@@ -3688,14 +3688,14 @@
      "tags": []
     },
     {
-     "id": "wh-highland-park-12",
+     "id": "wh-jw-gold",
      "nombre": {
-      "es": "Highland Park 12 años",
-      "en": "Highland Park 12 años",
-      "pt": "Highland Park 12 años"
+      "es": "J.W. Gold",
+      "en": "J.W. Gold",
+      "pt": "J.W. Gold"
      },
      "descripcion": {},
-     "precio": 48000,
+     "precio": 23000,
      "tags": []
     },
     {
@@ -3732,6 +3732,17 @@
      "tags": []
     },
     {
+     "id": "wh-famous-grouse",
+     "nombre": {
+      "es": "The Famous Grouse",
+      "en": "The Famous Grouse",
+      "pt": "The Famous Grouse"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": []
+    },
+    {
      "id": "wh-jameson",
      "nombre": {
       "es": "Jameson",
@@ -3754,28 +3765,6 @@
      "tags": []
     },
     {
-     "id": "wh-ballantines-finest",
-     "nombre": {
-      "es": "Ballantine's Finest",
-      "en": "Ballantine's Finest",
-      "pt": "Ballantine's Finest"
-     },
-     "descripcion": {},
-     "precio": 13000,
-     "tags": []
-    },
-    {
-     "id": "wh-famous-grouse",
-     "nombre": {
-      "es": "The Famous Grouse",
-      "en": "The Famous Grouse",
-      "pt": "The Famous Grouse"
-     },
-     "descripcion": {},
-     "precio": 17000,
-     "tags": []
-    },
-    {
      "id": "wh-jack-daniels",
      "nombre": {
       "es": "Jack Daniels",
@@ -3795,6 +3784,17 @@
      },
      "descripcion": {},
      "precio": 15000,
+     "tags": []
+    },
+    {
+     "id": "wh-ballantines-finest",
+     "nombre": {
+      "es": "Ballantine's Finest",
+      "en": "Ballantine's Finest",
+      "pt": "Ballantine's Finest"
+     },
+     "descripcion": {},
+     "precio": 13000,
      "tags": []
     },
     {
@@ -3869,17 +3869,6 @@
    },
    "items": [
     {
-     "id": "pis-mistral",
-     "nombre": {
-      "es": "Mistral",
-      "en": "Mistral",
-      "pt": "Mistral"
-     },
-     "descripcion": {},
-     "precio": 9200,
-     "tags": []
-    },
-    {
      "id": "pis-sour-capel",
      "nombre": {
       "es": "Sour Capel",
@@ -3888,6 +3877,17 @@
      },
      "descripcion": {},
      "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "pis-mistral",
+     "nombre": {
+      "es": "Mistral",
+      "en": "Mistral",
+      "pt": "Mistral"
+     },
+     "descripcion": {},
+     "precio": 9200,
      "tags": []
     }
    ]
