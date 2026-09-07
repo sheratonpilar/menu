@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-04T18:32:08.036Z",
+  "actualizado": "2026-09-07T14:17:19.751Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -2194,7 +2194,7 @@
    },
    "items": [
     {
-     "id": "tintos-cabernet-sauvignon-dv-catena",
+     "id": "tintos-dv-catena-casauv",
      "nombre": {
       "es": "D.V. Catena (Catena Zapata - Mendoza)",
       "en": "D.V. Catena (Catena Zapata - Mendoza)",
@@ -2205,7 +2205,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-angelica-zapata",
+     "id": "tintos-angelica-zapata-casauv",
      "nombre": {
       "es": "Angélica Zapata (Esmeralda - Mendoza)",
       "en": "Angélica Zapata (Esmeralda - Mendoza)",
@@ -2216,18 +2216,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-agelica",
-     "nombre": {
-      "es": "Angélica Zapata (Bga. Esmeralda - Mendoza)",
-      "en": "Trumpeter Malbec",
-      "pt": "Trumpeter Malbec"
-     },
-     "descripcion": {},
-     "precio": 61000,
-     "tags": []
-    },
-    {
-     "id": "tintos-cabernet-sauvignon-rutini",
+     "id": "tintos-rutini-casauv",
      "nombre": {
       "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección (Rutini - Mendoza)",
@@ -2238,7 +2227,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-encuentro",
+     "id": "tintos-encuentro-casauv",
      "nombre": {
       "es": "Encuentro (Rutini - Mendoza)",
       "en": "Encuentro (Rutini - Mendoza)",
@@ -2249,7 +2238,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-saint",
+     "id": "tintos-saint-felicien-casauv",
      "nombre": {
       "es": "Saint Felicien (Nieto Senetiner - Mendoza)",
       "en": "Saint Felicien (Nieto Senetiner - Mendoza)",
@@ -2260,7 +2249,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-mascota",
+     "id": "tintos-mascota-casauv",
      "nombre": {
       "es": "La Mascota (La Mascota - Mendoza)",
       "en": "La Mascota (La Mascota - Mendoza)",
@@ -2271,7 +2260,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-trumpeter-reserve",
+     "id": "tintos-trumpeter-reserve-casauv",
      "nombre": {
       "es": "Trumpeter Reserve (Rutini - Mendoza)",
       "en": "Trumpeter Reserve (Rutini - Mendoza)",
@@ -2284,7 +2273,7 @@
      ]
     },
     {
-     "id": "tintos-cabernet-sauvignon-nieto",
+     "id": "tintos-nieto-senet-casauv",
      "nombre": {
       "es": "Nieto Senetiner (Nieto Senetiner - Mendoza)",
       "en": "Nieto Senetiner (Nieto Senetiner - Mendoza)",
@@ -2295,7 +2284,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-sauvignon-trumpeter",
+     "id": "tintos-trumpeter-casauv",
      "nombre": {
       "es": "Trumpeter (Rutini - Mendoza)",
       "en": "Trumpeter (Rutini - Mendoza)",
@@ -2324,7 +2313,7 @@
     {
      "id": "tintos-merlot-rutini",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección Merlot",
       "pt": "Rutini Colección Merlot"
      },
@@ -2335,7 +2324,7 @@
     {
      "id": "tintos-merlot-trumpeter",
      "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)"
+      "es": "Trumpeter (Rutini - Mendoza)"
      },
      "descripcion": {},
      "precio": 20000,
@@ -2358,9 +2347,9 @@
    },
    "items": [
     {
-     "id": "tintos-syrah-rutini",
+     "id": "tintos-rutini-syrah",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección Syrah",
       "pt": "Rutini Colección Syrah"
      },
@@ -2369,7 +2358,7 @@
      "tags": []
     },
     {
-     "id": "tintos-syrah-saint",
+     "id": "tintos-saint-syrah",
      "nombre": {
       "es": "Saint Felicien (Catena Zapata - Mendoza)",
       "en": "Saint Felicien (Catena Zapata - Mendoza)",
@@ -2380,9 +2369,9 @@
      "tags": []
     },
     {
-     "id": "tintos-syrah-trumpeter",
+     "id": "tintos-trumpeter-syrah",
      "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter (Rutini - Mendoza)",
       "en": "Trumpeter Reserve Viognier",
       "pt": "Trumpeter Reserve Viognier"
      },
@@ -2407,7 +2396,7 @@
    },
    "items": [
     {
-     "id": "tintos-cabernet-franc-gran-medalla",
+     "id": "tintos-gran-medalla-cafranc",
      "nombre": {
       "es": "Gran Medalla (Trapiche - Mendoza)",
       "en": "Gran Medalla (Trapiche - Mendoza)",
@@ -2418,9 +2407,20 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-franc-rutini",
+     "id": "tintos-angelica-zapata-cafranc",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "es": "Angélica Zapata (Esmeralda - Mendoza)",
+      "en": "Trumpeter Reserve Cabernet Sauvignon",
+      "pt": "Trumpeter Reserve Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 61000,
+     "tags": []
+    },
+    {
+     "id": "tintos-rutini-cafranc",
+     "nombre": {
+      "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección Cabernet Franc",
       "pt": "Rutini Colección Cabernet Franc"
      },
@@ -2429,9 +2429,9 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-franc-sf",
+     "id": "tintos-saint-felicien-cafranc",
      "nombre": {
-      "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
+      "es": "Saint Felicien (Catena Zapata - Mendoza)",
       "en": "Trumpeter Reserve Cabernet Sauvignon",
       "pt": "Trumpeter Reserve Cabernet Sauvignon"
      },
@@ -2440,7 +2440,7 @@
      "tags": []
     },
     {
-     "id": "tintos-cabernet-franc-nicasia",
+     "id": "tintos-nicasia-cafranc",
      "nombre": {
       "es": "Nicasia (Catena Zapata - Mendoza)",
       "en": "Nicasia (Catena Zapata - Mendoza)",
@@ -2467,7 +2467,7 @@
    },
    "items": [
     {
-     "id": "tintos-pinot-noir-antologia",
+     "id": "tintos-antologia-pinot-noir",
      "nombre": {
       "es": "Antología LXI 61 (Rutini - Mendoza)",
       "en": "Antología LXI 61 (Rutini - Mendoza)",
@@ -2480,9 +2480,9 @@
      ]
     },
     {
-     "id": "tintos-pinot-noir-rutini",
+     "id": "tintos-rutini-pinot-noir",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección Pinot Noir",
       "pt": "Rutini Colección Pinot Noir"
      },
@@ -2491,7 +2491,7 @@
      "tags": []
     },
     {
-     "id": "tintos-pinot-noir-dv-catena",
+     "id": "tintos-dv-catena-pinot-noir",
      "nombre": {
       "es": "DV Catena (Catena Zapata - Mendoza)",
       "en": "DV Catena (Catena Zapata - Mendoza)",
@@ -2502,7 +2502,7 @@
      "tags": []
     },
     {
-     "id": "tintos-pinot-noir-costa-y-pampa",
+     "id": "tintos-costa-y-pampa-pinot-noir",
      "nombre": {
       "es": "Costa y Pampa (Trapiche - Mendoza)",
       "en": "Costa y Pampa (Trapiche - Mendoza)",
@@ -2531,7 +2531,7 @@
     {
      "id": "tintos-malbec-angelica",
      "nombre": {
-      "es": "Angelica Zapata (Bga. Esmeralda - Mendoza)"
+      "es": "Angelica Zapata (Esmeralda - Mendoza)"
      },
      "descripcion": {},
      "precio": 77000,
@@ -2549,7 +2549,7 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-dv-catena",
+     "id": "tintos-dv-catena-malbec",
      "nombre": {
       "es": "DV Catena Malbec-Malbec (Catena Zapata - Mendoza)",
       "en": "DV Catena Malbec-Malbec (Catena Zapata - Mendoza)",
@@ -2560,9 +2560,9 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-rutini",
+     "id": "tintos-rutini-malbec",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Malbec Rutini Colección",
       "pt": "Malbec Rutini Colección"
      },
@@ -2573,7 +2573,7 @@
      ]
     },
     {
-     "id": "tintos-malbec-rutini-dominio",
+     "id": "tintos-rutini-dominio-malbec",
      "nombre": {
       "es": "Rutini Dominio (Rutini - Mendoza)",
       "en": "Rutini Dominio (Rutini - Mendoza)",
@@ -2584,7 +2584,7 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-finca-los-notables",
+     "id": "tintos-finca-los-notables-malbec",
      "nombre": {
       "es": "Finca Los Notables Malbec (El Esteco - Cafayate)",
       "en": "Finca Los Notables Malbec (El Esteco - Cafayate)",
@@ -2595,16 +2595,16 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-encuentro",
+     "id": "tintos-encuentro-malbec",
      "nombre": {
-      "es": "Encuentro (Bga. Rutini - Mendoza)"
+      "es": "Encuentro (Rutini - Mendoza)"
      },
      "descripcion": {},
      "precio": 42000,
      "tags": []
     },
     {
-     "id": "tintos-malbec-blend-de-extremos",
+     "id": "tintos-blend-de-extremos-malbec",
      "nombre": {
       "es": "Blend de Extremos Malbec (El Esteco - Cafayate)",
       "en": "Blend de Extremos Malbec (El Esteco - Cafayate)",
@@ -2615,7 +2615,7 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-don-nicanor",
+     "id": "tintos-don-nicanor-malbec",
      "nombre": {
       "es": "Don Nicanor Barrel Select (Nieto Senetiner - Mendoza)",
       "en": "Don Nicanor Barrel Select (Nieto Senetiner - Mendoza)",
@@ -2626,7 +2626,7 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-mascota",
+     "id": "tintos-mascota-malbec",
      "nombre": {
       "es": "La Mascota Malbec (Trapiche - Mendoza)",
       "en": "La Mascota Malbec (Trapiche - Mendoza)",
@@ -2637,18 +2637,18 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-saint",
+     "id": "tintos-saint-malbec",
      "nombre": {
-      "es": "Saint Felicien (Bga. Catena Zapata – Mendoza)"
+      "es": "Saint Felicien (Catena Zapata – Mendoza)"
      },
      "descripcion": {},
      "precio": 31000,
      "tags": []
     },
     {
-     "id": "tintos-malbec-trumpeter-reserve",
+     "id": "tintos-trumpeter-reserve-malbec",
      "nombre": {
-      "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter Reserve (Rutini - Mendoza)",
       "en": "Malbec Trumpeter Reserve",
       "pt": "Malbec Trumpeter Reserve"
      },
@@ -2659,7 +2659,7 @@
      ]
     },
     {
-     "id": "tintos-malbec-trumpeter-low",
+     "id": "tintos-trumpeter-low-malbec",
      "nombre": {
       "es": "Trumpeter Low (Rutini - Mendoza)",
       "en": "Trumpeter Low (Rutini - Mendoza)",
@@ -2670,9 +2670,9 @@
      "tags": []
     },
     {
-     "id": "tintos-malbec-trumpeter",
+     "id": "tintos-trumpeter-malbec",
      "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter (Rutini - Mendoza)",
       "en": "Malbec Trumpeter",
       "pt": "Malbec Trumpeter"
      },
@@ -2683,16 +2683,16 @@
      ]
     },
     {
-     "id": "tintos-malbec-nieto",
+     "id": "tintos-nieto-malbec",
      "nombre": {
-      "es": "Nieto Senetiner (Bga. Nieto Senetiner– Mendoza)"
+      "es": "Nieto Senetiner (Nieto Senetiner– Mendoza)"
      },
      "descripcion": {},
      "precio": 21000,
      "tags": []
     },
     {
-     "id": "tintos-malbec-trumpeter-375",
+     "id": "tintos-trumpeter-375-malbec",
      "nombre": {
       "es": "Trumpeter 375 cc (Rutini - Mendoza)",
       "en": "Trumpeter 375 cc (Rutini - Mendoza)",
@@ -2707,9 +2707,9 @@
   {
    "id": "tintos-genericos",
    "nombre": {
-    "es": "Tintos: Blends",
-    "en": "Reds: Blends",
-    "pt": "Tintos: Blends"
+    "es": "Tintos: Genéricos / Blends",
+    "en": "Reds: Genéricos / Blends",
+    "pt": "Tintos: Genéricos / Blends"
    },
    "foto": "",
    "nota": {
@@ -2719,7 +2719,7 @@
    },
    "items": [
     {
-     "id": "tintos-genericos-felipe-rutini-rutini",
+     "id": "tintos-felipe-rutini-genericos",
      "nombre": {
       "es": "Felipe Rutini (Rutini - Mendoza)",
       "en": "Felipe Rutini (Rutini - Mendoza)",
@@ -2730,7 +2730,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-dominio-grand-blend",
+     "id": "tintos-dominio-grand-blend-genericos",
      "nombre": {
       "es": "Dominio Grand Blend (Rutini - Mendoza)",
       "en": "Dominio Grand Blend (Rutini - Mendoza)",
@@ -2741,11 +2741,11 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-antologia",
+     "id": "tintos-antologia-genericos",
      "nombre": {
-      "es": "Antología XXXVIII 38 Genérico Rutini",
-      "en": "Antología XXXVIII 38 Genérico Rutini",
-      "pt": "Antología XXXVIII 38 Genérico Rutini"
+      "es": "Antología XXXVIII 38 (Rutini - Mendoza)",
+      "en": "Antología XXXVIII 38 (Rutini - Mendoza)",
+      "pt": "Antología XXXVIII 38 (Rutini - Mendoza)"
      },
      "descripcion": {},
      "precio": 71000,
@@ -2754,7 +2754,7 @@
      ]
     },
     {
-     "id": "tintos-genericos-dominio-malbec-cabernet-franci",
+     "id": "tintos-dominio-malbec-cabernet-franci-genericos",
      "nombre": {
       "es": "Dominio Malbec-Cabernet Franc (Rutini - Mendoza)",
       "en": "Dominio Malbec-Cabernet Franc (Rutini - Mendoza)",
@@ -2765,7 +2765,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-dv-catena-cabernet-malbec",
+     "id": "tintos-dv-catena-cabernet-malbec-genericos",
      "nombre": {
       "es": "DV Catena Cabernet-Malbec (Rutini - Mendoza)",
       "en": "DV Catena Cabernet-Malbec (Rutini - Mendoza)",
@@ -2776,7 +2776,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-rutini-cabernet-sauvignon-syrah",
+     "id": "tintos-rutini-cabernet-sauvignon-syrah-genericos",
      "nombre": {
       "es": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)",
       "en": "Rutini Cabernet Sauvignon Syrah (Rutini - Mendoza)",
@@ -2787,7 +2787,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-rutini-cabernet-malbec",
+     "id": "tintos-rutini-cabernet-malbec-genericos",
      "nombre": {
       "es": "Rutini Cabernet Malbec (Rutini - Mendoza)",
       "en": "Rutini Cabernet Malbec (Rutini - Mendoza)",
@@ -2800,7 +2800,7 @@
      ]
     },
     {
-     "id": "tintos-genericos-rutini-cabernet-merlot",
+     "id": "tintos-rutini-cabernet-merlot-genericos",
      "nombre": {
       "es": "Rutini Cabernet Merlot (Rutini - Mendoza)",
       "en": "Rutini Cabernet Merlot (Rutini - Mendoza)",
@@ -2811,7 +2811,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-medalla-blend",
+     "id": "tintos-medalla-blend-genericos",
      "nombre": {
       "es": "Medalla Blend (Trapiche - Mendoza)",
       "en": "Medalla Blend (Trapiche - Mendoza)",
@@ -2822,7 +2822,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-blend-de-extremos-blend",
+     "id": "tintos-blend-de-extremos-blend-genericos",
      "nombre": {
       "es": "Blend de Extremos Blend (El Esteco - Cafayate)",
       "en": "Blend de Extremos Blend (El Esteco - Cafayate)",
@@ -2833,7 +2833,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-trumpeter-reserve-blend",
+     "id": "tintos-trumpeter-reserve-blend-genericos",
      "nombre": {
       "es": "Trumpeter Reserve Blend (Rutini - Mendoza)",
       "en": "Trumpeter Reserve Blend (Rutini - Mendoza)",
@@ -2844,7 +2844,7 @@
      "tags": []
     },
     {
-     "id": "tintos-genericos-trumpeter-cabernet-franc",
+     "id": "tintos-trumpeter-cabernet-franc-genericos",
      "nombre": {
       "es": "Trumpeter Cabernet Franc (Rutini - Mendoza)",
       "en": "Trumpeter Cabernet Franc (Rutini - Mendoza)",
@@ -2873,7 +2873,7 @@
     {
      "id": "blancos-sauvignon-blanc-rutini",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)",
+      "es": "Rutini Colección (Rutini - Mendoza)",
       "en": "Rutini Colección Sauvignon Blanc",
       "pt": "Rutini Colección Sauvignon Blanc"
      },
@@ -2886,7 +2886,7 @@
     {
      "id": "blancos-sauvignon-blanc-trumpeter-low",
      "nombre": {
-      "es": "Trumpeter Low (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter Low (Rutini - Mendoza)",
       "en": "Trumpeter Reserve Torrontés",
       "pt": "Trumpeter Reserve Torrontés"
      },
@@ -2897,7 +2897,7 @@
     {
      "id": "blancos-sauvignon-blanc-trumpeter",
      "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter (Rutini - Mendoza)",
       "en": "Trumpeter Cabernet Sauvignon",
       "pt": "Trumpeter Cabernet Sauvignon"
      },
@@ -2924,7 +2924,7 @@
     {
      "id": "blancos-viognier-trumpeter",
      "nombre": {
-      "es": "Trumpeter Reserve (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter Reserve (Rutini - Mendoza)",
       "en": "Rutini Colección Cabernet Sauvignon",
       "pt": "Rutini Colección Cabernet Sauvignon"
      },
@@ -2949,7 +2949,7 @@
    },
    "items": [
     {
-     "id": "blancos-chardonnay-apartado",
+     "id": "blancos-apartado-chardonnay",
      "nombre": {
       "es": "Apartado Gran Chardonnay (Rutini - Mendoza)",
       "en": "Apartado Gran Chardonnay (Rutini - Mendoza)",
@@ -2962,7 +2962,7 @@
      ]
     },
     {
-     "id": "blancos-chardonnay-angelica-zapata",
+     "id": "blancos-angelica-zapata-chardonnay",
      "nombre": {
       "es": "Angélica Zapata (Catena Zapata - Mendoza)",
       "en": "Angélica Zapata (Catena Zapata - Mendoza)",
@@ -2973,7 +2973,7 @@
      "tags": []
     },
     {
-     "id": "blancos-chardonnay-rutini",
+     "id": "blancos-rutini-coleccion-chardonnay",
      "nombre": {
       "es": "Rutini Colección (Bga Rutini - Mendoza)",
       "en": "Rutini Cabernet-Malbec",
@@ -2984,9 +2984,9 @@
      "tags": []
     },
     {
-     "id": "blancos-chardonnay-dominio",
+     "id": "blancos-rutini-dominio-chardonnay",
      "nombre": {
-      "es": "Rutini Dominio (Bga. Rutini - Mendoza)",
+      "es": "Rutini Dominio (Rutini - Mendoza)",
       "en": "Rutini Dominio Chardonnay",
       "pt": "Rutini Dominio Chardonnay"
      },
@@ -2995,7 +2995,7 @@
      "tags": []
     },
     {
-     "id": "rs-vino-encuentro-chard",
+     "id": "blancos-encuentro-chardonnay",
      "nombre": {
       "es": "Encuentro (Bga Rutini - Mendoza)",
       "en": "Encuentro Chardonnay",
@@ -3006,9 +3006,9 @@
      "tags": []
     },
     {
-     "id": "blancos-chardonnay-dv-catena",
+     "id": "blancos-dv-catena-chardonnay",
      "nombre": {
-      "es": "DV Catena (Bodega Zapata - Mendoza)",
+      "es": "DV Catena (Zapata - Mendoza)",
       "en": "Rutini Colección Malbec",
       "pt": "Rutini Colección Malbec"
      },
@@ -3017,9 +3017,9 @@
      "tags": []
     },
     {
-     "id": "blancos-chardonnay-sant",
+     "id": "blancos-sant-felicien-chardonnay",
      "nombre": {
-      "es": "Saint Felicien (Bga. Catena Zapata - Mendoza)",
+      "es": "Saint Felicien (Catena Zapata - Mendoza)",
       "en": "Trumpeter Reserve Rosé",
       "pt": "Trumpeter Reserve Rosé"
      },
@@ -3028,9 +3028,9 @@
      "tags": []
     },
     {
-     "id": "blancos-chardonnay-trumpeter",
+     "id": "blancos-trumpeter-chardonnay",
      "nombre": {
-      "es": "Trumpeter (Bga. Rutini - Mendoza)",
+      "es": "Trumpeter (Rutini - Mendoza)",
       "en": "Trumpeter Reserve Malbec",
       "pt": "Trumpeter Reserve Malbec"
      },
@@ -3057,7 +3057,7 @@
     {
      "id": "blancos-torrontes-trumpeter",
      "nombre": {
-      "es": "Trumpter Reserve (Bga. Rutini - Mendoza)",
+      "es": "Trumpter Reserve (Rutini - Mendoza)",
       "en": "Sauvignon Blanc Rutini Colección",
       "pt": "Sauvignon Blanc Rutini Colección"
      },
@@ -3084,7 +3084,7 @@
     {
      "id": "blancos-gewurztraminer-rutini",
      "nombre": {
-      "es": "Rutini Colección (Bga. Rutini - Mendoza)"
+      "es": "Rutini Colección (Rutini - Mendoza)"
      },
      "descripcion": {},
      "precio": 58000,
@@ -3103,7 +3103,7 @@
    "nota": {},
    "items": [
     {
-     "id": "cosecha-tardia-encabezado",
+     "id": "costardia-encabezado",
      "nombre": {
       "es": "Rutini Encabezado Malbec (Rutini - Mendoza)",
       "en": "Rutini Encabezado Malbec (Rutini - Mendoza)",
@@ -3114,7 +3114,7 @@
      "tags": []
     },
     {
-     "id": "cosecha-tardia-vin-doux",
+     "id": "costardia-vin-doux",
      "nombre": {
       "es": "Rutini Vin Doux Naturel (Rutini - Mendoza)",
       "en": "Rutini Vin Doux Naturel (Rutini - Mendoza)",
@@ -3125,7 +3125,7 @@
      "tags": []
     },
     {
-     "id": "cosecha-tardia-saint-felicien",
+     "id": "costardia-saint-felicien",
      "nombre": {
       "es": "Saint Felicien Semillón Doux (Catena Zapata)",
       "en": "Saint Felicien Semillón Doux (Catena Zapata)",
@@ -3136,7 +3136,7 @@
      "tags": []
     },
     {
-     "id": "cosecha-tardia-benjamin",
+     "id": "costardia-benjamin",
      "nombre": {
       "es": "Benjamín Blanco (Nieto Senetiner - Mendoza)",
       "en": "Benjamín Blanco (Nieto Senetiner - Mendoza)",
@@ -3147,7 +3147,7 @@
      "tags": []
     },
     {
-     "id": "cosecha-tardia-san-felipe",
+     "id": "costardia-san-felipe",
      "nombre": {
       "es": "San Felipe Roble Tardío (Rutini - Mendoza)",
       "en": "San Felipe Roble Tardío (Rutini - Mendoza)",
@@ -3172,7 +3172,7 @@
     {
      "id": "ros-mascota",
      "nombre": {
-      "es": "La Mascota (Bga. La Mascota - Mendoza)"
+      "es": "La Mascota (La Mascota - Mendoza)"
      },
      "descripcion": {},
      "precio": 32000,
@@ -3215,7 +3215,7 @@
     {
      "id": "esp-dom-perignon",
      "nombre": {
-      "es": "Dom Perignon (Bodega Chandon)",
+      "es": "Dom Perignon (Chandon)",
       "en": "Dom Perignon",
       "pt": "Dom Perignon"
      },
@@ -3226,7 +3226,7 @@
     {
      "id": "esp-veuve-rich",
      "nombre": {
-      "es": "Veuve Clicquot Rich (Bodega Chandon)",
+      "es": "Veuve Clicquot Rich (Chandon)",
       "en": "Veuve Clicquot Rich",
       "pt": "Veuve Clicquot Rich"
      },
@@ -3237,7 +3237,7 @@
     {
      "id": "esp-veuve-rose",
      "nombre": {
-      "es": "Veuve Clicquot Rosé (Bodega Chandon)",
+      "es": "Veuve Clicquot Rosé (Chandon)",
       "en": "Veuve Clicquot Rosé",
       "pt": "Veuve Clicquot Rosé"
      },
@@ -3248,7 +3248,7 @@
     {
      "id": "esp-moet",
      "nombre": {
-      "es": "Moet Ice Imperial (Bodega Chandon)",
+      "es": "Moet Ice Imperial (Chandon)",
       "en": "Moet Ice Imperial",
       "pt": "Moet Ice Imperial"
      },
@@ -3259,7 +3259,7 @@
     {
      "id": "esp-veuve-yellow",
      "nombre": {
-      "es": "Veuve Clicquot Yellow Label (Bodega Chandon)",
+      "es": "Veuve Clicquot Yellow Label (Chandon)",
       "en": "Veuve Clicquot Yellow Label",
       "pt": "Veuve Clicquot Yellow Label"
      },
@@ -3270,7 +3270,7 @@
     {
      "id": "esp-rutini-brut-nature",
      "nombre": {
-      "es": "Rutini Brut Nature (Bodega La Rural)",
+      "es": "Rutini Brut Nature (La Rural)",
       "en": "Rutini Brut Nature",
       "pt": "Rutini Brut Nature"
      },
@@ -3281,7 +3281,7 @@
     {
      "id": "esp-rutini-eb",
      "nombre": {
-      "es": "Rutini Extra Brut (Bodega La Rural)",
+      "es": "Rutini Extra Brut (La Rural)",
       "en": "Rutini Extra Brut",
       "pt": "Rutini Extra Brut"
      },
@@ -3292,7 +3292,7 @@
     {
      "id": "esp-baron-b-brut-nature",
      "nombre": {
-      "es": "Barón B Brut Nature (Bodega Chandon)",
+      "es": "Barón B Brut Nature (Chandon)",
       "en": "Barón B Brut Nature",
       "pt": "Barón B Brut Nature"
      },
@@ -3303,7 +3303,7 @@
     {
      "id": "esp-baron-b-rose",
      "nombre": {
-      "es": "Barón B Rosé (Bodega Chandon)",
+      "es": "Barón B Rosé (Chandon)",
       "en": "Barón B Rosé",
       "pt": "Barón B Rosé"
      },
@@ -3314,7 +3314,7 @@
     {
      "id": "esp-dominio-brut-nature",
      "nombre": {
-      "es": "Dominio Brut Nature (Bodega La Rural)",
+      "es": "Dominio Brut Nature (La Rural)",
       "en": "Dominio Brut Nature",
       "pt": "Dominio Brut Nature"
      },
@@ -3325,7 +3325,7 @@
     {
      "id": "esp-baron-b",
      "nombre": {
-      "es": "Barón B Extra Brut (Bodega Chandon)",
+      "es": "Barón B Extra Brut (Chandon)",
       "en": "Barón B Extra Brut",
       "pt": "Barón B Extra Brut"
      },
@@ -3336,7 +3336,7 @@
     {
      "id": "esp-dominio-extra-brut",
      "nombre": {
-      "es": "Dominio Extra Brut (Bodega La Rural)",
+      "es": "Dominio Extra Brut (La Rural)",
       "en": "Dominio Extra Brut",
       "pt": "Dominio Extra Brut"
      },
@@ -3347,7 +3347,7 @@
     {
      "id": "esp-navarro-correas-extra-brut",
      "nombre": {
-      "es": "Navarro Correas Extra Brut (Bodega Navarro Correas)",
+      "es": "Navarro Correas Extra Brut (Navarro Correas)",
       "en": "Navarro Correas Extra Brut",
       "pt": "Navarro Correas Extra Brut"
      },
@@ -3358,7 +3358,7 @@
     {
      "id": "esp-trumpeter-brut-nature",
      "nombre": {
-      "es": "Trumpeter Brut Nature (Bodega La Rural)",
+      "es": "Trumpeter Brut Nature (La Rural)",
       "en": "Trumpeter Brut Nature",
       "pt": "Trumpeter Brut Nature"
      },
@@ -3369,7 +3369,7 @@
     {
      "id": "esp-chandon-brut-nature",
      "nombre": {
-      "es": "Chandon Brut Nature (Bodega Chandon)",
+      "es": "Chandon Brut Nature (Chandon)",
       "en": "Chandon Brut Nature",
       "pt": "Chandon Brut Nature"
      },
@@ -3380,7 +3380,7 @@
     {
      "id": "esp-chandon-brut-rose",
      "nombre": {
-      "es": "Chandon Brut Rosé (Bodega Chandon)",
+      "es": "Chandon Brut Rosé (Chandon)",
       "en": "Chandon Brut Rosé",
       "pt": "Chandon Brut Rosé"
      },
@@ -3391,7 +3391,7 @@
     {
      "id": "esp-chandon-extra-brut-delice",
      "nombre": {
-      "es": "Chandon Extra Brut / Delice (Bodega Chandon)",
+      "es": "Chandon Extra Brut / Delice (Chandon)",
       "en": "Chandon Extra Brut / Delice",
       "pt": "Chandon Extra Brut / Delice"
      },
@@ -3402,7 +3402,7 @@
     {
      "id": "esp-trumpeter-rose",
      "nombre": {
-      "es": "Trumpeter Rosé (Bodega La Rural)",
+      "es": "Trumpeter Rosé (La Rural)",
       "en": "Trumpeter Rosé",
       "pt": "Trumpeter Rosé"
      },
@@ -3413,7 +3413,7 @@
     {
      "id": "esp-trumpeter-eb",
      "nombre": {
-      "es": "Trumpeter Extra Brut (Bodega La Rural)",
+      "es": "Trumpeter Extra Brut (La Rural)",
       "en": "Trumpeter Extra Brut",
       "pt": "Trumpeter Extra Brut"
      },
@@ -3424,7 +3424,7 @@
     {
      "id": "esp-nieto-brut-nature",
      "nombre": {
-      "es": "Nieto Brut Nature (Bodega Nieto Senetiner)",
+      "es": "Nieto Brut Nature (Nieto Senetiner)",
       "en": "Nieto Brut Nature",
       "pt": "Nieto Brut Nature"
      },
@@ -3435,7 +3435,7 @@
     {
      "id": "esp-nieto-extra-brut",
      "nombre": {
-      "es": "Nieto Extra Brut (Bodega Nieto Senetiner)",
+      "es": "Nieto Extra Brut (Nieto Senetiner)",
       "en": "Nieto Extra Brut",
       "pt": "Nieto Extra Brut"
      },
