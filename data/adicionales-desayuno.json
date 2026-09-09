@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-07T14:17:19.749Z",
+  "actualizado": "2026-09-09T13:42:30.101Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -151,7 +151,7 @@
       "pt": "Café expresso duplo / com leite"
      },
      "descripcion": {},
-     "precio": 10500,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -166,7 +166,7 @@
       "en": "With cinnamon, cream and chocolate.",
       "pt": "Com canela, chantilly e chocolate."
      },
-     "precio": 11000,
+     "precio": 12000,
      "tags": []
     }
    ]
@@ -189,7 +189,7 @@
       "pt": "Suco natural (laranja ou toranja)"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 12000,
      "tags": []
     },
     {
@@ -200,7 +200,7 @@
       "pt": "Vitamina de frutas com leite ou suco"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 14000,
      "tags": []
     },
     {
@@ -211,7 +211,7 @@
       "pt": "Vitamina de frutas com água"
      },
      "descripcion": {},
-     "precio": 12000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -226,7 +226,7 @@
       "en": "Cucumber and pear | carrot and apple | carrot and orange",
       "pt": "Pepino e pera | cenoura e maçã | cenoura e laranja"
      },
-     "precio": 19000,
+     "precio": 21000,
      "tags": []
     }
    ]
