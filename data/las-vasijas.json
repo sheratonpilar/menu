@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-07T14:17:19.747Z",
+  "actualizado": "2026-09-09T13:42:30.100Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general.",
@@ -310,9 +310,9 @@
     {
      "id": "propuesta-te-lv",
      "nombre": {
-      "es": "Servicio por persona",
-      "en": "Service per person",
-      "pt": "Serviço por pessoa"
+      "es": "Servicio de té por persona",
+      "en": "Afternoon tea per person",
+      "pt": "Chá da tarde por pessoa"
      },
      "descripcion": {},
      "precio": 74000,
