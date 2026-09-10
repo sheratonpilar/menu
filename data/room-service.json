@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-09T13:42:30.104Z",
+  "actualizado": "2026-09-10T17:31:35.155Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -883,7 +883,7 @@
     {
      "id": "tallarin",
      "nombre": {
-      "es": "Tallarín con crema",
+      "es": "Tallarines con crema",
       "en": "Tagliatelle with cream",
       "pt": "Talharim ao creme"
      },
@@ -1499,7 +1499,7 @@
       "pt": "Patagonia 24.7"
      },
      "descripcion": {
-      "es": "411 cc",
+      "es": "410 cc",
       "en": "411 cc",
       "pt": "411 cc"
      },
@@ -1514,7 +1514,7 @@
       "pt": "Patagonia Amber Lager"
      },
      "descripcion": {
-      "es": "412 cc",
+      "es": "410 cc",
       "en": "412 cc",
       "pt": "412 cc"
      },
@@ -1601,29 +1601,7 @@
       "pt": "Rutini Malbec"
      },
      "descripcion": {},
-     "precio": 1,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-cab-malbec",
-     "nombre": {
-      "es": "Rutini Cabernet Malbec",
-      "en": "Rutini Cabernet Malbec",
-      "pt": "Rutini Cabernet Malbec"
-     },
-     "descripcion": {},
-     "precio": 1,
-     "tags": []
-    },
-    {
-     "id": "copa-rutini-sb",
-     "nombre": {
-      "es": "Rutini Sauvignon Blanc",
-      "en": "Rutini Sauvignon Blanc",
-      "pt": "Rutini Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 1,
+     "precio": 21000,
      "tags": []
     },
     {
@@ -1634,7 +1612,29 @@
       "pt": "Encuentro Malbec"
      },
      "descripcion": {},
-     "precio": 1,
+     "precio": 21000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-cab-malbec",
+     "nombre": {
+      "es": "Rutini Cabernet Malbec",
+      "en": "Rutini Cabernet Malbec",
+      "pt": "Rutini Cabernet Malbec"
+     },
+     "descripcion": {},
+     "precio": 21000,
+     "tags": []
+    },
+    {
+     "id": "copa-rutini-sb",
+     "nombre": {
+      "es": "Rutini Sauvignon Blanc",
+      "en": "Rutini Sauvignon Blanc",
+      "pt": "Rutini Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 21000,
      "tags": []
     },
     {
@@ -1645,7 +1645,7 @@
       "pt": "Chandon Extra Brut"
      },
      "descripcion": {},
-     "precio": 1,
+     "precio": 17000,
      "tags": []
     },
     {
@@ -1656,51 +1656,7 @@
       "pt": "Trumpeter Extra Brut"
      },
      "descripcion": {},
-     "precio": 15000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-malbec",
-     "nombre": {
-      "es": "Trumpeter Malbec",
-      "en": "Trumpeter Malbec",
-      "pt": "Trumpeter Malbec"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-cabernet-sauvignon",
-     "nombre": {
-      "es": "Trumpeter Cabernet Sauvignon",
-      "en": "Trumpeter Cabernet Sauvignon",
-      "pt": "Trumpeter Cabernet Sauvignon"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-sauvignon-blanc",
-     "nombre": {
-      "es": "Trumpeter Sauvignon Blanc",
-      "en": "Trumpeter Sauvignon Blanc",
-      "pt": "Trumpeter Sauvignon Blanc"
-     },
-     "descripcion": {},
-     "precio": 10000,
-     "tags": []
-    },
-    {
-     "id": "copa-trumpeter-chardonnay",
-     "nombre": {
-      "es": "Trumpeter Chardonnay",
-      "en": "Trumpeter Chardonnay",
-      "pt": "Trumpeter Chardonnay"
-     },
-     "descripcion": {},
-     "precio": 10000,
+     "precio": 13000,
      "tags": []
     },
     {
@@ -1711,7 +1667,51 @@
       "pt": "DV Catena Chardonnay"
      },
      "descripcion": {},
-     "precio": 1,
+     "precio": 11000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-cabernet-sauvignon",
+     "nombre": {
+      "es": "Trumpeter Cabernet Sauvignon",
+      "en": "Trumpeter Cabernet Sauvignon",
+      "pt": "Trumpeter Cabernet Sauvignon"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-chardonnay",
+     "nombre": {
+      "es": "Trumpeter Chardonnay",
+      "en": "Trumpeter Chardonnay",
+      "pt": "Trumpeter Chardonnay"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-malbec",
+     "nombre": {
+      "es": "Trumpeter Malbec",
+      "en": "Trumpeter Malbec",
+      "pt": "Trumpeter Malbec"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "copa-trumpeter-sauvignon-blanc",
+     "nombre": {
+      "es": "Trumpeter Sauvignon Blanc",
+      "en": "Trumpeter Sauvignon Blanc",
+      "pt": "Trumpeter Sauvignon Blanc"
+     },
+     "descripcion": {},
+     "precio": 12000,
      "tags": []
     }
    ]
@@ -2053,7 +2053,9 @@
       "pt": "Aperol, Cointreau, suco de limão, suco de laranja, xarope de açúcar e clara de ovo."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-cituz-blaze",
@@ -2068,7 +2070,9 @@
       "pt": "Tequila José Cuervo Especial Blanco, Aperol, Cointreau, suco de laranja e suco de limão."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-cosmo",
@@ -2083,7 +2087,9 @@
       "pt": "Vodka Absolut Raspberry, Cointreau, vodka Absolut, Blue Curaçao, frutas vermelhas e sorvete de limão."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-jameson-nut-cream",
@@ -2098,7 +2104,9 @@
       "pt": "Whisky Jameson, Frangelico e sorvete de baunilha."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-nebbia",
@@ -2113,7 +2121,9 @@
       "pt": "Gin Bombay, Cointreau e vermute branco."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-nocciola-cream",
@@ -2128,7 +2138,9 @@
       "pt": "Vodka Absolut Vanilla, Frangelico, leite condensado, xarope de açúcar, café espresso e Nutella."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-royal-cassis",
@@ -2143,7 +2155,9 @@
       "pt": "Whisky, licor de cassis e frutas vermelhas maceradas com açúcar."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-stawberry-spash",
@@ -2158,7 +2172,9 @@
       "pt": "Aperol, Limoncello Strega, suco de cranberry e frutas vermelhas maceradas com açúcar."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     },
     {
      "id": "ckt-au-sweet-breese",
@@ -2173,7 +2189,9 @@
       "pt": "Rum Havana Club 3 anos, suco de maçã, mel e hortelã."
      },
      "precio": 31000,
-     "tags": []
+     "tags": [
+      "NUEVO"
+     ]
     }
    ]
   },
@@ -2259,9 +2277,9 @@
       "pt": "Saint Felicien"
      },
      "descripcion": {
-      "es": "Nieto Senetiner - Mendoza",
-      "en": "Nieto Senetiner - Mendoza",
-      "pt": "Nieto Senetiner - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 41000,
      "tags": []
@@ -3317,9 +3335,9 @@
     {
      "id": "blancos-torrontes-trumpeter",
      "nombre": {
-      "es": "Trumpter Reserve",
-      "en": "Trumpter Reserve",
-      "pt": "Trumpter Reserve"
+      "es": "Trumpeter Reserve",
+      "en": "Trumpeter Reserve",
+      "pt": "Trumpeter Reserve"
      },
      "descripcion": {
       "es": "Rutini - Mendoza",
