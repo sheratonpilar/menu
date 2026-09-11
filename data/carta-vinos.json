@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-11T15:16:49.923Z",
+  "actualizado": "2026-09-11T18:23:38.873Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {}
@@ -429,7 +429,7 @@
      "tags": []
     },
     {
-     "id": "Catena Zapata - Mendoza",
+     "id": "tintos-saint-felicien-malbec",
      "nombre": {
       "es": "Saint Felicien",
       "en": "Saint Felicien",
@@ -2431,8 +2431,8 @@
      },
      "descripcion": {
       "es": "410 cc",
-      "en": "411 cc",
-      "pt": "411 cc"
+      "en": "410 cc",
+      "pt": "410 cc"
      },
      "precio": 11900,
      "tags": []
@@ -2446,8 +2446,8 @@
      },
      "descripcion": {
       "es": "410 cc",
-      "en": "412 cc",
-      "pt": "412 cc"
+      "en": "410 cc",
+      "pt": "410 cc"
      },
      "precio": 11900,
      "tags": []
