@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-10T17:31:35.153Z",
+  "actualizado": "2026-09-11T15:16:49.924Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -368,8 +368,8 @@
      "id": "mar-y-tierra-lb",
      "nombre": {
       "es": "Mar y tierra",
-      "en": "Surf and turf salad (ensalada)",
-      "pt": "Salada mar e terra (ensalada)"
+      "en": "Surf and turf salad",
+      "pt": "Salada mar e terra"
      },
      "descripcion": {
       "es": "Salmón ahumado, huevo poché, hummus de garbanzos, mix de verdes, cherrys y cabutia asada, remolacha, almendras tostadas, semillas y su aliño.",
@@ -1596,7 +1596,9 @@
     {
      "id": "cafe-jarrito",
      "nombre": {
-      "es": "Café expreso en jarrito"
+      "es": "Café expreso en jarrito",
+      "en": "Espresso in a small cup",
+      "pt": "Café espresso na xícara pequena"
      },
      "descripcion": {},
      "precio": 9900,
@@ -3032,7 +3034,7 @@
      "tags": []
     },
     {
-     "id": "tintos-saint-malbec",
+     "id": "Catena Zapata - Mendoza",
      "nombre": {
       "es": "Saint Felicien",
       "en": "Saint Felicien",
@@ -5298,7 +5300,7 @@
       "pt": "Ballantine's Finest"
      },
      "descripcion": {},
-     "precio": 13000,
+     "precio": 14500,
      "tags": []
     },
     {
