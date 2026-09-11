@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-11T15:16:49.925Z",
+  "actualizado": "2026-09-11T18:23:38.881Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -283,6 +283,7 @@
      "descripcion": {},
      "precio": 25000,
      "tags": [
+      "VEGETARIANO",
       "ALERGENO_1",
       "ALERGENO_2",
       "ALERGENO_9",
@@ -728,8 +729,8 @@
      "id": "rs-noquis",
      "nombre": {
       "es": "Ñoquis",
-      "en": "Gnocchi (Room Service)",
-      "pt": "Nhoque (Room Service)"
+      "en": "Gnocchi",
+      "pt": "Nhoque"
      },
      "descripcion": {
       "es": "Ñoquis de boniato con crema de puerro y crocante de almendra.",
@@ -809,8 +810,8 @@
    "id": "menores",
    "nombre": {
     "es": "Menores",
-    "en": "Kids",
-    "pt": "Infantil"
+    "en": "Kids menu",
+    "pt": "menu infantil"
    },
    "foto": "menores.jpg",
    "nota": {},
@@ -1226,7 +1227,7 @@
      "id": "gaseosas",
      "nombre": {
       "es": "Gaseosa",
-      "en": "Soft drink",
+      "en": "Soda",
       "pt": "Refrigerante"
      },
      "descripcion": {
@@ -1513,8 +1514,8 @@
      },
      "descripcion": {
       "es": "410 cc",
-      "en": "411 cc",
-      "pt": "411 cc"
+      "en": "410 cc",
+      "pt": "410 cc"
      },
      "precio": 13500,
      "tags": []
@@ -1528,8 +1529,8 @@
      },
      "descripcion": {
       "es": "410 cc",
-      "en": "412 cc",
-      "pt": "412 cc"
+      "en": "410 cc",
+      "pt": "410 cc"
      },
      "precio": 13500,
      "tags": []
@@ -2804,7 +2805,7 @@
      "tags": []
     },
     {
-     "id": "Catena Zapata - Mendoza",
+     "id": "tintos-saint-felicien-malbec",
      "nombre": {
       "es": "Saint Felicien",
       "en": "Saint Felicien",
