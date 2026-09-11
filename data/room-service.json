@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-10T17:31:35.155Z",
+  "actualizado": "2026-09-11T15:16:49.925Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -919,7 +919,7 @@
       "pt": "Massa ao creme"
      },
      "descripcion": {},
-     "precio": 31000,
+     "precio": 34000,
      "tags": [
       "VEGETARIANO",
       "SIN_TACC",
@@ -1145,6 +1145,19 @@
       "ALERGENO_10",
       "ALERGENO_12",
       "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "flan",
+     "nombre": {
+      "es": "Flan con dulce de leche",
+      "en": "Crème caramel with dulce de leche",
+      "pt": "Pudim com doce de leite"
+     },
+     "descripcion": {},
+     "precio": 24000,
+     "tags": [
+      "ALERGENO_4"
      ]
     },
     {
@@ -2791,7 +2804,7 @@
      "tags": []
     },
     {
-     "id": "tintos-saint-malbec",
+     "id": "Catena Zapata - Mendoza",
      "nombre": {
       "es": "Saint Felicien",
       "en": "Saint Felicien",
@@ -3966,7 +3979,7 @@
       "pt": "Ballantine's Finest"
      },
      "descripcion": {},
-     "precio": 14500,
+     "precio": 16000,
      "tags": []
     },
     {
