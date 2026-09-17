@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-11T18:23:38.873Z",
+  "actualizado": "2026-09-17T13:01:14.450Z",
   "ver_tambien": "carta-vinos",
   "descripcion": {
    "es": "Buffet internacional para disfrutar del desayuno, almuerzo y/o cena con magnifica vista a los jardines del hotel. Disponible para huéspedes y público general.",
@@ -40,9 +40,9 @@
    "pt": "Novo"
   },
   "SUGERENCIA_CHEF": {
-   "es": "Sugerencia del chef",
-   "en": "Chef's suggestion",
-   "pt": "Sugestão do chef"
+   "es": "Sugerencia",
+   "en": "Suggestion",
+   "pt": "Sugestão"
   },
   "PROMO": {
    "es": "Promoción",
@@ -180,9 +180,9 @@
    },
    "foto": "buffet-finde-lv.jpg",
    "nota": {
-    "es": "**Cenas** todos los viernes, sábados y vísperas de feriados: 20:00 a 00:00 hs.\n**Almuerzos** todos los sábados, domingos y feriados: 13:00 a 15:00 hs. \n\n*Estos valores no aplican para fechas especiales (Día de la Madre, Día del Padre, Día del Niño, Navidad, Año Nuevo, etc.)*",
-    "en": "**Dinner** every Friday, Saturday and on the eve of public holidays: 8:00 pm to 12:00 am.\n**Lunch** every Saturday, Sunday and public holiday: 1:00 pm to 3:00 pm.\n\n*These rates do not apply to special dates (Mother's Day, Father's Day, Children's Day, Christmas, New Year's Eve, etc.).*",
-    "pt": "**Jantar** todas as sextas-feiras, sábados e vésperas de feriados: das 20h às 00h.\n**Almoço** todos os sábados, domingos e feriados: das 13h às 15h.\n\n*Estes valores não se aplicam a datas especiais (Dia das Mães, Dia dos Pais, Dia das Crianças, Natal, Ano-Novo etc.).*"
+    "es": "**Cenas** todos los viernes, sábados y vísperas de feriados: 20:00 a 00:00 hs.\n**Almuerzos** todos los sábados, domingos y feriados: 13:00 a 15:30 hs. \n\n*Estos valores no aplican para fechas especiales (Día de la Madre, Día del Padre, Día del Niño, Navidad, Año Nuevo, etc.)*",
+    "en": "**Dinner** every Friday, Saturday and on the eve of public holidays: 8:00 pm to 12:00 am.\n**Lunch** every Saturday, Sunday and public holiday: 1:00 pm to 3:30 pm.\n\n*These rates do not apply to special dates (Mother's Day, Father's Day, Children's Day, Christmas, New Year's Eve, etc.).*",
+    "pt": "**Jantar** todas as sextas-feiras, sábados e vésperas de feriados: das 20h às 00h.\n**Almoço** todos os sábados, domingos e feriados: das 13h às 15:30h.\n\n*Estes valores não se aplicam a datas especiais (Dia das Mães, Dia dos Pais, Dia das Crianças, Natal, Ano-Novo etc.).*"
    },
    "items": [
     {
@@ -302,9 +302,9 @@
    },
    "foto": "propuesta-te.jpg",
    "nota": {
-    "es": "**Comienzo del servicio a las 16:30hs con finalización 18:30hs. Cantidad mínima de cubiertos: 20. En caso de no alcanzar el mínimo de comensales requerido, el servicio podrá disfrutarse en nuestro Lobby Bar, manteniendo el mismo precio.** \n\n| **Opciones Saladas**: Tostados de jamón y queso | Fingers sandwiches (salmón ahumado, tártara y rucula selvática; prosciutto 12 meses, tomates secos y golf) | Medialunas de manteca rellenas | Tostadas de pan lactal. \n| **Opciones Dulce**: Scons | Brownies con dulce de leche | Apple crumble | Cookies con chispas de chocolate | Macarrones. \n| **Selección de tortas y tartas**(1 torta a elección cada 10 comensales): Rogel, Lemon Pie, Tarta frutal y diplomata, Clásica tres leches y/o Chocotorta. \n| **Bebidas & Infusiones**:  Café | Té | Leche | Jugos.\n\nPara realizar efectiva la reserva se deberá abonar el 30% de la misma en concepto de seña con un plazo no mayor a 30 días de realización del evento. El restante 70% debe ser cancelado 72hs antes del mismo al valor en dicho momento. En caso de utilizar un DJ se deben abonar los impuestos correspondientes a SADAIC y AADICAPIF.",
-    "en": "**Service begins at 4:30 p.m. and ends at 6:30 p.m. Minimum number of guests: 20. If the required minimum number of guests is not reached, the service will be served in our Lobby Bar at the same price.**\n\n| **Savory Options**: Ham and cheese toast | Finger sandwiches (smoked salmon, tartare, and wild arugula; 12-month-aged prosciutto, sun-dried tomatoes, and golf) | Butter-filled croissants | Toast made with white bread.\n| **Sweet Options**: Scones | Brownies with dulce de leche | Apple crumble | Chocolate chip cookies | Macarons.\n| **Selection of Cakes and Tarts** (1 cake of your choice for every 10 guests): Rogel, Lemon Pie, Fruit and Diplomat Tart, Classic Tres Leches, and/or Chocotorta.\n| **Beverages & Infusions**:  Coffee | Tea | Milk | Juices.\n\nTo confirm the reservation, a 30% deposit must be paid no later than 30 days before the event. The remaining 70% must be paid 72 hours before the event at the rate in effect at that time. If a DJ is hired, the corresponding taxes to SADAIC and AADICAPIF must be paid.",
-    "pt": "**O serviço começa às 16h30 e termina às 18h30. Número mínimo de convidados: 20. Caso não seja atingido o número mínimo de convidados exigido, o serviço poderá ser desfrutado em nosso Lobby Bar, mantendo o mesmo preço.**\n\n| **Opções salgadas**: Torradas com presunto e queijo | Sanduíches finos (salmão defumado, tártara e rúcula silvestre; prosciutto de 12 meses, tomates secos e golf) | Croissants recheados com manteiga | Torradas de pão de forma.\n| **Opções doces**: Scones | Brownies com doce de leite | Crumble de maçã | Biscoitos com gotas de chocolate | Macarons.\n| **Seleção de bolos e tortas** (1 bolo à escolha a cada 10 convidados): Rogel, torta de limão, torta de frutas e diplomata, clássico de três leites e/ou torta de chocolate.\n| **Bebidas e infusões**: Café | Chá | Leite | Sucos.\n\nPara que a reserva seja efetivada, deverá ser pago 30% do valor total a título de sinal, em um prazo não superior a 30 dias antes da realização do evento. Os 70% restantes devem ser pagos 72 horas antes do evento, pelo valor vigente naquele momento. Caso seja contratado um DJ, deverão ser pagos os impostos correspondentes à SADAIC e à AADICAPIF."
+    "es": "**Comienzo del servicio a las 16:30hs con finalización 18:30hs. Cantidad mínima de cubiertos: 20.** \n\n| **Opciones Saladas**: Tostados de jamón y queso | Fingers sandwiches (salmón ahumado, tártara y rucula selvática; prosciutto 12 meses, tomates secos y golf) | Medialunas de manteca rellenas | Tostadas de pan lactal. \n| **Opciones Dulce**: Scons | Brownies con dulce de leche | Apple crumble | Cookies con chispas de chocolate | Macarrones. \n| **Selección de tortas y tartas**(1 torta a elección cada 10 comensales): Rogel, Lemon Pie, Tarta frutal y diplomata, Clásica tres leches y/o Chocotorta. \n| **Bebidas & Infusiones**:  Café | Té | Leche | Jugos.\n\nPara realizar efectiva la reserva se deberá abonar el 30% de la misma en concepto de seña con un plazo no mayor a 30 días de realización del evento. El restante 70% debe ser cancelado 72hs antes del mismo al valor en dicho momento. En caso de utilizar un DJ se deben abonar los impuestos correspondientes a SADAIC y AADICAPIF.",
+    "en": "**Service begins at 4:30 p.m. and ends at 6:30 p.m. Minimum number of guests: 20.**\n\n| **Savory Options**: Ham and cheese toast | Finger sandwiches (smoked salmon, tartare, and wild arugula; 12-month-aged prosciutto, sun-dried tomatoes, and golf) | Butter-filled croissants | Toast made with white bread.\n| **Sweet Options**: Scones | Brownies with dulce de leche | Apple crumble | Chocolate chip cookies | Macarons.\n| **Selection of Cakes and Tarts** (1 cake of your choice for every 10 guests): Rogel, Lemon Pie, Fruit and Diplomat Tart, Classic Tres Leches, and/or Chocotorta.\n| **Beverages & Infusions**:  Coffee | Tea | Milk | Juices.\n\nTo confirm the reservation, a 30% deposit must be paid no later than 30 days before the event. The remaining 70% must be paid 72 hours before the event at the rate in effect at that time. If a DJ is hired, the corresponding taxes to SADAIC and AADICAPIF must be paid.",
+    "pt": "**O serviço começa às 16h30 e termina às 18h30. Número mínimo de convidados: 20.**\n\n| **Opções salgadas**: Torradas com presunto e queijo | Sanduíches finos (salmão defumado, tártara e rúcula silvestre; prosciutto de 12 meses, tomates secos e golf) | Croissants recheados com manteiga | Torradas de pão de forma.\n| **Opções doces**: Scones | Brownies com doce de leite | Crumble de maçã | Biscoitos com gotas de chocolate | Macarons.\n| **Seleção de bolos e tortas** (1 bolo à escolha a cada 10 convidados): Rogel, torta de limão, torta de frutas e diplomata, clássico de três leites e/ou torta de chocolate.\n| **Bebidas e infusões**: Café | Chá | Leite | Sucos.\n\nPara que a reserva seja efetivada, deverá ser pago 30% do valor total a título de sinal, em um prazo não superior a 30 dias antes da realização do evento. Os 70% restantes devem ser pagos 72 horas antes do evento, pelo valor vigente naquele momento. Caso seja contratado um DJ, deverão ser pagos os impostos correspondentes à SADAIC e à AADICAPIF."
    },
    "items": [
     {
