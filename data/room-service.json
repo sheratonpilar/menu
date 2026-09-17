@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-11T18:23:38.881Z",
+  "actualizado": "2026-09-17T13:01:14.452Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -44,9 +44,9 @@
    "pt": "Novo"
   },
   "SUGERENCIA_CHEF": {
-   "es": "Sugerencia del chef",
-   "en": "Chef's suggestion",
-   "pt": "Sugestão do chef"
+   "es": "Sugerencia",
+   "en": "Suggestion",
+   "pt": "Sugestão"
   },
   "PROMO": {
    "es": "Promoción",
@@ -1681,7 +1681,7 @@
       "pt": "DV Catena Chardonnay"
      },
      "descripcion": {},
-     "precio": 11000,
+     "precio": 12000,
      "tags": []
     },
     {
