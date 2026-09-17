@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-11T18:23:38.874Z",
+  "actualizado": "2026-09-17T13:01:14.452Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -40,9 +40,9 @@
    "pt": "Novo"
   },
   "SUGERENCIA_CHEF": {
-   "es": "Sugerencia del chef",
-   "en": "Chef's suggestion",
-   "pt": "Sugestão do chef"
+   "es": "Sugerencia",
+   "en": "Suggestion",
+   "pt": "Sugestão"
   },
   "PROMO": {
    "es": "Promoción",
