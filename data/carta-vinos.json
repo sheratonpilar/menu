@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-17T13:01:14.451Z",
+  "actualizado": "2026-09-30T15:18:38.962Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {}
@@ -284,9 +284,9 @@
       "pt": "Angelica Zapata"
      },
      "descripcion": {
-      "es": "Esmeralda - Mendoza",
-      "en": "Esmeralda - Mendoza",
-      "pt": "Esmeralda - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 85000,
      "tags": []
@@ -561,9 +561,9 @@
       "pt": "Angélica Zapata"
      },
      "descripcion": {
-      "es": "Esmeralda - Mendoza",
-      "en": "Esmeralda - Mendoza",
-      "pt": "Esmeralda - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 69000,
      "tags": []
@@ -821,9 +821,9 @@
       "pt": "Angélica Zapata"
      },
      "descripcion": {
-      "es": "Esmeralda - Mendoza",
-      "en": "Esmeralda - Mendoza",
-      "pt": "Esmeralda - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 66000,
      "tags": []
@@ -1161,7 +1161,11 @@
     "pt": "Rosés"
    },
    "foto": "rosados.jpg",
-   "nota": {},
+   "nota": {
+    "es": "El origen del rosado tal como se conoce hoy se consolida en el sur de Francia, especialmente en la región de la Provenza. Vino ligero y Pálido",
+    "en": "The origins of rosé as we know it today were established in southern France, especially in the Provence region. A light, pale wine.",
+    "pt": "A origem do rosé, tal como o conhecemos hoje, consolidou-se no sul da França, especialmente na região da Provença. Um vinho leve e pálido."
+   },
    "items": [
     {
      "id": "ros-mascota",
@@ -1512,7 +1516,11 @@
     "pt": "Colheita tardia"
    },
    "foto": "",
-   "nota": {},
+   "nota": {
+    "es": "Es el origen histórico más famoso y documentado (1775). Tras un retraso en la vendimia, las uvas se sobremaduraron y dieron como resultado un vino dulcísimo y de gran calidad, dando nacimiento oficial al estilo Spätlese.",
+    "en": "It is the most famous and well-documented historical origin (1775). Following a delay in the harvest, the grapes became overripe, resulting in an exceptionally sweet, high-quality wine and giving rise to the Spätlese style.",
+    "pt": "É a origem histórica mais famosa e documentada (1775). Após um atraso na colheita, as uvas amadureceram em excesso, resultando em um vinho extremamente doce e de alta qualidade, dando origem ao estilo *Spätlese*."
+   },
    "items": [
     {
      "id": "costardia-encabezado",
@@ -1595,7 +1603,11 @@
     "pt": "Espumantes"
    },
    "foto": "espumantes.jpg",
-   "nota": {},
+   "nota": {
+    "es": "Exclusiva de la región de Champagne, en el noreste de Francia. Su origen combina el azar del clima con siglos de innovación vitivinícola.",
+    "en": "Exclusive to the **Champagne** region in northeastern France. Its origins combine the influence of the local climate with centuries of winemaking innovation.",
+    "pt": "Exclusivo da região de **Champagne**, no nordeste da França. Sua origem combina a influência do clima local com séculos de inovação vitivinícola."
+   },
    "items": [
     {
      "id": "esp-dom-perignon",
