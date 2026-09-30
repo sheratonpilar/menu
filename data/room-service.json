@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-17T13:01:14.452Z",
+  "actualizado": "2026-09-30T15:18:38.975Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -2246,9 +2246,9 @@
       "pt": "Angélica Zapata"
      },
      "descripcion": {
-      "es": "Esmeralda - Mendoza",
-      "en": "Esmeralda - Mendoza",
-      "pt": "Esmeralda - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 76000,
      "tags": []
@@ -2506,9 +2506,9 @@
       "pt": "Angélica Zapata"
      },
      "descripcion": {
-      "es": "Esmeralda - Mendoza",
-      "en": "Esmeralda - Mendoza",
-      "pt": "Esmeralda - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 72000,
      "tags": []
@@ -2660,9 +2660,9 @@
       "pt": "Angelica Zapata"
      },
      "descripcion": {
-      "es": "Esmeralda - Mendoza",
-      "en": "Esmeralda - Mendoza",
-      "pt": "Esmeralda - Mendoza"
+      "es": "Catena Zapata - Mendoza",
+      "en": "Catena Zapata - Mendoza",
+      "pt": "Catena Zapata - Mendoza"
      },
      "precio": 93000,
      "tags": []
@@ -3371,7 +3371,11 @@
     "pt": "Espumantes"
    },
    "foto": "espumantes.jpg",
-   "nota": {},
+   "nota": {
+    "es": "Exclusiva de la región de Champagne, en el noreste de Francia. Su origen combina el azar del clima con siglos de innovación vitivinícola.",
+    "en": "Exclusive to the **Champagne** region in northeastern France. Its origins combine the influence of the local climate with centuries of winemaking innovation.",
+    "pt": "Exclusivo da região de **Champagne**, no nordeste da França. Sua origem combina a influência do clima local com séculos de inovação vitivinícola."
+   },
    "items": [
     {
      "id": "esp-dom-perignon",
