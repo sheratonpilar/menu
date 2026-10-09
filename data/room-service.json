@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-05T18:42:21.475Z",
+  "actualizado": "2026-10-09T00:42:46.277Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -1356,9 +1356,9 @@
     {
      "id": "cafe",
      "nombre": {
-      "es": "Café expreso",
+      "es": "Café espresso",
       "en": "Espresso",
-      "pt": "Café expresso"
+      "pt": "Café espresso"
      },
      "descripcion": {
       "es": "Regular o descafeinado.",
@@ -1371,9 +1371,9 @@
     {
      "id": "cafe-doble",
      "nombre": {
-      "es": "Café expreso doble / con leche",
+      "es": "Café espresso doble / con leche",
       "en": "Double espresso / with milk",
-      "pt": "Café expresso duplo / com leite"
+      "pt": "Café espresso duplo / com leite"
      },
      "descripcion": {},
      "precio": 13500,
