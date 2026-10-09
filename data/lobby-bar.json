@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-05T18:42:21.474Z",
+  "actualizado": "2026-10-09T00:42:46.277Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -1571,9 +1571,9 @@
     {
      "id": "cafe",
      "nombre": {
-      "es": "Café expreso",
+      "es": "Café espresso",
       "en": "Espresso",
-      "pt": "Café expresso"
+      "pt": "Café espresso"
      },
      "descripcion": {
       "es": "Regular o descafeinado.",
@@ -1586,9 +1586,9 @@
     {
      "id": "cafe-doble",
      "nombre": {
-      "es": "Café expreso doble / con leche",
+      "es": "Café espresso doble / con leche",
       "en": "Double espresso / with milk",
-      "pt": "Café expresso duplo / com leite"
+      "pt": "Café espresso duplo / com leite"
      },
      "descripcion": {},
      "precio": 12000,
@@ -1597,7 +1597,7 @@
     {
      "id": "cafe-jarrito",
      "nombre": {
-      "es": "Café expreso en jarrito",
+      "es": "Café espresso en jarrito",
       "en": "Espresso in a small cup",
       "pt": "Café espresso na xícara pequena"
      },
