@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-05T18:42:21.473Z",
+  "actualizado": "2026-10-09T00:42:46.275Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -146,9 +146,9 @@
     {
      "id": "cafe-doble",
      "nombre": {
-      "es": "Café expreso doble / con leche",
+      "es": "Café espresso doble / con leche",
       "en": "Double espresso / with milk",
-      "pt": "Café expresso duplo / com leite"
+      "pt": "Café espresso duplo / com leite"
      },
      "descripcion": {},
      "precio": 12000,
