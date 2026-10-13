@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-09T00:42:46.274Z",
+  "actualizado": "2026-10-13T14:59:01.306Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "En Don Giovanni Ristorante te invitamos a una experiencia artística gourmet, donde nuestros chef demuestran toda su pasión hacia la profesión haciendo propia cada receta. Con más de 20 años de trayectoria, nos destacamos por innovar constantemente en la combinación de sabores y técnicas, transformando cada plato en una verdadera obra de arte.",
@@ -205,7 +205,7 @@
       "pt": "Éclair de Couve-flor"
      },
      "descripcion": {
-      "es": "Éclair de masa choux relleno de cremoso de coliflor asada, brócoli y sus vegetales asados, macerados y aceite verde de hierbas.",
+      "es": "Éclair de masa choux relleno de cremoso de coliflor asada, brócoli, vegetales asados y macerados, y aceite verde de hierbas.",
       "en": "Choux pastry éclair filled with roasted cauliflower cream, broccoli and roasted vegetables, marinated vegetables and herb-infused green oil.",
       "pt": "Éclair de massa choux recheado com creme de couve-flor assada, brócolis e seus vegetais assados, marinados e óleo verde de ervas."
      },
@@ -261,9 +261,9 @@
     {
      "id": "cuore-milano-dg",
      "nombre": {
-      "es": "Coure milano",
-      "en": "Coure Milano",
-      "pt": "Coure Milano"
+      "es": "Cuore milano",
+      "en": "Cuore Milano",
+      "pt": "Cuore Milano"
      },
      "descripcion": {
       "es": "Mozzarella apanada con pomodoro.",
@@ -389,7 +389,7 @@
       "pt": "Fagottini"
      },
      "descripcion": {
-      "es": "Masa al huevo relleno con calabaza y mozzarella con salsa fonduta de tomate.",
+      "es": "Masa al huevo rellena con calabaza y mozzarella con salsa fonduta de tomate.",
       "en": "Egg pasta filled with pumpkin and mozzarella, served with tomato fonduta sauce.",
       "pt": "Massa de ovos recheada com abóbora e muçarela, servida com molho fonduta de tomate."
      },
@@ -465,7 +465,7 @@
       "pt": "Fusilli"
      },
      "descripcion": {
-      "es": "Fusilli con vegetales ahumados, aceite de oliva primera prensada en frío y faláfel y nuez.",
+      "es": "Fusilli con vegetales ahumados, aceite de oliva primera prensada en frío, faláfel y nuez.",
       "en": "Fusilli with smoked vegetables, first cold-pressed olive oil, falafel and walnuts.",
       "pt": "Fusilli com vegetais defumados, azeite de oliva extraído a frio, falafel e nozes."
      },
@@ -599,9 +599,9 @@
     {
      "id": "cuore-menores",
      "nombre": {
-      "es": "Coure milano",
-      "en": "Coure Milano",
-      "pt": "Coure Milano"
+      "es": "Cuore milano",
+      "en": "Cuore Milano",
+      "pt": "Cuore Milano"
      },
      "descripcion": {
       "es": "Mozzarella apanada con pomodoro.",
@@ -783,9 +783,9 @@
       "pt": "Chocolate 2.5"
      },
      "descripcion": {
-      "es": "Sin fin de chocolate belga, untuoso de chocolate 100%, cremoso de chocolate blanco, ddl, mousse de chocolate con leche, mousse de nutella y coulis de frambuesa.",
-      "en": "Belgian chocolate, 100% chocolate cream, white chocolate cream, dulce de leche, milk chocolate mousse, nutella mousse and raspberry coulis.",
-      "pt": "Chocolate belga, creme de chocolate 100%, creme de chocolate branco, doce de leite, mousse de chocolate ao leite, mousse de nutella e coulis de framboesa."
+      "es": "Sin fin de chocolate belga, untuoso de chocolate 100%, cremoso de chocolate blanco, ddl, mousse de chocolate con leche, mousse de Nutella y coulis de frambuesa.",
+      "en": "Belgian chocolate, 100% chocolate cream, white chocolate cream, dulce de leche, milk chocolate mousse, Nutella mousse and raspberry coulis.",
+      "pt": "Chocolate belga, creme de chocolate 100%, creme de chocolate branco, doce de leite, mousse de chocolate ao leite, mousse de Nutella e coulis de framboesa."
      },
      "precio": 24000,
      "tags": [
@@ -827,9 +827,9 @@
       "pt": "Menu romântico de 3 etapas para 2 pessoas"
      },
      "descripcion": {
-      "es": "*ENTRADAS*\n**Mediterránea** (sugerencia)\nBurratina, prosciutto 12 meses, tomates asado y focaccia de tomate.\n**Coure milano** (vegetariano)\nMozzarella apanada con pomodoro.\n**Langostinos Crocantes**\nLangostinos en panko con cremoso de palta.\n\n*PRINCIPALES*\n**Risotto di zucca** (vegetariano / sin tacc)\nRisotto cremoso de cabutia, parmesano y aceite de oliva primera prensada. \n**Lomo** (sugerencia / sin tacc)\nCilindro de lomo envuelto en bacon, puré de boniato delicado, dressing de hierbas verdes.\n**Sorrentinos** (sugerencia)\nSorrentinos de jamón y queso con panna champiñón.\n\n*POSTRES*\n**Copa Nutella**\nMousse de Nutella, bombón crocante de maní, crocante de canela, baño espejo y frambuesas.\n**Dulce de Leche**\nCrepes de dulce de leche con helado de ddl y su salsa.\n**Helado**\nCrema americana, vainilla, chocolate, ddl, limón, frutilla al agua.\n\n*BEBIDAS*\nVino Trumpeter Cabernet o Chardonnay, bebidas sin alcohol y café.",
-      "en": "*STARTERS*\n**Mediterranean** (chef's recommendation)\nBurratina, 12-month-aged prosciutto, roasted tomatoes and tomato focaccia.\n**Coure Milano** (vegetarian)\nBreaded mozzarella with pomodoro.\n**Crispy Prawns**\nPanko-crusted prawns with creamy avocado.\n\n*MAIN COURSES*\n**Risotto di Zucca** (vegetarian / celiac)\nCreamy kabocha squash risotto with Parmesan and first-press olive oil.\n**Tenderloin** (chef's recommendation / celiac)\nBacon-wrapped beef tenderloin, delicate sweet potato purée and green herb dressing.\n**Sorrentinos** (chef's recommendation)\nSorrentinos filled with ham and cheese with a creamy mushroom panna sauce.\n\n*DESSERTS*\n**Nutella Cup**\nNutella mousse, crunchy peanut bonbon, cinnamon crunch, mirror glaze and raspberries.\n**Dulce de Leche**\nDulce de leche crêpes with dulce de leche ice cream and its sauce.\n**Ice Cream**\nAmerican cream, vanilla, chocolate, dulce de leche, lemon and strawberry sorbet.\n\n*BEVERAGES*\nTrumpeter Cabernet or Chardonnay, non-alcoholic beverages and coffee.",
-      "pt": "*ENTRADAS*\n**Mediterrânea** (sugestão)\nBurratina, presunto cru maturado por 12 meses, tomates assados e focaccia de tomate.\n**Coure Milano** (vegetariano)\nMuçarela empanada com pomodoro.\n**Camarões Crocantes**\nCamarões empanados em panko com creme de abacate.\n\n*PRINCIPAIS*\n**Risotto di Zucca** (vegetariano/ celíaco)\nRisoto cremoso de cabotiá, parmesão e azeite de oliva de primeira prensagem.\n**Filé Mignon** (sugestão / celíaco)\nCilindro de filé mignon envolto em bacon, delicado purê de batata-doce e molho de ervas verdes.\n**Sorrentinos** (sugestão)\nSorrentinos recheados com presunto e queijo, com molho panna cremoso de cogumelos.\n\n*SOBREMESAS*\n**Taça de Nutella**\nMousse de Nutella, bombom crocante de amendoim, crocante de canela, cobertura espelhada e framboesas.\n**Dulce de Leche**\nCrepes de doce de leite com sorvete de doce de leite e seu molho.\n**Sorvete**\nCreme americano, baunilha, chocolate, doce de leite, limão e sorvete de morango à base de água.\n\n*BEBIDAS*\nVinho Trumpeter Cabernet ou Chardonnay, bebidas não alcoólicas e café."
+      "es": "*ENTRADAS*\n**Mediterránea** (sugerencia)\nBurratina, prosciutto 12 meses, tomates asados y focaccia de tomate.\n**Cuore milano** (vegetariano)\nMozzarella apanada con pomodoro.\n**Langostinos Crocantes**\nLangostinos en panko con cremoso de palta.\n\n*PRINCIPALES*\n**Risotto di zucca** (vegetariano / sin tacc)\nRisotto cremoso de cabutia, parmesano y aceite de oliva primera prensada. \n**Lomo** (sugerencia / sin tacc)\nCilindro de lomo envuelto en bacon, puré de boniato delicado, dressing de hierbas verdes.\n**Sorrentinos** (sugerencia)\nSorrentinos de jamón y queso con panna champiñón.\n\n*POSTRES*\n**Copa Nutella**\nMousse de Nutella, bombón crocante de maní, crocante de canela, baño espejo y frambuesas.\n**Dulce de Leche**\nCrepes de dulce de leche con helado de ddl y su salsa.\n**Helado**\nCrema americana, vainilla, chocolate, ddl, limón, frutilla al agua.\n\n*BEBIDAS*\nVino Trumpeter Cabernet o Chardonnay, bebidas sin alcohol y café.",
+      "en": "*STARTERS*\n**Mediterranean** (chef's recommendation)\nBurratina, 12-month-aged prosciutto, roasted tomatoes and tomato focaccia.\n**Cuore Milano** (vegetarian)\nBreaded mozzarella with pomodoro.\n**Crispy Prawns**\nPanko-crusted prawns with creamy avocado.\n\n*MAIN COURSES*\n**Risotto di Zucca** (vegetarian / celiac)\nCreamy kabocha squash risotto with Parmesan and first-press olive oil.\n**Tenderloin** (chef's recommendation / celiac)\nBacon-wrapped beef tenderloin, delicate sweet potato purée and green herb dressing.\n**Sorrentinos** (chef's recommendation)\nSorrentinos filled with ham and cheese with a creamy mushroom panna sauce.\n\n*DESSERTS*\n**Nutella Cup**\nNutella mousse, crunchy peanut bonbon, cinnamon crunch, mirror glaze and raspberries.\n**Dulce de Leche**\nDulce de leche crêpes with dulce de leche ice cream and its sauce.\n**Ice Cream**\nAmerican cream, vanilla, chocolate, dulce de leche, lemon and strawberry sorbet.\n\n*BEVERAGES*\nTrumpeter Cabernet or Chardonnay, non-alcoholic beverages and coffee.",
+      "pt": "*ENTRADAS*\n**Mediterrânea** (sugestão)\nBurratina, presunto cru maturado por 12 meses, tomates assados e focaccia de tomate.\n**Cuore Milano** (vegetariano)\nMuçarela empanada com pomodoro.\n**Camarões Crocantes**\nCamarões empanados em panko com creme de abacate.\n\n*PRINCIPAIS*\n**Risotto di Zucca** (vegetariano/ celíaco)\nRisoto cremoso de cabotiá, parmesão e azeite de oliva de primeira prensagem.\n**Filé Mignon** (sugestão / celíaco)\nCilindro de filé mignon envolto em bacon, delicado purê de batata-doce e molho de ervas verdes.\n**Sorrentinos** (sugestão)\nSorrentinos recheados com presunto e queijo, com molho panna cremoso de cogumelos.\n\n*SOBREMESAS*\n**Taça de Nutella**\nMousse de Nutella, bombom crocante de amendoim, crocante de canela, cobertura espelhada e framboesas.\n**Dulce de Leche**\nCrepes de doce de leite com sorvete de doce de leite e seu molho.\n**Sorvete**\nCreme americano, baunilha, chocolate, doce de leite, limão e sorvete de morango à base de água.\n\n*BEBIDAS*\nVinho Trumpeter Cabernet ou Chardonnay, bebidas não alcoólicas e café."
      },
      "precio": 195000,
      "tags": []
