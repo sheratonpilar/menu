@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-09T00:42:46.277Z",
+  "actualizado": "2026-10-13T14:59:01.311Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -745,7 +745,7 @@
       "pt": "Ancho"
      },
      "descripcion": {
-      "es": "Ojo de bife braseado, crema de vino, tomates cherrys asados, corona de papa y hongos.",
+      "es": "Ojo de bife braseado, crema de vino, tomates cherry asados, corona de papa y hongos.",
       "en": "Braised rib-eye, wine cream, roasted cherry tomatoes, potato and mushroom crown.",
       "pt": "Ancho braseado, creme de vinho, tomates cereja assados, coroa de batata e cogumelos."
      },
@@ -1022,9 +1022,9 @@
       "pt": "Super chocolate"
      },
      "descripcion": {
-      "es": "Bizcochuelo de chocolate, ganache de chocolate, dulce de leche, garrapiñada de avellanas, nutella y cremosos de café.",
-      "en": "Chocolate sponge, chocolate ganache, dulce de leche, candied hazelnuts, nutella and coffee cream.",
-      "pt": "Pão de ló de chocolate, ganache, doce de leite, avelãs caramelizadas, nutella e creme de café."
+      "es": "Bizcochuelo de chocolate, ganache de chocolate, dulce de leche, garrapiñada de avellanas, Nutella y cremosos de café.",
+      "en": "Chocolate sponge, chocolate ganache, dulce de leche, candied hazelnuts, Nutella and coffee cream.",
+      "pt": "Pão de ló de chocolate, ganache, doce de leite, avelãs caramelizadas, Nutella e creme de café."
      },
      "precio": 22000,
      "tags": [
@@ -1149,9 +1149,9 @@
       "pt": "Macarons, 3 unidades"
      },
      "descripcion": {
-      "es": "Variedad: chocolate Dubái, nutella y frutos rojos con centro de frambuesa.",
-      "en": "Dubai chocolate, nutella, red berries with raspberry centre.",
-      "pt": "Chocolate Dubai, nutella, frutas vermelhas com centro de framboesa."
+      "es": "Variedad: chocolate Dubái, Nutella y frutos rojos con centro de frambuesa.",
+      "en": "Dubai chocolate, Nutella, red berries with raspberry centre.",
+      "pt": "Chocolate Dubai, Nutella, frutas vermelhas com centro de framboesa."
      },
      "precio": 25000,
      "tags": [
@@ -1166,11 +1166,11 @@
      "id": "yogur-granola",
      "nombre": {
       "es": "Yogur con granola",
-      "en": "Yoghurt with granola",
+      "en": "Yogurt with granola",
       "pt": "Iogurte com granola"
      },
      "descripcion": {
-      "es": "Yogurt griego, granola casera, frutas de estación y miel.",
+      "es": "Yogur griego, granola casera, frutas de estación y miel.",
       "en": "Greek yoghurt, homemade granola, seasonal fruit and honey.",
       "pt": "Iogurte grego, granola caseira, frutas da estação e mel."
      },
