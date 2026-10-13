@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-09T00:42:46.277Z",
+  "actualizado": "2026-10-13T14:59:01.312Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -260,7 +260,7 @@
     {
      "id": "omelette",
      "nombre": {
-      "es": "Omellette de tomate y queso",
+      "es": "Omelette de tomate y queso",
       "en": "Tomato and cheese omelette",
       "pt": "Omelete de tomate e queijo"
      },
@@ -661,7 +661,7 @@
       "pt": "Pizza individual"
      },
      "descripcion": {
-      "es": "Muzzarella, prosciutto 12 meses, rúcula y parmesano.",
+      "es": "Mozzarella, prosciutto 12 meses, rúcula y parmesano.",
       "en": "Mozzarella, 12-month prosciutto, arugula and parmesan.",
       "pt": "Mussarela, prosciutto 12 meses, rúcula e parmesão."
      },
@@ -996,9 +996,9 @@
       "pt": "Macarons, 3 unidades"
      },
      "descripcion": {
-      "es": "Variedad: chocolate Dubái, nutella y frutos rojos con centro de frambuesa.",
-      "en": "Dubai chocolate, nutella, red berries with raspberry centre.",
-      "pt": "Chocolate Dubai, nutella, frutas vermelhas com centro de framboesa."
+      "es": "Variedad: chocolate Dubái, Nutella y frutos rojos con centro de frambuesa.",
+      "en": "Dubai chocolate, Nutella, red berries with raspberry centre.",
+      "pt": "Chocolate Dubai, Nutella, frutas vermelhas com centro de framboesa."
      },
      "precio": 25000,
      "tags": [
