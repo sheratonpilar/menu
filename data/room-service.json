@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-16T16:39:09.063Z",
+  "actualizado": "2026-10-26T13:40:38.892Z",
   "ver_tambien": "",
   "descripcion": {
    "es": "Para realizar su pedido marque el interno 2840",
@@ -1230,11 +1230,7 @@
       "en": "Soda",
       "pt": "Refrigerante"
      },
-     "descripcion": {
-      "es": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Pomelo",
-      "en": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Grapefruit",
-      "pt": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Toranja"
-     },
+     "descripcion": {},
      "precio": 8000,
      "tags": []
     },
