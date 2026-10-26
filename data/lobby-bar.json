@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-16T16:39:09.062Z",
+  "actualizado": "2026-10-26T13:40:38.891Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -1377,9 +1377,9 @@
    },
    "foto": "propuesta-te.jpg",
    "nota": {
-    "es": "**Disponible solo viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.** \n\n| **SALADO**: Bavaria, salmón ahumado, tártara y rúcula. | Sancricca, jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado, tostón multicereal, Finlandia, palta, huevo de codorniz y cherrys | Scons de queso. \n| **DULCE**: Macarons de frutos rojos con centro de frambuesa | Semi esfera cítrica con base de granola casera | Tarta de manzanas | Húmedo de dulce de leche | Rústico de chocolate con centro de ddl bañado de chocolate | Croissant flat, untuoso de nutella y chocolate. \n| **BEBIDAS**: Jugo de naranja e infusión a elección.",
-    "en": "**Available only on Fridays, Saturdays, Sundays and public holidays, from 4:30 to 6:30 pm.**\n\n| **SAVORY**: Bavaria, smoked salmon, tartar sauce and arugula. | Sancricca, 12-month aged cured ham, Pategrás cheese, sun-dried tomatoes and creamy blue cheese | Avocado, multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes | Cheese scones.\n| **SWEET**: Red berry macarons with raspberry center | Citrus half-sphere with homemade granola base | Apple tart | Moist dulce de leche cake | Rustic chocolate cake with a dulce de leche center, coated in chocolate | Flat croissant, with a rich Nutella and chocolate filling.\n| **BEVERAGES**: Orange juice and tea or coffee of your choice.",
-    "pt": "**Disponível somente às sextas-feiras, sábados, domingos e feriados, das 16h30 às 18h30.**\n\n| **SALGADO**: Bavaria, salmão defumado, molho tártaro e rúcula. | Sancricca, presunto cru maturado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul | Avocado, torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomates-cereja | Scones de queijo.\n| **DOCE**: Macarons de frutas vermelhas com recheio de framboesa | Semiesfera cítrica com base de granola caseira | Torta de maçã | Bolo úmido de doce de leite | Rústico de chocolate com recheio de doce de leite, coberto com chocolate | Croissant flat, com recheio cremoso de Nutella e chocolate.\n| **BEBIDAS**: Suco de laranja e chá ou café à escolha."
+    "es": "**Disponible solo viernes, sábados, domingos y feriados, de 16:30 a 18:30 hs.** \nMáximo 10 comensales.\n\n| **SALADO**: \nBavaria: salmón ahumado, tártara y rúcula. | Sancricca: jamón crudo 12 meses, pategrás, tomates secos y cremoso de queso azul | Avocado: tostón multicereal , Finlandia, palta, huevo de codorniz y cherry | Scons de queso | Baguettin de pesto: jamón natural, pategrás y mayonesa con huevo.\n| **DULCE**: \nMacarons de frutos rojos con centro de frambuesa | Tarta de manzana | Rústico de chocolate con centro de dulce de leche bañado con chocolate | Key lime pie | Tentación de chocolate con leche y centro de bavaroise de dulce de leche.\n| **BEBIDAS**: \nJugo de naranja e infusión a elección.",
+    "en": "Available only on Fridays, Saturdays, Sundays and public holidays, from 4:30 to 6:30 p.m.\nMaximum 10 guests.\n\n| SAVORY:\nBavaria: smoked salmon, tartar sauce and arugula. | Sancricca: 12-month-aged cured ham, Pategrás cheese, sun-dried tomatoes and blue cheese cream | Avocado: multigrain toast, Finlandia cream cheese, avocado, quail egg and cherry tomatoes | Cheese scones | Pesto baguette: cooked ham, Pategrás cheese and mayonnaise with egg.\n\n| SWEET:\nMixed berry macarons with a raspberry center | Apple tart | Rustic chocolate cake with a dulce de leche center, coated in chocolate | Key lime pie | Milk chocolate delight with a dulce de leche bavarois center.\n\n| BEVERAGES:\nOrange juice and your choice of tea or coffee.",
+    "pt": "Disponível somente às sextas-feiras, sábados, domingos e feriados, das 16h30 às 18h30.\nMáximo de 10 pessoas.\n\n| SALGADOS:\nBavaria: salmão defumado, molho tártaro e rúcula. | Sancricca: presunto cru curado por 12 meses, queijo Pategrás, tomates secos e creme de queijo azul | Avocado: torrada multigrãos, cream cheese Finlandia, abacate, ovo de codorna e tomate-cereja | Scones de queijo | Baguete de pesto: presunto cozido, queijo Pategrás e maionese com ovo.\n\n| DOCES:\nMacarons de frutas vermelhas com recheio de framboesa | Torta de maçã | Bolo rústico de chocolate com recheio de doce de leite, coberto com chocolate | Torta de limão | Tentação de chocolate ao leite com recheio de bavaroise de doce de leite.\n\n| BEBIDAS:\nSuco de laranja e chá ou café à escolha."
    },
    "items": [
     {
@@ -1390,7 +1390,7 @@
       "pt": "Chá da tarde para dois"
      },
      "descripcion": {},
-     "precio": 66000,
+     "precio": 72000,
      "tags": [
       "PROMO",
       "ALERGENO_2",
@@ -1445,11 +1445,7 @@
       "en": "Soda",
       "pt": "Refrigerante"
      },
-     "descripcion": {
-      "es": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Pomelo",
-      "en": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Grapefruit",
-      "pt": "Pepsi Regular / Pepsi Black / Mirinda / 7Up Regular / 7Up Zero / Paso de los Toros Regular / Paso de los Toros Light / Paso de los Toros Toranja"
-     },
+     "descripcion": {},
      "precio": 7000,
      "tags": []
     },
