@@ -9,15 +9,13 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-31T21:15:32.718Z",
+  "actualizado": "2026-11-06T18:00:06.729Z",
   "ver_tambien": "",
-  "descripcion": {
-   "es": "HOLA"
-  },
+  "descripcion": {},
   "pie": {
-   "es": "Por favor notifique a nuestros asociados si posee alguna intolerancia o alergia.",
-   "en": "Please let our associates know if you have any allergy or intolerance.",
-   "pt": "Por favor, informe nossos associados se você tiver alguma alergia ou intolerância."
+   "es": "Consultar por otras opciones sin TACC. \n**Si posee alguna restricción alimentaria, por favor avise a su camarero antes de realizar su pedido**\n\nPuede contener alguno de los siguientes alérgenos: \n1  | Apio \n2  | Gluten \n3  | Crustáceos \n4  | Huevos \n5  | Pescado \n6  | Harina de lupino \n7  | Moluscos \n8  | Mostaza \n9  | Frutos secos \n10 | Maníes \n11 | Semillas de sésamo \n12 | Soja \n13 | Dióxido de azufre",
+   "en": "Please ask about other gluten-free options.\n**If you have any dietary restrictions, please inform your waiter before placing your order.** \n\nMay contain one or more of the following allergens:\n1 | Celery\n2 | Gluten\n3 | Crustaceans\n4 | Eggs\n5 | Fish\n6 | Lupin flour\n7 | Molluscs\n8 | Mustard\n9 | Nuts\n10 | Peanuts\n11 | Sesame seeds\n12 | Soy\n13 | Sulfur dioxide",
+   "pt": "Consulte sobre outras opções sem glúten.\n**Se você tiver alguma restrição alimentar, por favor, informe ao seu garçom antes de fazer o pedido.**\n\nPode conter um ou mais dos seguintes alérgenos:\n1 | Aipo\n2 | Glúten\n3 | Crustáceos\n4 | Ovos\n5 | Peixes\n6 | Farinha de tremoço\n7 | Moluscos\n8 | Mostarda\n9 | Frutos secos\n10 | Amendoins\n11 | Sementes de gergelim\n12 | Soja\n13 | Dióxido de enxofre"
   }
  },
  "tags": {
@@ -42,14 +40,79 @@
    "pt": "Novo"
   },
   "SUGERENCIA_CHEF": {
-   "es": "Sugerencia del chef",
-   "en": "Chef's suggestion",
-   "pt": "Sugestão do chef"
+   "es": "Sugerencia",
+   "en": "Suggestion",
+   "pt": "Sugestão"
   },
   "PROMO": {
    "es": "Promoción",
    "en": "Special",
    "pt": "Promoção"
+  },
+  "ALERGENO_1": {
+   "es": "1",
+   "en": "1",
+   "pt": "1"
+  },
+  "ALERGENO_2": {
+   "es": "2",
+   "en": "2",
+   "pt": "2"
+  },
+  "ALERGENO_3": {
+   "es": "3",
+   "en": "3",
+   "pt": "3"
+  },
+  "ALERGENO_4": {
+   "es": "4",
+   "en": "4",
+   "pt": "4"
+  },
+  "ALERGENO_5": {
+   "es": "5",
+   "en": "5",
+   "pt": "5"
+  },
+  "ALERGENO_6": {
+   "es": "6",
+   "en": "6",
+   "pt": "6"
+  },
+  "ALERGENO_7": {
+   "es": "7",
+   "en": "7",
+   "pt": "7"
+  },
+  "ALERGENO_8": {
+   "es": "8",
+   "en": "8",
+   "pt": "8"
+  },
+  "ALERGENO_9": {
+   "es": "9",
+   "en": "9",
+   "pt": "9"
+  },
+  "ALERGENO_10": {
+   "es": "10",
+   "en": "10",
+   "pt": "10"
+  },
+  "ALERGENO_11": {
+   "es": "11",
+   "en": "11",
+   "pt": "11"
+  },
+  "ALERGENO_12": {
+   "es": "12",
+   "en": "12",
+   "pt": "12"
+  },
+  "ALERGENO_13": {
+   "es": "13",
+   "en": "13",
+   "pt": "13"
   }
  },
  "config": {
@@ -77,11 +140,11 @@
     "en": "Salads",
     "pt": "Saladas"
    },
-   "foto": "lb-ensaladas.jpg",
+   "foto": "ensaladas.jpg",
    "nota": {},
    "items": [
     {
-     "id": "lb-capresse",
+     "id": "capresse",
      "nombre": {
       "es": "Capresse",
       "en": "Caprese",
@@ -95,26 +158,36 @@
      "precio": 36000,
      "tags": [
       "SIN_TACC",
-      "VEGETARIANO"
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10"
      ]
     },
     {
-     "id": "lb-caesar-tradicional",
+     "id": "caesar-tradicional",
      "nombre": {
       "es": "Caesar tradicional",
       "en": "Caesar",
       "pt": "Caesar tradicional"
      },
      "descripcion": {
-      "es": "Variedad de verdes, láminas de parmesano, croutons, bacon y su aderezo.",
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar.",
       "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing.",
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
      },
      "precio": 29000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     },
     {
-     "id": "lb-caesar-ave",
+     "id": "caesar-ave",
      "nombre": {
       "es": "Caesar ave",
       "en": "Chicken caesar",
@@ -126,7 +199,113 @@
       "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
      },
      "precio": 34000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "entradas",
+   "nombre": {
+    "es": "Entradas",
+    "en": "Starters",
+    "pt": "Entradas"
+   },
+   "foto": "entradas.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "papas",
+     "nombre": {
+      "es": "Papas fritas",
+      "en": "Fries",
+      "pt": "Batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 17000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "picada",
+     "nombre": {
+      "es": "Picada para 2 personas",
+      "en": "Sharing board for two",
+      "pt": "Tábua para dois"
+     },
+     "descripcion": {
+      "es": "Queso azul, pategrás, bocconcino saborizados, atuel, brie, ligne noire, sardo, nuestra burrata, jamón natural, lomito ahumado, jamón crudo, salame, aceitunas negras, nueces y tomates asados.",
+      "en": "Blue cheese, pategrás, flavoured bocconcini, atuel, brie, ligne noire, sardo, our burrata, ham, smoked pork loin, prosciutto, salami, black olives, walnuts and roasted tomatoes.",
+      "pt": "Queijo azul, pategrás, bocconcini temperados, atuel, brie, ligne noire, sardo, nossa burrata, presunto, lombo defumado, presunto cru, salame, azeitonas pretas, nozes e tomates assados."
+     },
+     "precio": 45000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_12",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tabla-quesos",
+     "nombre": {
+      "es": "Tabla de quesos (para 1 persona)",
+      "en": "Cheese board (for 1)",
+      "pt": "Tábua de queijos (para 1)"
+     },
+     "descripcion": {},
+     "precio": 22000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11"
+     ]
+    },
+    {
+     "id": "tabla-fiambres",
+     "nombre": {
+      "es": "Tabla de fiambres (para 1 persona)",
+      "en": "Charcuterie board (for 1)",
+      "pt": "Tábua de frios (para 1)"
+     },
+     "descripcion": {},
+     "precio": 18000,
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "cazuela-olivas",
+     "nombre": {
+      "es": "Cazuela de olivas",
+      "en": "Bowl of olives",
+      "pt": "Tigela de azeitonas"
+     },
+     "descripcion": {},
+     "precio": 14000,
+     "tags": [
+      "VEGETARIANO"
+     ]
     }
    ]
   },
@@ -137,11 +316,11 @@
     "en": "Cold sandwiches",
     "pt": "Sanduíches frios"
    },
-   "foto": "lb-sandwicheria.jpg",
+   "foto": "sand-fria.jpg",
    "nota": {},
    "items": [
     {
-     "id": "lb-avocado-toast",
+     "id": "avocado-toast",
      "nombre": {
       "es": "Avocado toast",
       "en": "Avocado toast",
@@ -152,14 +331,39 @@
       "en": "Multigrain bread, poached egg, cherry tomatoes, Finlandia cheese, mixed seeds and avocado cream.",
       "pt": "Pão multigrãos, ovo poché, tomates cereja, queijo Finlandia, sementes e creme de abacate."
      },
-     "precio": 29000,
+     "precio": 33000,
      "tags": [
       "VEGETARIANO",
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_13"
      ]
     },
     {
-     "id": "lb-bavaria",
+     "id": "corona-pesto",
+     "nombre": {
+      "es": "Corona de pesto",
+      "en": "Pesto crown",
+      "pt": "Coroa de pesto"
+     },
+     "descripcion": {
+      "es": "Pasta de atún, mayonesa, palmito, cebollita y huevo, palta, mix de verdes y tomate grillado.",
+      "en": "Tuna paste, mayonnaise, hearts of palm, spring onion and egg, avocado, mixed greens and grilled tomato.",
+      "pt": "Pasta de atum, maionese, palmito, cebolinha e ovo, abacate, mix de folhas e tomate grelhado."
+     },
+     "precio": 34000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7",
+      "ALERGENO_11"
+     ]
+    },
+    {
+     "id": "bavaria",
      "nombre": {
       "es": "Bavaria",
       "en": "Bavaria",
@@ -170,8 +374,137 @@
       "en": "Smoked salmon sandwich, tartare sauce, sun-dried tomato, cucumber and arugula.",
       "pt": "Sanduíche de salmão defumado, molho tártaro, tomate seco, pepino e rúcula."
      },
+     "precio": 33000,
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "brioche",
+     "nombre": {
+      "es": "Brioche",
+      "en": "Brioche",
+      "pt": "Brioche"
+     },
+     "descripcion": {
+      "es": "Pan de brioche, jamón crudo, burrata, manteca de hierbas, tomates horneados, reducción de aceto y rúcula.",
+      "en": "Brioche bun, prosciutto, burrata, herb butter, roasted tomatoes, balsamic reduction and arugula.",
+      "pt": "Pão brioche, presunto cru, burrata, manteiga de ervas, tomates assados, redução de aceto e rúcula."
+     },
+     "precio": 34000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "baguette-cabutia",
+     "nombre": {
+      "es": "Baguette de cabutia",
+      "en": "Butternut baguette",
+      "pt": "Baguete de abóbora"
+     },
+     "descripcion": {
+      "es": "Mini baguette de cabutia, cremoso de queso azul y crocante de nuez, albahaca, berenjenas grilladas, queso tybo y tomates grillados.",
+      "en": "Butternut mini baguette, blue cheese cream and walnut crunch, basil, grilled aubergine, tybo cheese and grilled tomatoes.",
+      "pt": "Mini baguete de abóbora, creme de queijo azul e crocante de nozes, manjericão, berinjela grelhada, queijo tybo e tomates grelhados."
+     },
      "precio": 32000,
-     "tags": []
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ensaladas",
+   "nombre": {
+    "es": "Ensaladas",
+    "en": "Salads",
+    "pt": "Saladas"
+   },
+   "foto": "ensaladas.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "capresse",
+     "nombre": {
+      "es": "Capresse",
+      "en": "Caprese",
+      "pt": "Capresse"
+     },
+     "descripcion": {
+      "es": "Tomates asados y frescos, albahaca y burratina.",
+      "en": "Roasted and fresh tomatoes, basil and burratina.",
+      "pt": "Tomates assados e frescos, manjericão e burratina."
+     },
+     "precio": 36000,
+     "tags": [
+      "SIN_TACC",
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "caesar-tradicional",
+     "nombre": {
+      "es": "Caesar tradicional",
+      "en": "Caesar",
+      "pt": "Caesar tradicional"
+     },
+     "descripcion": {
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar.",
+      "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing.",
+      "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar."
+     },
+     "precio": 29000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "caesar-ave",
+     "nombre": {
+      "es": "Caesar ave",
+      "en": "Chicken caesar",
+      "pt": "Caesar de frango"
+     },
+     "descripcion": {
+      "es": "Mix de verdes, parmesano, bacon, croutons y aderezo caesar, con ave.",
+      "en": "Mixed greens, parmesan, bacon, croutons and caesar dressing, with chicken.",
+      "pt": "Mix de folhas, parmesão, bacon, croutons e molho caesar, com frango."
+     },
+     "precio": 34000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
     }
    ]
   },
@@ -182,11 +515,53 @@
     "en": "Hot sandwiches",
     "pt": "Sanduíches quentes"
    },
-   "foto": "",
+   "foto": "sand-caliente.jpg",
    "nota": {},
    "items": [
     {
-     "id": "lb-hamburguesa",
+     "id": "bondiola",
+     "nombre": {
+      "es": "Sándwich de bondiola",
+      "en": "Pulled pork sandwich",
+      "pt": "Sanduíche de bondiola"
+     },
+     "descripcion": {
+      "es": "Sándwich de bondiola desmenuzada con bbq, mozzarella, tomates frescos, lechuga, cebollas caramelizadas, con papas fritas.",
+      "en": "Pulled pork with BBQ, mozzarella, fresh tomato, lettuce, caramelised onion, with fries.",
+      "pt": "Bondiola desfiada com BBQ, mussarela, tomate fresco, alface, cebola caramelizada, com batatas fritas."
+     },
+     "precio": 37000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_11"
+     ]
+    },
+    {
+     "id": "ciabatta",
+     "nombre": {
+      "es": "Ciabatta",
+      "en": "Ciabatta",
+      "pt": "Ciabatta"
+     },
+     "descripcion": {
+      "es": "Sándwich de lomito, jamón, queso, tomate y lechuga, con papas fritas.",
+      "en": "Tenderloin, ham, cheese, tomato and lettuce sandwich, with fries.",
+      "pt": "Sanduíche de filé, presunto, queijo, tomate e alface, com batatas fritas."
+     },
+     "precio": 39000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "hamburguesa",
      "nombre": {
       "es": "Hamburguesa",
       "en": "Burger",
@@ -197,13 +572,20 @@
       "en": "Potato bun, tomato, mixed greens, cheddar, pickles, bacon, ranch sauce, our sauce and fries.",
       "pt": "Pão de batata, tomate, mix de folhas, cheddar, picles, bacon, molho ranch, nosso molho e batatas fritas."
      },
-     "precio": 33000,
+     "precio": 39000,
      "tags": [
-      "NUEVO"
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
      ]
     },
     {
-     "id": "lb-tostado-jq",
+     "id": "tostado-jq",
      "nombre": {
       "es": "Tostado de jamón y queso",
       "en": "Ham and cheese toastie",
@@ -214,11 +596,14 @@
       "en": "On pita or white bread.",
       "pt": "Em pão árabe ou de forma."
      },
-     "precio": 17000,
-     "tags": []
+     "precio": 19000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
     },
     {
-     "id": "lb-tostado-jqt",
+     "id": "tostado-jqt",
      "nombre": {
       "es": "Tostado de jamón, queso y tomate",
       "en": "Ham, cheese and tomato toastie",
@@ -229,8 +614,169 @@
       "en": "On pita or white bread.",
       "pt": "Em pão árabe ou de forma."
      },
-     "precio": 17000,
-     "tags": []
+     "precio": 19000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tostado-crudo",
+     "nombre": {
+      "es": "Tostado de jamón crudo y queso",
+      "en": "Prosciutto and cheese toastie",
+      "pt": "Tostado de presunto cru e queijo"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tostado-qt",
+     "nombre": {
+      "es": "Tostado de queso y tomate",
+      "en": "Cheese and tomato toastie",
+      "pt": "Tostado de queijo e tomate"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sand-fria",
+   "nombre": {
+    "es": "Sandwichería fría",
+    "en": "Cold sandwiches",
+    "pt": "Sanduíches frios"
+   },
+   "foto": "sand-fria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "avocado-toast",
+     "nombre": {
+      "es": "Avocado toast",
+      "en": "Avocado toast",
+      "pt": "Avocado toast"
+     },
+     "descripcion": {
+      "es": "Pan multicereal, huevo poché, tomates cherry, queso Finlandia, mix de semillas y cremoso de palta.",
+      "en": "Multigrain bread, poached egg, cherry tomatoes, Finlandia cheese, mixed seeds and avocado cream.",
+      "pt": "Pão multigrãos, ovo poché, tomates cereja, queijo Finlandia, sementes e creme de abacate."
+     },
+     "precio": 33000,
+     "tags": [
+      "VEGETARIANO",
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "corona-pesto",
+     "nombre": {
+      "es": "Corona de pesto",
+      "en": "Pesto crown",
+      "pt": "Coroa de pesto"
+     },
+     "descripcion": {
+      "es": "Pasta de atún, mayonesa, palmito, cebollita y huevo, palta, mix de verdes y tomate grillado.",
+      "en": "Tuna paste, mayonnaise, hearts of palm, spring onion and egg, avocado, mixed greens and grilled tomato.",
+      "pt": "Pasta de atum, maionese, palmito, cebolinha e ovo, abacate, mix de folhas e tomate grelhado."
+     },
+     "precio": 34000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_3",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_7",
+      "ALERGENO_11"
+     ]
+    },
+    {
+     "id": "bavaria",
+     "nombre": {
+      "es": "Bavaria",
+      "en": "Bavaria",
+      "pt": "Bavaria"
+     },
+     "descripcion": {
+      "es": "Sándwich de salmón ahumado, crema tártara, tomates secos, pepino y rúcula.",
+      "en": "Smoked salmon sandwich, tartare sauce, sun-dried tomato, cucumber and arugula.",
+      "pt": "Sanduíche de salmão defumado, molho tártaro, tomate seco, pepino e rúcula."
+     },
+     "precio": 33000,
+     "tags": [
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_5",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "brioche",
+     "nombre": {
+      "es": "Brioche",
+      "en": "Brioche",
+      "pt": "Brioche"
+     },
+     "descripcion": {
+      "es": "Pan de brioche, jamón crudo, burrata, manteca de hierbas, tomates horneados, reducción de aceto y rúcula.",
+      "en": "Brioche bun, prosciutto, burrata, herb butter, roasted tomatoes, balsamic reduction and arugula.",
+      "pt": "Pão brioche, presunto cru, burrata, manteiga de ervas, tomates assados, redução de aceto e rúcula."
+     },
+     "precio": 34000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "baguette-cabutia",
+     "nombre": {
+      "es": "Baguette de cabutia",
+      "en": "Butternut baguette",
+      "pt": "Baguete de abóbora"
+     },
+     "descripcion": {
+      "es": "Mini baguette de cabutia, cremoso de queso azul y crocante de nuez, albahaca, berenjenas grilladas, queso tybo y tomates grillados.",
+      "en": "Butternut mini baguette, blue cheese cream and walnut crunch, basil, grilled aubergine, tybo cheese and grilled tomatoes.",
+      "pt": "Mini baguete de abóbora, creme de queijo azul e crocante de nozes, manjericão, berinjela grelhada, queijo tybo e tomates grelhados."
+     },
+     "precio": 32000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11"
+     ]
     }
    ]
   },
@@ -238,25 +784,29 @@
    "id": "menores",
    "nombre": {
     "es": "Menores",
-    "en": "Kids",
-    "pt": "Infantil"
+    "en": "Kids menu",
+    "pt": "menu infantil"
    },
-   "foto": "",
+   "foto": "menores.jpg",
    "nota": {},
    "items": [
     {
-     "id": "ps-men-milanesa",
+     "id": "milanesa-papas",
      "nombre": {
-      "es": "Milanesa con papas fritas",
-      "en": "Breaded cutlet with fries",
-      "pt": "Milanesa com batatas fritas"
+      "es": "Milanesa de carne con papas fritas",
+      "en": "Breaded beef cutlet with fries",
+      "pt": "Milanesa de carne com batatas fritas"
      },
      "descripcion": {},
-     "precio": 27500,
-     "tags": []
+     "precio": 29500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8"
+     ]
     },
     {
-     "id": "lb-men-nuggets",
+     "id": "nuggets",
      "nombre": {
       "es": "Nuggets con papas fritas",
       "en": "Chicken nuggets with fries",
@@ -264,33 +814,709 @@
      },
      "descripcion": {},
      "precio": 32000,
-     "tags": []
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "hamburguesa-menores",
+     "nombre": {
+      "es": "Hamburguesa",
+      "en": "Burger",
+      "pt": "Hambúrguer"
+     },
+     "descripcion": {
+      "es": "Con queso cheddar y papas fritas.",
+      "en": "With cheddar and fries",
+      "pt": "Com cheddar e batatas fritas"
+     },
+     "precio": 28500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "penne-menores",
+     "nombre": {
+      "es": "Penne con salsa fileto",
+      "en": "Penne with tomato sauce",
+      "pt": "Penne ao filetto"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "tallarin",
+     "nombre": {
+      "es": "Tallarines con crema",
+      "en": "Tagliatelle with cream",
+      "pt": "Talharim ao creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "noquis-menores",
+     "nombre": {
+      "es": "Ñoquis de papa con filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "pasta-seca",
+     "nombre": {
+      "es": "Pasta seca con crema",
+      "en": "Pasta with cream",
+      "pt": "Massa ao creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "SIN_TACC",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
     }
    ]
   },
   {
-   "id": "postres",
+   "id": "sand-caliente",
    "nombre": {
-    "es": "Postres",
-    "en": "Desserts",
-    "pt": "Sobremesas"
+    "es": "Sandwichería caliente",
+    "en": "Hot sandwiches",
+    "pt": "Sanduíches quentes"
    },
-   "foto": "lb-postres.jpg",
+   "foto": "sand-caliente.jpg",
    "nota": {},
    "items": [
     {
-     "id": "lb-helado",
+     "id": "bondiola",
      "nombre": {
-      "es": "Helado",
-      "en": "Ice cream",
-      "pt": "Sorvete"
+      "es": "Sándwich de bondiola",
+      "en": "Pulled pork sandwich",
+      "pt": "Sanduíche de bondiola"
      },
      "descripcion": {
-      "es": "2 bochas a elección: americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
-      "en": "2 scoops: cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
-      "pt": "2 bolas: creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+      "es": "Sándwich de bondiola desmenuzada con bbq, mozzarella, tomates frescos, lechuga, cebollas caramelizadas, con papas fritas.",
+      "en": "Pulled pork with BBQ, mozzarella, fresh tomato, lettuce, caramelised onion, with fries.",
+      "pt": "Bondiola desfiada com BBQ, mussarela, tomate fresco, alface, cebola caramelizada, com batatas fritas."
      },
-     "precio": 19500,
+     "precio": 37000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_11"
+     ]
+    },
+    {
+     "id": "ciabatta",
+     "nombre": {
+      "es": "Ciabatta",
+      "en": "Ciabatta",
+      "pt": "Ciabatta"
+     },
+     "descripcion": {
+      "es": "Sándwich de lomito, jamón, queso, tomate y lechuga, con papas fritas.",
+      "en": "Tenderloin, ham, cheese, tomato and lettuce sandwich, with fries.",
+      "pt": "Sanduíche de filé, presunto, queijo, tomate e alface, com batatas fritas."
+     },
+     "precio": 39000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "hamburguesa",
+     "nombre": {
+      "es": "Hamburguesa",
+      "en": "Burger",
+      "pt": "Hambúrguer"
+     },
+     "descripcion": {
+      "es": "Pan de papa, tomate, mix de verdes, cheddar, pepinillos, bacon, salsa ranchera, nuestra salsa y papas fritas.",
+      "en": "Potato bun, tomato, mixed greens, cheddar, pickles, bacon, ranch sauce, our sauce and fries.",
+      "pt": "Pão de batata, tomate, mix de folhas, cheddar, picles, bacon, molho ranch, nosso molho e batatas fritas."
+     },
+     "precio": 39000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tostado-jq",
+     "nombre": {
+      "es": "Tostado de jamón y queso",
+      "en": "Ham and cheese toastie",
+      "pt": "Misto quente"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tostado-jqt",
+     "nombre": {
+      "es": "Tostado de jamón, queso y tomate",
+      "en": "Ham, cheese and tomato toastie",
+      "pt": "Misto quente com tomate"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tostado-crudo",
+     "nombre": {
+      "es": "Tostado de jamón crudo y queso",
+      "en": "Prosciutto and cheese toastie",
+      "pt": "Tostado de presunto cru e queijo"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "tostado-qt",
+     "nombre": {
+      "es": "Tostado de queso y tomate",
+      "en": "Cheese and tomato toastie",
+      "pt": "Tostado de queijo e tomate"
+     },
+     "descripcion": {
+      "es": "En pan árabe o inglés.",
+      "en": "On pita or white bread.",
+      "pt": "Em pão árabe ou de forma."
+     },
+     "precio": 19000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opciones-dulces",
+   "nombre": {
+    "es": "Opciones dulces",
+    "en": "Sweets",
+    "pt": "Opções doces"
+   },
+   "foto": "opciones-dulces.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "cookie-xl",
+     "nombre": {
+      "es": "Cookie XL",
+      "en": "XL cookie",
+      "pt": "Cookie XL"
+     },
+     "descripcion": {
+      "es": "Cookies de pistacho, cremoso Dubái y untuosos de pistacho y chocolate.",
+      "en": "Pistachio cookies, Dubai cream and pistachio-chocolate spread.",
+      "pt": "Cookies de pistache, creme Dubai e recheio de pistache e chocolate."
+     },
+     "precio": 20000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "key-lime",
+     "nombre": {
+      "es": "Key lime pie",
+      "en": "Key lime pie",
+      "pt": "Key lime pie"
+     },
+     "descripcion": {
+      "es": "Masa sablée, curd de lima y crema cítrica.",
+      "en": "Sablée crust, lime curd and citrus cream.",
+      "pt": "Massa sablée, curd de limão e creme cítrico."
+     },
+     "precio": 20000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "alfajor-argentino",
+     "nombre": {
+      "es": "Alfajor Argentino",
+      "en": "Argentine alfajor",
+      "pt": "Alfajor argentino"
+     },
+     "descripcion": {
+      "es": "Clásico alfajor de dulce de leche con glaseado de azúcar.",
+      "en": "Classic dulce de leche alfajor with sugar glaze.",
+      "pt": "Alfajor clássico de doce de leite com cobertura de açúcar."
+     },
+     "precio": 16000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "torta-manzana",
+     "nombre": {
+      "es": "Torta de manzana",
+      "en": "Apple Cake",
+      "pt": "Bolo de maçã"
+     },
+     "descripcion": {
+      "es": "Cumbre de manzana, sablée, compota de manzana y arenado.",
+      "en": "Apple dome, sablée, apple compote and crumble.",
+      "pt": "Maçã: cúpula de maçã, sablée, compota de maçã e crumble."
+     },
+     "precio": 20000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "torta",
+     "nombre": {
+      "es": "Torta",
+      "en": "Cake",
+      "pt": "Torta"
+     },
+     "descripcion": {
+      "es": "Bizcochuelo de chocolate, relleno de dulce de leche, oreo y praliné con crema vegana.",
+      "en": "Chocolate sponge, dulce de leche filling, oreo and praline with vegan cream.",
+      "pt": "Pão de ló de chocolate, recheio de doce de leite, oreo e praliné com creme vegano."
+     },
+     "precio": 23000,
+     "tags": [
+      "SIN_TACC",
+      "NUEVO",
+      "VEGANO",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "macarons",
+     "nombre": {
+      "es": "Macarons x 3 u",
+      "en": "Macarons, 3 pieces",
+      "pt": "Macarons, 3 unidades"
+     },
+     "descripcion": {
+      "es": "Variedad: chocolate Dubái, Nutella y frutos rojos con centro de frambuesa.",
+      "en": "Dubai chocolate, Nutella, red berries with raspberry centre.",
+      "pt": "Chocolate Dubai, Nutella, frutas vermelhas com centro de framboesa."
+     },
+     "precio": 25000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "budin",
+     "nombre": {
+      "es": "Budín",
+      "en": "Loaf cake",
+      "pt": "Bolo"
+     },
+     "descripcion": {
+      "es": "Budín de arándanos y limón glaseado.",
+      "en": "Blueberry and lemon glazed loaf cake.",
+      "pt": "Bolo de mirtilo e limão glaçado."
+     },
+     "precio": 15000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "alfajor-maicena",
+     "nombre": {
+      "es": "Alfajor de maicena",
+      "en": "Cornstarch alfajor",
+      "pt": "Alfajor de maisena"
+     },
+     "descripcion": {},
+     "precio": 14000,
+     "tags": []
+    },
+    {
+     "id": "medialunas",
+     "nombre": {
+      "es": "Medialunas",
+      "en": "Croissants",
+      "pt": "Croissants argentinos"
+     },
+     "descripcion": {},
+     "precio": 3500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "frutos-rojos",
+     "nombre": {
+      "es": "Helado con frutos rojos",
+      "en": "Ice cream with red berries",
+      "pt": "Sorvete com frutas vermelhas"
+     },
+     "descripcion": {
+      "es": "Helado de crema americana con mix de frutos rojos.",
+      "en": "Vanilla ice cream with mixed red berries.",
+      "pt": "Sorvete de creme americano com mix de frutas vermelhas."
+     },
+     "precio": 22000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "helado",
+     "nombre": {
+      "es": "Helado (2 bochas a elección)",
+      "en": "Ice cream (2 scoops)",
+      "pt": "Sorvete (2 bolas)"
+     },
+     "descripcion": {
+      "es": "americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
+      "en": "Cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
+      "pt": "Creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+     },
+     "precio": 21500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "franui",
+     "nombre": {
+      "es": "Franui",
+      "en": "Franui",
+      "pt": "Franui"
+     },
+     "descripcion": {
+      "es": "Chocolate con leche / amargo / Pink.",
+      "en": "Milk / dark / Pink chocolate.",
+      "pt": "Chocolate ao leite / meio amargo / Pink."
+     },
+     "precio": 14000,
+     "tags": [
+      "SIN_TACC",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
+     ]
+    },
+    {
+     "id": "franui-free",
+     "nombre": {
+      "es": "Franui Free",
+      "en": "Franui Free",
+      "pt": "Franui Free"
+     },
+     "descripcion": {
+      "es": "Sin azúcar y sin lácteos.",
+      "en": "No sugar, dairy free.",
+      "pt": "Sem açúcar e sem lactose."
+     },
+     "precio": 14000,
+     "tags": [
+      "SIN_TACC",
+      "VEGANO",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "menores",
+   "nombre": {
+    "es": "Menores",
+    "en": "Kids menu",
+    "pt": "menu infantil"
+   },
+   "foto": "menores.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "milanesa-papas",
+     "nombre": {
+      "es": "Milanesa de carne con papas fritas",
+      "en": "Breaded beef cutlet with fries",
+      "pt": "Milanesa de carne com batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 29500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_8"
+     ]
+    },
+    {
+     "id": "nuggets",
+     "nombre": {
+      "es": "Nuggets con papas fritas",
+      "en": "Chicken nuggets with fries",
+      "pt": "Nuggets com batatas fritas"
+     },
+     "descripcion": {},
+     "precio": 32000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "hamburguesa-menores",
+     "nombre": {
+      "es": "Hamburguesa",
+      "en": "Burger",
+      "pt": "Hambúrguer"
+     },
+     "descripcion": {
+      "es": "Con queso cheddar y papas fritas.",
+      "en": "With cheddar and fries",
+      "pt": "Com cheddar e batatas fritas"
+     },
+     "precio": 28500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "penne-menores",
+     "nombre": {
+      "es": "Penne con salsa fileto",
+      "en": "Penne with tomato sauce",
+      "pt": "Penne ao filetto"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "tallarin",
+     "nombre": {
+      "es": "Tallarines con crema",
+      "en": "Tagliatelle with cream",
+      "pt": "Talharim ao creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "noquis-menores",
+     "nombre": {
+      "es": "Ñoquis de papa con filetto o panna",
+      "en": "Potato gnocchi with filetto or cream",
+      "pt": "Nhoque de batata ao filetto ou creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "ALERGENO_1",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "pasta-seca",
+     "nombre": {
+      "es": "Pasta seca con crema",
+      "en": "Pasta with cream",
+      "pt": "Massa ao creme"
+     },
+     "descripcion": {},
+     "precio": 29000,
+     "tags": [
+      "VEGETARIANO",
+      "SIN_TACC",
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "nombre": {
+    "es": "Cafetería",
+    "en": "Coffee & tea",
+    "pt": "Cafeteria"
+   },
+   "foto": "cafeteria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "cafe",
+     "nombre": {
+      "es": "Café espresso",
+      "en": "Espresso",
+      "pt": "Café espresso"
+     },
+     "descripcion": {
+      "es": "Regular o descafeinado.",
+      "en": "Regular or decaf.",
+      "pt": "Comum ou descafeinado."
+     },
+     "precio": 7600,
+     "tags": []
+    },
+    {
+     "id": "cafe-doble",
+     "nombre": {
+      "es": "Café espresso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café espresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "cappuccino",
+     "nombre": {
+      "es": "Cappuccino",
+      "en": "Cappuccino",
+      "pt": "Cappuccino"
+     },
+     "descripcion": {
+      "es": "Con canela, crema y chocolate.",
+      "en": "With cinnamon, cream and chocolate.",
+      "pt": "Com canela, chantilly e chocolate."
+     },
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "te-hierbas",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {},
+     "precio": 6500,
+     "tags": []
+    },
+    {
+     "id": "te-twinings",
+     "nombre": {
+      "es": "Selección de té Twinings",
+      "en": "Twinings tea selection",
+      "pt": "Seleção de chás Twinings"
+     },
+     "descripcion": {},
+     "precio": 8200,
      "tags": []
     }
    ]
@@ -302,60 +1528,385 @@
     "en": "Sweets",
     "pt": "Opções doces"
    },
-   "foto": "lb-pasteleria.jpg",
+   "foto": "opciones-dulces.jpg",
    "nota": {},
    "items": [
     {
-     "id": "lb-medialunas",
+     "id": "cookie-xl",
+     "nombre": {
+      "es": "Cookie XL",
+      "en": "XL cookie",
+      "pt": "Cookie XL"
+     },
+     "descripcion": {
+      "es": "Cookies de pistacho, cremoso Dubái y untuosos de pistacho y chocolate.",
+      "en": "Pistachio cookies, Dubai cream and pistachio-chocolate spread.",
+      "pt": "Cookies de pistache, creme Dubai e recheio de pistache e chocolate."
+     },
+     "precio": 20000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "key-lime",
+     "nombre": {
+      "es": "Key lime pie",
+      "en": "Key lime pie",
+      "pt": "Key lime pie"
+     },
+     "descripcion": {
+      "es": "Masa sablée, curd de lima y crema cítrica.",
+      "en": "Sablée crust, lime curd and citrus cream.",
+      "pt": "Massa sablée, curd de limão e creme cítrico."
+     },
+     "precio": 20000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "alfajor-argentino",
+     "nombre": {
+      "es": "Alfajor Argentino",
+      "en": "Argentine alfajor",
+      "pt": "Alfajor argentino"
+     },
+     "descripcion": {
+      "es": "Clásico alfajor de dulce de leche con glaseado de azúcar.",
+      "en": "Classic dulce de leche alfajor with sugar glaze.",
+      "pt": "Alfajor clássico de doce de leite com cobertura de açúcar."
+     },
+     "precio": 16000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "torta-manzana",
+     "nombre": {
+      "es": "Torta de manzana",
+      "en": "Apple Cake",
+      "pt": "Bolo de maçã"
+     },
+     "descripcion": {
+      "es": "Cumbre de manzana, sablée, compota de manzana y arenado.",
+      "en": "Apple dome, sablée, apple compote and crumble.",
+      "pt": "Maçã: cúpula de maçã, sablée, compota de maçã e crumble."
+     },
+     "precio": 20000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "torta",
+     "nombre": {
+      "es": "Torta",
+      "en": "Cake",
+      "pt": "Torta"
+     },
+     "descripcion": {
+      "es": "Bizcochuelo de chocolate, relleno de dulce de leche, oreo y praliné con crema vegana.",
+      "en": "Chocolate sponge, dulce de leche filling, oreo and praline with vegan cream.",
+      "pt": "Pão de ló de chocolate, recheio de doce de leite, oreo e praliné com creme vegano."
+     },
+     "precio": 23000,
+     "tags": [
+      "SIN_TACC",
+      "NUEVO",
+      "VEGANO",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "macarons",
+     "nombre": {
+      "es": "Macarons x 3 u",
+      "en": "Macarons, 3 pieces",
+      "pt": "Macarons, 3 unidades"
+     },
+     "descripcion": {
+      "es": "Variedad: chocolate Dubái, Nutella y frutos rojos con centro de frambuesa.",
+      "en": "Dubai chocolate, Nutella, red berries with raspberry centre.",
+      "pt": "Chocolate Dubai, Nutella, frutas vermelhas com centro de framboesa."
+     },
+     "precio": 25000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "budin",
+     "nombre": {
+      "es": "Budín",
+      "en": "Loaf cake",
+      "pt": "Bolo"
+     },
+     "descripcion": {
+      "es": "Budín de arándanos y limón glaseado.",
+      "en": "Blueberry and lemon glazed loaf cake.",
+      "pt": "Bolo de mirtilo e limão glaçado."
+     },
+     "precio": 15000,
+     "tags": [
+      "NUEVO",
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10"
+     ]
+    },
+    {
+     "id": "alfajor-maicena",
+     "nombre": {
+      "es": "Alfajor de maicena",
+      "en": "Cornstarch alfajor",
+      "pt": "Alfajor de maisena"
+     },
+     "descripcion": {},
+     "precio": 14000,
+     "tags": []
+    },
+    {
+     "id": "medialunas",
      "nombre": {
       "es": "Medialunas",
       "en": "Croissants",
       "pt": "Croissants argentinos"
      },
      "descripcion": {},
-     "precio": 3000,
-     "tags": []
+     "precio": 3500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_11",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "frutos-rojos",
+     "nombre": {
+      "es": "Helado con frutos rojos",
+      "en": "Ice cream with red berries",
+      "pt": "Sorvete com frutas vermelhas"
+     },
+     "descripcion": {
+      "es": "Helado de crema americana con mix de frutos rojos.",
+      "en": "Vanilla ice cream with mixed red berries.",
+      "pt": "Sorvete de creme americano com mix de frutas vermelhas."
+     },
+     "precio": 22000,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4"
+     ]
+    },
+    {
+     "id": "helado",
+     "nombre": {
+      "es": "Helado (2 bochas a elección)",
+      "en": "Ice cream (2 scoops)",
+      "pt": "Sorvete (2 bolas)"
+     },
+     "descripcion": {
+      "es": "americana, chocolate suizo, dulce de leche tentación, vainilla, limón, frutilla o frambuesa según temporada.",
+      "en": "Cream, Swiss chocolate, dulce de leche, vanilla, lemon, strawberry or raspberry.",
+      "pt": "Creme, chocolate suíço, doce de leite, baunilha, limão, morango ou framboesa."
+     },
+     "precio": 21500,
+     "tags": [
+      "ALERGENO_2",
+      "ALERGENO_4",
+      "ALERGENO_13"
+     ]
+    },
+    {
+     "id": "franui",
+     "nombre": {
+      "es": "Franui",
+      "en": "Franui",
+      "pt": "Franui"
+     },
+     "descripcion": {
+      "es": "Chocolate con leche / amargo / Pink.",
+      "en": "Milk / dark / Pink chocolate.",
+      "pt": "Chocolate ao leite / meio amargo / Pink."
+     },
+     "precio": 14000,
+     "tags": [
+      "SIN_TACC",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
+     ]
+    },
+    {
+     "id": "franui-free",
+     "nombre": {
+      "es": "Franui Free",
+      "en": "Franui Free",
+      "pt": "Franui Free"
+     },
+     "descripcion": {
+      "es": "Sin azúcar y sin lácteos.",
+      "en": "No sugar, dairy free.",
+      "pt": "Sem açúcar e sem lactose."
+     },
+     "precio": 14000,
+     "tags": [
+      "SIN_TACC",
+      "VEGANO",
+      "ALERGENO_9",
+      "ALERGENO_10",
+      "ALERGENO_12"
+     ]
     }
    ]
   },
   {
-   "id": "cafeteria",
+   "id": "sin-alcohol",
    "nombre": {
-    "es": "Cafetería",
-    "en": "Coffee & tea",
-    "pt": "Cafeteria"
+    "es": "Bebidas sin alcohol",
+    "en": "Soft drinks",
+    "pt": "Bebidas sem álcool"
    },
-   "foto": "lb-cafeteria.jpg",
+   "foto": "sin-alcohol.jpg",
    "nota": {},
    "items": [
     {
-     "id": "dg-cafe",
+     "id": "agua",
      "nombre": {
-      "es": "Café expreso",
-      "en": "Espresso",
-      "pt": "Café expresso"
+      "es": "Agua mineral con gas / sin gas",
+      "en": "Mineral water, sparkling or still",
+      "pt": "Água mineral com ou sem gás"
      },
-     "descripcion": {
-      "es": "Regular o descafeinado.",
-      "en": "Regular or decaf.",
-      "pt": "Comum ou descafeinado."
-     },
+     "descripcion": {},
      "precio": 7000,
      "tags": []
     },
     {
-     "id": "dg-te",
+     "id": "agua-saborizada",
      "nombre": {
-      "es": "Selección de té de hierbas",
-      "en": "Herbal tea selection",
-      "pt": "Seleção de chás de ervas"
+      "es": "Agua mineral saborizada",
+      "en": "Flavoured mineral water",
+      "pt": "Água mineral saborizada"
      },
-     "descripcion": {
-      "es": "Negro; verde; blend lovely chai; blend amelie; blend chocolat; blend patagonia in love.",
-      "en": "Black; green; lovely chai; amelie; chocolat; patagonia in love blends.",
-      "pt": "Preto; verde; blends lovely chai, amelie, chocolat, patagonia in love."
+     "descripcion": {},
+     "precio": 7000,
+     "tags": []
+    },
+    {
+     "id": "gaseosas",
+     "nombre": {
+      "es": "Gaseosa",
+      "en": "Soda",
+      "pt": "Refrigerante"
      },
-     "precio": 6000,
+     "descripcion": {},
+     "precio": 7000,
+     "tags": []
+    },
+    {
+     "id": "jugo",
+     "nombre": {
+      "es": "Jugo exprimido (naranja o pomelo)",
+      "en": "Fresh juice (orange or grapefruit)",
+      "pt": "Suco natural (laranja ou toranja)"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "limonada",
+     "nombre": {
+      "es": "Limonada con menta y jengibre",
+      "en": "Lemonade with mint and ginger",
+      "pt": "Limonada com hortelã e gengibre"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "licuado-leche",
+     "nombre": {
+      "es": "Licuado de frutas con leche o jugo",
+      "en": "Fruit smoothie with milk or juice",
+      "pt": "Vitamina de frutas com leite ou suco"
+     },
+     "descripcion": {},
+     "precio": 14000,
+     "tags": []
+    },
+    {
+     "id": "licuado-agua",
+     "nombre": {
+      "es": "Licuado de frutas con agua",
+      "en": "Fruit smoothie with water",
+      "pt": "Vitamina de frutas com água"
+     },
+     "descripcion": {},
+     "precio": 13000,
+     "tags": []
+    },
+    {
+     "id": "milkshake",
+     "nombre": {
+      "es": "Milk Shake",
+      "en": "Milkshake",
+      "pt": "Milk shake"
+     },
+     "descripcion": {},
+     "precio": 15000,
+     "tags": []
+    },
+    {
+     "id": "gatorade",
+     "nombre": {
+      "es": "Gatorade",
+      "en": "Gatorade",
+      "pt": "Gatorade"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "red-bull",
+     "nombre": {
+      "es": "Red Bull",
+      "en": "Red Bull",
+      "pt": "Red Bull"
+     },
+     "descripcion": {},
+     "precio": 10500,
      "tags": []
     }
    ]
@@ -367,44 +1918,518 @@
     "en": "Soft drinks",
     "pt": "Bebidas sem álcool"
    },
-   "foto": "",
+   "foto": "sin-alcohol.jpg",
    "nota": {},
    "items": [
     {
-     "id": "dg-agua",
+     "id": "agua",
      "nombre": {
       "es": "Agua mineral con gas / sin gas",
       "en": "Mineral water, sparkling or still",
       "pt": "Água mineral com ou sem gás"
      },
      "descripcion": {},
-     "precio": 6500,
+     "precio": 7000,
      "tags": []
     },
     {
-     "id": "lb-agua-saborizada",
+     "id": "agua-saborizada",
      "nombre": {
       "es": "Agua mineral saborizada",
       "en": "Flavoured mineral water",
       "pt": "Água mineral saborizada"
      },
      "descripcion": {},
+     "precio": 7000,
+     "tags": []
+    },
+    {
+     "id": "gaseosas",
+     "nombre": {
+      "es": "Gaseosa",
+      "en": "Soda",
+      "pt": "Refrigerante"
+     },
+     "descripcion": {},
+     "precio": 7000,
+     "tags": []
+    },
+    {
+     "id": "jugo",
+     "nombre": {
+      "es": "Jugo exprimido (naranja o pomelo)",
+      "en": "Fresh juice (orange or grapefruit)",
+      "pt": "Suco natural (laranja ou toranja)"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "limonada",
+     "nombre": {
+      "es": "Limonada con menta y jengibre",
+      "en": "Lemonade with mint and ginger",
+      "pt": "Limonada com hortelã e gengibre"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "licuado-leche",
+     "nombre": {
+      "es": "Licuado de frutas con leche o jugo",
+      "en": "Fruit smoothie with milk or juice",
+      "pt": "Vitamina de frutas com leite ou suco"
+     },
+     "descripcion": {},
+     "precio": 14000,
+     "tags": []
+    },
+    {
+     "id": "licuado-agua",
+     "nombre": {
+      "es": "Licuado de frutas con agua",
+      "en": "Fruit smoothie with water",
+      "pt": "Vitamina de frutas com água"
+     },
+     "descripcion": {},
+     "precio": 13000,
+     "tags": []
+    },
+    {
+     "id": "milkshake",
+     "nombre": {
+      "es": "Milk Shake",
+      "en": "Milkshake",
+      "pt": "Milk shake"
+     },
+     "descripcion": {},
+     "precio": 15000,
+     "tags": []
+    },
+    {
+     "id": "gatorade",
+     "nombre": {
+      "es": "Gatorade",
+      "en": "Gatorade",
+      "pt": "Gatorade"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "red-bull",
+     "nombre": {
+      "es": "Red Bull",
+      "en": "Red Bull",
+      "pt": "Red Bull"
+     },
+     "descripcion": {},
+     "precio": 10500,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "nombre": {
+    "es": "Cafetería",
+    "en": "Coffee & tea",
+    "pt": "Cafeteria"
+   },
+   "foto": "cafeteria.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "cafe",
+     "nombre": {
+      "es": "Café espresso",
+      "en": "Espresso",
+      "pt": "Café espresso"
+     },
+     "descripcion": {
+      "es": "Regular o descafeinado.",
+      "en": "Regular or decaf.",
+      "pt": "Comum ou descafeinado."
+     },
+     "precio": 7600,
+     "tags": []
+    },
+    {
+     "id": "cafe-doble",
+     "nombre": {
+      "es": "Café espresso doble / con leche",
+      "en": "Double espresso / with milk",
+      "pt": "Café espresso duplo / com leite"
+     },
+     "descripcion": {},
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "cappuccino",
+     "nombre": {
+      "es": "Cappuccino",
+      "en": "Cappuccino",
+      "pt": "Cappuccino"
+     },
+     "descripcion": {
+      "es": "Con canela, crema y chocolate.",
+      "en": "With cinnamon, cream and chocolate.",
+      "pt": "Com canela, chantilly e chocolate."
+     },
+     "precio": 12000,
+     "tags": []
+    },
+    {
+     "id": "te-hierbas",
+     "nombre": {
+      "es": "Selección de té de hierbas",
+      "en": "Herbal tea selection",
+      "pt": "Seleção de chás de ervas"
+     },
+     "descripcion": {},
      "precio": 6500,
      "tags": []
     },
     {
-     "id": "lb-gaseosas",
+     "id": "te-twinings",
      "nombre": {
-      "es": "Gaseosa",
-      "en": "Soft drink",
-      "pt": "Refrigerante"
+      "es": "Selección de té Twinings",
+      "en": "Twinings tea selection",
+      "pt": "Seleção de chás Twinings"
+     },
+     "descripcion": {},
+     "precio": 8200,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cervezas",
+   "nombre": {
+    "es": "Cervezas",
+    "en": "Beers",
+    "pt": "Cervejas"
+   },
+   "foto": "cervezas.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "cerveza-ipa",
+     "nombre": {
+      "es": "Patagonia Vera IPA",
+      "en": "Patagonia Vera IPA",
+      "pt": "Patagonia Vera IPA"
      },
      "descripcion": {
-      "es": "Pepsi / 7Up / Paso de los Toros",
-      "en": "Pepsi / 7Up / Paso de los Toros",
-      "pt": "Pepsi / 7Up / Paso de los Toros"
+      "es": "410 cc",
+      "en": "410 cc",
+      "pt": "410 cc"
      },
-     "precio": 6500,
+     "precio": 11900,
+     "tags": []
+    },
+    {
+     "id": "cerveza-247",
+     "nombre": {
+      "es": "Patagonia 24.7",
+      "en": "Patagonia 24.7",
+      "pt": "Patagonia 24.7"
+     },
+     "descripcion": {
+      "es": "410 cc",
+      "en": "410 cc",
+      "pt": "410 cc"
+     },
+     "precio": 11900,
+     "tags": []
+    },
+    {
+     "id": "cerveza-amber",
+     "nombre": {
+      "es": "Patagonia Amber Lager",
+      "en": "Patagonia Amber Lager",
+      "pt": "Patagonia Amber Lager"
+     },
+     "descripcion": {
+      "es": "410 cc",
+      "en": "410 cc",
+      "pt": "410 cc"
+     },
+     "precio": 11900,
+     "tags": []
+    },
+    {
+     "id": "cerveza-stella",
+     "nombre": {
+      "es": "Stella Artois",
+      "en": "Stella Artois",
+      "pt": "Stella Artois"
+     },
+     "descripcion": {
+      "es": "473 cc",
+      "en": "473 cc",
+      "pt": "473 cc"
+     },
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "cerveza-heineken",
+     "nombre": {
+      "es": "Heineken",
+      "en": "Heineken",
+      "pt": "Heineken"
+     },
+     "descripcion": {
+      "es": "473 cc",
+      "en": "473 cc",
+      "pt": "473 cc"
+     },
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "cerveza-heineken-cero",
+     "nombre": {
+      "es": "Heineken 0.0",
+      "en": "Heineken 0.0",
+      "pt": "Heineken 0.0"
+     },
+     "descripcion": {
+      "es": "473 cc",
+      "en": "473 cc",
+      "pt": "473 cc"
+     },
+     "precio": 10500,
+     "tags": []
+    },
+    {
+     "id": "cerveza-quilmes",
+     "nombre": {
+      "es": "Quilmes Stout",
+      "en": "Quilmes Stout",
+      "pt": "Quilmes Stout"
+     },
+     "descripcion": {
+      "es": "473 cc",
+      "en": "473 cc",
+      "pt": "473 cc"
+     },
+     "precio": 10000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cocktails",
+   "nombre": {
+    "es": "Cocktails clásicos",
+    "en": "Classic cocktails",
+    "pt": "Coquetéis clássicos"
+   },
+   "foto": "cocktails.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "ckt-aperol",
+     "nombre": {
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
+     },
+     "descripcion": {
+      "es": "Aperol, espumoso extra brut y agua con gas.",
+      "en": "Aperol, extra brut sparkling wine and soda water.",
+      "pt": "Aperol, espumante extra brut e água com gás."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-bloody-mary",
+     "nombre": {
+      "es": "Bloody Mary",
+      "en": "Bloody Mary",
+      "pt": "Bloody Mary"
+     },
+     "descripcion": {
+      "es": "Vodka Absolut, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Absolut vodka, lemon juice, tomato juice, salt, pepper, Tabasco and Worcestershire sauce.",
+      "pt": "Vodka Absolut, suco de limão, suco de tomate, sal, pimenta, Tabasco e molho inglês."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirinha",
+     "nombre": {
+      "es": "Caipirinha",
+      "en": "Caipirinha",
+      "pt": "Caipirinha"
+     },
+     "descripcion": {
+      "es": "Cachaça Velho Barreiro y limas maceradas.",
+      "en": "Velho Barreiro cachaça and muddled limes.",
+      "pt": "Cachaça Velho Barreiro e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirovska",
+     "nombre": {
+      "es": "Caipirovska",
+      "en": "Caipirovska",
+      "pt": "Caipirovska"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff y limas maceradas.",
+      "en": "Smirnoff vodka and muddled limes.",
+      "pt": "Vodka Smirnoff e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirovska-frutosrojos",
+     "nombre": {
+      "es": "Caipirovska de frutos rojos",
+      "en": "Caipirovska with Red Berries",
+      "pt": "Caipirovska de frutas vermelhas"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff, frutos rojos y limas maceradas.",
+      "en": "Smirnoff vodka, red berries and muddled limes.",
+      "pt": "Vodka Smirnoff, frutas vermelhas e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirovska-maracuya",
+     "nombre": {
+      "es": "Caipirovska de maracuyá",
+      "en": "Passion fruit caipirovska",
+      "pt": "Caipirovska de maracujá"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff, maracuyá macerado y limas maceradas.",
+      "en": "Smirnoff vodka, muddled passion fruit and muddled limes.",
+      "pt": "Vodka Smirnoff, maracujá macerado e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-campari-orange",
+     "nombre": {
+      "es": "Campari Orange",
+      "en": "Campari Orange",
+      "pt": "Campari Orange"
+     },
+     "descripcion": {
+      "es": "Campari y jugo de naranja.",
+      "en": "Campari and orange juice.",
+      "pt": "Campari e suco de laranja."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi Oro, cola y limón.",
+      "en": "Bacardi Oro rum, cola and lime.",
+      "pt": "Rum Bacardi Oro, cola e limão."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-daikiri",
+     "nombre": {
+      "es": "Daikiri Frutal",
+      "en": "Daikiri Frutal",
+      "pt": "Daiquiri de frutas"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi, jugo de limón, azúcar y fruta natural.",
+      "en": "Bacardi rum, lemon juice, sugar and fresh fruit.",
+      "pt": "Rum Bacardi, suco de limão, açúcar e frutas frescas."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-fernet-cola",
+     "nombre": {
+      "es": "Fernet Cola",
+      "en": "Fernet Cola",
+      "pt": "Fernet com Cola"
+     },
+     "descripcion": {
+      "es": "Fernet Branca y cola.",
+      "en": "Fernet Branca and cola.",
+      "pt": "Fernet Branca e cola."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-gancia-batido",
+     "nombre": {
+      "es": "Gancia Batido",
+      "en": "Gancia Batido",
+      "pt": "Gancia Batido"
+     },
+     "descripcion": {
+      "es": "Americano Gancia, azúcar y jugo de limón.",
+      "en": "Gancia Americano, sugar and lemon juice.",
+      "pt": "Americano Gancia, açúcar e suco de limão."
+     },
+     "precio": 28000,
+     "tags": [
+      "SIN_TACC"
+     ]
+    },
+    {
+     "id": "ckt-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin & tonic",
+      "pt": "Gin Tônica"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, agua tónica y limón.",
+      "en": "Bombay gin, tonic water and lemon.",
+      "pt": "Gin Bombay, água tônica e limão."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, agua con gas y jugo de limón.",
+      "en": "Bombay gin, soda water and lemon juice.",
+      "pt": "Gin Bombay, água com gás e suco de limão."
+     },
+     "precio": 28000,
      "tags": []
     }
    ]
