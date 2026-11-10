@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-11-10T18:00:39.685Z",
+  "actualizado": "2026-11-10T18:04:19.854Z",
   "ver_tambien": "",
   "descripcion": {},
   "pie": {
@@ -1350,6 +1350,215 @@
       "pt": "473 cc"
      },
      "precio": 10000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "cocktails",
+   "nombre": {
+    "es": "Cocktails clásicos",
+    "en": "Classic cocktails",
+    "pt": "Coquetéis clássicos"
+   },
+   "foto": "cocktails.jpg",
+   "nota": {},
+   "items": [
+    {
+     "id": "ckt-aperol",
+     "nombre": {
+      "es": "Aperol Spritz",
+      "en": "Aperol Spritz",
+      "pt": "Aperol Spritz"
+     },
+     "descripcion": {
+      "es": "Aperol, espumoso extra brut y agua con gas.",
+      "en": "Aperol, extra brut sparkling wine and soda water.",
+      "pt": "Aperol, espumante extra brut e água com gás."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-bloody-mary",
+     "nombre": {
+      "es": "Bloody Mary",
+      "en": "Bloody Mary",
+      "pt": "Bloody Mary"
+     },
+     "descripcion": {
+      "es": "Vodka Absolut, jugo de limón, jugo de tomate, sal, pimienta, tabasco y salsa inglesa.",
+      "en": "Absolut vodka, lemon juice, tomato juice, salt, pepper, Tabasco and Worcestershire sauce.",
+      "pt": "Vodka Absolut, suco de limão, suco de tomate, sal, pimenta, Tabasco e molho inglês."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirinha",
+     "nombre": {
+      "es": "Caipirinha",
+      "en": "Caipirinha",
+      "pt": "Caipirinha"
+     },
+     "descripcion": {
+      "es": "Cachaça Velho Barreiro y limas maceradas.",
+      "en": "Velho Barreiro cachaça and muddled limes.",
+      "pt": "Cachaça Velho Barreiro e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirovska",
+     "nombre": {
+      "es": "Caipirovska",
+      "en": "Caipirovska",
+      "pt": "Caipirovska"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff y limas maceradas.",
+      "en": "Smirnoff vodka and muddled limes.",
+      "pt": "Vodka Smirnoff e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirovska-frutosrojos",
+     "nombre": {
+      "es": "Caipirovska de frutos rojos",
+      "en": "Caipirovska with Red Berries",
+      "pt": "Caipirovska de frutas vermelhas"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff, frutos rojos y limas maceradas.",
+      "en": "Smirnoff vodka, red berries and muddled limes.",
+      "pt": "Vodka Smirnoff, frutas vermelhas e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-caipirovska-maracuya",
+     "nombre": {
+      "es": "Caipirovska de maracuyá",
+      "en": "Passion fruit caipirovska",
+      "pt": "Caipirovska de maracujá"
+     },
+     "descripcion": {
+      "es": "Vodka Smirnoff, maracuyá macerado y limas maceradas.",
+      "en": "Smirnoff vodka, muddled passion fruit and muddled limes.",
+      "pt": "Vodka Smirnoff, maracujá macerado e limões macerados."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-campari-orange",
+     "nombre": {
+      "es": "Campari Orange",
+      "en": "Campari Orange",
+      "pt": "Campari Orange"
+     },
+     "descripcion": {
+      "es": "Campari y jugo de naranja.",
+      "en": "Campari and orange juice.",
+      "pt": "Campari e suco de laranja."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-cuba-libre",
+     "nombre": {
+      "es": "Cuba Libre",
+      "en": "Cuba Libre",
+      "pt": "Cuba Libre"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi Oro, cola y limón.",
+      "en": "Bacardi Oro rum, cola and lime.",
+      "pt": "Rum Bacardi Oro, cola e limão."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-daikiri",
+     "nombre": {
+      "es": "Daikiri Frutal",
+      "en": "Daikiri Frutal",
+      "pt": "Daiquiri de frutas"
+     },
+     "descripcion": {
+      "es": "Ron Bacardi, jugo de limón, azúcar y fruta natural.",
+      "en": "Bacardi rum, lemon juice, sugar and fresh fruit.",
+      "pt": "Rum Bacardi, suco de limão, açúcar e frutas frescas."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-fernet-cola",
+     "nombre": {
+      "es": "Fernet Cola",
+      "en": "Fernet Cola",
+      "pt": "Fernet com Cola"
+     },
+     "descripcion": {
+      "es": "Fernet Branca y cola.",
+      "en": "Fernet Branca and cola.",
+      "pt": "Fernet Branca e cola."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-gancia-batido",
+     "nombre": {
+      "es": "Gancia Batido",
+      "en": "Gancia Batido",
+      "pt": "Gancia Batido"
+     },
+     "descripcion": {
+      "es": "Americano Gancia, azúcar y jugo de limón.",
+      "en": "Gancia Americano, sugar and lemon juice.",
+      "pt": "Americano Gancia, açúcar e suco de limão."
+     },
+     "precio": 28000,
+     "tags": [
+      "SIN_TACC"
+     ]
+    },
+    {
+     "id": "ckt-gin-tonic",
+     "nombre": {
+      "es": "Gin Tonic",
+      "en": "Gin & tonic",
+      "pt": "Gin Tônica"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, agua tónica y limón.",
+      "en": "Bombay gin, tonic water and lemon.",
+      "pt": "Gin Bombay, água tônica e limão."
+     },
+     "precio": 28000,
+     "tags": []
+    },
+    {
+     "id": "ckt-tom-collins",
+     "nombre": {
+      "es": "Tom Collins",
+      "en": "Tom Collins",
+      "pt": "Tom Collins"
+     },
+     "descripcion": {
+      "es": "Gin Bombay, agua con gas y jugo de limón.",
+      "en": "Bombay gin, soda water and lemon juice.",
+      "pt": "Gin Bombay, água com gás e suco de limão."
+     },
+     "precio": 28000,
      "tags": []
     }
    ]
