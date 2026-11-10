@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T18:01:13.450Z",
+ "actualizado": "2026-11-10T18:04:51.366Z",
  "cartas": [
   {
    "id": "don-giovanni",
@@ -55,7 +55,7 @@
    "tema": "pool",
    "logo": "pool-snack.svg",
    "orden": 8,
-   "items": 65
+   "items": 78
   }
  ]
 }
